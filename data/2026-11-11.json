@@ -1049,7 +1049,7 @@
   ]
  ],
  "ia": {
-  "toc": "Fable 5.2 arrive dans Claude Code, Google lance les essaims d'agents, et ton premier skill à créer ce soir.",
+  "toc": "Fable 5.2 arrive dans Claude Code, trois compétences à ajouter à Claude, et ton radar à dépôts IA en un prompt.",
   "intro": "Chaque jour, ce qui bouge dans l'IA et ce que tu peux en faire avec ton abonnement Claude : les modèles, les outils, les projets de la communauté, et une expérience à tenter.",
   "signalTitle": "Des modèles plus forts, des agents en équipe",
   "signal": [
@@ -1310,7 +1310,134 @@
     "Pages GitHub des dépôts",
     "web, 11 nov.",
     "Descriptions et commandes d'installation"
+   ],
+   [
+    "Remotion",
+    "web, 11 nov.",
+    "Skills officiels pour la vidéo"
+   ],
+   [
+    "ElevenLabs (GitHub)",
+    "web, 11 nov.",
+    "Serveur MCP, version hébergée"
+   ],
+   [
+    "AI IDE List",
+    "web",
+    "Universal Modder : installation et limites"
+   ],
+   [
+    "Instagram, @0xloucash",
+    "oct. à nov. 2026",
+    "Sujets des reels et inspiration des rubriques"
    ]
-  ]
+  ],
+  "augmente": [
+   {
+    "gap": "Faire des vidéos animées",
+    "tool": "remotion-dev/skills",
+    "url": "https://github.com/remotion-dev/skills",
+    "meta": "6,9 k étoiles · skills officiels",
+    "d": "Remotion fabrique des vidéos avec du code. Ses skills officiels apprennent à Claude à créer un projet, animer texte et images, ajouter des sous-titres, prévisualiser puis exporter la vidéo.",
+    "why": "C'est l'angle des vidéos « motion design en 10 minutes » qu'on voit passer : la compétence ne vient pas du modèle, mais d'un skill qu'on lui installe.",
+    "cmd": "npx skills add remotion-dev/skills",
+    "cmdLabel": "Terminal"
+   },
+   {
+    "gap": "Parler, composer, écouter",
+    "tool": "ElevenLabs MCP",
+    "url": "https://github.com/elevenlabs/elevenlabs-mcp",
+    "meta": "version hébergée · 10 000 crédits gratuits par mois",
+    "d": "Claude n'a ni voix ni oreilles. Branché sur ElevenLabs, il génère des voix, de la musique et transcrit de l'audio : c'est ce qui a produit la voix de la vidéo d'OFFSET. L'ancien serveur local est archivé ; ElevenLabs recommande sa version hébergée, connectée par ton compte.",
+    "cmd": "claude mcp add --transport http elevenlabs https://api.elevenlabs.io/v1/mcp",
+    "cmdLabel": "Terminal"
+   },
+   {
+    "gap": "Modifier un jeu vidéo",
+    "tool": "rehan-remade/universal-modder",
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "meta": "open source, MIT · version 0.2",
+    "d": "Un plugin qui donne à Claude des skills, des outils et 38 fiches de jeux pour créer puis tester des mods (Terraria, Age of Empires II…). La démo la plus partagée a recréé un mode zombies dans GTA V.",
+    "why": "Uniquement en solo, sur des jeux que tu possèdes : l'outil s'arrête net face à un anti-triche. Demande Python et ffmpeg, plutôt sous Windows.",
+    "cmd": "/plugin marketplace add rehan-remade/universal-modder\n/plugin install universal-modder@universal-modder",
+    "cmdLabel": "Dans Claude Code"
+   }
+  ],
+  "build": {
+   "k": "Inspiré du « Radar » de Loucash",
+   "title": "Ton radar à dépôts IA",
+   "d": "Loucash s'est construit un radar qui repère chaque matin les sujets IA qui montent. En voici une version simple et gratuite, que Claude Code écrit pour toi en un seul prompt : une page qui interroge l'API publique de GitHub et liste les nouveaux dépôts qui décollent.",
+   "prompt": "Crée un fichier radar.html autonome (HTML, CSS et JavaScript, sans dépendance). Au chargement, il interroge l'API publique de recherche GitHub (https://api.github.com/search/repositories) pour trouver les dépôts créés ces 14 derniers jours avec le sujet « claude-code », triés par nombre d'étoiles. Affiche les 15 premiers : nom, description, étoiles, langage et lien. Ajoute un sélecteur de sujet (claude-code, mcp, ai-agents, llm) et un style sobre en noir et blanc. Gère proprement l'erreur quand la limite de requêtes est atteinte. Ensuite, ouvre le fichier dans mon navigateur.",
+   "note": "Sans compte, l'API de recherche GitHub accepte une dizaine de requêtes par minute : largement assez pour un radar personnel. Prochaine étape possible : demander à Claude d'en faire une tâche planifiée qui t'envoie le résultat chaque matin."
+  },
+  "garde": [
+   {
+    "k": "Secrets",
+    "t": "Tes clés ne quittent pas ton Mac",
+    "d": "Une clé d'API se range dans un fichier .env, listé dans .gitignore, jamais dans le code. Chez Railway, des identifiants volés ont coûté environ 740 000 $ de dépenses d'IA frauduleuses."
+   },
+   {
+    "k": "Sécurité",
+    "t": "Fais relire le code avant de publier",
+    "d": "Dans Claude Code, cette commande passe en revue tes changements en cours à la recherche de failles : données exposées, injections, accès mal protégés.",
+    "cmd": "/security-review",
+    "cmdLabel": "Dans Claude Code"
+   },
+   {
+    "k": "Droit français",
+    "t": "Mentions légales et cookies",
+    "d": "Un site publié en France doit indiquer qui l'édite et qui l'héberge. S'il dépose des cookies de publicité ou de mesure d'audience non exemptés, il faut le consentement du visiteur (règles de la CNIL)."
+   },
+   {
+    "k": "Comprendre",
+    "t": "Sache ce que tu publies",
+    "d": "Avant de mettre en ligne une app écrite par l'IA, fais-toi expliquer sa structure : c'est l'idée des outils de « carte d'application » qu'on voit passer.",
+    "cmd": "Explique-moi ce projet comme à un débutant : à quoi sert chaque fichier, comment ils sont reliés, et ce qui risque de casser si je modifie chacun d'eux.",
+    "cmdLabel": "Prompt à coller dans Claude Code"
+   }
+  ],
+  "createurs": {
+   "intro": "Ce que publient les créateurs IA qu'on suit. Les rubriques du Labo en reprennent les idées, après vérification ; les partenariats commerciaux sont signalés.",
+   "items": [
+    {
+     "who": "Loucash",
+     "date": "10 nov.",
+     "t": "Trois dépôts GitHub pour donner des effets sonores à tes agents Claude",
+     "url": "https://www.instagram.com/p/DfkawApIS_-/"
+    },
+    {
+     "who": "Loucash",
+     "date": "3 nov.",
+     "t": "Un outil qui dessine la carte d'une app codée avec l'IA",
+     "n": "Chaque morceau expliqué simplement, avec ce qui casse si tu y touches.",
+     "url": "https://www.instagram.com/p/DfSUvy5o8fH/"
+    },
+    {
+     "who": "Loucash",
+     "date": "28 oct.",
+     "t": "Son radar à idées de vidéos, construit avec Codex",
+     "n": "Partenariat commercial avec OpenAI.",
+     "url": "https://www.instagram.com/p/DfDGmcOIc4K/"
+    },
+    {
+     "who": "Loucash",
+     "date": "26 oct.",
+     "t": "Un skill qui apprend le motion design à Claude",
+     "url": "https://www.instagram.com/p/De96Ut9INfd/"
+    },
+    {
+     "who": "Loucash",
+     "date": "13 oct.",
+     "t": "Universal Modder : des mods de jeux vidéo créés par l'IA",
+     "url": "https://www.instagram.com/p/DecUnYWo5Ei/"
+    },
+    {
+     "who": "Loucash",
+     "date": "19 sept.",
+     "t": "La checklist pour mettre en règle un site codé avec l'IA",
+     "url": "https://www.instagram.com/p/DdeUqM6oXri/"
+    }
+   ]
+  }
  }
 }
