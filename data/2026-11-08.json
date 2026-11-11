@@ -1,0 +1,803 @@
+{
+  "date": "2026-11-08",
+  "label": "Dimanche 8 novembre 2026",
+  "period": "7 au 8 novembre",
+  "sourcesCount": 1,
+  "countLabel": "1 newsletter + 9 sources web",
+  "hero": {
+    "img": "img/2026-11-08/trump.jpg",
+    "alt": "Donald Trump monte les marches d'un aéroport, Air Force One en arrière-plan",
+    "credit": "FT, via myFT Daily Digest",
+    "eyebrow": "À la une",
+    "title": "Après la défaite, l'Amérique en retrait ?",
+    "lede": "Battu aux midterms du 3 novembre, Donald Trump perd le Congrès. Pour le FT, ce revers annonce un repli américain qui pourrait rebattre les cartes au Moyen-Orient et ouvrir des opportunités à la Chine. Trump garde pourtant la main sur la politique étrangère."
+  },
+  "brief": [
+    [
+      "Géopolitique",
+      "Le FT voit dans la défaite de Trump le signe d'un repli américain. Reuters nuance : le président garde son veto et l'essentiel des leviers diplomatiques."
+    ],
+    [
+      "Technologie",
+      "Selon des services américains, Jensen Huang, patron de Nvidia, aurait eu une relation avec une femme soupçonnée d'espionner pour la Chine. Nvidia dément, le Congrès veut l'entendre."
+    ],
+    [
+      "Opinion",
+      "Les Américains se méfient de l'IA, les Asiatiques l'adorent. Aux midterms, 40 des 41 référendums locaux sur les data centers les ont rejetés ou limités."
+    ],
+    [
+      "Emploi américain",
+      "+165 000 emplois en octobre, chômage à 4,1 %. Mais le chômage de longue durée grimpe et les marchés misent sur une hausse des taux de la Fed en décembre."
+    ],
+    [
+      "Royaume-Uni",
+      "Londres ne ralentira pas sur l'IA malgré le rejet américain : pour le ministre Dan Tomlinson, l'investissement est même « trop faible »."
+    ]
+  ],
+  "figures": [
+    {
+      "v": "+165 000",
+      "l": "emplois créés aux États-Unis en octobre, contre 59 000 attendus",
+      "dir": "up"
+    },
+    {
+      "v": "40 sur 41",
+      "l": "référendums locaux qui ont rejeté ou limité les data centers",
+      "dir": "down"
+    },
+    {
+      "v": "−8,7 %",
+      "l": "Brent au lendemain des midterms, à 94,62 $ le baril",
+      "dir": "down"
+    },
+    {
+      "v": "76,8 %",
+      "l": "probabilité d'une hausse des taux de la Fed les 8 et 9 décembre",
+      "dir": "up"
+    }
+  ],
+  "themes": [
+    {
+      "title": "L'Amérique après le vote",
+      "stories": [
+        {
+          "eyebrow": "Géopolitique",
+          "title": "Le revers de Trump annonce-t-il un repli américain ?",
+          "text": [
+            "Pour le FT, la défaite républicaine du 3 novembre signale une Amérique qui se retire. Ce repli pourrait changer l'équilibre des forces au Moyen-Orient et ouvrir des opportunités à la Chine. Trump a lui-même reconnu que la guerre contre l'Iran, qui a fait flamber le pétrole et le coût de la vie, avait pesé dans la défaite."
+          ],
+          "why": "Reuters tempère : le Congrès peut enquêter, bloquer des nominations et peser sur les budgets militaires, mais le président garde son veto et l'essentiel de la diplomatie.",
+          "rep": 2,
+          "sources": [
+            "myFT",
+            "Reuters (web)"
+          ],
+          "more": [
+            "<b>Ce que peut le Congrès.</b> Avec le Sénat, les démocrates peuvent bloquer les nominations aux postes de sécurité nationale et ouvrir des enquêtes sur la façon dont les décisions sont prises. Ils comptent relancer l'aide à l'Ukraine et surveiller de près l'Iran, le Yémen et le processus de paix au Proche-Orient.",
+            "<b>Ce qu'il ne peut pas.</b> Forcer le président à changer de cap. Un texte voté peut être bloqué par veto, et il faut deux tiers des voix pour le surmonter.",
+            "<b>La Chine.</b> L'un des rares sujets d'accord entre les deux partis, qui voient Pékin comme un rival stratégique. Les analystes s'attendent à ce que la diplomatie des sommets avec Xi Jinping continue.",
+            "<b>Le risque.</b> Selon un analyste de Johns Hopkins cité par Reuters, un président affaibli et « acculé » pourrait au contraire utiliser seul la force à l'étranger."
+          ],
+          "prog": "Puissance et hégémonie, théorie de la stabilité hégémonique, relations internationales"
+        },
+        {
+          "img": "img/2026-11-08/emploi.jpg",
+          "alt": "Un candidat salue un recruteur sur un salon de l'emploi",
+          "credit": "Getty Images, via CNBC",
+          "eyebrow": "Marché du travail",
+          "title": "Un emploi solide, mais des chômeurs qui restent sur le carreau",
+          "text": [
+            "L'économie américaine a créé 165 000 emplois en octobre, presque trois fois plus que prévu. Le chômage baisse à 4,1 % et les salaires progressent de +3,1 % sur un an. Mais la durée moyenne du chômage grimpe à 27,1 semaines et 1,96 million de personnes cherchent depuis plus de six mois, un record depuis décembre 2021."
+          ],
+          "why": "Un emploi solide et une inflation au-dessus de 2 % poussent la Fed à resserrer : les marchés donnent 76,8 % de chances à une hausse de taux en décembre.",
+          "rep": 1,
+          "sources": [
+            "CNBC (web)"
+          ],
+          "more": [
+            "<b>Qui embauche.</b> Services aux entreprises (+70 000), santé (+42 000), transport et entreposage (+25 000), industrie (+19 000).",
+            "<b>Révisions.</b> Août et septembre sont revus en hausse, de 53 000 et 31 000 emplois.",
+            "<b>Le paradoxe.</b> Le taux de chômage baisse pendant que le chômage de longue durée monte : c'est le signe d'un marché à deux vitesses, où ceux qui perdent leur emploi ont plus de mal à en retrouver. Le taux U-6, plus large, monte à 7,9 %."
+          ],
+          "prog": "Chômage et ses mesures, courbe de Phillips, politique monétaire"
+        }
+      ]
+    },
+    {
+      "title": "Le procès de l'IA",
+      "stories": [
+        {
+          "img": "img/2026-11-08/ia.jpg",
+          "alt": "Collage : carte du monde, circuits imprimés et silhouettes",
+          "credit": "FT, via myFT Daily Digest",
+          "eyebrow": "Opinion publique",
+          "title": "Pourquoi l'Amérique déteste l'IA",
+          "text": [
+            "Le FT le constate : l'hostilité des électeurs envers la Big Tech a pesé sur les midterms, et cette méfiance gagne tout l'Occident. En Asie, au contraire, l'IA suscite un optimisme spectaculaire. Selon l'indice IA de Stanford (données Ipsos), 83 % des Chinois sont optimistes. Aux États-Unis, 39 % des sondés pensent que l'IA fait plus de mal que de bien (Gallup, juillet 2026)."
+          ],
+          "why": "La peur de perdre son emploi est la première raison citée. Cela compte : une technologie rejetée par les électeurs est plus vite encadrée, ce qui ralentit sa diffusion.",
+          "rep": 2,
+          "sources": [
+            "myFT",
+            "Stanford, Gallup (web)"
+          ],
+          "more": [
+            "<b>La confiance dans les régulateurs.</b> Dans l'enquête de Pew sur 12 pays, la Chine obtient la meilleure confiance médiane pour encadrer l'IA (43 %), devant les États-Unis (35 %) et l'UE (34 %).",
+            "<b>Le fossé partisan.</b> Aux États-Unis, 54 % des républicains font confiance aux institutions pour réguler l'IA, contre 36 % des démocrates (Pew, mars 2026).",
+            "<b>Lecture de prépa.</b> L'acceptation du progrès technique dépend de la répartition de ses gains. Quand les coûts (emplois, factures d'électricité) sont concentrés et visibles, la résistance grandit."
+          ],
+          "prog": "Progrès technique, destruction créatrice, emploi"
+        },
+        {
+          "img": "img/2026-11-08/nodc.jpg",
+          "alt": "Panneau « No Data Center, save the farmland » dans un champ",
+          "credit": "Reuters, via Al Jazeera",
+          "eyebrow": "Énergie et territoire",
+          "title": "Les data centers rejetés dans les urnes",
+          "text": [
+            "Le « graphique de la semaine » du FT résume le choc : « Capex, meet the electorate ». Selon Al Jazeera, 41 référendums locaux portaient sur les data centers le 3 novembre. Les électeurs les ont rejetés ou limités dans tous les cas sauf un, à Harwood, dans le Dakota du Nord, un village de moins de 800 habitants. L'Ohio en comptait à lui seul 21."
+          ],
+          "why": "D'après un sondage de sortie des urnes de NBC, 56 % des électeurs ont jugé l'IA et les data centers déterminants pour leur vote au Congrès.",
+          "rep": 3,
+          "sources": [
+            "myFT",
+            "Al Jazeera (web)",
+            "TIME (web)"
+          ],
+          "more": [
+            "<b>L'électricité.</b> Un document de travail de la Fed de Dallas estime que les data centers ont fait monter les prix de gros de l'électricité de 6,9 %. Les causes de la hausse des factures restent débattues.",
+            "<b>Un rejet transpartisan.</b> En septembre, 70 % des démocrates et 57 % des républicains voulaient limiter la construction de nouveaux data centers.",
+            "<b>L'eau.</b> Au Texas, le nouveau gouverneur Gina Hinojosa avait fait campagne pour un moratoire. À Corpus Christi, le réservoir est tombé à 8 % de sa capacité.",
+            "<b>En Bourse.</b> Nvidia finit la semaine en baisse de 6,8 % et CoreWeave de 16 %."
+          ],
+          "prog": "Externalités, biens communs, économie de l'environnement"
+        },
+        {
+          "eyebrow": "Royaume-Uni",
+          "title": "Londres ne lèvera pas le pied",
+          "text": [
+            "Malgré le rejet américain, le Royaume-Uni ne ralentira pas sur l'IA, assure le ministre chargé de la croissance, Dan Tomlinson. Selon lui, le rythme d'investissement est même « trop faible » pour rester à la pointe."
+          ],
+          "why": "Pari classique d'un pays en retard d'investissement : miser sur une technologie d'avenir pour relancer une productivité qui stagne.",
+          "rep": 1,
+          "sources": [
+            "myFT"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Puces, espions et puissance",
+      "stories": [
+        {
+          "img": "img/2026-11-08/huang.jpg",
+          "alt": "Jensen Huang serre la main de Donald Trump devant la Maison-Blanche",
+          "credit": "FT, via myFT Daily Digest",
+          "eyebrow": "États-Unis – Chine",
+          "title": "Le patron de Nvidia rattrapé par une affaire d'espionnage",
+          "text": [
+            "D'après le FT, une note des services américains rédigée cette année décrit une relation amoureuse entre Jensen Huang et Alice Huang, cadre de Megaspeed, une entreprise de Singapour cliente de Nvidia. Washington la soupçonne d'être une source du renseignement chinois. Le New York Times avait déjà révélé que les services la considéraient comme un « atout » de Pékin."
+          ],
+          "why": "Huang a fait pression cette année pour que Trump autorise l'exportation des puces H200 vers la Chine. L'affaire fragilise sa position dans le débat sur les contrôles à l'exportation.",
+          "rep": 3,
+          "sources": [
+            "myFT",
+            "Axios (web)",
+            "Bloomberg (web)"
+          ],
+          "more": [
+            "<b>Les démentis.</b> Nvidia parle d'un simple contact d'affaires et assure qu'aucune information sensible n'a été partagée. Pékin dément aussi. Aucun média n'accuse Jensen Huang d'avoir commis une faute.",
+            "<b>Le Congrès.</b> Des présidents de commission républicains demandent à Huang de venir s'expliquer sur cette relation et sur les contrôles internes de Nvidia (Axios).",
+            "<b>La Maison-Blanche.</b> Selon le NYT, Trump avait été informé il y a environ un an et n'avait rien fait."
+          ],
+          "prog": "Rivalité sino-américaine, guerre technologique, protectionnisme"
+        },
+        {
+          "eyebrow": "Marchés",
+          "title": "Mercredi, Wall Street saluait un Congrès divisé",
+          "text": [
+            "Au lendemain du vote, le Dow Jones a gagné +3 % et le S&P 500 +1,6 %, sa meilleure séance en trois mois. Le Brent a chuté de 8,7 % sur l'espoir d'un recul américain en Iran. Le rendement à 10 ans est passé de 4,95 % à 4,88 %."
+          ],
+          "why": "Les gagnants et les perdants dessinent les attentes envers les démocrates : défense (Lockheed −6,9 %) et pétroliers (Exxon −4,6 %) en baisse, solaire (First Solar +4,6 %) et santé (HCA +10,3 %) en hausse.",
+          "rep": 1,
+          "sources": [
+            "AP, via CommBank (web)"
+          ]
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    [
+      "Trump Media dévisse",
+      "−24,5 % au lendemain du vote : les investisseurs craignent des enquêtes du nouveau Congrès sur les entreprises liées au président."
+    ],
+    [
+      "Les entreprises d'Elon Musk sous pression",
+      "Tesla (−3,3 %) et SpaceX (−3,8 %) reculent mercredi pour les mêmes raisons."
+    ],
+    [
+      "Le Speaker passe la main",
+      "Mike Johnson ne se présentera pas comme chef de la minorité républicaine à la Chambre (CBS)."
+    ],
+    [
+      "Les places européennes suivent",
+      "Paris (+2 %), Londres (+1,8 %) et Shanghai (+2,2 %) montent mercredi. Tokyo recule de 1,4 %."
+    ],
+    [
+      "Les super PAC pro-IA ont perdu leur pari",
+      "Selon TIME, les millions dépensés par l'industrie de l'IA n'ont pas pesé sur les résultats."
+    ]
+  ],
+  "good": "Plus d'Américains reviennent sur le marché du travail : la population active a augmenté de 421 000 personnes en octobre et le taux de participation remonte à 61,9 %. Les révisions d'août et de septembre ajoutent 84 000 emplois aux estimations précédentes (CNBC).",
+  "map": {
+    "start": "m",
+    "nodes": [
+      {
+        "id": "m",
+        "x": 200,
+        "y": 34,
+        "l": [
+          "Midterms :",
+          "Trump perd le Congrès"
+        ],
+        "t": "Midterms : Trump perd le Congrès",
+        "d": "Les démocrates reprennent les deux chambres le 3 novembre. Trump garde son veto et la conduite de la diplomatie, mais il est désormais sous surveillance."
+      },
+      {
+        "id": "ia",
+        "x": 100,
+        "y": 122,
+        "l": [
+          "Rejet de l'IA",
+          "et de la Big Tech"
+        ],
+        "t": "Rejet de l'IA",
+        "d": "Peur pour l'emploi et factures d'électricité : 56 % des électeurs disent que l'IA et les data centers ont compté dans leur vote."
+      },
+      {
+        "id": "iran",
+        "x": 300,
+        "y": 122,
+        "l": [
+          "Guerre en Iran",
+          "et pétrole cher"
+        ],
+        "t": "Guerre en Iran",
+        "d": "Le conflit a fait monter le pétrole et le coût de la vie. Trump reconnaît qu'il a pesé dans la défaite. Le Brent recule de 8,7 % sur l'espoir d'une désescalade."
+      },
+      {
+        "id": "reg",
+        "x": 100,
+        "y": 222,
+        "l": [
+          "Data centers",
+          "freinés localement"
+        ],
+        "t": "Data centers freinés",
+        "d": "40 des 41 référendums locaux ont rejeté ou limité les data centers. Les permis deviennent plus difficiles à obtenir, même sans loi fédérale."
+      },
+      {
+        "id": "ret",
+        "x": 300,
+        "y": 222,
+        "l": [
+          "Repli américain",
+          "au Moyen-Orient"
+        ],
+        "t": "Repli américain",
+        "d": "Pour le FT, la défaite annonce un retrait des États-Unis qui pourrait modifier l'équilibre des forces dans la région."
+      },
+      {
+        "id": "nv",
+        "x": 100,
+        "y": 322,
+        "l": [
+          "Puces : Nvidia",
+          "sous pression"
+        ],
+        "t": "Nvidia sous pression",
+        "d": "Moins de data centers, moins d'achats de puces. S'y ajoute l'affaire d'espionnage présumé. Nvidia perd 6,8 % sur la semaine."
+      },
+      {
+        "id": "cn",
+        "x": 300,
+        "y": 322,
+        "l": [
+          "Opportunités",
+          "pour la Chine"
+        ],
+        "t": "Opportunités pour la Chine",
+        "d": "Un retrait américain laisse de la place à Pékin, qui reste en même temps la cible des contrôles à l'exportation de puces (H200)."
+      },
+      {
+        "id": "fed",
+        "x": 200,
+        "y": 414,
+        "l": [
+          "Emploi solide,",
+          "Fed vers une hausse"
+        ],
+        "t": "Emploi et Fed",
+        "d": "+165 000 emplois en octobre et une inflation au-dessus de 2 % : 76,8 % de chances d'une hausse de taux en décembre. Des taux plus élevés pèsent sur la valorisation des valeurs tech."
+      }
+    ],
+    "edges": [
+      [
+        "ia",
+        "m"
+      ],
+      [
+        "iran",
+        "m"
+      ],
+      [
+        "m",
+        "reg"
+      ],
+      [
+        "m",
+        "ret"
+      ],
+      [
+        "reg",
+        "nv"
+      ],
+      [
+        "ret",
+        "cn"
+      ],
+      [
+        "cn",
+        "nv"
+      ],
+      [
+        "iran",
+        "fed"
+      ],
+      [
+        "fed",
+        "nv"
+      ]
+    ]
+  },
+  "dossiers": [
+    {
+      "eyebrow": "Innovation et société",
+      "title": "Pourquoi les électeurs se retournent contre l'IA",
+      "q": "Une technologie présentée comme la source de croissance du siècle est rejetée dans les urnes. Le problème n'est pas l'innovation elle-même, c'est qui en paie le prix et qui en touche les gains.",
+      "steps": [
+        [
+          "Des gains lointains, des coûts immédiats",
+          "Les bénéfices sont diffus, les coûts sont locaux.",
+          "Les profits de l'IA vont surtout aux actionnaires et aux régions qui la produisent. Le bruit, la consommation d'eau et la hausse des prix de l'électricité retombent sur les habitants autour des data centers. C'est une externalité négative au sens de Pigou : un coût subi par d'autres que celui qui le crée."
+        ],
+        [
+          "La peur pour l'emploi",
+          "La première raison citée par les Américains.",
+          "L'IA menace aussi des métiers qualifiés, ce qui inquiète une classe moyenne longtemps épargnée par l'automatisation. Dans les sondages, la crainte de perdre son emploi arrive en tête des raisons du rejet."
+        ],
+        [
+          "Le vote local comme contre-pouvoir",
+          "40 référendums sur 41 freinent les projets.",
+          "Même sans loi fédérale, les communes et les comtés contrôlent les permis de construire et le zonage. Le fédéralisme américain donne donc un droit de veto de fait aux territoires qui supportent les coûts."
+        ],
+        [
+          "L'Asie, un autre contrat social",
+          "83 % d'optimistes en Chine.",
+          "Là où l'IA est associée au rattrapage et à la puissance nationale, et où l'État encadre plus fortement, l'acceptation est bien plus élevée. La perception du progrès dépend donc aussi des institutions et du récit politique."
+        ],
+        [
+          "Les conséquences économiques",
+          "Une diffusion plus lente, des investissements déplacés.",
+          "Si les data centers deviennent difficiles à construire aux États-Unis, les investissements migrent vers d'autres pays, comme le Royaume-Uni qui veut accélérer. La géographie de l'innovation se déplace avec l'acceptabilité sociale."
+        ]
+      ],
+      "charts": [
+        {
+          "img": "img/2026-11-08/dc_chart.jpg",
+          "alt": "Graphique du FT : gratte-ciel de New York et courbes rouge et bleue",
+          "c": "Chart of the Week « Data centres rebuked », FT, via myFT Daily Digest"
+        }
+      ],
+      "refs": [
+        "<b>Schumpeter, la « destruction créatrice » (1942).</b> L'innovation détruit des emplois et des entreprises anciennes en même temps qu'elle en crée de nouveaux. Les perdants sont souvent identifiables avant les gagnants.",
+        "<b>Ricardo, chapitre « On Machinery » (1821).</b> Il reconnaît que l'introduction des machines peut nuire durablement aux travailleurs. C'est la première prise au sérieux du chômage technologique.",
+        "<b>Acemoglu et Johnson, Power and Progress (2023).</b> Le progrès technique ne profite à tous que si des institutions et des contre-pouvoirs imposent le partage des gains.",
+        "<b>Pigou, externalités (1920).</b> Une taxe peut faire payer au pollueur le coût qu'il impose aux autres : c'est l'idée des démocrates qui veulent faire payer aux groupes d'IA « le coût complet » de l'électricité et de l'eau.",
+        "<b>Frey et Osborne (2013).</b> Ils estimaient que 47 % des emplois américains étaient exposés à l'automatisation, un chiffre souvent cité et discuté."
+      ],
+      "accroche": "Le 3 novembre 2026, dans 40 des 41 communes appelées à se prononcer, les Américains ont dit non aux data centers. Le pays qui domine l'IA est aussi celui qui s'en méfie le plus.",
+      "sujets": [
+        "Le progrès technique est-il toujours source de progrès social ?",
+        "Faut-il réguler l'innovation ?",
+        "L'acceptabilité sociale, frein ou condition de la croissance ?"
+      ]
+    },
+    {
+      "eyebrow": "Géopolitique",
+      "title": "Un Congrès démocrate peut-il changer la politique étrangère ?",
+      "q": "La défaite de Trump fait espérer à certains un changement de cap, et en fait craindre un repli à d'autres. Mais la Constitution américaine donne au président l'essentiel des leviers diplomatiques.",
+      "steps": [
+        [
+          "Le président conduit la diplomatie",
+          "Commandant en chef et négociateur.",
+          "Le président dirige l'armée, négocie et reconnaît les États. Le Congrès déclare formellement la guerre et vote les budgets, mais les interventions récentes se sont souvent faites sans déclaration formelle."
+        ],
+        [
+          "Les armes du Congrès",
+          "Le budget, les nominations, les enquêtes.",
+          "Avec le Sénat, les démocrates peuvent refuser de confirmer des nominations à la sécurité nationale et conditionner les crédits militaires. Les commissions peuvent convoquer des responsables et rendre publiques leurs décisions."
+        ],
+        [
+          "Le veto présidentiel",
+          "Deux tiers des voix pour passer outre.",
+          "Une loi qui imposerait un retrait d'Iran peut être bloquée par le veto. Sans deux tiers des voix dans chaque chambre, le Congrès ne peut pas forcer un changement de cap."
+        ],
+        [
+          "Le signal envoyé au monde",
+          "Alliés et rivaux lisent un président affaibli.",
+          "Même sans changer de loi, un président désavoué négocie en position plus faible. Pour le FT, c'est ce signal de repli qui pourrait redistribuer les cartes au Moyen-Orient et profiter à la Chine."
+        ]
+      ],
+      "split": [
+        [
+          "Le Congrès peut contraindre",
+          "Pouvoir du budget, blocage des nominations, enquêtes publiques. Le précédent du War Powers Resolution (1973), voté après le Vietnam, montre que le Congrès peut reprendre la main quand l'opinion se retourne."
+        ],
+        [
+          "Le président garde la main",
+          "Veto, décrets, conduite de la diplomatie et des opérations militaires. Selon Reuters, Trump garde une large latitude sur l'Iran, Israël, l'Ukraine et la Chine pour les deux dernières années de son mandat."
+        ]
+      ],
+      "accroche": "Le 3 novembre 2026, les électeurs américains ont sanctionné une guerre lointaine et un pétrole cher. Reste à savoir si un vote national peut infléchir la politique étrangère d'une superpuissance.",
+      "sujets": [
+        "Les États-Unis sont-ils encore une puissance hégémonique ?",
+        "Démocratie et politique étrangère : l'opinion publique compte-t-elle ?",
+        "Le déclin de l'hégémonie américaine profite-t-il à la Chine ?"
+      ]
+    }
+  ],
+  "flash": [
+    [
+      "+165 000",
+      "Emplois créés aux États-Unis, oct.",
+      "Contre 59 000 attendus. Chômage à 4,1 %."
+    ],
+    [
+      "+3,1 %",
+      "Salaire horaire moyen sur un an, oct.",
+      "Au-dessus des 2,9 % attendus."
+    ],
+    [
+      "1,96 million",
+      "Chômeurs de longue durée aux États-Unis",
+      "Plus de 27 semaines de recherche, record depuis décembre 2021."
+    ],
+    [
+      "76,8 %",
+      "Probabilité d'une hausse de la Fed",
+      "Réunion des 8 et 9 décembre, selon le CME FedWatch."
+    ],
+    [
+      "−8,7 %",
+      "Brent, 4 nov.",
+      "À 94,62 $, sur l'espoir d'un recul américain en Iran."
+    ],
+    [
+      "4,88 %",
+      "Taux à 10 ans américain, 4 nov.",
+      "Contre 4,95 % la veille."
+    ],
+    [
+      "40 / 41",
+      "Référendums contre les data centers",
+      "Seule exception : Harwood, Dakota du Nord."
+    ],
+    [
+      "56 %",
+      "Électeurs pour qui l'IA a compté",
+      "Sondage de sortie des urnes NBC."
+    ],
+    [
+      "83 %",
+      "Chinois optimistes sur l'IA",
+      "Indice IA de Stanford (Ipsos). 39 % des Américains jugent l'IA plus nuisible qu'utile."
+    ]
+  ],
+  "quiz": [
+    {
+      "q": "Selon le FT, que pourrait annoncer la défaite de Trump aux midterms ?",
+      "o": [
+        "Une hausse des droits de douane",
+        "Un repli américain qui profiterait à la Chine",
+        "La fin de la guerre commerciale",
+        "Un renforcement de l'OTAN"
+      ],
+      "a": 1,
+      "e": "Le FT y voit le signe d'un retrait américain qui pourrait changer l'équilibre au Moyen-Orient et ouvrir des opportunités à Pékin."
+    },
+    {
+      "q": "Quelle arme le président conserve-t-il face à un Congrès hostile ?",
+      "o": [
+        "La dissolution du Congrès",
+        "Le veto",
+        "Le référendum",
+        "La nomination des sénateurs"
+      ],
+      "a": 1,
+      "e": "Le veto ne peut être surmonté qu'à la majorité des deux tiers dans chaque chambre."
+    },
+    {
+      "q": "Combien d'emplois l'économie américaine a-t-elle créés en octobre ?",
+      "o": [
+        "59 000",
+        "121 000",
+        "165 000",
+        "421 000"
+      ],
+      "a": 2,
+      "e": "165 000, contre 59 000 attendus. 421 000 est la hausse de la population active."
+    },
+    {
+      "q": "Pourquoi un emploi solide rend-il une hausse de taux de la Fed plus probable ?",
+      "o": [
+        "Il réduit la dette publique",
+        "Il fait craindre une inflation persistante",
+        "Il fait baisser le dollar",
+        "Il réduit le prix du pétrole"
+      ],
+      "a": 1,
+      "e": "Un marché du travail tendu soutient les salaires et la demande, donc l'inflation, déjà au-dessus de la cible de 2 %."
+    },
+    {
+      "q": "Quel concept économique décrit le coût des data centers supporté par les riverains ?",
+      "o": [
+        "Un bien public",
+        "Une externalité négative",
+        "Un rendement d'échelle",
+        "Un aléa moral"
+      ],
+      "a": 1,
+      "e": "Bruit, eau, électricité plus chère : un coût imposé à des tiers sans compensation. Pigou propose de le taxer."
+    },
+    {
+      "q": "Combien de référendums locaux sur les data centers ont été rejetés ou limités, sur 41 ?",
+      "o": [
+        "21",
+        "30",
+        "38",
+        "40"
+      ],
+      "a": 3,
+      "e": "Tous sauf un, à Harwood (Dakota du Nord). 21 se tenaient dans l'Ohio."
+    },
+    {
+      "q": "Pourquoi l'affaire Jensen Huang est-elle sensible ?",
+      "o": [
+        "Nvidia est une entreprise chinoise",
+        "Huang a plaidé pour exporter des puces H200 vers la Chine",
+        "Nvidia a été nationalisée",
+        "Huang est candidat au Congrès"
+      ],
+      "a": 1,
+      "e": "Le patron de Nvidia a fait pression pour assouplir les contrôles à l'exportation. Lui comme Nvidia démentent toute fuite d'information."
+    },
+    {
+      "q": "Quels secteurs ont le plus monté le lendemain des midterms ?",
+      "o": [
+        "Défense et pétrole",
+        "Solaire et santé",
+        "Banques et immobilier",
+        "Puces et cloud"
+      ],
+      "a": 1,
+      "e": "First Solar +4,6 %, HCA +10,3 %. La défense et le pétrole ont reculé : les marchés anticipent les priorités démocrates."
+    }
+  ],
+  "colle": {
+    "title": "Le progrès technique est-il toujours accepté par la société ?",
+    "parts": [
+      [
+        "Le progrès technique est accepté quand ses gains sont largement partagés",
+        [
+          "Hausse de la productivité, des revenus et du bien-être sur le long terme (Solow, croissance de long terme)",
+          "Exemple : l'optimisme asiatique, avec 83 % de Chinois confiants dans l'IA"
+        ]
+      ],
+      [
+        "Mais il suscite des résistances quand ses coûts sont concentrés",
+        [
+          "Destruction créatrice et chômage technologique (Schumpeter, Ricardo)",
+          "Externalités locales : 40 référendums sur 41 contre les data centers aux midterms 2026"
+        ]
+      ],
+      [
+        "L'acceptation dépend des institutions qui organisent le partage",
+        [
+          "Régulation, fiscalité des externalités (Pigou), contre-pouvoirs (Acemoglu et Johnson)",
+          "Des choix nationaux divergents : les États-Unis freinent, le Royaume-Uni accélère"
+        ]
+      ]
+    ]
+  },
+  "matrix": {
+    "cols": [
+      "myFT",
+      "Reuters",
+      "CNBC",
+      "Al Jazeera",
+      "TIME",
+      "Axios",
+      "Bloomberg",
+      "AP",
+      "Stanford, Pew, Gallup"
+    ],
+    "rows": [
+      [
+        "Défaite de Trump",
+        [
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0
+        ]
+      ],
+      [
+        "Rejet des data centers",
+        [
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        "Méfiance envers l'IA",
+        [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      [
+        "Affaire Huang",
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "Repli américain",
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        "Emploi et Fed",
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        "Marchés après le vote",
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ]
+      ],
+      [
+        "Royaume-Uni et IA",
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    ]
+  },
+  "sources": [
+    [
+      "myFT Daily Digest",
+      "newsletter, dim. 8",
+      "Huang et l'espionnage présumé, « Why does America hate AI? », graphique de la semaine sur les data centers, Royaume-Uni et IA, repli américain"
+    ],
+    [
+      "Reuters, via Al-Monitor",
+      "web, 5 nov.",
+      "Après les midterms, Trump garde la main sur la politique étrangère"
+    ],
+    [
+      "CNBC",
+      "web, 6 nov.",
+      "Rapport sur l'emploi d'octobre : +165 000, chômage à 4,1 %, probabilités de hausse de la Fed"
+    ],
+    [
+      "Al Jazeera",
+      "web, 7 nov.",
+      "41 référendums sur les data centers, électricité, Nvidia et CoreWeave sur la semaine"
+    ],
+    [
+      "TIME",
+      "web, 4 nov.",
+      "Comment le rejet de l'IA a pesé sur les midterms, sondage NBC"
+    ],
+    [
+      "Axios",
+      "web, 7 nov.",
+      "Le Congrès veut entendre Jensen Huang"
+    ],
+    [
+      "Bloomberg, d'après le NYT",
+      "web, 7 nov.",
+      "Washington soupçonne une proche du patron de Nvidia d'espionnage"
+    ],
+    [
+      "AP, via CommBank",
+      "web, 5 nov.",
+      "Wall Street bondit après les midterms, le pétrole chute"
+    ],
+    [
+      "Stanford AI Index, Pew, Gallup",
+      "web, 2026",
+      "Optimisme et confiance envers l'IA selon les pays"
+    ],
+    [
+      "CBS News",
+      "web, 4 nov.",
+      "Mike Johnson renonce à la direction de la minorité"
+    ]
+  ]
+}

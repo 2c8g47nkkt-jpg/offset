@@ -1,0 +1,934 @@
+{
+  "date": "2026-11-09",
+  "label": "Lundi 9 novembre 2026",
+  "period": "8 au 9 novembre",
+  "sourcesCount": 2,
+  "countLabel": "2 newsletters + 14 sources web",
+  "hero": {
+    "img": "img/2026-11-09/melenchon.jpg",
+    "alt": "Jean-Luc Mélenchon au pupitre lors d'un meeting",
+    "credit": "Via Cosmos Finance",
+    "eyebrow": "À la une",
+    "title": "Mélenchon chiffre son programme, la calculatrice tousse",
+    "lede": "212 pages, 1 069 mesures, un Smic à 1 700 € net et la retraite à 60 ans : la nouvelle version de L'Avenir en commun promet même de réduire le déficit. Tout repose sur 106,4 Md€ de recettes nouvelles, dont plus de 70 % viennent de cinq impôts sur les plus aisés."
+  },
+  "brief": [
+    [
+      "France",
+      "LFI publie un programme de 1 069 mesures. Son contre-budget prévoit +81,7 Md€ de dépenses en 2027, financées par +106,4 Md€ d'impôts nouveaux. L'OFCE doute de ces recettes."
+    ],
+    [
+      "Salaires",
+      "Conférence sociale ce lundi à Matignon. Le gouvernement veut faire passer le Smic au-dessus de 1 500 € net ; la CFDT réclame +100 €, l'U2P parle de « catastrophe »."
+    ],
+    [
+      "Chine",
+      "Les prix à la production bondissent de 5,7 % sur un an, un record depuis 2022, mais les prix à la consommation ralentissent à 0,7 % : la demande intérieure reste faible."
+    ],
+    [
+      "IA et énergie",
+      "Anthropic achète 3,4 Md$ de générateurs au gaz pour ses data centers. La Banque de France alerte sur une contagion à l'Europe si les valorisations de l'IA chutent."
+    ],
+    [
+      "Diplomatie",
+      "Négociations États-Unis – Russie – Ukraine à Abou Dhabi les 10 et 11 novembre ; la COP31 s'ouvre en Turquie ; deux candidats pour succéder à Lagarde à la BCE."
+    ]
+  ],
+  "figures": [
+    {
+      "v": "106,4 Md€",
+      "l": "recettes fiscales nouvelles prévues par le contre-budget LFI pour 2027",
+      "dir": "up"
+    },
+    {
+      "v": "+5,7 %",
+      "l": "prix à la production en Chine sur un an, plus forte hausse depuis juin 2022",
+      "dir": "up"
+    },
+    {
+      "v": "3,4 Md$",
+      "l": "générateurs au gaz achetés par Anthropic, 1,7 GW de capacité",
+      "dir": "up"
+    },
+    {
+      "v": "−34,6 %",
+      "l": "visiteurs mensuels de Shein en France au troisième trimestre",
+      "dir": "down"
+    }
+  ],
+  "themes": [
+    {
+      "title": "France : promesses et pouvoir d'achat",
+      "stories": [
+        {
+          "img": "img/2026-11-09/lfi_presse.jpg",
+          "alt": "Jean-Luc Mélenchon en conférence de presse, entouré de deux responsables insoumis",
+          "credit": "Via LCP",
+          "eyebrow": "Présidentielle 2027",
+          "title": "L'Avenir en commun, version 2027 : l'écologie d'abord, l'impôt ensuite",
+          "text": [
+            "Présentée le 6 novembre puis au Bourget le 7, la cinquième version du programme compte 1 069 mesures, dont 238 nouvelles. L'écologie passe en tête : sortie progressive du nucléaire, 100 % d'énergies renouvelables repoussé de 2050 à 2060, −65 % d'émissions d'ici 2033, vols de nuit interdits entre 23 h et 6 h, conscription écologique payée au Smic."
+          ],
+          "why": "Côté portefeuille : Smic à 1 700 € net, APL +10 %, garantie d'autonomie à 1 337 €, retour à terme à la retraite à 60 ans avec 40 annuités. Côté impôt : ISF climatique, 14 tranches, fin de la flat tax, taxe Zucman, héritage plafonné à 12 M€.",
+          "rep": 1,
+          "sources": [
+            "Cosmos",
+            "LCP (web)",
+            "Euronews (web)"
+          ],
+          "more": [
+            "<b>La BCE dans le viseur.</b> LFI veut geler la dette française détenue par la BCE et modifier les traités pour qu'elle achète directement de la dette publique sans pouvoir la revendre. Le programme assume une « confrontation » avec les institutions européennes.",
+            "<b>Institutions.</b> VIe République, proportionnelle, fin du 49.3, débat obligatoire à l'Assemblée pour toute pétition de plus de 500 000 signatures.",
+            "<b>Crédibilité.</b> 41 plans thématiques et, selon Mediapart, un réseau de 180 hauts fonctionnaires pour préparer les premières semaines d'un éventuel gouvernement.",
+            "<b>Nouveau.</b> Interdiction des IA conçues pour simuler une relation affective."
+          ],
+          "prog": "Politique budgétaire, fiscalité et redistribution, policy mix dans la zone euro"
+        },
+        {
+          "eyebrow": "Finances publiques",
+          "title": "Un budget qui tient sur Excel, moins dans la réalité ?",
+          "text": [
+            "Le contre-budget d'octobre prévoit +81,7 Md€ de dépenses dès 2027 et +106,4 Md€ de recettes, soit près de 25 Md€ d'amélioration du solde public. Cinq mesures portent l'essentiel : niches fiscales (22 Md€), successions (20), taxe Zucman (15), ISF (10), flat tax (9). Total : 76 Md€, plus de 70 % des recettes espérées."
+          ],
+          "why": "Si les recettes rentrent 25 % moins que prévu, l'amélioration de 25 Md€ disparaît. Pour Mathieu Plane (OFCE), le programme raisonne « comme si la France était dans une économie fermée ».",
+          "rep": 1,
+          "sources": [
+            "Cosmos"
+          ],
+          "more": [
+            "<b>Hors budget.</b> 100 Md€ d'investissements par an seraient financés par un pôle bancaire public mobilisant l'épargne des Français. Le coût du capital et le risque de crédit ne disparaissent pas pour autant.",
+            "<b>Un chiffrage d'un an.</b> Il ne couvre que 2027 ; le retour progressif à 60 ans ferait croître la dépense ensuite.",
+            "<b>Contrainte de marché.</b> Avec une dette déjà à 120 % du PIB, un conflit avec Bruxelles ou les investisseurs pourrait renchérir le coût d'emprunt de la France."
+          ],
+          "prog": "Dette publique, soutenabilité, comportements d'optimisation fiscale"
+        },
+        {
+          "eyebrow": "Dialogue social",
+          "title": "Conférence sociale : le Smic au-dessus de 1 500 € ?",
+          "text": [
+            "Après la mobilisation du 5 novembre (1,6 million selon les syndicats, contre 500 000 le 31 octobre), Sébastien Lecornu réunit ce lundi l'intersyndicale et le patronat. Le Smic est à 1 477 € net : le ministre du Travail Jean-Pierre Farandou juge « important » de franchir les 1 500 €, par un coup de pouce exceptionnel."
+          ],
+          "why": "Un décret est prêt pour pousser les branches à relever leurs minima jusqu'au Smic. La CFDT réclame +100 € net, l'intersyndicale l'indexation des salaires sur l'inflation. Pour l'U2P, une hausse du Smic serait « une catastrophe » pour les petites entreprises.",
+          "rep": 1,
+          "sources": [
+            "LCP (web)"
+          ],
+          "prog": "Salaire minimum, négociation collective, coût du travail"
+        },
+        {
+          "img": "img/2026-11-09/temu.jpg",
+          "alt": "Un smartphone affichant le logo de Temu",
+          "credit": "Shutterstock, via Économie Matin",
+          "eyebrow": "Commerce",
+          "title": "La taxe sur les petits colis fait fuir les clients de Shein et Temu",
+          "text": [
+            "Au troisième trimestre, Shein perd 34,6 % de ses visiteurs mensuels en France et Temu 28,3 %, selon la Fevad. Shein tombe à 10,1 millions de visiteurs par mois, Temu à 15,3 millions. En cause : le droit de douane européen de 3 € par petit colis, appliqué depuis le 1er juillet."
+          ],
+          "rep": 1,
+          "sources": [
+            "Cosmos",
+            "Économie Matin (web)"
+          ],
+          "prog": "Protectionnisme, élasticité-prix de la demande"
+        }
+      ]
+    },
+    {
+      "title": "Économie mondiale : prix et impôts",
+      "stories": [
+        {
+          "img": "img/2026-11-09/chine.jpg",
+          "alt": "Une cliente choisit des tomates dans un supermarché chinois",
+          "credit": "VCG / Getty Images, via CNBC",
+          "eyebrow": "Prix",
+          "title": "Les usines paient plus cher, les ménages ne dépensent pas",
+          "text": [
+            "En octobre, les prix à la production progressent de 5,7 % sur un an (5,0 % en septembre, 5,3 % attendu), leur plus forte hausse depuis juin 2022, tirée par les mines et les matières premières. Les prix à la consommation ralentissent à +0,7 % (0,9 % en septembre) et l'inflation sous-jacente tombe à 0,8 %."
+          ],
+          "why": "L'essence est le premier moteur des prix à la consommation (+22,4 % sur un an), mais l'alimentation recule de 2,9 % : légumes frais −16,9 %, porc −8,6 %. Pour l'économiste Zhang Zhiwei, la demande intérieure reste plombée par l'immobilier.",
+          "rep": 1,
+          "sources": [
+            "myFT",
+            "CNBC (web)",
+            "Xinhua (web)"
+          ],
+          "more": [
+            "<b>Deux moteurs opposés.</b> La demande extérieure, très forte selon Zhang Zhiwei, et l'énergie chère poussent les coûts de production. La consommation des ménages, elle, ne suit pas.",
+            "<b>Conséquence.</b> Les entreprises chinoises ont du mal à répercuter leurs coûts sur les prix de vente : leurs marges sont prises en étau.",
+            "<b>Marché.</b> L'indice CSI 300 gagne 0,56 % après la publication."
+          ],
+          "prog": "Inflation, demande globale, modèle de croissance chinois"
+        },
+        {
+          "eyebrow": "Fiscalité internationale",
+          "title": "Apple déplace ses profits vers Singapour",
+          "text": [
+            "Selon de nouvelles publications relevées par le FT, Singapour a dépassé l'Irlande comme premier abri fiscal d'Apple. En y comptabilisant ses bénéfices, le fabricant de l'iPhone économise 2,7 Md$ d'impôts."
+          ],
+          "why": "Un exemple concret de la mobilité des bases fiscales, au cœur du débat sur le programme LFI.",
+          "rep": 1,
+          "sources": [
+            "myFT"
+          ],
+          "prog": "Firmes multinationales, concurrence fiscale"
+        }
+      ]
+    },
+    {
+      "title": "IA : énergie, valorisations, risques",
+      "stories": [
+        {
+          "eyebrow": "Énergie",
+          "title": "Anthropic achète ses propres centrales au gaz",
+          "text": [
+            "Selon le FT, Anthropic paie 3,4 Md$ pour 1,7 GW de générateurs au gaz destinés à ses data centers. Le laboratoire reprend des commandes de turbines Caterpillar passées deux ans plus tôt par OnePWR, une société de San Antonio. C'est le plus gros achat connu d'équipements de production électrique par un laboratoire d'IA."
+          ],
+          "why": "Le matériel électrique est devenu rare : les géants de l'IA contournent les fournisseurs classiques et produisent eux-mêmes leur électricité, souvent à partir de gaz.",
+          "rep": 1,
+          "sources": [
+            "myFT",
+            "Bloomberg (web)",
+            "The Next Web (web)"
+          ],
+          "more": [
+            "<b>Contexte.</b> Anthropic prépare son introduction en Bourse ; son document d'enregistrement modifié fait état de 895 Md$ d'engagements, presque tous liés au calcul et aux infrastructures.",
+            "<b>Ailleurs.</b> En Argentine, Javier Milei rêve d'attirer des data centers en Patagonie, en misant sur la terre et l'énergie disponibles et sur une régulation minimale."
+          ],
+          "prog": "Transition énergétique, externalités, investissement"
+        },
+        {
+          "eyebrow": "Stabilité financière",
+          "title": "La Banque de France craint une contagion",
+          "text": [
+            "Le 2 novembre à Barcelone, le gouverneur Emmanuel Moulin a averti qu'une correction des valorisations des entreprises américaines de l'IA pourrait avoir un « effet de contagion en Europe ». Les Européens détiennent 15 à 20 % des titres américains, et ces investissements sont de plus en plus financés par la dette."
+          ],
+          "why": "Selon Cosmos Finance, l'investissement mondial dans l'IA pourrait passer de 400 à 1 000 Md$ l'an prochain.",
+          "rep": 1,
+          "sources": [
+            "Cosmos",
+            "AFP (web)"
+          ]
+        },
+        {
+          "eyebrow": "Travail",
+          "title": "L'IA vise aussi les managers",
+          "text": [
+            "Pour le FT, l'IA commence à réduire les effectifs d'encadrement intermédiaire, et leur niveau de rémunération pourrait suivre. Un même mouvement de rationalisation touche la tech : Sequoia Capital ferme son bureau de Londres."
+          ],
+          "rep": 1,
+          "sources": [
+            "myFT"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Monde et géopolitique",
+      "stories": [
+        {
+          "img": "img/2026-11-09/cop31.jpg",
+          "alt": "Drapeaux de la Conférence des Nations unies sur le climat",
+          "credit": "Photo d'illustration, via ONU (UNRIC)",
+          "eyebrow": "Climat",
+          "title": "La COP31 s'ouvre à Antalya dans un « contexte terrible »",
+          "text": [
+            "La conférence de l'ONU sur le climat se tient du 9 au 20 novembre en Turquie, qui accueille, tandis que l'Australie préside les négociations. Pour le FT, les crises mondiales en feront une COP de mise en œuvre des accords passés plutôt que de nouveaux engagements."
+          ],
+          "rep": 1,
+          "sources": [
+            "myFT",
+            "ONU (web)",
+            "Ministère autrichien du Climat (web)"
+          ],
+          "prog": "Biens communs, coopération internationale"
+        },
+        {
+          "eyebrow": "Ukraine",
+          "title": "Négociations tripartites à Abou Dhabi",
+          "text": [
+            "L'émissaire américain Steve Witkoff annonce des pourparlers entre États-Unis, Russie et Ukraine les 10 et 11 novembre à Abou Dhabi. Kiev met en avant les garanties de sécurité, une trêve énergétique, la mer Noire et l'échange de prisonniers. Une nouvelle Knesset s'installe aussi en Israël."
+          ],
+          "rep": 1,
+          "sources": [
+            "myFT",
+            "Meduza (web)"
+          ]
+        },
+        {
+          "eyebrow": "États-Unis",
+          "title": "Trump se dit « trop dur » avec les immigrés",
+          "text": [
+            "Après la défaite des midterms, Donald Trump évoque un accord sur l'immigration avec le futur Congrès démocrate et admet avoir été « trop dur ». La Maison-Blanche exclut toutefois une amnistie de masse. Le FT juge qu'une politique pro-croissance ne suffira pas à répondre aux inquiétudes sur le coût de la vie ; les chiffres de l'inflation américaine sont attendus cette semaine."
+          ],
+          "rep": 1,
+          "sources": [
+            "myFT",
+            "Daily Caller (web)"
+          ]
+        },
+        {
+          "eyebrow": "Europe",
+          "title": "Qui succédera à Christine Lagarde ?",
+          "text": [
+            "Deux anciens gouverneurs sont en lice pour la présidence de la BCE, que Christine Lagarde quittera le 7 février 2027 : l'Espagnol Pablo Hernández de Cos, jugé pragmatique et modéré, et le Néerlandais Klaas Knot, un « faucon » devenu plus enclin au compromis. Les ministres européens examinent les candidatures ce 9 novembre."
+          ],
+          "rep": 1,
+          "sources": [
+            "Cosmos",
+            "Il Foglio (web)"
+          ],
+          "prog": "Politique monétaire, indépendance des banques centrales"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    [
+      "Ménages endettés",
+      "46 % des ménages remboursent un crédit (Insee). 57 % des 10 % les plus aisés, contre 27 % des 10 % les plus modestes."
+    ],
+    [
+      "Crédit immobilier",
+      "3,49 % sur 15 ans, 3,6 % sur 20 ans, déjà 4 % sur 25 ans. Prix de l'ancien −0,8 % sur un an, médiane 3 142 €/m²."
+    ],
+    [
+      "Ascenseur social",
+      "58,5 % des Français nés en 1984 gagnaient plus que leurs parents à 30 ans, contre plus de 95 % pour la génération 1944 (Yonatan Berman)."
+    ],
+    [
+      "Russie au Sahel",
+      "Africa Corps remplace Wagner au Mali, au Niger et au Burkina Faso, sans enrayer les attaques djihadistes."
+    ],
+    [
+      "Nvidia",
+      "Jensen Huang reconnaît une liaison après des soupçons d'espionnage chinois ; le groupe ouvre une enquête interne."
+    ],
+    [
+      "Attali sur les midterms",
+      "Pour Jacques Attali, Trump a provoqué sa défaite en faisant flamber l'essence avec la guerre contre l'Iran : les électeurs ont voté contre les prix à la pompe."
+    ]
+  ],
+  "good": "Selon l'OCDE, un salarié moyen français n'aurait besoin d'épargner qu'environ 238 € par mois pour viser une pension égale à 70 % de son ancien salaire brut, contre 617 € en Allemagne et 1 084 € en Suisse.",
+  "map": {
+    "start": "en",
+    "nodes": [
+      {
+        "id": "en",
+        "x": 200,
+        "y": 34,
+        "l": [
+          "Énergie chère",
+          "pétrole et gaz"
+        ],
+        "t": "Énergie chère",
+        "d": "La guerre contre l'Iran a fait flamber le pétrole. L'énergie pèse sur les coûts des usines chinoises, sur le pouvoir d'achat des ménages et sur l'équation des data centers."
+      },
+      {
+        "id": "ppi",
+        "x": 100,
+        "y": 122,
+        "l": [
+          "Chine : prix usine",
+          "+5,7 % sur un an"
+        ],
+        "t": "Chine : prix à la production",
+        "d": "Mines et matières premières tirent les prix à la production à leur plus haut depuis juin 2022."
+      },
+      {
+        "id": "ia",
+        "x": 300,
+        "y": 122,
+        "l": [
+          "IA : course",
+          "à l'électricité"
+        ],
+        "t": "IA : course à l'électricité",
+        "d": "Anthropic achète 3,4 Md$ de générateurs au gaz : l'électricité devient le goulet d'étranglement de l'IA."
+      },
+      {
+        "id": "cpi",
+        "x": 100,
+        "y": 222,
+        "l": [
+          "Chine : consommation",
+          "atone, +0,7 %"
+        ],
+        "t": "Chine : demande faible",
+        "d": "L'immobilier plombe la confiance des ménages : les prix alimentaires baissent, l'inflation sous-jacente ralentit à 0,8 %."
+      },
+      {
+        "id": "val",
+        "x": 300,
+        "y": 222,
+        "l": [
+          "Valorisations IA",
+          "financées à crédit"
+        ],
+        "t": "Valorisations et dette",
+        "d": "Les investissements dans l'IA sont de plus en plus financés par la dette. Une correction ferait des pertes en chaîne."
+      },
+      {
+        "id": "pa",
+        "x": 100,
+        "y": 322,
+        "l": [
+          "France : salaires",
+          "et pouvoir d'achat"
+        ],
+        "t": "Pouvoir d'achat",
+        "d": "Conférence sociale du 9 novembre : le Smic pourrait dépasser 1 500 € net. Les syndicats veulent plus, les petites entreprises s'inquiètent."
+      },
+      {
+        "id": "bdf",
+        "x": 300,
+        "y": 322,
+        "l": [
+          "Contagion",
+          "vers l'Europe"
+        ],
+        "t": "Contagion financière",
+        "d": "Les Européens détiennent 15 à 20 % des titres américains : un krach de l'IA traverserait l'Atlantique (Banque de France)."
+      },
+      {
+        "id": "lfi",
+        "x": 200,
+        "y": 414,
+        "l": [
+          "Présidentielle 2027 :",
+          "qui paiera ?"
+        ],
+        "t": "Présidentielle 2027",
+        "d": "LFI promet Smic à 1 700 € et retraite à 60 ans, financés par 106,4 Md€ d'impôts nouveaux. Avec une dette à 120 % du PIB, la confiance des marchés devient une contrainte."
+      }
+    ],
+    "edges": [
+      [
+        "en",
+        "ppi"
+      ],
+      [
+        "en",
+        "ia"
+      ],
+      [
+        "ppi",
+        "cpi"
+      ],
+      [
+        "ia",
+        "val"
+      ],
+      [
+        "val",
+        "bdf"
+      ],
+      [
+        "en",
+        "pa"
+      ],
+      [
+        "pa",
+        "lfi"
+      ],
+      [
+        "bdf",
+        "lfi"
+      ]
+    ]
+  },
+  "dossiers": [
+    {
+      "eyebrow": "Finances publiques",
+      "title": "Taxer les riches pour financer la relance : combien ça rapporte vraiment ?",
+      "q": "Le programme de LFI promet plus de dépenses et moins de déficit. Tout dépend d'une question simple : les recettes annoncées entreront-elles dans les caisses ?",
+      "steps": [
+        [
+          "Le diagnostic",
+          "Redistribuer pour relancer la consommation.",
+          "La logique est keynésienne : un ménage modeste consomme une plus grande part de son revenu qu'un ménage aisé (propension marginale à consommer plus élevée). Transférer du revenu vers le bas de l'échelle (Smic à 1 700 €, APL +10 %) doit donc soutenir la demande, l'emploi et l'investissement."
+        ],
+        [
+          "Les dépenses",
+          "+81,7 Md€ dès 2027.",
+          "Salaires des fonctionnaires, retraites, services publics, lutte contre la pauvreté. S'y ajoutent 100 Md€ d'investissements par an, financés hors budget par un pôle bancaire public. Le chiffrage ne couvre qu'une année : la retraite à 60 ans coûtera de plus en plus cher ensuite."
+        ],
+        [
+          "Les recettes",
+          "+106,4 Md€, concentrées sur une base étroite.",
+          "Cinq mesures (niches, successions, Zucman, ISF, flat tax) doivent apporter 76 Md€. Or ces impôts portent sur des contribuables peu nombreux et mobiles, qui peuvent modifier leurs placements, réorganiser leur patrimoine ou partir."
+        ],
+        [
+          "L'élasticité de la base",
+          "Quand le taux monte, l'assiette peut fondre.",
+          "Les recettes d'un impôt = taux × base. Si la base réagit fortement au taux (optimisation, exil fiscal), la recette réelle est très inférieure au calcul « statique ». Avec 25 % de recettes en moins, les 25 Md€ d'amélioration du solde disparaissent. D'où la critique de Mathieu Plane (OFCE) sur une France raisonnée comme une « économie fermée »."
+        ],
+        [
+          "La contrainte européenne et financière",
+          "Dette à 120 % du PIB, BCE indépendante.",
+          "Faire acheter de la dette directement par la BCE suppose de modifier les traités, à l'unanimité. Un conflit avec Bruxelles ou les marchés pourrait relever les taux d'emprunt français et absorber une partie des marges budgétaires."
+        ]
+      ],
+      "split": [
+        [
+          "Pour : la redistribution est efficace",
+          "Multiplicateur keynésien plus fort quand on soutient les bas revenus ; Piketty et Saez montrent que la progressivité a été fortement réduite depuis 1980 ; Zucman souligne que les plus grandes fortunes paient proportionnellement moins d'impôt que la classe moyenne."
+        ],
+        [
+          "Contre : la base fiscale est mobile",
+          "Courbe de Laffer : au-delà d'un certain taux, la recette baisse ; concurrence fiscale en économie ouverte ; effet d'éviction et hausse des taux si la dette inquiète les marchés (équivalence ricardienne, Barro)."
+        ]
+      ],
+      "refs": [
+        "<b>Keynes (1936), multiplicateur.</b> Une dépense publique génère un revenu supérieur à son montant, d'autant plus que la propension à consommer est élevée.",
+        "<b>Laffer (1974).</b> « Trop d'impôt tue l'impôt » : la recette dépend de la réaction de la base au taux.",
+        "<b>Piketty, Saez, Zucman.</b> Défense d'une fiscalité plus progressive sur les hauts patrimoines.",
+        "<b>Mundell-Fleming.</b> En économie ouverte avec capitaux mobiles, l'efficacité de la politique budgétaire dépend du régime de change et de la réaction des taux."
+      ],
+      "accroche": "En 2026, un programme présidentiel promet 81,7 milliards d'euros de dépenses nouvelles et un déficit en baisse : la réussite du pari tient à la mobilité de quelques milliers de contribuables.",
+      "sujets": [
+        "La politique budgétaire est-elle encore efficace en économie ouverte ?",
+        "Faut-il davantage taxer le patrimoine ?",
+        "Peut-on réduire les inégalités sans freiner la croissance ?"
+      ]
+    },
+    {
+      "eyebrow": "Économie mondiale",
+      "title": "Chine : pourquoi les prix montent à l'usine mais pas en magasin",
+      "q": "En octobre, l'écart entre prix à la production (+5,7 %) et prix à la consommation (+0,7 %) atteint 5 points. C'est le symptôme d'une économie qui produit plus qu'elle ne consomme.",
+      "steps": [
+        [
+          "Un choc de coûts",
+          "Énergie et matières premières plus chères.",
+          "La hausse du pétrole et des matières premières renchérit les coûts des usines. Les prix à la production accélèrent pour le troisième mois consécutif, au plus haut depuis juin 2022."
+        ],
+        [
+          "Une demande intérieure faible",
+          "L'immobilier pèse sur les ménages.",
+          "En Chine, l'essentiel du patrimoine des ménages est dans le logement. La crise immobilière les rend prudents : ils épargnent au lieu de consommer. Les prix alimentaires reculent de 2,9 %, l'inflation sous-jacente ralentit à 0,8 %."
+        ],
+        [
+          "Des marges prises en étau",
+          "Les entreprises ne peuvent pas répercuter leurs coûts.",
+          "Quand les coûts montent plus vite que les prix de vente, les marges baissent. Les entreprises réduisent alors salaires et investissements, ce qui affaiblit encore la demande : un cercle vicieux."
+        ],
+        [
+          "L'exportation comme soupape",
+          "Écouler à l'étranger ce que le pays ne consomme pas.",
+          "La forte demande extérieure soutient la production. Mais ce modèle alimente les excédents commerciaux et les tensions avec les États-Unis et l'Europe, qui dénoncent des surcapacités."
+        ]
+      ],
+      "refs": [
+        "<b>Keynes, paradoxe de l'épargne.</b> Si tous les ménages épargnent davantage, la demande baisse et le revenu global aussi.",
+        "<b>Koo, « récession de bilan ».</b> Après l'éclatement d'une bulle immobilière, les agents se désendettent au lieu de dépenser, comme au Japon dans les années 1990.",
+        "<b>Michael Pettis.</b> Le déséquilibre chinois vient d'une consommation des ménages trop faible dans le PIB.",
+        "<b>Fisher (1933), déflation par la dette.</b> La baisse des prix alourdit le poids réel des dettes."
+      ],
+      "accroche": "En octobre 2026, les prix à la production chinois ont progressé huit fois plus vite que les prix à la consommation.",
+      "sujets": [
+        "La Chine peut-elle changer de modèle de croissance ?",
+        "L'inflation est-elle toujours un phénomène monétaire ?"
+      ]
+    },
+    {
+      "eyebrow": "Finance et énergie",
+      "title": "L'IA, un pari financé à crédit et alimenté au gaz",
+      "q": "Pour faire tourner ses data centers, l'IA a besoin d'électricité et de capitaux. Les deux deviennent des sources de risque.",
+      "steps": [
+        [
+          "Un besoin d'énergie massif",
+          "L'électricité devient le goulet d'étranglement.",
+          "Les data centers consomment énormément. Face à la pénurie d'équipements, Anthropic rachète 1,7 GW de générateurs au gaz pour 3,4 Md$, un record pour un laboratoire d'IA."
+        ],
+        [
+          "Des investissements géants",
+          "De 400 à 1 000 Md$ par an selon Cosmos Finance.",
+          "Ces montants dépassent les profits actuels du secteur : ils reposent sur l'anticipation de revenus futurs très élevés."
+        ],
+        [
+          "Un financement par la dette",
+          "Le levier augmente le risque.",
+          "La Banque de France note que ces investissements sont de plus en plus financés par l'endettement. Si les revenus attendus tardent, les créanciers subissent des pertes et le crédit se resserre."
+        ],
+        [
+          "Une contagion possible",
+          "Les Européens détiennent 15 à 20 % des titres américains.",
+          "Une baisse des valorisations américaines réduirait la richesse des épargnants et des institutions européennes : canal patrimonial et canal du crédit transmettraient le choc."
+        ],
+        [
+          "Un coût climatique",
+          "Le gaz pour l'IA, alors que s'ouvre la COP31.",
+          "Produire l'électricité de l'IA à partir de gaz augmente les émissions : une externalité négative que le prix de l'électricité ne reflète pas."
+        ]
+      ],
+      "refs": [
+        "<b>Minsky, hypothèse d'instabilité financière.</b> Le passage d'un financement prudent à un financement spéculatif fragilise le système.",
+        "<b>Kindleberger, <i>Manias, Panics and Crashes</i>.</b> Les bulles naissent d'une innovation réelle qui suscite un excès d'optimisme.",
+        "<b>Pigou, externalités.</b> Taxer la pollution pour faire payer au producteur le coût social de son activité.",
+        "<b>Schumpeter, destruction créatrice.</b> Les grandes innovations passent souvent par des vagues de surinvestissement."
+      ],
+      "accroche": "Pour alimenter ses modèles, un laboratoire d'IA vient d'acheter 1,7 gigawatt de générateurs au gaz : la révolution numérique repose encore sur des énergies fossiles.",
+      "sujets": [
+        "Les innovations sont-elles nécessairement sources d'instabilité financière ?",
+        "La croissance peut-elle être soutenable ?"
+      ]
+    }
+  ],
+  "flash": [
+    [
+      "1 069",
+      "Mesures LFI",
+      "Dont 238 nouvelles, sur 212 pages : programme présidentiel publié le 6 novembre."
+    ],
+    [
+      "106,4 Md€",
+      "Recettes LFI",
+      "Impôts nouveaux prévus pour 2027 ; 76 Md€ viennent de cinq mesures."
+    ],
+    [
+      "1 477 €",
+      "Smic net",
+      "Niveau actuel ; le gouvernement veut franchir la barre des 1 500 €."
+    ],
+    [
+      "+5,7 %",
+      "Prix production Chine",
+      "Octobre, sur un an : plus forte hausse depuis juin 2022."
+    ],
+    [
+      "+0,7 %",
+      "Prix consommation Chine",
+      "Octobre, contre 0,9 % en septembre : demande intérieure faible."
+    ],
+    [
+      "1,7 GW",
+      "Anthropic",
+      "Générateurs au gaz achetés pour 3,4 Md$, record pour un laboratoire d'IA."
+    ],
+    [
+      "15-20 %",
+      "Titres américains",
+      "Part détenue par les Européens, canal de contagion d'un krach de l'IA."
+    ],
+    [
+      "46 %",
+      "Ménages endettés",
+      "Part des ménages français remboursant un crédit (Insee)."
+    ],
+    [
+      "58,5 %",
+      "Génération 1984",
+      "Part gagnant plus que leurs parents à 30 ans, contre plus de 95 % pour 1944."
+    ]
+  ],
+  "quiz": [
+    {
+      "q": "Combien de recettes fiscales nouvelles le contre-budget LFI prévoit-il pour 2027 ?",
+      "o": [
+        "22 Md€",
+        "81,7 Md€",
+        "106,4 Md€",
+        "1 000 Md€"
+      ],
+      "a": 2,
+      "e": "106,4 Md€ de recettes pour 81,7 Md€ de dépenses, soit près de 25 Md€ d'amélioration du solde."
+    },
+    {
+      "q": "Pourquoi les recettes d'un impôt sur les hauts patrimoines peuvent-elles être inférieures aux prévisions ?",
+      "o": [
+        "Parce que la BCE les capte",
+        "Parce que la base fiscale réagit au taux (optimisation, départs)",
+        "Parce que l'inflation les annule",
+        "Parce que les impôts sont plafonnés par l'UE"
+      ],
+      "a": 1,
+      "e": "C'est l'élasticité de la base : si l'assiette diminue quand le taux monte, la recette réelle est inférieure au calcul statique."
+    },
+    {
+      "q": "Quel est le niveau actuel du Smic net mensuel selon LCP ?",
+      "o": [
+        "1 337 €",
+        "1 477 €",
+        "1 500 €",
+        "1 700 €"
+      ],
+      "a": 1,
+      "e": "1 477 € net. Le gouvernement veut franchir les 1 500 € ; LFI promet 1 700 € ; 1 337 € est la garantie d'autonomie de LFI."
+    },
+    {
+      "q": "En octobre, comment évoluent les prix en Chine ?",
+      "o": [
+        "Prix production +5,7 %, consommation +0,7 %",
+        "Prix production −2,1 %, consommation +0,2 %",
+        "Les deux à +3 %",
+        "Déflation générale"
+      ],
+      "a": 0,
+      "e": "Coûts en forte hausse, mais demande intérieure faible : les prix à la consommation ralentissent."
+    },
+    {
+      "q": "Quel auteur a décrit la « récession de bilan » ?",
+      "o": [
+        "Irving Fisher",
+        "Richard Koo",
+        "Arthur Laffer",
+        "Hyman Minsky"
+      ],
+      "a": 1,
+      "e": "Richard Koo : après une bulle immobilière, les agents remboursent leurs dettes au lieu de dépenser (Japon des années 1990)."
+    },
+    {
+      "q": "Qu'a acheté Anthropic pour 3,4 Md$ ?",
+      "o": [
+        "Un fabricant de puces",
+        "Des générateurs au gaz (1,7 GW)",
+        "Une centrale nucléaire",
+        "Des terres en Patagonie"
+      ],
+      "a": 1,
+      "e": "Des générateurs Caterpillar commandés à l'origine par OnePWR : le plus gros achat connu d'équipements électriques par un labo d'IA."
+    },
+    {
+      "q": "Selon la Banque de France, quelle part des titres américains détiennent les Européens ?",
+      "o": [
+        "2 à 5 %",
+        "15 à 20 %",
+        "40 à 50 %",
+        "Plus de 70 %"
+      ],
+      "a": 1,
+      "e": "C'est ce qui exposerait l'Europe à une correction des valorisations de l'IA aux États-Unis."
+    },
+    {
+      "q": "Qui sont les deux candidats à la succession de Christine Lagarde ?",
+      "o": [
+        "Nagel et Schnabel",
+        "Hernández de Cos et Knot",
+        "Villeroy et Moulin",
+        "Draghi et Panetta"
+      ],
+      "a": 1,
+      "e": "L'Espagnol Pablo Hernández de Cos et le Néerlandais Klaas Knot. Lagarde part le 7 février 2027."
+    }
+  ],
+  "colle": {
+    "title": "Peut-on financer l'État social en taxant davantage les plus riches ?",
+    "parts": [
+      [
+        "La taxation des hauts revenus et patrimoines peut dégager des marges importantes",
+        [
+          "Concentration du patrimoine et faible progressivité au sommet (Piketty, Zucman)",
+          "Exemple : le contre-budget LFI attend 76 Md€ de cinq mesures ciblées"
+        ]
+      ],
+      [
+        "Mais la mobilité des bases fiscales limite le rendement",
+        [
+          "Élasticité de la base et courbe de Laffer : optimisation, expatriation",
+          "Économie ouverte : concurrence fiscale, réaction des marchés avec une dette à 120 % du PIB"
+        ]
+      ],
+      [
+        "Le financement de l'État social passe par une combinaison de leviers",
+        [
+          "Élargir l'assiette plutôt que relever les taux : niches fiscales, coordination européenne (impôt minimum mondial)",
+          "Soutenir la croissance et l'emploi, qui restent la première source de recettes"
+        ]
+      ]
+    ]
+  },
+  "matrix": {
+    "cols": [
+      "Cosmos",
+      "myFT",
+      "LCP",
+      "CNBC",
+      "Bloomberg",
+      "AFP",
+      "Meduza",
+      "Insee"
+    ],
+    "rows": [
+      [
+        "Programme LFI",
+        [
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        "Conférence sociale et Smic",
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        "Inflation en Chine",
+        [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        "Anthropic et le gaz",
+        [
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        "Risque IA en Europe",
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      [
+        "Négociations Ukraine",
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ]
+      ],
+      [
+        "Endettement des ménages",
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      [
+        "Succession de Lagarde",
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    ]
+  },
+  "sources": [
+    [
+      "Cosmos Finance (Économix)",
+      "newsletter, lun. 9",
+      "Programme de Mélenchon décrypté, endettement, Shein et Temu, BCE, immobilier, mobilité sociale, retraites OCDE, Banque de France"
+    ],
+    [
+      "myFT Daily Digest",
+      "newsletter, lun. 9",
+      "Anthropic et le gaz, inflation chinoise, Trump et l'immigration, COP31, Abou Dhabi, Apple et Singapour, Huang"
+    ],
+    [
+      "LCP",
+      "web, 6 nov.",
+      "Ce qui change dans le programme de Mélenchon ; enjeux de la conférence sociale du 9 novembre"
+    ],
+    [
+      "Euronews",
+      "web, 6 nov.",
+      "Publication de L'Avenir en commun avant le meeting du Bourget"
+    ],
+    [
+      "CNBC",
+      "web, 9 nov.",
+      "Prix à la production et à la consommation en Chine, analyse de Zhang Zhiwei"
+    ],
+    [
+      "Xinhua",
+      "web, 9 nov.",
+      "Détail de l'indice des prix chinois : essence, alimentation"
+    ],
+    [
+      "Bloomberg, d'après le FT",
+      "web, 8 nov.",
+      "Anthropic achète 1,7 GW de générateurs au gaz"
+    ],
+    [
+      "The Next Web",
+      "web, 8 nov.",
+      "OnePWR, commandes Caterpillar, engagements d'Anthropic"
+    ],
+    [
+      "AFP, via Techniques de l'ingénieur",
+      "web, 2 nov.",
+      "Emmanuel Moulin alerte sur une contagion d'un krach de l'IA"
+    ],
+    [
+      "Meduza",
+      "web, 3 nov.",
+      "Pourparlers tripartites à Abou Dhabi les 10 et 11 novembre"
+    ],
+    [
+      "Insee, via Économie Matin",
+      "web, 5 nov.",
+      "46 % des ménages endettés, écarts selon le niveau de vie"
+    ],
+    [
+      "Économie Matin",
+      "web, 2026",
+      "Droit de 3 € par petit colis depuis le 1er juillet"
+    ],
+    [
+      "ONU (UNRIC), ministère autrichien du Climat",
+      "web, 2026",
+      "Dates de la COP31 et partage de la présidence Turquie-Australie"
+    ],
+    [
+      "Il Foglio",
+      "web, 29 oct.",
+      "Profils de Hernández de Cos et Knot"
+    ],
+    [
+      "Daily Caller",
+      "web, 4 nov.",
+      "La Maison-Blanche exclut une amnistie de masse"
+    ]
+  ]
+}

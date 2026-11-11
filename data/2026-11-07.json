@@ -1,0 +1,289 @@
+{
+  "date": "2026-11-07",
+  "label": "Samedi 7 novembre 2026",
+  "period": "5 au 7 novembre",
+  "sourcesCount": 10,
+  "hero": {
+    "img": "img/2026-11-07/ak_3.jpg",
+    "alt": "Un trader sur le parquet de la Bourse de New York",
+    "credit": "Brendan McDermid / Reuters, via Aktionnaire",
+    "eyebrow": "À la une",
+    "title": "La vague bleue fait tanguer Wall Street",
+    "lede": "Les démocrates ont repris le Congrès mardi. Deux jours plus tard, la Bourse américaine a connu sa pire séance depuis 2020 : les investisseurs craignent que la nouvelle majorité freine la construction des data centers, moteur du boom de l'IA."
+  },
+  "brief": [
+    ["États-Unis", "Les démocrates gagnent la Chambre et le Sénat aux midterms, jusqu'au Texas. Trump devient un « canard boiteux » mais garde son veto et ses décrets."],
+    ["Marchés", "Jeudi, le Nasdaq 100 chute de 6,4 % et 3 200 Md$ s'évaporent. Les semi-conducteurs plongent de 12 %. L'Asie suit vendredi, puis Wall Street rebondit."],
+    ["Économie américaine", "165 000 emplois créés en octobre et un pétrole qui remonte vers 98 $ : la Fed pourrait relever ses taux."],
+    ["France", "Plus forte mobilisation de l'automne le 5 novembre. Lecornu réunit syndicats et patronat lundi 9. Le salaire médian des cadres recule pour la première fois depuis 2010."],
+    ["Géopolitique", "Washington accuse Pékin de ne pas tenir la trêve commerciale de Busan. La Chine bloque le rachat de la robotique d'ABB par SoftBank."]
+  ],
+  "figures": [
+    {"v": "−6,4 %", "l": "Nasdaq 100 jeudi, pire séance depuis mars 2020", "dir": "down"},
+    {"v": "−12,3 %", "l": "Indice SOX des semi-conducteurs", "dir": "down"},
+    {"v": "+165 k", "l": "Emplois créés aux États-Unis en octobre", "dir": "up"},
+    {"v": "−1,8 %", "l": "Salaire médian des cadres français en 2026", "dir": "down"}
+  ],
+  "themes": [
+    {
+      "title": "États-Unis, après les midterms",
+      "stories": [
+        {
+          "eyebrow": "Politique",
+          "title": "Les démocrates reprennent le Congrès, jusqu'au Texas",
+          "text": ["Victoire nette dans les deux chambres. Symbole fort : au Texas, républicain depuis 1988, James Talarico (37 ans) devient sénateur et Gina Hinojosa bat le gouverneur Greg Abbott en faisant campagne contre les data centers. Ted Cruz reste le seul élu républicain à l'échelle de l'État."],
+          "why": "Trump félicite les démocrates mais garde son droit de veto, gouverne par décret et poursuit la guerre en Iran, le dossier qui lui a coûté l'élection selon HyperTextes.",
+          "rep": 5, "sources": ["FT", "HyperTextes", "Friday memo", "Cosmos"],
+          "more": [
+            "<b>Le virage démocrate.</b> Après une décennie centrée sur les questions identitaires, le parti remet l'économie et le social au cœur du discours. Laurent Joffrin parle de « fin du moment woke ». 123 candidats soutenus par les Democratic Socialists of America ont gagné des primaires, dans le sillage de Zohran Mamdani à New York.",
+            "<b>Un socialisme modéré.</b> Plus proche de la social-démocratie que d'une remise en cause de la propriété privée.",
+            "<b>Lectures du FT.</b> L'historien Simon Schama y voit un tournant historique ; Gillian Tett parle d'une victoire de l'État de droit, qui compte autant pour les entreprises que le décompte des sièges.",
+            "<b>Limite.</b> Pour le FT, un Congrès démocrate changera peu la politique économique d'ici la fin du mandat, à cause du veto présidentiel."
+          ],
+          "prog": "Régimes politiques, cohabitation, cycle politico-économique"
+        },
+        {
+          "img": "img/2026-11-07/ft_dc.jpg", "alt": "Manifestation à Austin contre les data centers", "credit": "Manifestation à Austin, via le FT",
+          "eyebrow": "Tech et politique",
+          "title": "La Silicon Valley, grande perdante du scrutin",
+          "text": ["Les patrons de la tech qui avaient financé Trump et ses alliés doivent revoir leur stratégie. Les démocrates veulent encadrer l'IA, supprimer certaines subventions et faire payer aux groupes d'IA « le coût complet » de l'électricité et de l'eau. Une minorité réclame une pause dans le développement des modèles les plus avancés."],
+          "why": "Meta reconnaît que « construire de nouveaux data centers aux États-Unis s'annonce très complexe » et envisage d'en bâtir à l'étranger.",
+          "rep": 4, "sources": ["FT Newswrap", "myFT", "Aktionnaire", "NBS"]
+        }
+      ]
+    },
+    {
+      "title": "Marchés : la correction de l'IA",
+      "stories": [
+        {
+          "img": "img/2026-11-07/ft_c.jpg", "alt": "Écran du Nasdaq affichant la chute de l'indice", "credit": "Via le FT",
+          "eyebrow": "Wall Street",
+          "title": "Du champagne au Doliprane en 24 heures",
+          "text": ["Mercredi, Wall Street gagne 3 % : un pouvoir partagé à Washington limite les coups de théâtre. Jeudi, retournement complet : le Nasdaq 100 perd 6,4 %, le S&P 500 4,4 % et le Dow Jones 3,4 %. 3 200 Md$ de capitalisation disparaissent, dont plus de 1 000 Md$ pour les « 7 magnifiques »."],
+          "why": "Les fabricants de puces sont en première ligne : SanDisk −22 %, Micron −17,4 %, AMD −17,2 %, Nvidia −9,2 %. Vendredi, le Nasdaq rebondit de 1,4 %.",
+          "rep": 7, "sources": ["FT", "Cosmos", "Aktionnaire", "NBS"],
+          "more": [
+            "Les géants du cloud (Meta, Alphabet, Microsoft, Amazon) devaient investir près de 800 Md$ cette année dans les data centers. Si les projets ralentissent, toute la chaîne (puces, serveurs, énergie) voit ses perspectives révisées.",
+            "Paradoxe relevé par The Next Big Sh*t : certaines grandes tech montent, car moins de dépenses en IA signifie plus de trésorerie et peut-être plus de dividendes.",
+            "Katie Martin (FT) : le marché cherchait depuis longtemps le déclencheur d'une correction. « La politique américaine pourrait finalement être ce déclencheur. »"
+          ],
+          "prog": "Marchés financiers, bulles spéculatives, anticipations"
+        },
+        {
+          "img": "img/2026-11-07/ft_b.jpg", "alt": "Passants devant un panneau affichant la chute du Nikkei à Tokyo", "credit": "Tokyo, via le FT",
+          "eyebrow": "Asie et matières premières",
+          "title": "La contagion gagne Tokyo, Séoul et le cuivre",
+          "text": ["Vendredi, le Nikkei 225 perd 6 %, sa pire séance depuis le « Liberation Day » d'avril 2025. Le Kospi coréen, dominé par les fabricants de puces comme Samsung et SK Hynix, chute aussi de 6 %. Le cuivre, indispensable aux réseaux électriques et au refroidissement des data centers, recule."],
+          "rep": 3, "sources": ["FT Newswrap", "myFT"]
+        },
+        {
+          "img": "img/2026-11-07/ft_e.jpg", "alt": "Illustration de bulles de dialogue d'une IA", "credit": "Illustration via le FT",
+          "eyebrow": "Introductions en Bourse",
+          "title": "Anthropic maintient son entrée en Bourse",
+          "text": ["Le créateur de Claude vise toujours une cotation avant Thanksgiving, sur une valorisation de 1 500 Md$, malgré la tempête. Les particuliers britanniques pourront acheter des actions. Les marchés de prédiction évoquaient pourtant un report possible."],
+          "rep": 3, "sources": ["myFT", "FT Newswrap", "Aktionnaire"]
+        },
+        {
+          "img": "img/2026-11-07/ft_d.jpg", "alt": "Illustration de globes et de courbes d'inflation", "credit": "Illustration via le FT",
+          "eyebrow": "Macroéconomie",
+          "title": "Emploi solide, pétrole en hausse : les taux vont monter",
+          "text": ["L'économie américaine a créé 165 000 emplois en octobre, plus que prévu. Les inscriptions au chômage tombent à 189 000 et la productivité progresse de 3,6 % au troisième trimestre. Le pétrole repart : WTI vers 90 $, Brent vers 98 $, après avoir chuté de 15 % mercredi sur l'espoir d'une désescalade avec l'Iran."],
+          "why": "Conséquence attendue : la Fed relèverait ses taux. La Banque d'Angleterre l'a déjà fait, à 4 %.",
+          "rep": 3, "sources": ["myFT", "FT Newswrap", "Cosmos"]
+        }
+      ]
+    },
+    {
+      "title": "France : salaires et colère sociale",
+      "stories": [
+        {
+          "eyebrow": "Mouvement social",
+          "title": "Lecornu convoque une conférence sociale lundi",
+          "text": ["Le 5 novembre, 575 000 manifestants selon la police, 1,6 million selon la CGT : la plus forte journée de l'automne, lycéens et étudiants en tête. Sébastien Lecornu réunit syndicats et patronat le 9 novembre à Matignon sur les salaires et le pouvoir d'achat."],
+          "why": "Pistes sur la table : avancer au 1er décembre la revalorisation du SMIC prévue en janvier, voire un coup de pouce ; un décret pour forcer les branches dont les minima sont sous le SMIC à renégocier. La CFDT demande +100 € nets, la CGT +10 %.",
+          "rep": 4, "sources": ["Aktionnaire", "Cosmos", "HyperTextes", "Friday memo"],
+          "more": [
+            "<b>Une exception française.</b> Selon The Economist, les manifestations reculent de 7 % dans l'UE par rapport à 2020-2025. Mais la France, avec 15 % de la population européenne, concentre 33 % des manifestations et 66 % des émeutes.",
+            "<b>Éducation.</b> Le salaire d'entrée d'un enseignant est passé de 2,1 SMIC dans les années 1980 à 1,04 SMIC aujourd'hui. Les lycéens français ont 1 224 heures de cours par an, contre 903 en moyenne en Europe et 713 en Finlande.",
+            "<b>Logement.</b> 83 % des Français estiment que le pays traverse une crise du logement ; le loyer moyen atteint 709 €, +17 % en six ans."
+          ],
+          "prog": "Salaire minimum, conflits sociaux, inégalités"
+        },
+        {
+          "img": "img/2026-11-07/ak_1.jpg", "alt": "Un homme en costume traverse la place Vendôme", "credit": "Benjamin Girette / Bloomberg, via Aktionnaire",
+          "eyebrow": "Marché du travail",
+          "title": "Le salaire des cadres baisse, une première depuis 2010",
+          "text": ["Selon l'APEC, la rémunération médiane des cadres passe de 55 000 à 54 000 € bruts par an (−1,8 %). Les salaires fixes tiennent ; ce sont les primes qui fondent : 48 % des cadres en ont touché, contre 54 % en 2025. Les 30-49 ans sont les plus touchés."],
+          "why": "Les moins de 30 ans s'en sortent mieux : deux tiers ont été augmentés, parce qu'ils changent d'entreprise. 14,8 % des ingénieurs français travaillent désormais à l'étranger.",
+          "rep": 2, "sources": ["Aktionnaire", "NBS"]
+        },
+        {
+          "eyebrow": "Entreprises",
+          "title": "Les géants de la tech et les banques réduisent la voilure en France",
+          "text": ["Meta prépare des départs volontaires pour environ 100 de ses 300 salariés français ; Google étend ses offres de départ. Société Générale va fermer ou regrouper 148 points de vente d'ici fin 2027, et sa filiale titres transfère 80 postes vers l'Inde. Le BHV, en redressement judiciaire, cherche un repreneur pour ses 660 salariés."],
+          "sources": ["Cosmos", "Aktionnaire", "NBS"]
+        }
+      ]
+    },
+    {
+      "title": "Monde et géopolitique",
+      "stories": [
+        {
+          "img": "img/2026-11-07/ft_xi.jpg", "alt": "Xi Jinping et Donald Trump", "credit": "Via le FT",
+          "eyebrow": "États-Unis – Chine",
+          "title": "La trêve commerciale de Busan se fissure",
+          "text": ["Washington somme Pékin de respecter « immédiatement » l'accord conclu entre Trump et Xi à Busan l'an dernier, notamment sur les livraisons de terres rares. En parallèle, la Chine bloque le rachat de la division robotique d'ABB par SoftBank (5,4 Md$), et le Congrès convoque le patron de Nvidia, Jensen Huang, sur des soupçons d'espionnage chinois."],
+          "rep": 3, "sources": ["myFT", "FT Newswrap"]
+        },
+        {
+          "eyebrow": "Europe, Moyen-Orient, Amérique latine",
+          "title": "L'Europe inquiète d'un accord de sécurité négocié avec Moscou",
+          "text": ["Les capitales européennes s'alarment d'un « cadre » pour la sécurité européenne que Washington dit préparer avec la Russie dans le cadre d'un futur accord sur l'Ukraine. Robert Shrimsley (FT) prévient : l'Europe ne doit pas croire au retour de « l'ancienne Amérique »."],
+          "why": "Ailleurs : le Qatar pousse Trump à privilégier la diplomatie avec l'Iran ; plus de 20 vols européens ont reçu de fausses alertes à la bombe ; au Paraguay, le président pro-Trump est tombé après une faillite bancaire ; au Brésil, Lula a gagné après être arrivé deuxième au premier tour.",
+          "sources": ["FT Opinion", "FT Newswrap", "HyperTextes", "Aktionnaire"]
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    ["Tesla arrête le Cybertruck", "Ventes faibles et rappels : Musk recentre Tesla sur la robotique et l'IA."],
+    ["Mistral AI, 5e rachat de l'année", "La pépite française acquiert SkipLabs, spécialisée dans le code généré par IA."],
+    ["Air France-KLM", "Bénéfices en hausse de 22 % au troisième trimestre, malgré un carburant plus cher."],
+    ["Creator economy", "10,1 Md$ de revenus en France (+23,7 %). Le CNC relance son aide aux créateurs, doublée à 6 M€."],
+    ["Sony porté par Spider-Man", "2,52 Md$ au box-office, 3e film le plus rentable de l'histoire. Les ventes de PS5 chutent de 4 à 2,6 millions."],
+    ["Cristiano Ronaldo", "Retraite internationale à 41 ans : 234 sélections et 146 buts, deux records."]
+  ],
+  "good": "Selon un rapport de l'ONU, la restauration des écosystèmes progresse à une échelle inédite : gorilles des montagnes en Afrique de l'Est, jaguars au Brésil, léopards des neiges au Kirghizistan et dauphins du Gange se reconstituent.",
+  "map": {
+    "start": "m",
+    "nodes": [
+      {"id": "m", "x": 200, "y": 34, "l": ["Midterms :", "la vague bleue"], "t": "Midterms : la vague bleue", "d": "Les démocrates reprennent les deux chambres. Effets attendus : plus de contraintes sur les data centers, et l'espoir d'une désescalade avec l'Iran."},
+      {"id": "reg", "x": 100, "y": 122, "l": ["Régulation de l'IA", "et des data centers"], "t": "Régulation de l'IA", "d": "Promesses de freiner les data centers et de supprimer des subventions. Même sans loi fédérale, les permis locaux peuvent ralentir les projets."},
+      {"id": "oil", "x": 300, "y": 122, "l": ["Pétrole", "et guerre en Iran"], "t": "Pétrole et Iran", "d": "Le baril chute de 15 % mercredi sur l'espoir de paix, puis remonte (Brent vers 98 $). Un pétrole cher entretient l'inflation et pèse sur les coûts des entreprises."},
+      {"id": "krach", "x": 100, "y": 222, "l": ["Krach de la tech", "Nasdaq −6,4 %"], "t": "Krach de la tech", "d": "Les fabricants de puces perdent jusqu'à 22 %. 3 200 Md$ effacés. Les indices, très concentrés sur l'IA, amplifient le choc."},
+      {"id": "fed", "x": 300, "y": 222, "l": ["Inflation", "et taux de la Fed"], "t": "Inflation et taux", "d": "Emploi solide (+165 000) et énergie chère : la Fed devrait monter ses taux. Des taux plus élevés réduisent la valeur actualisée des profits futurs, surtout ceux de la tech."},
+      {"id": "asie", "x": 100, "y": 322, "l": ["Contagion :", "Asie et cuivre"], "t": "Contagion", "d": "Nikkei et Kospi −6 %, cuivre en baisse : les pays et matières premières liés à la chaîne de valeur de l'IA sont touchés."},
+      {"id": "sal", "x": 300, "y": 322, "l": ["France : salaires", "et SMIC"], "t": "Salaires en France", "d": "Énergie chère et incertitude freinent l'investissement et les primes. Le salaire des cadres recule, la mobilisation sociale grandit, le gouvernement envisage une hausse anticipée du SMIC."},
+      {"id": "usc", "x": 200, "y": 414, "l": ["Rivalité", "États-Unis – Chine"], "t": "Rivalité États-Unis – Chine", "d": "Trêve de Busan contestée, terres rares, rachat SoftBank-ABB bloqué, Nvidia soupçonnée : la course à l'IA est aussi une question de puissance."}
+    ],
+    "edges": [["m","reg"],["m","oil"],["reg","krach"],["oil","fed"],["fed","krach"],["krach","asie"],["oil","sal"],["usc","krach"],["usc","asie"]]
+  },
+  "dossiers": [
+    {
+      "eyebrow": "Finance",
+      "title": "Pourquoi une élection fait chuter la Bourse",
+      "q": "Le même résultat électoral fait monter Wall Street mercredi puis la fait plonger jeudi. Ce n'est pas l'élection qui change, ce sont les anticipations.",
+      "steps": [
+        ["Mercredi : soulagement", "Un gouvernement divisé limite les décisions brutales.", "Avec un Congrès démocrate et un président républicain, chaque camp peut bloquer l'autre. Pour les marchés, moins d'imprévisibilité réduit la prime de risque. Le pétrole chute aussi de 15 % sur l'espoir d'une désescalade avec l'Iran, ce qui fait baisser les anticipations d'inflation."],
+        ["Jeudi : réévaluation", "Les investisseurs lisent les promesses de campagne sur l'IA.", "Plusieurs élus ont fait campagne contre les data centers, gros consommateurs d'électricité et d'eau. Même sans loi fédérale (veto de Trump), les États et les autorités locales peuvent ralentir les permis de construire. Meta le confirme : les nouveaux sites deviennent difficiles à autoriser."],
+        ["Moins de data centers, moins de puces", "Environ 800 Md$ d'investissements par an remis en question.", "Le chiffre d'affaires de Nvidia, AMD ou Micron dépend des achats des géants du cloud. Si ces investissements ralentissent, les prévisions de bénéfices des fabricants de puces baissent, et leur cours avec. D'où −12 % sur l'indice SOX en une séance."],
+        ["Des indices très concentrés", "Quand quelques géants tombent, tout l'indice tombe.", "Les valeurs liées à l'IA pèsent une part énorme du S&P 500 et du Nasdaq. La baisse en valeur de l'indice S&P 1500 est la plus forte depuis 2000, l'époque de la bulle internet. Une forte concentration rend le marché fragile : un seul choc sectoriel devient un choc global."],
+        ["Aggravant : des taux plus élevés", "Pétrole cher et emploi solide poussent la Fed à monter ses taux.", "La valeur d'une action est la somme actualisée des profits futurs. Quand le taux d'intérêt monte, un euro de profit dans 15 ans vaut beaucoup moins aujourd'hui. Les entreprises de l'IA, dont les profits sont attendus loin dans le futur, sont les plus pénalisées. Essaie le calculateur juste en dessous."],
+        ["Contagion internationale", "Tokyo, Séoul et le cuivre suivent.", "Les marchés sont interconnectés par les chaînes de valeur : la Corée et le Japon produisent des puces et des équipements pour les data centers américains. Le cuivre, utilisé dans les câbles et le refroidissement, voit sa demande future révisée. C'est un canal de transmission par le commerce et par les anticipations."]
+      ],
+      "charts": [
+        {"img": "img/2026-11-07/ks_2.jpg", "alt": "Courbe intraday du Nasdaq 100 le 5 novembre", "c": "Nasdaq 100, 5 novembre, via Cosmos Finance"},
+        {"img": "img/2026-11-07/ks_3.jpg", "alt": "Courbe intraday de l'indice SOX le 5 novembre", "c": "Indice SOX, 5 novembre, via Cosmos Finance"}
+      ],
+      "calc": true,
+      "refs": [
+        "<b>Keynes, le « concours de beauté » (1936).</b> En Bourse, on achète ce que les autres vont acheter. Jeudi, chacun anticipe la vente des autres.",
+        "<b>Minsky, hypothèse d'instabilité financière.</b> Les périodes d'euphorie encouragent la prise de risque jusqu'au retournement.",
+        "<b>Kindleberger, <i>Manias, Panics and Crashes</i>.</b> Une bulle suit des phases : déplacement, euphorie, détresse, panique. Où en est l'IA ?",
+        "<b>Shiller, « exubérance irrationnelle ».</b> Les récits (« l'IA va tout changer ») portent les prix au-delà des fondamentaux.",
+        "<b>Fama, efficience des marchés.</b> Le prix intègre toute l'information disponible. Le revirement en 24 h montre la difficulté à interpréter une information."
+      ],
+      "accroche": "Le 5 novembre 2026, 3 200 milliards de dollars se sont évaporés à Wall Street sans qu'aucune usine ne ferme : seules les anticipations avaient changé.",
+      "sujets": ["Les marchés financiers sont-ils efficients ?", "La finance est-elle au service de l'économie réelle ?"]
+    },
+    {
+      "eyebrow": "Marché du travail",
+      "title": "Pourquoi les salaires sont au cœur de la colère",
+      "q": "Les salaires des cadres baissent, ceux des enseignants se rapprochent du SMIC. Le problème n'est pas seulement le niveau des salaires, c'est leur hiérarchie.",
+      "steps": [
+        ["Incertitude et énergie chère", "Les entreprises investissent et recrutent moins.", "Géopolitique instable, prix de l'énergie élevés, carnets de commandes peu lisibles : les entreprises reportent investissements et embauches. Seules 7 % prévoyaient de recruter un jeune cadre au troisième trimestre."],
+        ["Le rapport de force s'inverse", "Les primes servent de variable d'ajustement.", "Baisser un salaire fixe est difficile (rigidité nominale à la baisse, déjà notée par Keynes). Les entreprises ajustent donc par la partie variable : bonus et primes. D'où un salaire médian des cadres en recul de 1,8 %."],
+        ["Un SMIC qui rattrape le reste", "Le bas de l'échelle est indexé, pas le milieu.", "Le SMIC est revalorisé automatiquement selon l'inflation et une partie des gains de pouvoir d'achat. Les salaires juste au-dessus ne le sont pas. Résultat : la grille se tasse. Un professeur débutant est passé de 2,1 à 1,04 SMIC. On parle de « smicardisation »."],
+        ["Un sentiment de déclassement", "Les statistiques globales ne rassurent pas.", "Chris Giles (FT) : les électeurs se moquent des moyennes nationales s'ils ne voient pas leur propre revenu réel progresser. Le coin socio-fiscal pèse aussi : sur 100 € de hausse versés par l'employeur, un cadre n'en garde qu'environ 40."],
+        ["Mobilisation, puis négociation", "Conférence sociale le 9 novembre, hausse du SMIC envisagée.", "Le gouvernement envisage d'avancer la revalorisation du SMIC et de forcer les branches à relever leurs minima. Le débat économique classique se rejoue : un SMIC plus haut soutient-il la demande ou freine-t-il l'emploi des moins qualifiés ?"]
+      ],
+      "split": [
+        ["Hausser le SMIC : pour", "Soutien de la consommation (Keynes), salaire d'efficience qui motive et fidélise (Akerlof, Shapiro-Stiglitz). Card et Krueger (1994) ne trouvent pas d'effet négatif sur l'emploi dans les fast-foods du New Jersey."],
+        ["Hausser le SMIC : contre", "Coût du travail plus élevé pour les moins qualifiés, risque de chômage selon l'analyse néoclassique. Tassement accru de la grille si les autres salaires ne suivent pas."]
+      ],
+      "accroche": "En France, un professeur débutant gagnait 2,1 fois le SMIC dans les années 1980 ; il en gagne aujourd'hui 1,04.",
+      "sujets": ["Faut-il augmenter le salaire minimum ?", "Le salaire est-il un prix comme un autre ?", "Comment expliquer la persistance des conflits sociaux ?"]
+    },
+    {
+      "eyebrow": "Mondialisation",
+      "title": "L'IA, nouveau terrain de la rivalité sino-américaine",
+      "q": "Terres rares, robots, puces : le commerce est devenu un instrument de puissance.",
+      "steps": [
+        ["2025 : guerre commerciale", "Le « Liberation Day » d'avril 2025 relance les droits de douane.", "Trump impose des droits de douane massifs. La Chine riposte, notamment en restreignant ses exportations de terres rares, dont elle domine le raffinage mondial. Ces métaux sont indispensables aux puces, aux moteurs électriques et à l'armement."],
+        ["La trêve de Busan", "Pékin promet plus de terres rares, puis tarde à livrer.", "Washington accuse aujourd'hui la Chine de ne pas tenir ses engagements. L'interdépendance devient une arme : chaque camp contrôle un maillon dont l'autre a besoin (puces avancées côté américain, terres rares côté chinois)."],
+        ["Techno-nationalisme", "La Chine bloque SoftBank-ABB, les États-Unis soupçonnent Nvidia.", "En bloquant le rachat de la robotique d'ABB (usine géante à Shanghai), Pékin garde la main sur une technologie stratégique. Pour le FT, c'est le coup d'envoi de la « guerre des robots ». Trump refuse toute pause de l'IA au nom de la « domination mondiale »."],
+        ["Le bilan électoral du protectionnisme", "Pour Alan Beattie (FT), Trump a prouvé que les droits de douane sont inutiles.", "Les promesses de réindustrialisation et d'emplois manufacturiers n'ont pas été tenues, et les républicains ont été sanctionnés. Mais François Lenglet prévient : l'Europe n'en profitera pas directement, car droits de douane et rivalité avec la Chine vont durer."]
+      ],
+      "refs": [
+        "<b>Friedrich List (1841).</b> Protectionnisme éducateur : protéger temporairement les industries naissantes.",
+        "<b>Krugman, politique commerciale stratégique.</b> Dans les secteurs à rendements croissants, l'État peut aider ses champions.",
+        "<b>Farrell et Newman, « interdépendance militarisée » (2019).</b> Contrôler un nœud des réseaux mondiaux donne un pouvoir de coercition.",
+        "<b>Ricardo, avantages comparatifs.</b> Le contrepoint libre-échangiste, et les coûts du protectionnisme pour le consommateur."
+      ],
+      "sujets": ["La mondialisation est-elle en recul ?", "Le protectionnisme peut-il être efficace ?"]
+    }
+  ],
+  "flash": [
+    ["−6,4 %", "Nasdaq 100, 5 nov.", "Pire séance depuis mars 2020. 3 200 Md$ effacés à Wall Street."],
+    ["800 Md$", "Investissements IA", "Dépenses annuelles prévues par les géants du cloud dans les data centers."],
+    ["165 000", "Emplois américains", "Créés en octobre, au-dessus des prévisions : la Fed pourrait monter ses taux."],
+    ["54 000 €", "Salaire médian cadre", "Contre 55 000 € en 2025 (APEC) : première baisse depuis 2010."],
+    ["1,04 SMIC", "Prof débutant", "Contre 2,1 SMIC dans les années 1980 : le tassement de la grille salariale."],
+    ["33 %", "Manifestations UE", "Part de la France, pour 15 % de la population européenne (The Economist)."],
+    ["1 500 Md$", "Anthropic", "Valorisation visée pour l'introduction en Bourse avant Thanksgiving."],
+    ["4 %", "Banque d'Angleterre", "Nouveau taux directeur après une hausse, prévisions d'inflation durcies."],
+    ["14,8 %", "Ingénieurs à l'étranger", "Part des ingénieurs français en activité travaillant hors de France fin 2024."]
+  ],
+  "quiz": [
+    {"q": "Pourquoi Wall Street a-t-elle chuté le lendemain de la victoire démocrate ?", "o": ["Les démocrates veulent nationaliser les géants de la tech", "Les investisseurs craignent un frein à la construction de data centers", "La Fed a baissé ses taux par surprise", "Le prix du pétrole s'est effondré"], "a": 1, "e": "Plusieurs élus ont fait campagne contre les data centers. Moins de data centers, c'est moins d'achats de puces : les semi-conducteurs ont chuté de 12 %."},
+    {"q": "Pourquoi une hausse des taux d'intérêt pénalise-t-elle surtout les entreprises de l'IA ?", "o": ["Elles sont plus endettées que les autres", "Leurs profits sont attendus loin dans le futur, donc fortement actualisés", "Elles paient plus d'impôts", "Elles exportent davantage"], "a": 1, "e": "Valeur = somme des profits futurs actualisés. Plus un profit est lointain, plus il perd de valeur quand r monte (duration élevée)."},
+    {"q": "Quel indice a perdu environ 12 % le 5 novembre ?", "o": ["Le Dow Jones", "Le CAC 40", "Le SOX (semi-conducteurs)", "Le Nikkei 225"], "a": 2, "e": "L'indice PHLX Semiconductor (SOX) a reculé de 12,25 %. Le Nikkei a perdu 6 % le lendemain."},
+    {"q": "Selon l'APEC, comment évolue le salaire médian des cadres français en 2026 ?", "o": ["+2,3 %", "Stable", "−1,8 %", "−5 %"], "a": 2, "e": "De 55 000 à 54 000 € bruts. Ce sont surtout les primes qui baissent : 48 % des cadres en ont touché contre 54 % en 2025."},
+    {"q": "Que signifie le « tassement de la grille salariale » ?", "o": ["Les hauts salaires augmentent plus vite que le SMIC", "Le SMIC rattrape les salaires situés juste au-dessus", "Les salaires baissent uniformément", "Les écarts femmes-hommes disparaissent"], "a": 1, "e": "Le SMIC est indexé, les salaires intermédiaires non. Exemple : un enseignant débutant est passé de 2,1 à 1,04 SMIC."},
+    {"q": "Qu'est-ce que la « trêve de Busan » ?", "o": ["Un cessez-le-feu entre la Russie et l'Ukraine", "Un accord commercial entre Trump et Xi Jinping", "Un traité sur l'IA signé à l'ONU", "Un accord entre les deux Corées"], "a": 1, "e": "Conclue l'an dernier, elle suspend la guerre commerciale. Washington accuse Pékin de ne pas livrer assez de terres rares."},
+    {"q": "Quel auteur associe-t-on à l'hypothèse d'instabilité financière ?", "o": ["Hyman Minsky", "Eugene Fama", "David Ricardo", "Friedrich List"], "a": 0, "e": "Minsky : la stabilité engendre l'instabilité. L'euphorie pousse à prendre de plus en plus de risques jusqu'au retournement."},
+    {"q": "Quelle mesure le gouvernement Lecornu envisage-t-il face aux manifestations ?", "o": ["Supprimer le SMIC", "Avancer la revalorisation du SMIC au 1er décembre", "Baisser l'impôt sur les sociétés", "Geler les salaires publics"], "a": 1, "e": "Une conférence sociale a lieu le 9 novembre. Le gouvernement envisage aussi un décret pour forcer les branches aux minima inférieurs au SMIC à renégocier."}
+  ],
+  "colle": {
+    "title": "Les élections influencent-elles les marchés financiers ?",
+    "parts": [
+      ["Les marchés réagissent fortement aux élections, car elles modifient les anticipations", ["Le prix d'un actif est une valeur actualisée : toute nouvelle sur les politiques futures le modifie", "Exemple : +3 % mercredi, −6,4 % jeudi sur le Nasdaq après les midterms"]],
+      ["Mais l'élection est souvent un déclencheur plus qu'une cause", ["Des valorisations déjà tendues et concentrées sur l'IA (Shiller, Minsky)", "Des facteurs macroéconomiques indépendants : pétrole, emploi, taux de la Fed"]],
+      ["Les marchés contraignent aussi le politique", ["Le veto et les institutions limitent les changements effectifs : le choc est surtout anticipé", "La finance pèse en retour sur les choix publics (stratégie politique de la tech, lobbying)"]]
+    ]
+  },
+  "matrix": {
+    "cols": ["FT Opinion", "myFT", "FT Newswrap", "Aktionnaire", "Cosmos", "NBS", "HyperTextes", "Friday memo"],
+    "rows": [
+      ["Krach de la tech", [0,1,1,1,1,1,0,0]],
+      ["Victoire démocrate", [1,1,1,0,1,0,1,1]],
+      ["Backlash data centers", [0,1,1,1,1,1,1,0]],
+      ["Manifestations et SMIC", [0,0,0,1,1,0,1,1]],
+      ["Anthropic IPO", [0,1,1,1,0,0,0,0]],
+      ["Emploi US et Fed", [0,1,1,0,1,0,0,0]],
+      ["Rivalité US–Chine", [0,1,1,0,0,0,0,0]],
+      ["Salaires des cadres", [0,0,0,1,0,1,0,0]],
+      ["Mistral rachète SkipLabs", [0,0,0,1,0,1,0,0]]
+    ]
+  },
+  "sources": [
+    ["FT Opinion", "sam. 7 et ven. 6", "Talarico, Schama, Tett ; l'Europe et « l'ancienne Amérique »"],
+    ["myFT Daily Digest", "sam. 7 et ven. 6", "Krach tech, Busan, Anthropic, emploi américain, cuivre, SoftBank"],
+    ["FT Newswrap", "ven. 6", "Contrecoup pour la Big Tech, Asie, BoE, Tesla, bonne nouvelle de l'ONU"],
+    ["Aktionnaire", "ven. 6", "Salaires des cadres, krach, manifestations, Meta et les data centers"],
+    ["Cosmos Finance", "ven. 6", "Le Nasdaq plonge de 6 %, pétrole, SMIC, logement, Meta et Google"],
+    ["The Next Big Sh*t", "ven. 6", "Data centers, salaires des quadras, Pilates, bag charms, Mistral"],
+    ["HyperTextes", "ven. 6", "Midterms, salaires des profs, Mediapart, « janonisme »"],
+    ["The Friday memo", "jeu. 5", "Socialisme américain, creator economy, manifestations en Europe"]
+  ]
+}

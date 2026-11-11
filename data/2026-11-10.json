@@ -1,0 +1,392 @@
+{
+  "date": "2026-11-10",
+  "label": "Mardi 10 novembre 2026",
+  "period": "9 au 10 novembre",
+  "sourcesCount": 4,
+  "countLabel": "4 newsletters + 12 sources web",
+  "hero": {
+    "img": "img/2026-11-10/lecornu.jpg",
+    "alt": "Sébastien Lecornu dans l'hémicycle de l'Assemblée nationale",
+    "credit": "Sarah Meyssonnier / Reuters, via Aktionnaire",
+    "eyebrow": "À la une",
+    "title": "Smic : le premier coup de pouce depuis 14 ans",
+    "lede": "À l'issue de la conférence sociale, Sébastien Lecornu avance la revalorisation du Smic au 1er décembre : +1,6 %, soit environ 1 502 € net par mois et 24 € de plus. Primes défiscalisées et heures supplémentaires complètent le paquet. Les syndicats parlent de « miettes », le Medef d'une « mauvaise réponse »."
+  },
+  "brief": [
+    ["Salaires", "Smic +1,6 % au 1er décembre, dont 0,6 point de coup de pouce : 1 502 € net. Le salaire de base du privé perd pourtant 1,1 % de pouvoir d'achat sur un an (Dares)."],
+    ["Nvidia", "Jensen Huang reconnaît une liaison avec une dirigeante soupçonnée d'espionnage pour Pékin. L'action perd 4,3 %, Trump dit que le FBI « regarde » l'affaire."],
+    ["Finances publiques", "La Cour des comptes propose 18 mesures et jusqu'à 38 Md€ d'économies dès 2027 : gel des pensions, des promotions des fonctionnaires, TVA intermédiaire à 13 %."],
+    ["Énergie", "Le Brent chute de 5,4 % à 92,97 $ après les propos apaisants de Trump sur l'Iran. En France, le prix repère du gaz monte pourtant de 5,8 % au 1er décembre."],
+    ["Chine et banques", "L'excédent commercial chinois dépasse 1 000 Md$ sur dix mois. Crédit Agricole propose de fusionner sa filiale italienne avec Banco BPM."]
+  ],
+  "figures": [
+    {"v": "+1,6 %", "l": "hausse du Smic au 1er décembre, à environ 1 502 € net", "dir": "up"},
+    {"v": "−1,1 %", "l": "pouvoir d'achat du salaire de base du privé sur un an (Dares, 3e trimestre)", "dir": "down"},
+    {"v": "1 040 Md$", "l": "excédent commercial chinois de janvier à octobre", "dir": "up"},
+    {"v": "−4,3 %", "l": "action Nvidia lundi, après l'ouverture d'une enquête sur son patron", "dir": "down"}
+  ],
+  "themes": [
+    {
+      "title": "France : salaires, prix et budget",
+      "stories": [
+        {
+          "eyebrow": "Conférence sociale",
+          "title": "Smic à 1 502 € : ce qu'a décidé Matignon",
+          "text": [
+            "Le Smic passera de 1 477,93 € à environ 1 502 € net au 1er décembre, soit +1,6 % : 1 % de revalorisation automatique liée à l'inflation, avancée d'un mois, et 0,6 point de coup de pouce. Environ 2 millions de salariés sont concernés. Sur 2026, le Smic aura progressé de 5,3 %, selon le ministre du Travail Jean-Pierre Farandou."
+          ],
+          "why": "Sans geste, la hausse du 1er janvier aurait été de 18 € par mois. Pour éviter que les salaires juste au-dessus soient rattrapés, un décret doit pousser les branches à relever leurs minima, et les allègements de cotisations pourraient dépendre de ces minima. Lecornu parle de « la deuxième hausse la plus importante en 20 ans ».",
+          "rep": 2,
+          "sources": ["Aktionnaire", "Économix", "franceinfo (web)", "ICI (web)"],
+          "more": [
+            "<b>Prime carburant.</b> Le plafond de cette aide défiscalisée reste à 1 000 € en 2027, contre 600 € avant la fin septembre.",
+            "<b>Prime de partage de la valeur.</b> L'exonération de CSG et de CRDS serait étendue aux entreprises de plus de 50 salariés : environ 4 millions de bénéficiaires possibles, 1,5 million de plus qu'aujourd'hui.",
+            "<b>Heures supplémentaires.</b> Le plafond d'exonération d'impôt sur le revenu passerait de 7 500 € à 10 000 € par an.",
+            "<b>Transports.</b> L'exonération qui permet à l'employeur de payer jusqu'à 75 % de l'abonnement de transport est prolongée en 2027.",
+            "<b>Réactions.</b> La CFDT réclamait environ +100 € net, la CGT +150 € ; Sophie Binet dénonce des « miettes » et la CGT appelle à manifester le 17 novembre. Pour Patrick Martin (Medef), c'est « une mauvaise réponse à un vrai problème »."
+          ],
+          "prog": "Salaire minimum, coût du travail, négociation collective, partage de la valeur ajoutée"
+        },
+        {
+          "eyebrow": "Pouvoir d'achat",
+          "title": "Les salaires du privé courent moins vite que les prix",
+          "text": [
+            "Au troisième trimestre, le salaire mensuel de base du privé progresse de 1,9 % sur un an, mais l'inflation atteint 3,1 % en septembre. En euros constants, il recule donc de 1,1 % : −0,8 % pour les employés, −1,2 % pour les ouvriers, −1,3 % pour les cadres. Les chiffres définitifs sont attendus le 11 décembre."
+          ],
+          "why": "C'est la toile de fond de la colère sociale : l'énergie chère, liée à la guerre contre l'Iran, ronge les hausses de salaires nominales.",
+          "rep": 1,
+          "sources": ["Économix", "Économie Matin (web)"],
+          "prog": "Salaire nominal et salaire réel, inflation, illusion monétaire"
+        },
+        {
+          "img": "img/2026-11-10/cour_comptes.jpg",
+          "alt": "Une oratrice quitte le pupitre lors d'une conférence de presse de la Cour des comptes",
+          "credit": "Via Public Sénat",
+          "eyebrow": "Finances publiques",
+          "title": "La Cour des comptes sort la liste des économies",
+          "text": [
+            "Dans sa contribution budgétaire publiée le 9 novembre, la Cour propose 18 mesures pour économiser 32 à 38 Md€ dès 2027. Parmi elles : gel des pensions et des prestations sociales hors minima (4,8 Md€), suspension d'un an des avancements et promotions des fonctionnaires (3,8 Md€), hausse de la TVA intermédiaire de 10 % à 13 %."
+          ],
+          "why": "11 à 14 Md€ de ces pistes figurent déjà dans le projet de budget 2027. Selon Le Monde, cité par Économie Matin, le gouvernement ne veut pas reprendre le gel des promotions.",
+          "rep": 2,
+          "sources": ["Aktionnaire", "Économix", "Économie Matin (web)", "Public Sénat (web)"],
+          "more": [
+            "<b>Retraités.</b> La Cour évoque aussi la suppression de l'abattement fiscal de 10 % sur les pensions.",
+            "<b>Le paradoxe du jour.</b> Le même jour, le gouvernement ajoute des exonérations (heures supplémentaires, primes) et la Cour cherche des recettes : soutien du pouvoir d'achat et consolidation budgétaire tirent en sens inverse."
+          ],
+          "prog": "Dette publique, consolidation budgétaire, multiplicateur"
+        },
+        {
+          "eyebrow": "Énergie",
+          "title": "Le gaz augmente encore de 5,8 % en décembre",
+          "text": [
+            "La Commission de régulation de l'énergie annonce une hausse de 5,8 % du prix repère du gaz au 1er décembre, la quatrième hausse mensuelle consécutive : de 194,90 € à 206,26 € le mégawattheure TTC. Pour un ménage dont le contrat suit ce prix, la facture augmente d'environ 16 € en décembre ; les offres à prix fixe ne bougent pas."
+          ],
+          "why": "Aktionnaire relie la hausse à la baisse de l'offre mondiale passant par le détroit d'Ormuz. Le prix repère suit le marché de gros avec un décalage : la chute récente du pétrole n'y apparaît pas encore.",
+          "rep": 2,
+          "sources": ["Aktionnaire", "Économix"],
+          "prog": "Chocs d'offre, inflation importée"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia : l'IA suspendue à un homme",
+      "stories": [
+        {
+          "img": "img/2026-11-10/huang.jpg",
+          "alt": "Jensen Huang, patron de Nvidia, en veste de cuir sur scène",
+          "credit": "Kiyoshi Ota / Bloomberg, via Aktionnaire",
+          "eyebrow": "Gouvernance",
+          "title": "Jensen Huang dans la tempête de l'espionnage",
+          "text": [
+            "Le patron de Nvidia a reconnu une liaison avec Alice Huang, dirigeante de Megaspeed, un client de Nvidia basé à Singapour. Selon le New York Times et le FT, le renseignement américain la soupçonne de transmettre des informations au ministère chinois de la Sécurité d'État. Le conseil d'administration a ouvert une enquête indépendante, tout en disant n'avoir « aucune raison de croire » que des secrets ont fuité."
+          ],
+          "why": "L'action a perdu jusqu'à environ 10 % en séance avant de clôturer en baisse de 4,3 %. Donald Trump défend un « homme d'honneur » mais affirme que le FBI « regarde » l'affaire. Pékin dément toute opération.",
+          "rep": 4,
+          "sources": ["Aktionnaire", "Économix", "myFT", "Newswrap", "CNBC (web)", "NBC News (web)"],
+          "more": [
+            "<b>Le « key man risk ».</b> Huang détient 3,4 % de Nvidia, supervise une soixantaine de collaborateurs directs et n'a jamais désigné de successeur. Le FT souligne que plusieurs géants de l'IA dépendent dangereusement d'une seule personne.",
+            "<b>Calendrier.</b> Huang est convoqué le 18 novembre devant des commissions du Congrès ; Nvidia publie ses résultats trimestriels le 17 novembre.",
+            "<b>Enjeu macro.</b> Selon Aktionnaire, l'investissement privé dans l'IA, largement alimenté par Nvidia, représente près de la moitié de la croissance américaine.",
+            "<b>Crédibilité.</b> Pour Fortune, l'enquête pourrait aussi examiner les déclarations passées du groupe, qui présentait ses échanges avec Megaspeed comme des relations clients ordinaires."
+          ],
+          "prog": "Gouvernance d'entreprise, théorie de l'agence, valorisation boursière"
+        },
+        {
+          "img": "img/2026-11-10/huang_nvidia.jpg",
+          "alt": "Jensen Huang devant le logo Nvidia",
+          "credit": "Via myFT",
+          "eyebrow": "Contrôle des exportations",
+          "title": "Des puces pour la Chine, par la porte de Singapour ?",
+          "text": [
+            "Le FT révèle qu'Alice Huang proposait à des investisseurs basés en Chine des accords sur des puces d'IA, en vantant son accès aux GPU de Nvidia et sa relation commerciale avec Alibaba. Or les règles américaines autorisent une entreprise chinoise à louer de la capacité de data center hors de Chine, mais pas à posséder ces puces avancées."
+          ],
+          "why": "Megaspeed était déjà accusée d'aider des entreprises chinoises sous sanctions à se procurer des puces Nvidia. L'affaire touche au cœur de la rivalité technologique sino-américaine.",
+          "rep": 2,
+          "sources": ["myFT", "Newswrap", "CNBC (web)"],
+          "prog": "Protectionnisme technologique, puissance et commerce"
+        },
+        {
+          "img": "img/2026-11-10/data_centers.jpg",
+          "alt": "Manifestants avec des pancartes demandant un moratoire sur les data centers",
+          "credit": "Via myFT",
+          "eyebrow": "Après les midterms",
+          "title": "Les démocrates freineront-ils les data centers ?",
+          "text": [
+            "Des analystes cités par le FT estiment que la victoire démocrate offre à la Chine une « fenêtre » pour rattraper son retard dans l'IA, si les nouveaux élus durcissent les règles de construction des data centers. Côté commerce, le nouveau Congrès pourrait se contenter d'annuler les droits de douane de Trump sur le Canada."
+          ],
+          "why": "Les marchés américains ont pourtant rebondi lundi, aidés par la baisse du pétrole, après la déroute de la semaine dernière.",
+          "rep": 2,
+          "sources": ["myFT", "Newswrap"]
+        }
+      ]
+    },
+    {
+      "title": "Marchés, énergie et commerce",
+      "stories": [
+        {
+          "img": "img/2026-11-10/petrolier.jpg",
+          "alt": "Un pétrolier à quai et un petit bateau de pêche",
+          "credit": "Getty Images, via CNBC",
+          "eyebrow": "Pétrole",
+          "title": "Le Brent tombe au plus bas depuis septembre",
+          "text": [
+            "Donald Trump a jugé « très improbable » une reprise des frappes contre l'Iran tant que les négociations progressent. Lundi, le Brent a perdu 5,4 % à 92,97 $ le baril, et le WTI 4,1 % à 87,15 $, après une baisse de 16 % la semaine précédente."
+          ],
+          "why": "Les analystes pointent aussi un excédent d'offre : environ 1,4 million de barils par jour en octobre selon JP Morgan. La baisse soutient les Bourses, mais Téhéran juge les pourparlers à l'arrêt depuis les midterms.",
+          "rep": 3,
+          "sources": ["Aktionnaire", "myFT", "Newswrap", "CNBC (web)"],
+          "prog": "Prix du pétrole, offre et demande, géopolitique de l'énergie"
+        },
+        {
+          "eyebrow": "Banque",
+          "title": "Crédit Agricole veut créer un champion bancaire italien",
+          "text": [
+            "Crédit Agricole propose de fusionner sa filiale Crédit Agricole Italia avec Banco BPM, dont il détient déjà 29,6 %. Le nouvel ensemble serait le troisième groupe bancaire italien, avec 6,5 millions de clients et plus de 2 300 agences ; Crédit Agricole en contrôlerait environ 45 %."
+          ],
+          "why": "L'offre, amicale, prévoit une prime de 20 % et un dividende exceptionnel de 1 Md€ pour les actionnaires de Banco BPM. Rome dispose de son « golden power » pour encadrer l'opération : un test pour le gouvernement Meloni.",
+          "rep": 2,
+          "sources": ["Aktionnaire", "Newswrap", "Crédit Agricole (web)", "Zonebourse (web)"],
+          "more": [
+            "<b>Conditions.</b> Il faudrait l'accord des deux tiers du capital représenté en assemblée de Banco BPM, et un vote « whitewash » pour dispenser Crédit Agricole d'une offre publique obligatoire.",
+            "<b>Calendrier.</b> Finalisation possible au second semestre 2027. Giuseppe Castagna, patron de Banco BPM, dirigerait le groupe."
+          ],
+          "prog": "Concentration bancaire, union bancaire européenne"
+        },
+        {
+          "img": "img/2026-11-10/port_chine.jpg",
+          "alt": "Vue aérienne d'un port à conteneurs chinois au crépuscule",
+          "credit": "Via myFT",
+          "eyebrow": "Commerce mondial",
+          "title": "La Chine franchit 1 000 milliards de dollars d'excédent",
+          "text": [
+            "De janvier à octobre, l'excédent commercial chinois atteint 1 040 Md$, un mois plus tôt que l'an dernier. En octobre, les exportations bondissent de 35,2 % sur un an à 412,3 Md$, portées par la demande mondiale de puces, de serveurs et d'équipements réseau. Les importations progressent encore plus vite (+41,6 %), ce qui réduit l'excédent du mois à environ 105 Md$."
+          ],
+          "why": "Les exportations vers les États-Unis progressent de 32,9 %. Washington avertit Pékin qu'il doit respecter la trêve de Busan, notamment sur les terres rares, avant la rencontre Trump-Xi à l'Apec de Shenzhen.",
+          "rep": 2,
+          "sources": ["myFT", "Newswrap", "Kuwait Times (web)", "investingLive (web)"],
+          "prog": "Déséquilibres mondiaux, balance commerciale, spécialisation"
+        }
+      ]
+    },
+    {
+      "title": "Monde et politique",
+      "stories": [
+        {
+          "eyebrow": "Diplomatie",
+          "title": "G7 à Paris : l'Iran et l'Ukraine au menu",
+          "text": [
+            "Les ministres des Affaires étrangères du G7 se réunissent les 9 et 10 novembre au Quai d'Orsay, sous présidence de Jean-Noël Barrot. Le Brésil, la Corée du Sud, l'Égypte, l'Arabie saoudite et l'Ukraine sont invités. Marco Rubio estime qu'aucun progrès n'a été fait avec l'Iran ; une séance est consacrée à l'Ukraine ce mardi."
+          ],
+          "why": "Les Européens veulent mesurer l'effet des midterms sur le soutien américain à Kiev. Friedrich Merz menace de bloquer le prochain budget pluriannuel de l'UE si tous les États ne s'engagent pas à aider l'Ukraine en 2027 et au-delà.",
+          "rep": 2,
+          "sources": ["Aktionnaire", "Newswrap", "France 24 (web)", "Boursorama (web)"],
+          "prog": "Coopération internationale, budget européen"
+        },
+        {
+          "img": "img/2026-11-10/riner.jpg",
+          "alt": "Teddy Riner en costume, saluant de la main",
+          "credit": "Jeanne Accorsini / SIPA, via Aktionnaire",
+          "eyebrow": "Présidentielle 2027",
+          "title": "Teddy Riner se lance",
+          "text": [
+            "Le judoka quintuple champion olympique, 37 ans, annonce sa candidature à la présidentielle. Il veut être « le président qui fédère », ni à droite ni à gauche, juge que la France est « un pays riche qui se raconte pauvre » et veut réformer les retraites. Il doit réunir 500 parrainages et n'exclut pas les JO de Los Angeles en 2028."
+          ],
+          "rep": 2,
+          "sources": ["Aktionnaire", "Économix"]
+        },
+        {
+          "eyebrow": "Guerre hybride",
+          "title": "Cyberattaques et désinformation",
+          "text": [
+            "La France accuse l'Iran d'avoir mené les cyberattaques qui ont déréglé les réfrigérateurs de 700 supermarchés en octobre ; le parquet de Paris a ouvert une enquête. Un rapport interne de l'UE décrit aussi un réseau russe, « Operation Overload », qui a diffusé de fausses vidéos pendant les violences urbaines d'octobre : 2,8 millions de vues sur X en trois jours pour les dix publications les plus vues."
+          ],
+          "rep": 2,
+          "sources": ["Aktionnaire", "Économix"]
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    ["Veuves pauvres", "12 % des veuves vivent sous le seuil de pauvreté, contre 6 % des veufs. Après le décès du conjoint, le niveau de vie des femmes chute de 21 %, celui des hommes progresse de 8 % (Insee)."],
+    ["Anthropic", "Selon le Wall Street Journal, l'introduction en Bourse est attendue les 19 ou 20 novembre, sur une valorisation de 1 770 Md$. Deux nouveaux modèles ont été dévoilés lundi."],
+    ["Honda", "3 Md$ pour sa première nouvelle usine américaine en vingt ans, centrée sur les hybrides ; objectif de 1,3 million de véhicules par an aux États-Unis."],
+    ["Airbus", "L'action s'envole sur l'annonce d'une première tranche de rachats d'actions pouvant atteindre 800 M€."],
+    ["BCE", "Candidat à la succession de Christine Lagarde, Klaas Knot dit qu'il n'hésiterait pas à inventer de nouveaux outils en cas de crise de la dette."],
+    ["Royaume-Uni", "En dix ans, des entreprises britanniques valant un demi-millier de milliards de livres sont passées sous contrôle d'investisseurs étrangers (FT)."]
+  ],
+  "good": "Les castors sont de retour autour du Loch Ness, en Écosse, pour la première fois depuis 500 ans. Le Ness Beaver Project a fait ses premières réintroductions et relâchera au moins 15 familles en trois ans, au bénéfice de la biodiversité.",
+  "map": {
+    "start": "iran",
+    "nodes": [
+      {"id": "iran", "x": 200, "y": 34, "l": ["Iran : Trump", "joue l'apaisement"], "t": "Iran : désescalade ?", "d": "Trump juge « très improbable » une reprise des frappes si les négociations avancent. Téhéran, lui, dit les pourparlers à l'arrêt."},
+      {"id": "gaz", "x": 100, "y": 122, "l": ["Gaz : +5,8 %", "au 1er décembre"], "t": "Gaz plus cher", "d": "Quatrième hausse mensuelle du prix repère : le marché de gros, tendu par Ormuz, se répercute avec retard sur les factures."},
+      {"id": "petrole", "x": 300, "y": 122, "l": ["Brent −5,4 %", "à 92,97 $"], "t": "Pétrole en baisse", "d": "Le baril tombe au plus bas depuis septembre : moins de risque géopolitique et un excédent d'offre."},
+      {"id": "infl", "x": 100, "y": 222, "l": ["Salaires réels", "−1,1 % sur un an"], "t": "Pouvoir d'achat rogné", "d": "Salaires +1,9 %, inflation 3,1 % en septembre : le salaire de base perd du pouvoir d'achat."},
+      {"id": "bourse", "x": 300, "y": 222, "l": ["Wall Street", "rebondit"], "t": "Rebond des Bourses", "d": "La baisse du pétrole aide les indices à effacer une partie de la déroute de la tech de la semaine dernière."},
+      {"id": "smic", "x": 100, "y": 322, "l": ["Smic +1,6 %", "1 502 € net"], "t": "Coup de pouce au Smic", "d": "Premier coup de pouce depuis 14 ans, plus primes et heures supplémentaires défiscalisées."},
+      {"id": "nvda", "x": 300, "y": 322, "l": ["Nvidia : affaire", "d'espionnage"], "t": "Nvidia fragilisé", "d": "L'enquête sur Jensen Huang rappelle à quel point la Bourse américaine dépend de l'IA, et l'IA de quelques dirigeants."},
+      {"id": "budget", "x": 100, "y": 414, "l": ["Budget 2027 : jusqu'à", "38 Md€ d'économies"], "t": "Contrainte budgétaire", "d": "La Cour des comptes propose gel des pensions et des promotions : les exonérations nouvelles creusent le trou qu'elle veut combler."},
+      {"id": "chine", "x": 300, "y": 414, "l": ["Chine : excédent", "de 1 040 Md$"], "t": "Excédent chinois record", "d": "Les exportations de matériel d'IA font bondir l'excédent : la Chine profite du boom que l'Amérique finance."}
+    ],
+    "edges": [["iran", "gaz"], ["iran", "petrole"], ["gaz", "infl"], ["petrole", "bourse"], ["infl", "smic"], ["bourse", "nvda"], ["smic", "budget"], ["nvda", "chine"]]
+  },
+  "dossiers": [
+    {
+      "eyebrow": "Marché du travail",
+      "title": "Augmenter le Smic : protéger les salariés ou détruire des emplois ?",
+      "q": "Le gouvernement assume un coup de pouce « calibré » pour ne pas détruire d'emplois. Toute la question est là : jusqu'où peut-on relever le salaire minimum sans effet pervers ?",
+      "steps": [
+        ["Le point de départ", "Les prix montent plus vite que les salaires.", "Au troisième trimestre, le salaire de base du privé progresse de 1,9 % sur un an, l'inflation de 3,1 % : le pouvoir d'achat recule de 1,1 %. La mobilisation sociale pousse le gouvernement à agir."],
+        ["L'outil choisi", "+1,6 % au 1er décembre, dont 0,6 point de coup de pouce.", "Le Smic est indexé sur l'inflation et sur la moitié des gains de pouvoir d'achat du salaire horaire des ouvriers et employés. Le gouvernement peut aller au-delà : c'est le coup de pouce, le premier depuis 14 ans selon Aktionnaire."],
+        ["Le risque de tassement", "Les bas salaires se rapprochent du Smic.", "Si le Smic monte mais pas les minima de branche, de plus en plus de salariés se retrouvent payés au Smic. D'où le décret qui pousse les branches à revaloriser et le lien envisagé avec les allègements de cotisations."],
+        ["Le coût du travail", "Des allègements pour compenser.", "En France, les cotisations patronales sont fortement allégées près du Smic. Relever le Smic sans toucher ces allègements augmente le coût du travail peu qualifié ; le gouvernement mise plutôt sur des primes et des heures supplémentaires défiscalisées, qui ne coûtent rien aux entreprises mais pèsent sur les finances publiques."],
+        ["Le dilemme budgétaire", "Chaque exonération est une recette en moins.", "Le même jour, la Cour des comptes propose jusqu'à 38 Md€ d'économies. Soutenir le pouvoir d'achat par la dépense fiscale entre en tension avec la consolidation budgétaire."]
+      ],
+      "split": [
+        ["Pour : un Smic plus élevé est efficace", "Card et Krueger (1994) ne trouvent pas de baisse de l'emploi après une hausse du salaire minimum dans le New Jersey ; en monopsone, un salaire minimum peut même accroître l'emploi ; un revenu plus élevé soutient la consommation (propension à consommer forte des bas revenus)."],
+        ["Contre : un risque pour l'emploi peu qualifié", "Modèle néoclassique : un prix plancher au-dessus de la productivité marginale crée du chômage ; en France, le Smic est élevé par rapport au salaire médian ; les petites entreprises (U2P, Medef) craignent pour leurs marges et leurs embauches."]
+      ],
+      "refs": [
+        "<b>Card et Krueger (1994).</b> L'expérience naturelle des fast-foods du New Jersey remet en cause l'effet négatif du salaire minimum sur l'emploi.",
+        "<b>Monopsone (Joan Robinson, 1933).</b> Quand un employeur domine le marché local du travail, il paie moins que la productivité : un salaire minimum corrige ce pouvoir de marché.",
+        "<b>Salaire d'efficience (Akerlof, Stiglitz).</b> Mieux payer peut accroître l'effort et réduire le turnover.",
+        "<b>Courbe de Phillips et boucle prix-salaires.</b> L'indexation peut entretenir l'inflation si elle se généralise."
+      ],
+      "accroche": "Le 9 novembre 2026, un gouvernement sans marge budgétaire a choisi de relever le Smic de 1,6 % en promettant que cette hausse ne détruirait aucun emploi.",
+      "sujets": [
+        "Le salaire minimum est-il un frein à l'emploi ?",
+        "Faut-il indexer les salaires sur les prix ?",
+        "L'État doit-il intervenir dans la fixation des salaires ?"
+      ]
+    },
+    {
+      "eyebrow": "Finance",
+      "title": "Que vaut Nvidia sans Jensen Huang ? Le prix du risque homme-clé",
+      "q": "Une affaire privée fait perdre 4,3 % à l'une des plus grosses capitalisations mondiales. Pourquoi le sort d'un seul dirigeant pèse-t-il autant sur la valeur d'une entreprise ?",
+      "steps": [
+        ["La valeur d'une action", "La somme actualisée des profits futurs.", "Un investisseur paie aujourd'hui pour des bénéfices attendus demain. Chaque euro futur est divisé par (1 + r) à la puissance du nombre d'années : plus le taux r est élevé, plus la valeur actuelle est faible. Essaie le calculateur juste en dessous."],
+        ["Ce que change l'affaire", "Une incertitude sur la direction.", "Huang centralise les décisions, supervise une soixantaine de collaborateurs directs et n'a pas de successeur désigné. Son départ, même improbable, rendrait les profits futurs plus incertains."],
+        ["La prime de risque", "Plus d'incertitude, taux d'actualisation plus élevé.", "Le taux r comprend le taux sans risque et une prime de risque. Si les investisseurs exigent quelques dixièmes de point de prime en plus, la valeur d'une entreprise dont les profits sont lointains baisse fortement."],
+        ["Le risque politique", "FBI, Congrès, contrôle des exportations.", "L'enquête touche Megaspeed, accusée d'aider des entreprises chinoises à obtenir des puces. Des sanctions ou des règles plus strictes pourraient réduire les ventes : les profits attendus eux-mêmes sont révisés."],
+        ["L'effet macro", "L'IA, près de la moitié de la croissance américaine.", "Selon Aktionnaire, l'investissement privé dans l'IA, largement tiré par Nvidia, pèse près de la moitié de la croissance des États-Unis. Un choc sur Nvidia peut donc se transmettre aux indices, à l'investissement et à l'économie réelle."]
+      ],
+      "calc": true,
+      "refs": [
+        "<b>Berle et Means (1932).</b> La séparation de la propriété et du contrôle donne un grand pouvoir aux dirigeants.",
+        "<b>Jensen et Meckling (1976), théorie de l'agence.</b> Le conseil d'administration doit contrôler un dirigeant dont les intérêts peuvent diverger de ceux des actionnaires.",
+        "<b>Gordon-Shapiro.</b> Valeur = dividende / (taux d'actualisation − croissance) : une petite hausse du taux réduit beaucoup la valeur quand la croissance attendue est forte.",
+        "<b>Max Weber, autorité charismatique.</b> Elle repose sur une personne et pose toujours la question de sa succession."
+      ],
+      "accroche": "En une séance, l'aveu d'une liaison par Jensen Huang a fait vaciller l'entreprise qui porte à elle seule une bonne partie de la croissance américaine.",
+      "sujets": [
+        "Les marchés financiers sont-ils efficients ?",
+        "Qui gouverne l'entreprise ?",
+        "L'innovation est-elle source d'instabilité financière ?"
+      ]
+    },
+    {
+      "eyebrow": "Économie mondiale",
+      "title": "1 000 milliards d'excédent : la Chine, atelier de l'IA mondiale",
+      "q": "La Chine dépasse 1 000 Md$ d'excédent commercial en dix mois, alors même que Washington multiplie droits de douane et restrictions. Comment est-ce possible, et est-ce soutenable ?",
+      "steps": [
+        ["Un boom tiré par l'IA", "Puces, serveurs, réseaux.", "En octobre, les exportations chinoises progressent de 35,2 % sur un an. La demande mondiale de matériel pour data centers profite aux usines chinoises, y compris vers les États-Unis (+32,9 %)."],
+        ["Une demande intérieure faible", "Produire plus que l'on consomme.", "La crise immobilière freine la consommation des ménages. Les capacités de production se tournent vers l'export : l'excédent est le miroir d'une épargne intérieure trop forte."],
+        ["Des importations qui accélèrent", "+41,6 % en octobre.", "Les importations bondissent, en partie sous l'effet des prix de l'énergie et des composants : l'excédent mensuel se réduit à environ 105 Md$, contre 134 Md$ en septembre."],
+        ["Les tensions commerciales", "La trêve de Busan sous pression.", "Washington accuse Pékin de ne pas respecter ses engagements sur les terres rares. Trump et Xi doivent se voir à l'Apec de Shenzhen puis au G20 de Miami en décembre."]
+      ],
+      "refs": [
+        "<b>Ben Bernanke (2005), « saving glut ».</b> Un excès d'épargne mondiale, notamment asiatique, alimente les déficits américains.",
+        "<b>Michael Pettis.</b> Les excédents chinois reflètent une part trop faible de la consommation dans le PIB.",
+        "<b>Keynes, plan de Bretton Woods.</b> Il voulait faire porter l'ajustement aussi sur les pays excédentaires.",
+        "<b>Identité macroéconomique.</b> Solde courant = épargne − investissement : un excédent extérieur est d'abord un fait d'épargne intérieure."
+      ],
+      "accroche": "En 2026, la Chine a franchi le seuil des 1 000 milliards de dollars d'excédent commercial dès octobre, en vendant au monde le matériel de la révolution de l'IA.",
+      "sujets": [
+        "Les déséquilibres commerciaux sont-ils un problème ?",
+        "Le protectionnisme peut-il réduire un déficit commercial ?"
+      ]
+    }
+  ],
+  "flash": [
+    ["1 502 €", "Smic net", "Au 1er décembre, contre 1 477,93 € : +1,6 %, dont 0,6 point de coup de pouce."],
+    ["+5,3 %", "Smic en 2026", "Hausse cumulée sur l'année selon le ministre du Travail."],
+    ["10 000 €", "Heures sup", "Nouveau plafond d'exonération d'impôt proposé, contre 7 500 €."],
+    ["−1,1 %", "Salaire réel", "Pouvoir d'achat du salaire de base du privé sur un an (Dares, 3e trimestre)."],
+    ["38 Md€", "Cour des comptes", "Économies possibles dès 2027 avec 18 mesures (fourchette 32 à 38 Md€)."],
+    ["+5,8 %", "Gaz", "Hausse du prix repère au 1er décembre, quatrième hausse mensuelle de suite."],
+    ["92,97 $", "Brent", "Lundi, −5,4 %, plus bas depuis septembre."],
+    ["1 040 Md$", "Excédent chinois", "De janvier à octobre 2026 ; exportations d'octobre +35,2 %."],
+    ["45 %", "Crédit Agricole", "Part qu'il détiendrait dans le futur ensemble avec Banco BPM, contre 29,6 % de Banco BPM aujourd'hui."]
+  ],
+  "quiz": [
+    {"q": "De combien le Smic augmente-t-il au 1er décembre ?", "o": ["+0,6 %", "+1 %", "+1,6 %", "+5,3 %"], "a": 2, "e": "+1,6 % : 1 % de revalorisation automatique avancée et 0,6 point de coup de pouce. +5,3 % est la hausse cumulée sur 2026."},
+    {"q": "Qu'appelle-t-on un « coup de pouce » au Smic ?", "o": ["La revalorisation automatique liée à l'inflation", "Une hausse décidée par le gouvernement au-delà de la revalorisation légale", "Une prime versée par l'employeur", "Une baisse des cotisations salariales"], "a": 1, "e": "Le Smic est revalorisé automatiquement ; le gouvernement peut aller plus loin. C'est le premier coup de pouce depuis 14 ans selon Aktionnaire."},
+    {"q": "Pourquoi le salaire de base du privé perd-il 1,1 % de pouvoir d'achat ?", "o": ["Les salaires nominaux baissent", "Il progresse de 1,9 % alors que l'inflation atteint 3,1 %", "Les cotisations augmentent", "Le Smic a été gelé"], "a": 1, "e": "Le salaire réel dépend de l'écart entre hausse nominale et inflation."},
+    {"q": "Quelle étude a montré qu'une hausse du salaire minimum ne réduisait pas forcément l'emploi ?", "o": ["Card et Krueger (1994)", "Laffer (1974)", "Fisher (1933)", "Berle et Means (1932)"], "a": 0, "e": "Leur étude des fast-foods du New Jersey a relancé le débat sur les effets du salaire minimum."},
+    {"q": "Quelle entreprise est au cœur de l'affaire Alice Huang ?", "o": ["Alibaba", "Megaspeed, client de Nvidia basé à Singapour", "SoftBank", "Huawei"], "a": 1, "e": "Alice Huang est dirigeante de Megaspeed, accusée d'aider des entreprises chinoises à obtenir des puces Nvidia."},
+    {"q": "Si le taux d'actualisation augmente, la valeur d'une action dont les profits sont lointains...", "o": ["augmente fortement", "ne change pas", "baisse fortement", "dépend uniquement du dividende de l'année"], "a": 2, "e": "Chaque profit futur est divisé par (1 + r)^n : plus n est grand, plus la hausse de r pèse."},
+    {"q": "Quelle part de Banco BPM Crédit Agricole détient-il déjà ?", "o": ["9,6 %", "29,6 %", "45 %", "51 %"], "a": 1, "e": "29,6 % aujourd'hui ; environ 45 % du futur ensemble après fusion avec Crédit Agricole Italia."},
+    {"q": "Quel est l'excédent commercial chinois de janvier à octobre 2026 ?", "o": ["105 Md$", "412 Md$", "1 040 Md$", "1 770 Md$"], "a": 2, "e": "1 040 Md$. 105 Md$ est l'excédent du seul mois d'octobre, 412 Md$ les exportations d'octobre."}
+  ],
+  "colle": {
+    "title": "Faut-il augmenter le salaire minimum pour défendre le pouvoir d'achat ?",
+    "parts": [
+      ["La hausse du salaire minimum protège les plus modestes face à l'inflation", ["Inflation à 3,1 % et salaires réels en baisse de 1,1 % : le Smic évite le décrochage des bas salaires", "Effet de demande keynésien et résultats de Card et Krueger, monopsone"]],
+      ["Mais elle comporte des risques pour l'emploi et l'équilibre des salaires", ["Coût du travail peu qualifié, analyse néoclassique, inquiétudes du Medef et des petites entreprises", "Tassement de la hiérarchie salariale : minima de branche rattrapés par le Smic"]],
+      ["Le pouvoir d'achat se défend par un ensemble d'outils, sous contrainte budgétaire", ["Primes défiscalisées, heures supplémentaires, négociation de branche : le choix du gouvernement le 9 novembre", "Limite : ces exonérations coûtent à l'État alors que la Cour des comptes cherche jusqu'à 38 Md€"]]
+    ]
+  },
+  "matrix": {
+    "cols": ["Aktionnaire", "Économix", "myFT", "Newswrap", "franceinfo", "CNBC", "Économie Matin", "Crédit Agricole", "Kuwait Times", "France 24"],
+    "rows": [
+      ["Affaire Nvidia", [1, 1, 1, 1, 0, 1, 0, 0, 0, 0]],
+      ["Pétrole et Iran", [1, 0, 1, 1, 0, 1, 0, 0, 0, 0]],
+      ["Smic et conférence sociale", [1, 1, 0, 0, 1, 0, 0, 0, 0, 0]],
+      ["Cour des comptes", [1, 1, 0, 0, 0, 0, 1, 0, 0, 0]],
+      ["Crédit Agricole et Banco BPM", [1, 0, 0, 1, 0, 0, 0, 1, 0, 0]],
+      ["Excédent chinois", [0, 0, 1, 1, 0, 0, 0, 0, 1, 0]],
+      ["G7 à Paris", [1, 0, 0, 0, 0, 0, 0, 0, 0, 1]],
+      ["Prix du gaz", [1, 1, 0, 0, 0, 0, 0, 0, 0, 0]],
+      ["Pouvoir d'achat (Dares)", [0, 1, 0, 0, 0, 0, 1, 0, 0, 0]]
+    ]
+  },
+  "sources": [
+    ["Aktionnaire", "newsletter, mar. 10", "Nvidia et Jensen Huang, Smic, Anthropic, G7, Crédit Agricole, Teddy Riner, veuves, gaz, cyberattaques"],
+    ["Cosmos Finance (Économix)", "newsletter, mar. 10", "Annonces de la conférence sociale, Riner, gaz, désinformation russe, Cour des comptes, Dares, Nvidia"],
+    ["myFT Daily Digest", "newsletter, mar. 10", "Excédent chinois, Honda, démocrates et droits de douane, Nvidia, Klaas Knot, rebond des Bourses"],
+    ["FT Newswrap", "newsletter, lun. 9", "Affaire Nvidia et Megaspeed, trêve sino-américaine, Merz, pétrole, Crédit Agricole, castors du Loch Ness"],
+    ["franceinfo", "web, 9 nov.", "Détail des annonces : 1 % automatique + 0,6 point, prime carburant, heures sup, réactions syndicales et du Medef"],
+    ["ICI", "web, 9 nov.", "Smic +1,6 % à 1 502 € net annoncé par le ministre du Travail"],
+    ["CNBC", "web, 9 nov.", "Nvidia −4,27 %, enquête du conseil, analystes ; chute du pétrole et cours du Brent et du WTI"],
+    ["NBC News", "web, 9 nov.", "Trump affirme que le FBI enquête sur Jensen Huang"],
+    ["Fortune", "web, 9 nov.", "L'enquête pourrait porter sur les déclarations passées de Nvidia sur Megaspeed"],
+    ["Crédit Agricole, communiqué", "web, 9 nov.", "Proposition de fusion entre Banco BPM et Crédit Agricole Italia"],
+    ["Zonebourse", "web, 9 nov.", "Prime de 20 %, dividende exceptionnel, conditions et calendrier de l'opération"],
+    ["Kuwait Times", "web, 10 nov.", "Excédent chinois de 1 040 Md$ sur dix mois, exportations d'IA"],
+    ["investingLive", "web, 10 nov.", "Exportations d'octobre +35,2 %, importations +41,6 %"],
+    ["Économie Matin", "web, 9-10 nov.", "Gel des promotions (3,8 Md€) ; salaire de base Dares −1,1 % en euros constants"],
+    ["Public Sénat", "web, 9 nov.", "Pistes d'économies de la Cour des comptes"],
+    ["France 24 et Boursorama (AFP)", "web, 9 nov.", "G7 des Affaires étrangères à Paris : participants, Iran, Ukraine"]
+  ]
+}
