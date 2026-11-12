@@ -1,0 +1,499 @@
+{
+ "date": "2026-11-12",
+ "label": "Jeudi 12 novembre 2026",
+ "period": "11 au 12 novembre",
+ "sourcesCount": 5,
+ "countLabel": "5 newsletters + 7 sources web",
+ "hero": {
+  "img": "img/2026-11-12/anthropic.jpg",
+  "alt": "Dario Amodei, patron d'Anthropic, lève l'index lors d'une table ronde du Forum économique mondial",
+  "credit": "Via The San Francisco Standard",
+  "eyebrow": "À la une",
+  "title": "Anthropic : l'introduction en Bourse « trop importante pour échouer »",
+  "lede": "Face à une demande massive, les banques d'Anthropic envisagent de relever la valorisation du créateur de Claude à 1 500 Md$ ou plus, selon le FT. L'opération pourrait dépasser 100 Md$ levés et battre le record de SpaceX. Le même jour, OpenAI publie des pertes de 10,9 Md$ sur un trimestre. Quatre des cinq newsletters du jour en parlent."
+ },
+ "brief": [
+  ["Anthropic", "Les banques envisagent de relever la valorisation à 1 500 Md$ ou plus (FT). Cotation sur le Nasdaq attendue la semaine prochaine, sous le symbole « ANT »."],
+  ["Nvidia", "Nouvelles révélations du New York Times sur Jensen Huang : l'action chute de près de 10 % et, selon plusieurs médias, le conseil d'administration envisage de l'écarter."],
+  ["Dette", "France et Belgique deviennent les nouveaux « maillons faibles » de la zone euro : le taux à 10 ans français a pris 1,6 point depuis fin février."],
+  ["Espagne", "Première grève générale depuis 14 ans contre la crise du logement, à 18 jours des législatives anticipées du 29 novembre."],
+  ["Taux", "Inflation américaine de +0,4 % en octobre : la Fed se prépare à monter ses taux en décembre, peut-être d'un demi-point."]
+ ],
+ "figures": [
+  {"v": "1 500 Md$", "l": "valorisation qu'Anthropic pourrait viser après une forte demande des investisseurs (FT)", "dir": "up"},
+  {"v": "−10,9 Md$", "l": "perte d'exploitation d'OpenAI au troisième trimestre, pour 10 Md$ de chiffre d'affaires", "dir": "down"},
+  {"v": "+1,6 pt", "l": "hausse du taux d'emprunt français à 10 ans depuis le début de la guerre avec l'Iran", "dir": "up"},
+  {"v": "+0,4 %", "l": "hausse des prix à la consommation aux États-Unis en octobre, sur un mois", "dir": "up"}
+ ],
+ "themes": [
+  {
+   "title": "L'IA face au verdict des marchés",
+   "stories": [
+    {
+     "eyebrow": "Introduction en Bourse",
+     "title": "Anthropic veut lever le plus possible, pas valoir le plus possible",
+     "text": [
+      "La fourchette officielle reste de 70 à 78 $ par action pour 825 millions d'actions, soit jusqu'à 64,4 Md$ levés et 1 400 Md$ de valorisation. Mais selon le FT, les banques étudient déjà une hausse à 1 500 Md$ ou plus. Avec cette hausse, les fonds levés dépasseraient 100 Md$, devant le record de SpaceX (86 Md$).",
+      "Trois actionnaires expliquent au FT que l'objectif est de lever un maximum d'argent pour payer la puissance de calcul : Anthropic a révélé 900 Md$ d'engagements en infrastructures. Sept partenaires, dont Google et Nvidia, achèteront aussi 26 Md$ d'actions sans droit de vote au prix de l'introduction (Fortune)."
+     ],
+     "why": "Les chiffres donnent le vertige : 4,6 Md$ de chiffre d'affaires en 2025, un rythme annualisé d'environ 81 Md$ fin octobre (Fortune), et plus de 600 Md$ prévus en 2030 par Goldman Sachs. Au troisième trimestre, Anthropic a réalisé 17 Md$ de chiffre d'affaires pour une perte de 467 M$ (Aktionnaire).",
+     "rep": 4,
+     "sources": ["FT Newswrap", "TNBS", "Aktionnaire", "Économix", "Fortune (web)"],
+     "more": [
+      "<b>« Trop importante pour échouer ».</b> FT Alphaville estime que l'opération porte tout le secteur : elle a déjà aidé les valeurs technologiques à se reprendre après leur chute post-élections de mi-mandat.",
+      "<b>Prudence.</b> Des investisseurs se replient sur des valeurs défensives, doutant que des dépenses aussi massives soient rentables. « Un week-end est une éternité sur ce marché », résume l'un d'eux au FT.",
+      "<b>Le calendrier.</b> Cotation sur le Nasdaq sous le symbole « ANT », possible dès le mercredi ou le jeudi de la semaine prochaine (Fortune)."
+     ],
+     "prog": "Marchés financiers, financement de l'innovation, valorisation des actifs"
+    },
+    {
+     "img": "img/2026-11-12/huang.jpg",
+     "alt": "Jensen Huang, patron de Nvidia, en veste de cuir noire, l'air grave, devant un fond bleu",
+     "credit": "Carlos Barria/Reuters, via Aktionnaire",
+     "eyebrow": "Nvidia",
+     "title": "Jensen Huang au bord de la sortie",
+     "text": [
+      "Quelques jours après avoir reconnu une relation avec une espionne chinoise présumée, Jensen Huang est visé par de nouvelles révélations du New York Times sur une relation avec une cadre placée sous son autorité. L'action Nvidia a chuté de près de 10 %. Selon le WSJ, CNBC, le FT et Bloomberg, cités par Aktionnaire, le conseil d'administration se préparerait à l'écarter et travaillerait avec un cabinet de recrutement."
+     ],
+     "why": "Le FT ajoute que le département du Commerce retarde l'inscription sur liste noire d'une société liée à l'espionne présumée, et que Donald Trump dit que le FBI « s'intéresse » à Huang. L'affaire révèle aussi le rôle de Singapour comme plaque tournante des puces américaines vers la Chine.",
+     "rep": 2,
+     "sources": ["Aktionnaire", "FT Newswrap", "Khaleej Times (web)"],
+     "more": [
+      "<b>Le pari du vendeur à découvert.</b> En mai, le petit fonds Culper Research avait publié un rapport sur ces liens et parié à la baisse sur l'action. Nvidia a perdu 25 % depuis (Aktionnaire).",
+      "<b>Pas de successeur désigné.</b> Sur le marché de prédiction Kalshi, la probabilité de son départ est passée de 40 % à près de 80 %."
+     ],
+     "prog": "Gouvernance d'entreprise, théorie de l'agence, guerre technologique sino-américaine"
+    },
+    {
+     "eyebrow": "Résultats",
+     "title": "OpenAI grandit vite, mais perd plus encore",
+     "text": [
+      "Le créateur de ChatGPT a réalisé 10 Md$ de chiffre d'affaires au troisième trimestre, +50 % par rapport au trimestre précédent. Mais sa perte d'exploitation atteint 10,9 Md$, contre 10,1 Md$ trois mois plus tôt. Sa marge opérationnelle ajustée s'améliore pourtant, de −150 % à −109 %."
+     ],
+     "why": "La comparaison tombe mal à une semaine de l'introduction en Bourse de son rival : Anthropic affiche 17 Md$ de chiffre d'affaires et une perte de 467 M$. Pour se redresser, OpenAI mise sur l'IA pour les entreprises et sur la publicité, en espérant entrer en Bourse l'an prochain.",
+     "rep": 2,
+     "sources": ["Aktionnaire", "Économix"],
+     "prog": "Économies d'échelle, coûts fixes, concurrence oligopolistique"
+    }
+   ],
+   "items": []
+  },
+  {
+   "title": "Zone euro : la nouvelle carte du risque",
+   "stories": [
+    {
+     "img": "img/2026-11-12/taux_graph.jpg",
+     "alt": "Graphique : hausse des taux à 10 ans depuis février 2026 ; la France monte le plus, devant la Belgique et l'Italie, l'Allemagne le moins",
+     "credit": "FT, données LSEG, via Économix",
+     "eyebrow": "Dette souveraine",
+     "title": "France et Belgique prennent la place de l'Italie au fond de la classe",
+     "text": [
+      "Depuis le début de la guerre avec l'Iran fin février, le taux d'emprunt français à 10 ans a bondi de 1,6 point et a brièvement dépassé 5 %, une première depuis 2002. Celui de la Belgique a pris 1,2 point, à environ 4,3 %. L'Espagne, portée par une croissance attendue à +2,4 % en 2026, ne prend que 0,8 point.",
+      "La France cumule une dette proche de 120 % du PIB, un déficit supérieur à 5 % et un plan d'environ 43 Md€ d'économies et de hausses d'impôts à faire voter sans majorité. La Belgique a des chiffres proches."
+     ],
+     "why": "Différence clé : la dette française est énorme et très liquide. Il est donc facile de parier contre elle, par exemple en vendant à découvert des obligations. Selon Eurostat, la dette publique atteignait 115,7 % du PIB fin 2025 en France et 108,1 % en Belgique.",
+     "rep": 2,
+     "sources": ["Économix", "FT Newswrap", "Eurostat (web)"],
+     "more": [
+      "<b>L'inflation complique tout.</b> La hausse de l'énergie a ramené l'inflation de la zone euro à 4 %, au plus haut depuis 2023. Plus elle dure, plus les taux restent hauts.",
+      "<b>Le filet de la BCE.</b> Klaas Knot, candidat à la présidence de la BCE, assure qu'elle « n'hésitera pas » à intervenir en cas de crise de la dette, quitte à créer un nouvel outil."
+     ],
+     "prog": "Dette publique, primes de risque, politique monétaire de la BCE"
+    },
+    {
+     "img": "img/2026-11-12/drapeaux.jpg",
+     "alt": "Les drapeaux de la France, de l'Union européenne et de la Belgique flottent sous un ciel bleu",
+     "credit": "Via Économix",
+     "eyebrow": "Budget 2027",
+     "title": "Un budget sans majorité",
+     "text": [
+      "Le 4 novembre, les députés ont rejeté à l'unanimité la partie « recettes » du projet de loi de finances pour 2027. Le texte initial du gouvernement part donc au Sénat sans que l'Assemblée ait examiné les dépenses. Selon LCP, le Premier ministre Sébastien Lecornu pourrait recourir au 49.3."
+     ],
+     "why": "C'est exactement ce que redoutent les marchés : un pays très endetté qui peine à voter ses efforts budgétaires. Économix y voit trois ingrédients d'un écart durable avec l'Allemagne : croissance faible, dépenses élevées et coût du financement en hausse.",
+     "rep": 1,
+     "sources": ["Économix", "LCP (web)"],
+     "prog": "Politique budgétaire, soutenabilité de la dette, institutions"
+    }
+   ],
+   "items": []
+  },
+  {
+   "title": "Le retour des hausses de taux",
+   "stories": [
+    {
+     "img": "img/2026-11-12/inflation.jpg",
+     "alt": "Un client pousse un chariot devant des rayons d'œufs dans un supermarché américain",
+     "credit": "Getty Images, via CNBC",
+     "eyebrow": "États-Unis",
+     "title": "Inflation : la Fed n'exclut plus un demi-point",
+     "text": [
+      "Les prix à la consommation ont augmenté de 0,4 % en octobre, plus que les 0,3 % attendus ; hors énergie et alimentation, +0,3 %. L'électricité prend 0,9 % et l'alimentation 0,5 %. Aucun taux sur un an n'est publié : le shutdown de 2025 avait empêché la collecte des prix d'octobre 2025."
+     ],
+     "why": "Le gouverneur Christopher Waller juge qu'une hausse d'un demi-point pourrait se discuter en décembre, une première depuis quatre ans. Une hausse d'un quart de point est déjà entièrement anticipée par les marchés, à partir d'un taux directeur de 3,75 à 4 %. L'inflation dépasse la cible de 2 % depuis environ cinq ans et demi (CNBC).",
+     "rep": 1,
+     "sources": ["FT Newswrap", "CNBC (web)"],
+     "more": [
+      "<b>Les causes citées.</b> Droits de douane, guerre avec l'Iran, dépenses liées à l'IA et prix de l'énergie, selon les responsables de la Fed.",
+      "<b>Les avis.</b> Lorie Logan (Fed de Dallas) voit le besoin de deux nouvelles hausses d'un quart de point ; Anna Paulson (Philadelphie) juge « appropriée » une poursuite graduelle du resserrement."
+     ],
+     "prog": "Inflation, politique monétaire, règle de Taylor"
+    },
+    {
+     "eyebrow": "Europe",
+     "title": "Partout, l'argent coûte plus cher",
+     "text": [
+      "Au Royaume-Uni, une responsable de la Banque d'Angleterre voit réunies les conditions d'une inflation « persistante » et n'exclut pas une deuxième hausse de taux d'affilée. En Allemagne, Friedrich Merz est appelé à freiner l'emprunt pour la défense avant que la charge d'intérêts ne pèse trop sur le budget. En Italie, les banques dénoncent un projet de taxe de 7 Md€ sur trois ans."
+     ],
+     "why": "Le FT consacre sa grande enquête à « la fin de l'argent bon marché » pour les entreprises américaines : la hausse du coût de l'emprunt frappe d'abord les plus endettées.",
+     "rep": 2,
+     "sources": ["FT Newswrap", "FT Opinion"],
+     "prog": "Coût du capital, investissement, effet d'éviction"
+    }
+   ],
+   "items": []
+  },
+  {
+   "title": "Europe : colère sociale et campagnes électorales",
+   "stories": [
+    {
+     "img": "img/2026-11-12/madrid.jpg",
+     "alt": "Vue de nuit d'une foule immense sous des parapluies sur la place de Cibeles, à Madrid",
+     "credit": "Alejandro Martinez Velez/Reuters, via Aktionnaire",
+     "eyebrow": "Espagne",
+     "title": "La première grève générale depuis 14 ans",
+     "text": [
+      "Les deux grands syndicats, CCOO et UGT, ont appelé à une grève de 24 heures le 11 novembre, avec pour mot d'ordre « salaires, logement, prix ». Selon une confédération organisatrice, 4 millions de personnes y auraient participé. Transports, usines et services publics ont été perturbés, et des heurts ont opposé piquets de grève et police."
+     ],
+     "why": "Le loyer moyen atteint 1 176 € par mois, pour un salaire moyen des jeunes de 1 190 €, selon le Conseil de la jeunesse espagnol. La Banque d'Espagne estime qu'il manque 750 000 logements, et plus d'un million d'ici 2028. Les élections législatives anticipées ont lieu le 29 novembre (Al Jazeera).",
+     "rep": 2,
+     "sources": ["Aktionnaire", "FT Newswrap", "Al Jazeera (web)"],
+     "more": [
+      "<b>Le paradoxe espagnol.</b> L'Espagne est l'une des économies les plus dynamiques de la zone euro (+2,4 % attendus en 2026), mais la croissance ne se traduit pas en logements abordables.",
+      "<b>Les origines.</b> Le mouvement prolonge les manifestations pour le logement nées fin septembre."
+     ],
+     "prog": "Inégalités, marché du logement, conflits sociaux"
+    },
+    {
+     "eyebrow": "France",
+     "title": "Impôt sur le revenu : 48 % des foyers paient",
+     "text": [
+      "Les recettes de l'impôt sur le revenu atteignent 92,6 Md€ en 2025, +1 % sur un an après +9,9 % en 2024. Sur 42,1 millions de foyers déclarants, 20,1 millions l'ont payé, soit environ 48 %. Les 10 % les plus aisés acquittent 73 % de l'impôt total (DGFiP)."
+     ],
+     "why": "L'impôt des 10 % les plus aisés a reculé de 1,4 % en moyenne en 2025, tandis que celui des classes moyennes et supérieures a augmenté de 3 à 12 %, du fait de la hausse de leurs revenus (Aktionnaire). La part des pensions de retraite dans les revenus déclarés progresse.",
+     "rep": 2,
+     "sources": ["Aktionnaire", "Économix"],
+     "prog": "Fiscalité, progressivité, redistribution"
+    },
+    {
+     "eyebrow": "Présidentielle 2027",
+     "title": "Zemmour candidat, Lagarde testée",
+     "text": [
+      "Éric Zemmour officialise sa candidature, cinq ans après ses 7,07 % du premier tour de 2022. Un sondage crédite Christine Lagarde, présidente de la BCE, de 14 % au premier tour si elle se présentait."
+     ],
+     "why": "La campagne s'ouvre dans un contexte de défiance des marchés envers la dette française : les programmes budgétaires seront scrutés par les investisseurs autant que par les électeurs.",
+     "rep": 2,
+     "sources": ["Économix", "Aktionnaire"],
+     "prog": "Vie politique, économie politique des finances publiques"
+    }
+   ],
+   "items": []
+  },
+  {
+   "title": "Consommation, médias et plateformes",
+   "stories": [
+    {
+     "eyebrow": "Société",
+     "title": "La « friendflation » : l'amitié coûte cher",
+     "text": [
+      "Voir ses amis coûte en moyenne 393 $ par mois aux États-Unis et 335 € en France. 67 % des Américains ont déjà renoncé à un événement social faute d'argent ; en France, 44 % de la génération Z refuse des sorties pour des raisons financières. Les dépenses de sorties ont augmenté de 17 % depuis 2019."
+     ],
+     "why": "Un bon exemple de consommation ostentatoire (Veblen) amplifiée par les réseaux sociaux, et de la façon dont l'inflation se diffuse aux liens sociaux.",
+     "rep": 1,
+     "sources": ["TNBS"],
+     "prog": "Consommation, socialisation, inégalités"
+    },
+    {
+     "eyebrow": "Régulation",
+     "title": "Bruxelles s'attaque aux pièges des plateformes",
+     "text": [
+      "Le Digital Fairness Act imposerait la résiliation des abonnements numériques en deux clics et interdirait les essais gratuits transformés automatiquement en abonnements payants, les fausses promotions et les interfaces manipulatrices. Bruxelles estime le gain pour les consommateurs à 13,7 Md€ par an. Le texte doit encore être adopté."
+     ],
+     "why": "Le FT note que Bruxelles dévoile de nouvelles règles pour les géants du numérique malgré sa promesse de simplification. En France, un projet de loi obligerait les annonceurs à consacrer 10 % de leur budget publicitaire en ligne aux sites d'information, sous peine de 75 000 € d'amende ; Google et Meta captent 82 % des revenus publicitaires du web français (TNBS).",
+     "rep": 2,
+     "sources": ["Économix", "FT Newswrap", "TNBS"],
+     "prog": "Concurrence, protection du consommateur, économie des plateformes"
+    }
+   ],
+   "items": []
+  }
+ ],
+ "briefs": [
+  ["Fnac Darty", "Daniel Kretinsky prend le contrôle : son groupe EP détient 69,3 % du capital après son offre à 35 € par action, rouverte du 12 au 25 novembre."],
+  ["Carburants", "Selon Terra Nova, ramener la TVA de 20 % à 5,5 % coûterait 6 Md€ par an sans faire passer le gazole sous 2 € le litre."],
+  ["Immobilier", "La Fnaim anticipe un recul de 3 à 5 % des ventes en 2026 et des prix en baisse de 1 % sur un an."],
+  ["Chine", "6,8 millions de mariages en 2025, contre 12,2 millions dix ans plus tôt (−44 %) : Pékin tente de relancer les unions."],
+  ["Alertes à la bombe", "Des centaines d'écoles évacuées en Italie, en Écosse et en Irlande, dans ce qui semble être une attaque coordonnée."],
+  ["Paris sur la téléréalité", "Sur Kalshi, les paris sur le divertissement atteignent 814 M$ au 25 septembre 2026, contre 300 M$ sur toute l'année 2025."]
+ ],
+ "good": "Aux États-Unis, le nombre de personnes sans domicile a connu l'an dernier sa plus forte baisse depuis plus de dix ans, après des années de records. C'est la deuxième année de suite qu'il recule (FT Newswrap).",
+ "map": {
+  "start": "iran",
+  "nodes": [
+   {"id": "iran", "x": 200, "y": 34, "l": ["Guerre avec l'Iran :", "énergie plus chère"], "t": "Le choc d'offre", "d": "Depuis fin février, la hausse de l'énergie nourrit l'inflation des deux côtés de l'Atlantique."},
+   {"id": "infus", "x": 100, "y": 122, "l": ["États-Unis : +0,4 %", "de prix en octobre"], "t": "Une inflation tenace", "d": "Plus que prévu, avec l'électricité (+0,9 %) et l'alimentation (+0,5 %) en tête."},
+   {"id": "infez", "x": 300, "y": 122, "l": ["Zone euro : 4 %", "d'inflation"], "t": "Au plus haut depuis 2023", "d": "L'énergie pousse les prix ; les taux longs suivent."},
+   {"id": "fed", "x": 100, "y": 222, "l": ["La Fed prépare", "une hausse de taux"], "t": "Un quart ou un demi-point ?", "d": "Christopher Waller n'exclut pas un demi-point en décembre, une première depuis quatre ans."},
+   {"id": "oat", "x": 300, "y": 222, "l": ["OAT 10 ans : +1,6 pt", "et cap des 5 %"], "t": "La France sous surveillance", "d": "Avec la Belgique, la France devient le nouveau maillon faible de la zone euro."},
+   {"id": "capital", "x": 200, "y": 322, "l": ["Le coût du capital", "remonte partout"], "t": "La fin de l'argent bon marché", "d": "Entreprises endettées, États et projets de long terme paient plus cher leur financement."},
+   {"id": "anthropic", "x": 100, "y": 414, "l": ["Anthropic vise", "1 500 Md$"], "t": "Le test de l'IA", "d": "Une valorisation fondée sur des profits lointains, donc très sensible aux taux. La demande reste pourtant massive."},
+   {"id": "budget", "x": 300, "y": 414, "l": ["Budget 2027 :", "pas de majorité"], "t": "Un effort difficile à voter", "d": "Environ 43 Md€ d'économies et de hausses d'impôts, sans majorité à l'Assemblée."}
+  ],
+  "edges": [
+   ["iran", "infus"],
+   ["iran", "infez"],
+   ["infus", "fed"],
+   ["infez", "oat"],
+   ["fed", "capital"],
+   ["oat", "capital"],
+   ["capital", "anthropic"],
+   ["oat", "budget"]
+  ]
+ },
+ "dossiers": [
+  {
+   "eyebrow": "Dette souveraine",
+   "title": "Pourquoi les marchés regardent Paris plutôt que Madrid",
+   "q": "Il y a quinze ans, la crise de la dette frappait la Grèce, l'Italie et l'Espagne. En 2026, c'est la France qui paie la plus forte hausse de taux de la zone euro. Comment un grand pays devient-il un « maillon faible » ?",
+   "steps": [
+    ["Le choc", "La guerre avec l'Iran relance l'inflation.", "L'énergie plus chère pousse l'inflation de la zone euro à 4 %. Les investisseurs exigent des taux plus élevés pour compenser la perte de pouvoir d'achat de leurs placements."],
+    ["Le tri", "Les marchés regardent les fondamentaux.", "Ils comparent croissance, déficit et dette. L'Espagne (+2,4 % de croissance attendue) s'en sort ; la France (dette proche de 120 % du PIB, déficit supérieur à 5 %) et la Belgique décrochent."],
+    ["La prime de risque", "Le taux français dépasse 5 %.", "Le taux à 10 ans français prend 1,6 point, contre 0,8 point pour l'Espagne. L'écart avec l'Allemagne, l'emprunteur de référence, mesure la défiance."],
+    ["La spéculation", "La liquidité devient une faiblesse.", "La dette française, très abondante et facile à échanger, permet de parier contre elle à moindre coût, par la vente à découvert. La Belgique, moins liquide, est moins exposée à ces paris."],
+    ["La contrainte politique", "Un budget sans majorité.", "Le plan d'environ 43 Md€ doit passer devant une Assemblée qui a rejeté à l'unanimité la partie recettes. Plus le doute dure, plus la prime de risque s'installe."],
+    ["Le filet de sécurité", "La BCE en dernier recours.", "Klaas Knot assure que la BCE « n'hésitera pas » à intervenir. Mais ses outils sont conditionnés au respect des règles budgétaires : l'aléa moral reste au cœur du débat."]
+   ],
+   "calc": true,
+   "refs": [
+    "<b>Paul De Grauwe (2011).</b> Dans une union monétaire, un État emprunte dans une monnaie qu'il ne contrôle pas : il est exposé aux crises de liquidité autoexcitatrices.",
+    "<b>Évsey Domar.</b> La dette se stabilise si la croissance nominale dépasse le taux d'intérêt ; au-delà de 5 % de taux, la condition se durcit pour la France.",
+    "<b>Mario Draghi (2012), « whatever it takes ».</b> La parole d'une banque centrale crédible a suffi à faire baisser les primes de risque.",
+    "<b>Reinhart et Rogoff, « Cette fois, c'est différent ».</b> Les crises de dette reviennent par vagues, souvent après des chocs extérieurs."
+   ],
+   "accroche": "« La France est arrivée et tout le monde s'est soudain mis à regarder les fondamentaux » : c'est ainsi qu'une gérante de BNY Investments résume, en novembre 2026, le retour de la France au rang des emprunteurs à risque.",
+   "sujets": [
+    "La zone euro est-elle à l'abri d'une nouvelle crise des dettes souveraines ?",
+    "Les marchés financiers disciplinent-ils les États ?",
+    "Faut-il une union budgétaire européenne ?"
+   ]
+  },
+  {
+   "eyebrow": "Logement",
+   "title": "Espagne : quand la croissance ne loge plus les jeunes",
+   "q": "L'Espagne affiche l'une des croissances les plus fortes de la zone euro, et pourtant ses syndicats lancent la première grève générale depuis 2012. Pourquoi le logement est-il devenu la question sociale centrale ?",
+   "steps": [
+    ["Une offre insuffisante", "750 000 logements manquent.", "Selon la Banque d'Espagne, le déficit pourrait dépasser un million de logements d'ici 2028 : la construction ne suit pas la croissance démographique et urbaine."],
+    ["Des loyers qui s'envolent", "Loyer moyen : 1 176 € par mois.", "Soit l'équivalent du salaire moyen d'un jeune (1 190 €). Le taux d'effort devient insoutenable pour les nouveaux entrants sur le marché."],
+    ["Une fracture entre générations", "Propriétaires contre locataires.", "Ceux qui possèdent déjà voient leur patrimoine grimper ; les jeunes et les locataires subissent la hausse. Le logement devient un facteur d'inégalités de patrimoine."],
+    ["Le conflit social", "Grève générale du 11 novembre.", "CCOO et UGT mobilisent sur « salaires, logement, prix ». La question est portée au cœur de la campagne des législatives du 29 novembre."]
+   ],
+   "split": [
+    ["Encadrer les loyers", "Protège immédiatement les locataires, limite la captation de rente par les propriétaires, et répond à l'urgence sociale ; le logement est un bien essentiel, pas un actif comme les autres."],
+    ["Construire davantage", "Le contrôle des loyers réduit l'offre locative à long terme et dégrade l'entretien du parc ; seule une hausse de l'offre (foncier, normes, logement social) fait baisser durablement les prix."]
+   ],
+   "refs": [
+    "<b>Thomas Piketty, « Le Capital au XXIe siècle ».</b> Le poids croissant du patrimoine immobilier dans les inégalités.",
+    "<b>Assar Lindbeck.</b> Le contrôle des loyers serait, après les bombardements, le moyen le plus efficace de détruire une ville (formule célèbre, débattue).",
+    "<b>Hirschman, « Exit, Voice and Loyalty ».</b> Faute de pouvoir partir, les locataires choisissent la prise de parole : la grève en est une forme."
+   ],
+   "accroche": "En Espagne, un jeune salarié gagne en moyenne 1 190 € par mois, quand le loyer moyen atteint 1 176 € : toute sa paie pour un toit.",
+   "sujets": [
+    "Le logement est-il devenu le principal facteur d'inégalités ?",
+    "Faut-il réguler le marché du logement ?",
+    "La croissance suffit-elle à réduire les inégalités ?"
+   ]
+  },
+  {
+   "eyebrow": "Gouvernance",
+   "title": "Nvidia : peut-on se passer d'un PDG fondateur ?",
+   "q": "Le conseil d'administration de Nvidia envisagerait d'écarter Jensen Huang, cofondateur et visage du groupe. Comment arbitrer entre la discipline de gouvernance et le risque de perdre l'homme qui incarne l'entreprise ?",
+   "steps": [
+    ["Le scandale", "Des révélations en cascade.", "Relation reconnue avec une espionne chinoise présumée, puis nouvelles révélations du New York Times sur une relation avec une cadre placée sous son autorité."],
+    ["La sanction du marché", "Près de −10 % en une séance.", "L'action recule fortement : les investisseurs intègrent un risque de départ du dirigeant, passé de 40 % à près de 80 % sur Kalshi."],
+    ["Le rôle du conseil", "Contrôler le dirigeant.", "Le conseil d'administration doit défendre l'intérêt des actionnaires : il préparerait un PDG par intérim et chercherait un successeur avec un cabinet extérieur."],
+    ["Le risque « homme-clé »", "Aucun successeur préparé.", "La stratégie et le modèle de gouvernance du groupe sont étroitement associés à la personnalité de Huang : son départ crée une forte incertitude."]
+   ],
+   "split": [
+    ["Oui, l'écarter", "La relation hiérarchique et les soupçons d'ingérence étrangère créent des risques juridiques et de réputation ; un conseil qui ne réagit pas perd sa crédibilité, et l'entreprise doit survivre à son fondateur."],
+    ["Non, le garder", "La valeur de Nvidia repose en partie sur la vision et les relations de Huang ; un départ précipité, sans successeur, pourrait détruire davantage de valeur que le scandale lui-même."]
+   ],
+   "refs": [
+    "<b>Jensen et Meckling (1976).</b> La théorie de l'agence : comment les actionnaires contrôlent un dirigeant dont les intérêts peuvent diverger des leurs.",
+    "<b>Berle et Means (1932).</b> La séparation de la propriété et du contrôle dans la grande entreprise moderne.",
+    "<b>Joseph Schumpeter.</b> L'entrepreneur innovateur, moteur de la destruction créatrice, difficilement remplaçable."
+   ],
+   "accroche": "En novembre 2026, le conseil d'administration de la première entreprise de puces d'IA au monde envisage de se séparer de son fondateur, sans successeur désigné.",
+   "sujets": [
+    "Qui gouverne l'entreprise ?",
+    "Les actionnaires contrôlent-ils vraiment les dirigeants ?",
+    "L'entrepreneur est-il encore indispensable à l'innovation ?"
+   ]
+  }
+ ],
+ "flash": [
+  ["1 500 Md$", "Anthropic", "Valorisation que les banques envisagent, au-dessus de la fourchette officielle (jusqu'à 1 400 Md$)."],
+  ["86 Md$", "Record SpaceX", "Le plus gros montant levé lors d'une introduction en Bourse, qu'Anthropic pourrait dépasser."],
+  ["−10,9 Md$", "OpenAI", "Perte d'exploitation au troisième trimestre, pour 10 Md$ de chiffre d'affaires."],
+  ["5 %", "OAT 10 ans", "Seuil brièvement franchi par le taux français, une première depuis 2002."],
+  ["4 %", "Inflation zone euro", "Son plus haut niveau depuis 2023, sous l'effet de l'énergie."],
+  ["+0,4 %", "Prix aux États-Unis", "Hausse sur un mois en octobre ; +0,3 % hors énergie et alimentation."],
+  ["1 176 €", "Loyer moyen en Espagne", "Pour un salaire moyen des jeunes de 1 190 € par mois."],
+  ["92,6 Md€", "Impôt sur le revenu", "Recettes 2025 ; 48 % des foyers paient l'impôt."],
+  ["13,7 Md€", "Digital Fairness Act", "Économies annuelles attendues pour les consommateurs européens."]
+ ],
+ "quiz": [
+  {"q": "Quel record l'introduction en Bourse d'Anthropic pourrait-elle battre ?", "o": ["Celui d'Aramco", "Celui de SpaceX, 86 Md$ levés", "Celui d'Alibaba", "Celui de Facebook"], "a": 1, "e": "Si les banques relèvent le prix, les fonds levés dépasseraient 100 Md$, devant les 86 Md$ de SpaceX (FT)."},
+  {"q": "De combien le taux à 10 ans français a-t-il augmenté depuis fin février ?", "o": ["0,8 point", "1,2 point", "1,6 point", "3 points"], "a": 2, "e": "1,6 point. La Belgique a pris 1,2 point et l'Espagne 0,8 point."},
+  {"q": "Pourquoi la dette française est-elle plus facile à attaquer que la dette belge ?", "o": ["Elle est notée AAA", "Elle est très abondante et liquide", "Elle est libellée en dollars", "La BCE n'en achète pas"], "a": 1, "e": "Un marché vaste et liquide permet de vendre à découvert facilement, donc de parier contre la dette."},
+  {"q": "Quel était le taux directeur de la Fed après sa réunion d'octobre ?", "o": ["2 à 2,25 %", "3,75 à 4 %", "5,25 à 5,5 %", "0 à 0,25 %"], "a": 1, "e": "3,75 à 4 %, maintenu par un vote de 10 voix contre 2 (CNBC). Une hausse est attendue en décembre."},
+  {"q": "Pourquoi le taux d'inflation américain sur un an n'a-t-il pas été publié ?", "o": ["Grève du Bureau des statistiques", "Changement de méthode", "Le shutdown de 2025 avait empêché la collecte d'octobre 2025", "Décision de la Fed"], "a": 2, "e": "Sans prix d'octobre 2025, impossible de calculer la variation sur douze mois."},
+  {"q": "Quel est le mot d'ordre de la grève générale espagnole ?", "o": ["« Retraites, santé, école »", "« Salaires, logement, prix »", "« Climat, énergie, emploi »", "« Europe, paix, travail »"], "a": 1, "e": "CCOO et UGT ont mobilisé sur les salaires, le logement et les prix."},
+  {"q": "Quelle part des foyers fiscaux français paie l'impôt sur le revenu ?", "o": ["Environ 25 %", "Environ 48 %", "Environ 65 %", "Environ 90 %"], "a": 1, "e": "20,1 millions sur 42,1 millions de foyers déclarants, soit environ 48 %."},
+  {"q": "Quelle théorie éclaire le mieux le rôle du conseil d'administration de Nvidia face à son PDG ?", "o": ["La théorie quantitative de la monnaie", "La théorie de l'agence", "La loi de Say", "La théorie des avantages comparatifs"], "a": 1, "e": "Jensen et Meckling : les actionnaires (mandants) doivent contrôler le dirigeant (mandataire)."}
+ ],
+ "colle": {
+  "title": "La zone euro est-elle à l'abri d'une nouvelle crise des dettes souveraines ?",
+  "parts": [
+   ["Depuis 2012, la zone euro s'est dotée de protections", ["« Whatever it takes » (Draghi), MES et outils de la BCE : la crise de liquidité autoexcitatrice (De Grauwe) est mieux maîtrisée", "Les anciens « maillons faibles », comme l'Espagne, ont redressé croissance et finances publiques"]],
+   ["Mais de nouvelles fragilités apparaissent", ["Choc énergétique, inflation à 4 % et hausse des taux : la France prend 1,6 point et frôle 5 %", "Dette proche de 120 % du PIB, déficit supérieur à 5 % et budget sans majorité ; une dette liquide facile à attaquer"]],
+   ["La protection dépend d'un équilibre entre BCE, règles et volonté politique", ["La BCE peut intervenir, mais ses outils sont conditionnés : risque d'aléa moral", "Union budgétaire, crédibilité des trajectoires nationales et croissance comme conditions de la soutenabilité"]]
+  ]
+ },
+ "matrix": {
+  "cols": ["FT Newswrap", "Aktionnaire", "Économix", "TNBS", "FT Opinion", "Fortune", "CNBC", "Al Jazeera", "Eurostat", "LCP", "Khaleej Times", "Decrypt"],
+  "rows": [
+   ["IPO Anthropic", [1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1]],
+   ["Affaire Nvidia", [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]],
+   ["Résultats d'OpenAI", [0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
+   ["Dette France-Belgique", [1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0]],
+   ["Grève en Espagne", [1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]],
+   ["Hausses de taux", [1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]],
+   ["Impôt sur le revenu", [0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
+   ["Présidentielle 2027", [0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
+   ["Régulation des plateformes", [1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]],
+   ["Alertes à la bombe", [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+  ]
+ },
+ "sources": [
+  ["FT Newswrap", "newsletter, mer. 11", "IPO Anthropic, inflation américaine, Fed, BoE, Merz, taxe bancaire italienne, dette France-Belgique, Nvidia, grève espagnole, sans-abri"],
+  ["Aktionnaire", "newsletter, jeu. 12", "Affaire Huang, grève espagnole, OpenAI et Anthropic, immobilier, impôt sur le revenu, Lagarde, alertes à la bombe"],
+  ["Cosmos Finance (Économix)", "newsletter, jeu. 12", "Dette France-Belgique, Fnac Darty, carburants, Digital Fairness Act, OpenAI, Zemmour, impôt sur le revenu"],
+  ["The Next Big Sh*t", "newsletter, jeu. 12", "Friendflation, podcasts et élections, publicité et presse, jeux IA, paris sur la téléréalité, mariages en Chine, IPO Anthropic"],
+  ["FT Opinion", "newsletter, jeu. 12", "Andy Burnham, régulation américaine, fin de l'argent bon marché, croissance britannique"],
+  ["Fortune", "web, 10 nov.", "IPO Anthropic : actions offertes, Nasdaq « ANT », chiffre d'affaires annualisé, investisseurs stratégiques"],
+  ["Decrypt", "web, 10 nov.", "Fourchette de prix de 70 à 78 $ et valorisation jusqu'à 1 400 Md$"],
+  ["CNBC", "web, 10 nov.", "Détail de l'inflation américaine d'octobre et positions des membres de la Fed"],
+  ["Al Jazeera", "web, 10 nov.", "Grève espagnole : syndicats, loyers, déficit de logements, date des élections"],
+  ["Eurostat", "web, 12 nov.", "Dette publique en % du PIB fin 2025 : France 115,7 %, Belgique 108,1 %"],
+  ["LCP", "web, 4 nov.", "Rejet de la partie recettes du budget 2027 à l'Assemblée"],
+  ["Khaleej Times", "web, 9 nov.", "Enquête du conseil d'administration de Nvidia sur Jensen Huang"]
+ ],
+ "ia": {
+  "toc": "Claude se porte lui-même sur une nouvelle puce, Meta ouvre son design system pour agents, et un hook qui sonne quand Claude a fini.",
+  "intro": "Chaque jour, ce qui bouge dans l'IA et ce que tu peux en faire avec ton abonnement Claude. Aujourd'hui : l'IA qui accélère sa propre fabrication, et ta première automatisation de Claude Code.",
+  "signalTitle": "L'IA qui accélère sa propre fabrication",
+  "signal": [
+   {
+    "eyebrow": "Anthropic · 11 novembre",
+    "title": "Claude a porté Claude sur une nouvelle puce en trois jours",
+    "text": [
+     "Dans la vidéo de présentation de son introduction en Bourse, Anthropic explique entraîner et faire tourner Claude sur quatre familles de puces : Trainium (Amazon), TPU (Google), et les processeurs graphiques de Nvidia et d'AMD.",
+     "Jusqu'ici, ajouter une nouvelle plateforme demandait « des dizaines d'ingénieurs » pendant des mois. Selon Anthropic, cette fois, Mythos a fait tourner Claude sur les puces AMD en trois jours, presque sans intervention humaine, en écrivant ou en adaptant la quasi-totalité des kernels, ces petits programmes de calcul optimisés pour une puce."
+    ],
+    "why": "Pour toi : c'est l'argument central de l'entreprise auprès des investisseurs, l'IA qui accélère la fabrication de l'IA. Garde l'esprit critique : ce sont des affirmations d'Anthropic dans un document destiné à vendre ses actions, résumées par Simon Willison.",
+    "sources": ["Simon Willison (web)"],
+    "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/"
+   },
+   {
+    "img": "img/2026-11-12/ia_astryx.jpg",
+    "alt": "Visuel d'Astryx : le logo bleu entouré d'exemples de composants d'interface (réglages, panier, inventaire)",
+    "credit": "Meta, via GitHub",
+    "eyebrow": "Meta · open source",
+    "title": "Meta ouvre le design system de 13 000 applications, pensé pour les agents",
+    "text": [
+     "Astryx est la bibliothèque d'interface utilisée en interne chez Meta depuis huit ans : plus de 150 composants accessibles, des thèmes, un mode sombre, des modèles prêts à l'emploi et un outil en ligne de commande. Elle est publiée sous licence MIT, en version bêta.",
+     "Sa particularité : la documentation et les outils sont conçus pour qu'une personne et un assistant IA construisent de la même façon. C'est le dépôt qui a gagné le plus d'étoiles sur GitHub ce jour-là : +2 776, pour plus de 26 000 au total."
+    ],
+    "why": "Pour toi : quand tu demandes une interface à Claude, il réinvente le style à chaque fois. Un design system documenté pour les agents lui donne des briques prêtes et cohérentes. Demande React 19 ; à réserver à un vrai projet web.",
+    "sources": ["GitHub (web)"],
+    "url": "https://github.com/meta/astryx"
+   },
+   {
+    "eyebrow": "Google · 11 novembre",
+    "title": "Un modèle qui ne fait que répondre oui ou non",
+    "text": [
+     "Google lance Gemini Decision 1, un « modèle de décision » accessible par API. Il répond à des questions fermées : oui ou non, choix entre options, notation selon une grille. Il lit du texte, des images, du son, de la vidéo et des PDF.",
+     "Pour un oui ou non, il renvoie une probabilité entre 0 et 1. Selon Simon Willison, le prix est de 10 cents par million de jetons en entrée, et la réponse est gratuite."
+    ],
+    "why": "Pour toi : l'idée est utile même sans ce modèle. Demander à Claude une réponse fermée (« oui/non », « note sur 5 ») rend son résultat facile à trier ou à compter, par exemple pour classer 200 articles selon qu'ils parlent de politique monétaire ou non.",
+    "sources": ["Simon Willison (web)"],
+    "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
+   }
+  ],
+  "claude": [
+   {"k": "Sécurité", "t": "Mets Claude Code à jour", "d": "La version 2.1.321 corrige une faille : un serveur MCP qui redirigeait une connexion pouvait recevoir tes jetons d'accès. Elle corrige aussi une commande en lecture seule qui pouvait s'exécuter hors du bac à sable sans te demander.", "cmd": "claude update"},
+   {"k": "Permissions", "t": "Les interdits s'appliquent aussi aux copies", "d": "Depuis la 2.1.321, une règle qui interdit d'écrire dans un fichier s'applique aussi quand Claude utilise cp ou mv vers un dossier. Tes protections deviennent plus fiables."},
+   {"k": "Contrôle à distance", "t": "Des réglages dédiés au pilotage depuis ton téléphone", "d": "La commande remote-control accepte maintenant un fichier de réglages appliqué à chaque session qu'elle lance : pratique pour être plus prudent quand tu pilotes Claude à distance.", "cmd": "claude remote-control --settings <fichier>"}
+  ],
+  "augmente": [
+   {"gap": "Piloter ta maison connectée", "tool": "homeassistant-ai/ha-mcp", "url": "https://github.com/homeassistant-ai/ha-mcp", "meta": "7,7 k étoiles · serveur MCP · licence MIT", "d": "Ce serveur MCP relie Claude à Home Assistant, le logiciel libre de domotique : Claude peut lire l'état des appareils, créer des automatisations ou modifier des scènes en langage naturel.", "why": "C'est l'angle « objets connectés » : Claude ne sait pas allumer une lampe, mais il sait parler à un logiciel qui le fait. Il faut déjà avoir une installation Home Assistant ; lis le script avant de le lancer.", "cmd": "curl -LsSf https://raw.githubusercontent.com/homeassistant-ai/ha-mcp/master/scripts/install.sh | sh -s -- --claude-code", "cmdLabel": "Terminal"},
+   {"gap": "Prendre du recul sur tout un projet", "tool": "shadcn/improve", "url": "https://github.com/shadcn/improve", "meta": "11,4 k étoiles · skill · licence MIT", "d": "Un skill de shadcn qui audite un projet entier et écrit des plans de travail détaillés dans un dossier plans/, sans rien modifier lui-même. Un modèle moins cher peut ensuite exécuter chaque plan.", "why": "La logique est bonne à retenir : le modèle le plus capable réfléchit et planifie, un modèle plus rapide exécute. Tu économises ton quota en gardant la qualité. Commence par /improve quick.", "cmd": "npx skills add shadcn/improve", "cmdLabel": "Terminal"}
+  ],
+  "repos": [
+   {"name": "meta/astryx", "stars": "26,2 k", "week": "+2 776 en un jour", "lang": "TypeScript", "what": "Le design system interne de Meta, ouvert à tous : 150 composants d'interface accessibles, des thèmes et un outil en ligne de commande pensé pour les agents.", "why": "Ce qu'il montre : une bibliothèque documentée pour les IA autant que pour les humains. À essayer pour donner un rendu professionnel à une appli que Claude t'écrit.", "cmd": "npm install @astryxdesign/core @astryxdesign/theme-neutral @stylexjs/stylex"},
+   {"name": "ZhuLinsen/daily_stock_analysis", "stars": "71 k", "week": "+278 en un jour", "lang": "Python", "what": "Un système d'analyse boursière qui combine données de marché, actualités et un modèle de langage, avec un tableau de bord et des envois automatiques programmés.", "why": "Ce qu'il apprend : comment un particulier assemble données, IA et tâche planifiée en un outil personnel. À regarder comme exemple d'architecture, pas comme conseil d'investissement.", "cmd": "git clone https://github.com/ZhuLinsen/daily_stock_analysis.git && cd daily_stock_analysis"},
+   {"name": "addyosmani/agent-skills", "stars": "116,5 k", "week": "+787 en un jour", "lang": "JavaScript", "what": "25 skills d'ingénierie logicielle par Addy Osmani (Google) : revue de code, tests, et « interview-me », qui t'interroge question par question pour clarifier ce que tu veux vraiment construire.", "why": "Ce qu'il apprend : de bons exemples de SKILL.md à lire pour écrire les tiens. Commence par interview-me avant ton prochain projet.", "cmd": "npx skills add addyosmani/agent-skills --skill interview-me"}
+  ],
+  "labo": {
+   "meta": "15 minutes · débutant · Claude Code",
+   "title": "Ton premier hook : un son quand Claude a fini",
+   "goal": "Un hook est une commande que Claude Code lance automatiquement à un moment précis. Tu vas en créer un qui joue un son quand Claude termine sa réponse : tu peux faire autre chose pendant qu'il travaille. C'est la porte d'entrée des automatisations.",
+   "steps": [
+    {"t": "Choisis ton son", "d": "macOS contient des sons système. Teste-les dans le Terminal (remplace Glass par Hero, Ping ou Submarine).", "cmd": "afplay /System/Library/Sounds/Glass.aiff"},
+    {"t": "Demande à Claude d'ajouter le hook", "d": "Les hooks se rangent dans ~/.claude/settings.json, sous la forme {\"hooks\": {\"Stop\": [{\"hooks\": [{\"type\": \"command\", \"command\": \"...\"}]}]}}. Plutôt que d'écraser le fichier, laisse Claude le compléter : colle ce message dans Claude Code.", "cmd": "Ajoute à mes réglages utilisateur (~/.claude/settings.json) un hook sur l'événement Stop qui lance la commande afplay /System/Library/Sounds/Glass.aiff. Garde tous mes réglages existants et montre-moi le fichier avant d'enregistrer."},
+    {"t": "Vérifie qu'il est actif", "d": "Cette commande liste les hooks configurés. Pose ensuite une question à Claude : le son retentit à la fin de sa réponse.", "cmd": "/hooks"},
+    {"t": "Va plus loin : une notification", "d": "L'événement Notification se déclenche quand Claude attend ton accord. Demande à Claude d'y brancher cette commande, qui affiche une bulle macOS.", "cmd": "osascript -e 'display notification \"Claude attend ta réponse\" with title \"Claude Code\"'"}
+   ]
+  },
+  "build": {
+   "k": "Inspiré de ZhuLinsen/daily_stock_analysis",
+   "title": "Ton tableau de bord de la dette européenne",
+   "d": "Le dépôt du jour assemble données et IA en un outil personnel pour suivre la Bourse. En voici une version gratuite et utile pour l'ESH : une page qui interroge l'API publique d'Eurostat et trace la dette publique des pays de la zone euro, pour illustrer le dossier du jour.",
+   "prompt": "Crée un fichier dette.html autonome (HTML, CSS et JavaScript, sans dépendance externe). Au chargement, il interroge l'API publique d'Eurostat, sans clé : https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10dd_edpt1?unit=PC_GDP&na_item=GD&sector=S13&sinceTimePeriod=2007&geo=FR&geo=BE&geo=IT&geo=ES&geo=DE&geo=IE&geo=EL (format JSON-stat : lis les dimensions geo et time pour retrouver chaque valeur). Trace un graphique en courbes en SVG dessiné à la main : dette publique en % du PIB, une couleur par pays, avec légende cliquable pour masquer un pays. Ajoute un second onglet avec le solde public (na_item=B9 au lieu de GD). Sous le graphique, affiche un tableau des dernières valeurs triées. Style sobre, lisible sur téléphone. Gère proprement les erreurs réseau. Ensuite, ouvre le fichier dans mon navigateur.",
+   "note": "L'API d'Eurostat autorise les appels depuis une page locale. Prochaine étape : ajouter les taux à 10 ans (jeu de données irt_lt_mcby_m) pour comparer dette et coût de financement, comme dans le dossier sur la France et la Belgique."
+  },
+  "briefs": [
+   ["Anthropic en Bourse", "Cotation sur le Nasdaq attendue la semaine prochaine sous le symbole « ANT » ; les banques envisagent de relever la valorisation à 1 500 Md$ ou plus (FT)."],
+   ["OpenAI", "10 Md$ de chiffre d'affaires et 10,9 Md$ de perte d'exploitation au troisième trimestre. OpenAI lance aussi en bêta un Business Hub pour que les commerçants gèrent leur présence dans ChatGPT."],
+   ["Jeux faits par IA", "Sur Roblox, plus de 500 000 personnes ont utilisé l'outil Build, qui crée un jeu à partir d'une description, et publié plus de 70 000 jeux ; deux d'entre eux ont atteint le top 20 (TNBS)."],
+   ["Faille corrigée", "Simon Willison publie llm 0.37.2 : deux failles pouvaient envoyer une clé d'API OpenAI à d'autres fournisseurs. Rappel utile : mets à jour tes outils qui manipulent des clés."],
+   ["244 outils", "Simon Willison a classé par étiquettes les 244 petits outils web qu'il a codés avec l'IA : une belle source d'idées de projets d'une page."]
+  ],
+  "glossaire": [
+   ["Kernel", "Un petit programme de calcul très optimisé pour une puce donnée (une multiplication de matrices, par exemple). Changer de puce oblige à réécrire ces kernels."],
+   ["Design system", "Une bibliothèque de composants d'interface (boutons, menus, tableaux) avec des règles de style communes, pour que toutes les pages d'une application se ressemblent."],
+   ["Multiplicateur de calcul", "Une amélioration de méthode qui permet d'obtenir le même modèle avec moins de calcul. Un multiplicateur de 4 signifie 25 unités au lieu de 100."],
+   ["Modèle de décision", "Un modèle spécialisé dans les réponses fermées (oui/non, choix, note), qui renvoie une probabilité plutôt qu'un texte. Rapide et peu coûteux pour trier en masse."],
+   ["Événement Stop", "Le moment où Claude termine sa réponse. Un hook branché sur Stop se déclenche à ce moment-là, à chaque fois."]
+  ],
+  "sources": [
+   ["Simon Willison", "web, 10-11 nov.", "Vidéo de l'IPO d'Anthropic, Gemini Decision 1, llm 0.37.2, outils étiquetés"],
+   ["GitHub Trending", "web, 12 nov.", "Dépôts du jour et étoiles gagnées"],
+   ["Changelog Claude Code", "web, 10 nov.", "Versions 2.1.321 et 2.1.322"],
+   ["meta/astryx (README)", "web, 12 nov.", "Description, licence, installation"],
+   ["shadcn/improve (README)", "web, 12 nov.", "Fonctionnement et commande d'installation"],
+   ["homeassistant-ai/ha-mcp (README)", "web, 12 nov.", "Installation pour Claude Code"],
+   ["addyosmani/agent-skills (README)", "web, 12 nov.", "Liste des skills et installation"],
+   ["Eurostat", "web, 12 nov.", "API publique utilisée dans « Construis-le »"]
+  ]
+ }
+}
