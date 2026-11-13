@@ -1050,7 +1050,7 @@
  ],
  "ia": {
   "toc": "Fable 5.2 arrive dans Claude Code, trois compétences à ajouter à Claude, et ton radar à dépôts IA en un prompt.",
-  "intro": "Chaque jour, ce qui bouge dans l'IA et ce que tu peux en faire avec ton abonnement Claude : les modèles, les outils, les projets de la communauté, et une expérience à tenter.",
+  "intro": "Modèles, outils et projets : ce qui change dans l'IA, et ce qui sert vraiment.",
   "signalTitle": "Des modèles plus forts, des agents en équipe",
   "signal": [
    {
@@ -1177,32 +1177,6 @@
     "cmd": "git clone https://github.com/Donchitos/Claude-Code-Game-Studios.git mon-jeu\ncd mon-jeu\nclaude"
    }
   ],
-  "labo": {
-   "meta": "20 minutes · débutant · Claude Code",
-   "title": "Crée ton premier skill : un colleur d'ESH",
-   "goal": "Un skill, c'est une fiche d'instructions que Claude charge quand il en a besoin. Tu vas en écrire un qui t'interroge comme en colle, sur le sujet de ton choix. C'est la brique de base de tout ce que font les créateurs que tu suis.",
-   "steps": [
-    {
-     "t": "Crée le dossier du skill",
-     "d": "Tes skills personnels vivent dans ~/.claude/skills, un dossier par skill. Colle cette ligne dans le Terminal.",
-     "cmd": "mkdir -p ~/.claude/skills/colle-esh"
-    },
-    {
-     "t": "Écris le fichier SKILL.md",
-     "d": "Deux champs obligatoires en tête : name et description. La description compte le plus : c'est elle qui dit à Claude quand utiliser le skill.",
-     "cmd": "cat > ~/.claude/skills/colle-esh/SKILL.md <<'EOF'\n---\nname: colle-esh\ndescription: Interroge l'étudiant comme en colle d'ESH (prépa ECG) sur un sujet donné. À utiliser quand il demande une colle, un entraînement à l'oral ou une interrogation.\n---\n\nTu es examinateur de colle d'ESH en prépa ECG.\n1. Demande le sujet s'il n'est pas donné.\n2. Pose une seule question à la fois, de la définition vers l'analyse.\n3. Après chaque réponse : ce qui est juste, ce qui manque, un auteur ou un chiffre à citer.\n4. Après 5 questions, donne une note sur 20 et trois points à retravailler.\nEOF"
-    },
-    {
-     "t": "Lance-le",
-     "d": "Ouvre Claude Code et tape le nom du skill suivi d'un sujet. Claude peut aussi le déclencher seul si tu écris « fais-moi une colle ».",
-     "cmd": "/colle-esh la politique monétaire de la BCE"
-    },
-    {
-     "t": "Améliore-le",
-     "d": "Le vrai apprentissage est là : change le barème, le ton ou la durée, relance, compare. Tu peux aussi demander à Claude « améliore mon skill colle-esh » : le skill officiel skill-creator d'Anthropic sert exactement à ça."
-    }
-   ]
-  },
   "briefs": [
    [
     "Claude au travail",
@@ -1227,32 +1201,6 @@
    [
     "La concurrence",
     "Codex, l'outil d'OpenAI, passe en v0.167 avec un centre de commande pour ses agents ; Gemini CLI, celui de Google, en v0.67."
-   ]
-  ],
-  "glossaire": [
-   [
-    "Skill",
-    "Un dossier avec un fichier SKILL.md : des instructions, parfois des scripts, que Claude charge seulement quand la tâche s'y prête. La façon la plus simple d'apprendre un savoir-faire à Claude."
-   ],
-   [
-    "Plugin",
-    "Un paquet qui regroupe skills, commandes, agents ou hooks, installable en une ligne depuis une marketplace (un catalogue, souvent un dépôt GitHub)."
-   ],
-   [
-    "MCP",
-    "Model Context Protocol : la prise standard qui branche un outil externe (Gmail, Notion, ElevenLabs…) sur Claude."
-   ],
-   [
-    "Sous-agent",
-    "Un Claude secondaire lancé par le principal pour une tâche précise, avec sa propre mémoire de travail. La brique des équipes d'agents."
-   ],
-   [
-    "Hook",
-    "Une commande qui se déclenche toute seule à un moment donné (avant un outil, à la fin d'une réponse…), par exemple pour vérifier ou mettre en forme."
-   ],
-   [
-    "Jeton",
-    "L'unité de texte que lit un modèle, à peu près un fragment de mot. Les prix et la fenêtre de contexte se comptent en jetons."
    ]
   ],
   "sources": [
@@ -1370,32 +1318,6 @@
    "prompt": "Crée un fichier radar.html autonome (HTML, CSS et JavaScript, sans dépendance). Au chargement, il interroge l'API publique de recherche GitHub (https://api.github.com/search/repositories) pour trouver les dépôts créés ces 14 derniers jours avec le sujet « claude-code », triés par nombre d'étoiles. Affiche les 15 premiers : nom, description, étoiles, langage et lien. Ajoute un sélecteur de sujet (claude-code, mcp, ai-agents, llm) et un style sobre en noir et blanc. Gère proprement l'erreur quand la limite de requêtes est atteinte. Ensuite, ouvre le fichier dans mon navigateur.",
    "note": "Sans compte, l'API de recherche GitHub accepte une dizaine de requêtes par minute : largement assez pour un radar personnel. Prochaine étape possible : demander à Claude d'en faire une tâche planifiée qui t'envoie le résultat chaque matin."
   },
-  "garde": [
-   {
-    "k": "Secrets",
-    "t": "Tes clés ne quittent pas ton Mac",
-    "d": "Une clé d'API se range dans un fichier .env, listé dans .gitignore, jamais dans le code. Chez Railway, des identifiants volés ont coûté environ 740 000 $ de dépenses d'IA frauduleuses."
-   },
-   {
-    "k": "Sécurité",
-    "t": "Fais relire le code avant de publier",
-    "d": "Dans Claude Code, cette commande passe en revue tes changements en cours à la recherche de failles : données exposées, injections, accès mal protégés.",
-    "cmd": "/security-review",
-    "cmdLabel": "Dans Claude Code"
-   },
-   {
-    "k": "Droit français",
-    "t": "Mentions légales et cookies",
-    "d": "Un site publié en France doit indiquer qui l'édite et qui l'héberge. S'il dépose des cookies de publicité ou de mesure d'audience non exemptés, il faut le consentement du visiteur (règles de la CNIL)."
-   },
-   {
-    "k": "Comprendre",
-    "t": "Sache ce que tu publies",
-    "d": "Avant de mettre en ligne une app écrite par l'IA, fais-toi expliquer sa structure : c'est l'idée des outils de « carte d'application » qu'on voit passer.",
-    "cmd": "Explique-moi ce projet comme à un débutant : à quoi sert chaque fichier, comment ils sont reliés, et ce qui risque de casser si je modifie chacun d'eux.",
-    "cmdLabel": "Prompt à coller dans Claude Code"
-   }
-  ],
   "createurs": {
    "intro": "Ce que publient les créateurs IA qu'on suit. Les rubriques du Labo en reprennent les idées, après vérification ; les partenariats commerciaux sont signalés.",
    "items": [

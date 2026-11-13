@@ -2,8 +2,8 @@
  "date": "2026-11-13",
  "label": "Vendredi 13 novembre 2026",
  "period": "12 au 13 novembre",
- "sourcesCount": 6,
- "countLabel": "6 newsletters + 6 sources web",
+ "sourcesCount": 8,
+ "countLabel": "8 newsletters + 13 sources web",
  "hero": {
   "img": "img/2026-11-13/huang.jpg",
   "alt": "Portrait en noir et blanc de Jensen Huang, assis, en veste de cuir, devant une fenêtre",
@@ -15,19 +15,19 @@
  "brief": [
   [
    "Nvidia",
-   "Jensen Huang quitte la présidence, la direction générale et le conseil d'administration. Colette Kress devient PDG par intérim ; Harvey Jones devient le premier président du conseil."
+   "Jensen Huang quitte la présidence, la direction générale et le conseil d'administration. Colette Kress devient PDG par intérim ; Harvey Jones devient le premier président du conseil."
   ],
   [
-   "Marchés",
-   "L'action Nvidia a perdu jusqu'à 14 % en séance avant de finir à −4,3 %. CoreWeave a chuté de 9,7 %, Micron de 4,8 %."
+   "Taux",
+   "Inflation américaine plus forte que prévu : les taux longs bondissent, la France dépasse brièvement 5 % à 10 ans, une première depuis 2002."
   ],
   [
    "Chine",
-   "Pékin accuse Washington de fabriquer des « récits d'espionnage » et met en garde contre de nouvelles restrictions technologiques (FT)."
+   "Pékin accuse Washington de fabriquer des « récits d'espionnage » et met en garde contre de nouvelles restrictions technologiques (FT)."
   ],
   [
    "Sécu",
-   "Le Sénat repousse d'avril la baisse de 3,7 Md€ des allègements de cotisations patronales : 900 M€ d'économies en moins pour 2027."
+   "Le Sénat repousse d'avril la baisse de 3,7 Md€ des allègements de cotisations patronales : 900 M€ d'économies en moins pour 2027."
   ],
   [
    "Institutions",
@@ -41,9 +41,9 @@
    "dir": "down"
   },
   {
-   "v": "33 ans",
-   "l": "durée du mandat de Jensen Huang à la tête de Nvidia, qu'il avait cofondée en 1993",
-   "dir": "down"
+   "v": "5 %",
+   "l": "taux d'emprunt de la France à 10 ans, dépassé brièvement pour la première fois depuis 2002",
+   "dir": "up"
   },
   {
    "v": "−900 M€",
@@ -67,10 +67,10 @@
      "eyebrow": "Gouvernance",
      "title": "La chute du fondateur",
      "text": [
-      "Le 12 novembre, Nvidia annonce que Jensen Huang quitte avec effet immédiat ses fonctions de président, de directeur général et d'administrateur. Dimanche, il avait reconnu une liaison avec Alice Huang, cadre de la société Megaspeed, que le renseignement américain soupçonne de travailler pour la Chine. Mercredi, le New York Times a révélé une relation avec une dirigeante placée sous son autorité ; Reuters en a signalé une seconde jeudi.",
+      "Le 12 novembre, Nvidia annonce que Jensen Huang quitte avec effet immédiat ses fonctions de président, de directeur général et d'administrateur. Dimanche, il avait reconnu une liaison avec Alice Huang, cadre de la société Megaspeed, que le renseignement américain soupçonne de travailler pour la Chine. Mercredi, le New York Times a révélé une relation avec une dirigeante placée sous son autorité ; Reuters en a signalé une seconde jeudi.",
       "Colette Kress, 59 ans, directrice financière entrée chez Nvidia en 2013, devient PDG par intérim tout en gardant son poste. Harvey Jones, ancien patron de Synopsys et administrateur depuis 1993, devient le tout premier président du conseil. Celui-ci cherche un successeur, en interne comme à l'extérieur (communiqué de Nvidia)."
      ],
-     "why": "Pour Stacy Rasgon (Bernstein), une relation avec une subordonnée rendait « bien plus difficile » de le maintenir en poste. Des élus américains avaient réclamé sa démission. Le conseil assure que les opérations, les engagements envers les clients et la feuille de route des produits continueront « sans interruption ».",
+     "why": "Pour Stacy Rasgon (Bernstein), une relation avec une subordonnée rendait « bien plus difficile » de le maintenir en poste. Des élus américains avaient réclamé sa démission. Le conseil assure que les opérations, les engagements envers les clients et la feuille de route des produits continueront « sans interruption ».",
      "rep": 6,
      "sources": [
       "TNBS",
@@ -83,7 +83,7 @@
       "ABC News (web)"
      ],
      "more": [
-      "<b>Les excuses.</b> Dans un message interne cité par ABC News, Jensen Huang écrit : « Il n'y a aucune excuse à ce que j'ai fait. »",
+      "<b>Les excuses.</b> Dans un message interne cité par ABC News, Jensen Huang écrit : « Il n'y a aucune excuse à ce que j'ai fait. »",
       "<b>La suite.</b> Nvidia publiera ses résultats du troisième trimestre le mardi 17 novembre, première épreuve pour la nouvelle direction.",
       "<b>Le parcours.</b> Cofondateur en 1993, il a transformé un fabricant de cartes graphiques pour le jeu vidéo en pièce centrale du boom de l'IA (CNBC)."
      ],
@@ -96,10 +96,10 @@
      "eyebrow": "Marchés",
      "title": "Une chute brutale, puis un rebond partiel",
      "text": [
-      "L'action Nvidia a perdu jusqu'à 14 % à l'ouverture avant de se reprendre et de clôturer à −4,3 %, juste au-dessus de 4 000 Md$ de capitalisation. Elle avait déjà perdu plus de 20 % en un mois (CNBC). Les investisseurs ont « acheté la baisse », note le FT.",
-      "Le secteur a suivi : −9,7 % pour CoreWeave, −4,8 % pour Micron, −3 % pour Intel et −2,3 % pour TSMC (Aktionnaire). Bernstein a divisé par deux son objectif de cours, de 400 à 200 $."
+      "L'action Nvidia a perdu jusqu'à 14 % à l'ouverture avant de se reprendre et de clôturer à −4,3 %, juste au-dessus de 4 000 Md$ de capitalisation. Elle avait déjà perdu plus de 20 % en un mois (CNBC). Les investisseurs ont « acheté la baisse », note le FT.",
+      "Le secteur a suivi : −9,7 % pour CoreWeave, −4,8 % pour Micron, −3 % pour Intel et −2,3 % pour TSMC (Aktionnaire). Bernstein a divisé par deux son objectif de cours, de 400 à 200 $."
      ],
-     "why": "Les investisseurs ne craignent pas un changement de stratégie, mais une crise d'exécution : livraisons, clients et partenariats étaient centralisés autour d'un seul homme. Pour un gérant cité par CNBC, l'absence de plan de succession rend l'action « ininvestissable ».",
+     "why": "Les investisseurs ne craignent pas un changement de stratégie, mais une crise d'exécution : livraisons, clients et partenariats étaient centralisés autour d'un seul homme. Pour un gérant cité par CNBC, l'absence de plan de succession rend l'action « ininvestissable ».",
      "rep": 3,
      "sources": [
       "Aktionnaire",
@@ -116,22 +116,74 @@
     },
     {
      "eyebrow": "Succession",
-     "title": "Qui pour remplacer une légende ?",
+     "title": "Qui pour remplacer une légende ?",
      "text": [
-      "Plusieurs noms circulent : Colette Kress, qui a la confiance des investisseurs ; Ian Buck, ingénieur arrivé en 2004 qui supervise les produits d'IA ; et Tim Cook, ancien patron d'Apple, suggéré par Donald Trump (Aktionnaire). Le FT évoque aussi des dirigeants de groupes rivaux et les enfants de Jensen Huang."
+      "Colette Kress, directrice financière depuis 2013, assure l'intérim. Selon le FT, repris par Reuters, le conseil d'administration a approché Rene Haas, patron d'Arm et ancien de Nvidia, où il a passé sept ans ; l'action Arm a perdu 6,5 % vendredi. Ian Buck, l'un des créateurs de CUDA, la plateforme qui a fait des puces Nvidia l'outil de base de l'IA, est en tête des paris sur Polymarket, note Cosmos Finance.",
+      "Donald Trump a publiquement appelé Tim Cook, l'ancien patron d'Apple, à prendre la place de Jensen Huang : « Une légende remplace une légende ! » D'autres noms circulent, de Johny Srouji (Apple) à Matt Garman (AWS). Selon Cosmos Finance, Nvidia a perdu au moins 800 Md$ de capitalisation depuis début novembre et recule de 11 % depuis janvier."
      ],
-     "why": "TNBS résume l'enjeu : Nvidia a besoin de « son propre Tim Cook », un gestionnaire capable de succéder à un fondateur emblématique, comme Apple après Steve Jobs. Le FT y voit une mise en accusation du « founder mode », qui laisse les fondateurs gouverner sans contre-pouvoir.",
-     "rep": 4,
+     "why": "Une piste évoquée : couper en deux le rôle que Huang tenait seul, la gestion et les marchés pour Colette Kress, la stratégie technologique pour un ingénieur. Pour John Thornhill (FT), son départ pourrait aussi creuser la rupture technologique entre Washington et Pékin.",
+     "rep": 5,
      "sources": [
       "Aktionnaire",
+      "Cosmos",
+      "FT Newswrap",
+      "FT Opinion",
       "TNBS",
       "myFT",
-      "Cosmos"
+      "Business Recorder (web)",
+      "Yahoo Finance (web)"
      ],
      "prog": "Entrepreneur et manager, Schumpeter, pouvoir dans l'entreprise"
     }
    ],
    "items": []
+  },
+  {
+   "title": "Le retour de la peur de l'inflation",
+   "stories": [
+    {
+     "eyebrow": "États-Unis",
+     "title": "Taux américains : la pire semaine depuis avril 2025",
+     "text": [
+      "L'inflation d'octobre a progressé de 0,4 % sur un mois, plus que prévu. Le taux à 10 ans des emprunts d'État américains a terminé la semaine autour de 5,1 %, sa plus forte hausse hebdomadaire depuis les annonces de droits de douane d'avril 2025 ; le FT parle de la pire semaine pour les Treasuries depuis plus de 18 mois."
+     ],
+     "why": "Christopher Waller, gouverneur de la Fed, s'est dit prêt à une hausse de 0,5 point d'un coup si l'inflation accélère encore. Les marchés intègrent désormais une hausse de 0,25 point en décembre. Les investisseurs qui avaient parié en septembre sur la fin de la tempête obligataire ont dû se défaire de leurs positions.",
+     "rep": 1,
+     "sources": [
+      "FT Newswrap",
+      "Advisor Perspectives (web)"
+     ],
+     "prog": "Politique monétaire, taux longs, anticipations d'inflation"
+    },
+    {
+     "eyebrow": "France",
+     "title": "Paris emprunte à plus de 5 %, une première depuis 2002",
+     "text": [
+      "Le taux d'emprunt de la France à 10 ans a bondi de 1,6 point depuis fin février et a brièvement dépassé 5 %, une première depuis 2002, relève HyperTextes d'après Économix. C'est pire que la Belgique (+1,2 point) et deux fois plus que l'Espagne (+0,8 point)."
+     ],
+     "why": "Avec une dette proche de 120 % du PIB et un déficit au-dessus de 5 %, la France a un handicap de plus : sa dette, abondante et facile à échanger, est devenue le terrain de jeu favori des investisseurs qui parient à la baisse.",
+     "rep": 1,
+     "sources": [
+      "HyperTextes"
+     ],
+     "prog": "Dette publique, prime de risque, spreads"
+    },
+    {
+     "eyebrow": "BCE",
+     "title": "Succession de Lagarde : Paris soutiendrait l'Espagnol Hernández de Cos",
+     "text": [
+      "Selon le FT, la France laisse entendre qu'elle soutient Pablo Hernández de Cos, ancien gouverneur de la Banque d'Espagne et directeur général de la BRI, pour succéder à Christine Lagarde, qui quittera la présidence de la BCE le 7 février 2027. Son principal rival est le Néerlandais Klaas Knot ; des désaccords au sein de la coalition allemande retardent l'accord."
+     ],
+     "why": "Les postes se négocient en paquet : Paris verrait bien Laurence Boone, ancienne cheffe économiste de l'OCDE, au directoire de la BCE. Le soutien français n'est pas confirmé officiellement.",
+     "rep": 1,
+     "sources": [
+      "FT Newswrap",
+      "Zonebourse (web)",
+      "Arab News (web)"
+     ],
+     "prog": "Banque centrale, gouvernance de la zone euro"
+    }
+   ]
   },
   {
    "title": "Puces, Chine et bulle de l'IA",
@@ -140,9 +192,9 @@
      "eyebrow": "Géopolitique",
      "title": "Washington, Pékin et l'ombre de l'espionnage",
      "text": [
-      "Pékin qualifie les accusations de « calomnies sans fondement » et accuse les États-Unis de fabriquer des « récits d'espionnage » ; il les met en garde contre toute nouvelle restriction technologique (FT). Selon CNBC, Alice Huang serait aussi liée à Huawei, principal concurrent de Nvidia en Chine. Megaspeed, basée à Singapour, est accusée d'avoir contourné les contrôles américains à l'exportation de puces."
+      "Pékin qualifie les accusations de « calomnies sans fondement » et accuse les États-Unis de fabriquer des « récits d'espionnage » ; il les met en garde contre toute nouvelle restriction technologique (FT). Selon CNBC, Alice Huang serait aussi liée à Huawei, principal concurrent de Nvidia en Chine. Megaspeed, basée à Singapour, est accusée d'avoir contourné les contrôles américains à l'exportation de puces."
      ],
-     "why": "FT Opinion estime que ce départ pourrait creuser le fossé technologique entre Washington et Pékin. Reçu aux dîners d'État il y a peu, Jensen Huang est tombé en disgrâce à Washington, où ses adversaires voient désormais « du sang dans l'eau » (FT).",
+     "why": "FT Opinion estime que ce départ pourrait creuser le fossé technologique entre Washington et Pékin. Reçu aux dîners d'État il y a peu, Jensen Huang est tombé en disgrâce à Washington, où ses adversaires voient désormais « du sang dans l'eau » (FT).",
      "rep": 3,
      "sources": [
       "myFT",
@@ -152,7 +204,7 @@
       "ITV News (web)"
      ],
      "more": [
-      "<b>Avant le scandale.</b> Donald Trump avait d'abord défendu Huang, le qualifiant de « personne bien » (ITV News).",
+      "<b>Avant le scandale.</b> Donald Trump avait d'abord défendu Huang, le qualifiant de « personne bien » (ITV News).",
       "<b>Le précédent.</b> En mai, le fonds Culper Research avait parié à la baisse sur l'action en publiant un rapport sur ces liens."
      ],
      "prog": "Guerre technologique sino-américaine, protectionnisme, souveraineté"
@@ -164,9 +216,9 @@
      "eyebrow": "Financement de l'IA",
      "title": "La toile de dépendances qui inquiète",
      "text": [
-      "Nvidia ne vend pas seulement des puces : elle investit dans des entreprises qui deviennent ensuite ses clients, dont OpenAI et Anthropic. Si la nouvelle direction réduit ces financements, des projets de centres de données pourraient être reportés, les valorisations baisser et les levées de fonds se compliquer (TNBS)."
+      "Nvidia ne vend pas seulement des puces : elle investit dans des entreprises qui deviennent ensuite ses clients, dont OpenAI et Anthropic. Si la nouvelle direction réduit ces financements, des projets de centres de données pourraient être reportés, les valorisations baisser et les levées de fonds se compliquer (TNBS)."
      ],
-     "why": "Le FT pose la question : la chute de Huang pourrait-elle défaire le réseau de dépendances financières qui a nourri le boom de l'IA ? Il pointe aussi la concentration des portefeuilles sur quelques valeurs géantes. Pour l'instant, l'appétit reste fort : l'introduction en Bourse d'Anthropic serait six fois sursouscrite (Bloomberg, cité par Aktionnaire).",
+     "why": "Le FT pose la question : la chute de Huang pourrait-elle défaire le réseau de dépendances financières qui a nourri le boom de l'IA ? Il pointe aussi la concentration des portefeuilles sur quelques valeurs géantes. Pour l'instant, l'appétit reste fort : l'introduction en Bourse d'Anthropic serait six fois sursouscrite (Bloomberg, cité par Aktionnaire).",
      "rep": 3,
      "sources": [
       "TNBS",
@@ -193,7 +245,7 @@
    "items": []
   },
   {
-   "title": "France : coût du travail et institutions",
+   "title": "France : coût du travail et institutions",
    "stories": [
     {
      "img": "img/2026-11-13/senat.jpg",
@@ -202,16 +254,16 @@
      "eyebrow": "Budget de la Sécu",
      "title": "Le Sénat diffère la baisse des allègements de cotisations",
      "text": [
-      "Le gouvernement voulait réduire de 3,7 Md€ en 2027 les exonérations de cotisations patronales sur les bas salaires, en intégrant certains compléments comme l'épargne salariale. Le Sénat a reporté la mesure au 1er avril, ce qui coûte 900 M€ à la Sécurité sociale. Objectif : laisser le temps de préparer une réforme « structurelle » d'ici le 31 mars."
+      "Le gouvernement voulait réduire de 3,7 Md€ en 2027 les exonérations de cotisations patronales sur les bas salaires, en intégrant certains compléments comme l'épargne salariale. Le Sénat a reporté la mesure au 1er avril, ce qui coûte 900 M€ à la Sécurité sociale. Objectif : laisser le temps de préparer une réforme « structurelle » d'ici le 31 mars."
      ],
-     "why": "Ces allègements coûtent 75 Md€ par an à la Sécurité sociale. Le ministre du Travail Jean-Pierre Farandou y voit une « trappe à Smic » : augmenter de 100 € par mois un salarié au Smic coûte 450 € à l'entreprise, car elle perd une partie de l'exonération. Il cite le rapport des économistes Antoine Bozio et Étienne Wasmer (2024).",
+     "why": "Ces allègements coûtent 75 Md€ par an à la Sécurité sociale. Le ministre du Travail Jean-Pierre Farandou y voit une « trappe à Smic » : augmenter de 100 € par mois un salarié au Smic coûte 450 € à l'entreprise, car elle perd une partie de l'exonération. Il cite le rapport des économistes Antoine Bozio et Étienne Wasmer (2024).",
      "rep": 1,
      "sources": [
       "Aktionnaire",
       "Le Figaro (web)"
      ],
      "more": [
-      "<b>Conditionner les aides ?</b> Un décret réduit déjà les allègements dans les branches dont les minima sont inférieurs au Smic. Les sénateurs communistes proposent de les moduler selon la précarité des contrats ou l'égalité professionnelle.",
+      "<b>Conditionner les aides ?</b> Un décret réduit déjà les allègements dans les branches dont les minima sont inférieurs au Smic. Les sénateurs communistes proposent de les moduler selon la précarité des contrats ou l'égalité professionnelle.",
       "<b>Le contexte.</b> La mesure suit la conférence sociale du 9 novembre à Matignon, consacrée à la hausse des salaires."
      ],
      "prog": "Coût du travail, Smic, chômage et politiques de l'emploi"
@@ -220,9 +272,9 @@
      "eyebrow": "Constitution",
      "title": "Le référendum n'est pas un chèque en blanc",
      "text": [
-      "Le président du Conseil constitutionnel, Richard Ferrand, a rappelé que le référendum est encadré par la Constitution : un président élu ne peut pas en disposer à sa guise. Une réponse aux projets de Marine Le Pen, qui veut faire adopter par référendum la préférence nationale ou la fin du droit du sol, en invoquant le précédent du général de Gaulle en 1962."
+      "Le président du Conseil constitutionnel, Richard Ferrand, a rappelé que le référendum est encadré par la Constitution : un président élu ne peut pas en disposer à sa guise. Une réponse aux projets de Marine Le Pen, qui veut faire adopter par référendum la préférence nationale ou la fin du droit du sol, en invoquant le précédent du général de Gaulle en 1962."
      ],
-     "why": "Les élus du RN ont réclamé sa démission. The Friday memo s'étonne que personne ne soit venu défendre l'institution, signe qu'elle est « au mieux incomprise, au pire mal aimée ». En arrière-plan : la tension entre souveraineté populaire et État de droit.",
+     "why": "Les élus du RN ont réclamé sa démission. The Friday memo s'étonne que personne ne soit venu défendre l'institution, signe qu'elle est « au mieux incomprise, au pire mal aimée ». En arrière-plan : la tension entre souveraineté populaire et État de droit.",
      "rep": 1,
      "sources": [
       "The Friday memo"
@@ -246,7 +298,7 @@
    "items": []
   },
   {
-   "title": "Entreprises : s'adapter pour résister",
+   "title": "Entreprises : s'adapter pour résister",
    "stories": [
     {
      "img": "img/2026-11-13/burberry.jpg",
@@ -255,9 +307,9 @@
      "eyebrow": "Luxe",
      "title": "Burberry à contre-courant",
      "text": [
-      "Le groupe britannique dépasse les prévisions pour son deuxième trimestre : ventes comparables +4 % sur un an, portées par la Chine et les États-Unis. Sa recette : baisse des prix et retour à son identité, avec ses trenchs et écharpes. L'action prend 6 %."
+      "Le groupe britannique dépasse les prévisions pour son deuxième trimestre : ventes comparables +4 % sur un an, portées par la Chine et les États-Unis. Sa recette : baisse des prix et retour à son identité, avec ses trenchs et écharpes. L'action prend 6 %."
      ],
-     "why": "Un cas d'école de repositionnement : quand le luxe ralentit, Burberry mise sur l'élasticité-prix et sur la marque plutôt que sur la montée en gamme.",
+     "why": "Un cas d'école de repositionnement : quand le luxe ralentit, Burberry mise sur l'élasticité-prix et sur la marque plutôt que sur la montée en gamme.",
      "rep": 1,
      "sources": [
       "Aktionnaire"
@@ -281,9 +333,9 @@
      "eyebrow": "Culture",
      "title": "Le cinéma veut devenir un lieu de vie",
      "text": [
-      "Les entrées en France ont chuté de 14 % en 2025, puis bondi de près de 25 % en 2026. Face à cette instabilité, MK2 investit 30 M€ pour transformer son complexe BNF à Paris : 16 salles, un musée, des restaurants et un hôtel-cinéma de 55 chambres dès 2027."
+      "Les entrées en France ont chuté de 14 % en 2025, puis bondi de près de 25 % en 2026. Face à cette instabilité, MK2 investit 30 M€ pour transformer son complexe BNF à Paris : 16 salles, un musée, des restaurants et un hôtel-cinéma de 55 chambres dès 2027."
      ],
-     "why": "En 2026, 37 % des spectateurs ont déjà participé à une animation organisée par un cinéma. 81 % des moins de 25 ans y vont au moins une fois par an, et 69 % de la génération Z se sentent seuls (TNBS) : les salles misent sur le besoin de « tiers-lieux ».",
+     "why": "En 2026, 37 % des spectateurs ont déjà participé à une animation organisée par un cinéma. 81 % des moins de 25 ans y vont au moins une fois par an, et 69 % de la génération Z se sentent seuls (TNBS) : les salles misent sur le besoin de « tiers-lieux ».",
      "rep": 1,
      "sources": [
       "TNBS"
@@ -297,12 +349,30 @@
    "title": "Les nouveaux marchés du numérique",
    "stories": [
     {
+     "img": "img/2026-11-13/m_msft.jpg",
+     "alt": "Un ordinateur portable affiche la page d'assistance de Microsoft",
+     "credit": "Via CBC News",
+     "eyebrow": "Panne mondiale",
+     "title": "Microsoft 365 en panne depuis deux jours",
+     "text": [
+      "Depuis jeudi, Outlook, Teams, Copilot, OneDrive et la messagerie Exchange Online fonctionnent mal ou plus du tout pour des entreprises, des hôpitaux et des administrations dans plusieurs régions du monde. Pour le FT, c'est l'une des défaillances les plus graves de Microsoft depuis des années."
+     ],
+     "why": "Vendredi matin, Microsoft faisait état d'une reprise progressive en Amérique du Nord et en Europe, sans date de retour complet. L'entreprise dit n'avoir trouvé aucune trace d'attaque et cherche encore la cause.",
+     "rep": 1,
+     "sources": [
+      "FT Newswrap",
+      "CBC (web)",
+      "CNN (web)"
+     ],
+     "prog": "Concentration, dépendance numérique, risque systémique"
+    },
+    {
      "eyebrow": "IA",
-     "title": "Vendre aux agents : l'ère du « B2A »",
+     "title": "Vendre aux agents : l'ère du « B2A »",
      "text": [
       "Les agents d'IA génèrent 54 % du trafic web, contre 42 % en 2021. Selon Shopify, le trafic issu de l'IA a été multiplié par 8 en un an au premier trimestre 2026, et les commandes issues de recherches assistées par IA presque par 13. Chez Vercel, les mises en ligne déclenchées par des agents ont été multipliées par 28 en douze mois."
      ],
-     "why": "Si un même assistant gère nos achats, nos voyages et nos abonnements, il orientera d'énormes flux d'argent : un nouveau pouvoir de marché, comparable à celui des moteurs de recherche ou des plateformes (TNBS).",
+     "why": "Si un même assistant gère nos achats, nos voyages et nos abonnements, il orientera d'énormes flux d'argent : un nouveau pouvoir de marché, comparable à celui des moteurs de recherche ou des plateformes (TNBS).",
      "rep": 1,
      "sources": [
       "TNBS"
@@ -315,7 +385,7 @@
      "text": [
       "La Chine capte 40 % des revenus des 100 plus gros jeux mobiles, contre 16,5 % pour les États-Unis, alors que les deux pays étaient au coude-à-coude il y a deux ans. Un développeur coûte 142 000 $ par an aux États-Unis, 50 000 $ à Shanghai, et le marché intérieur compte 680 millions de joueurs."
      ],
-     "why": "Coûts bas, marché domestique géant pour tester les produits et soutien du ministère du Commerce à l'export : un exemple d'avantage comparatif construit par l'État. Paradoxe : Pékin limite ses mineurs à 3 heures de jeu par semaine.",
+     "why": "Coûts bas, marché domestique géant pour tester les produits et soutien du ministère du Commerce à l'export : un exemple d'avantage comparatif construit par l'État. Paradoxe : Pékin limite ses mineurs à 3 heures de jeu par semaine.",
      "rep": 1,
      "sources": [
       "TNBS"
@@ -329,7 +399,7 @@
  "briefs": [
   [
    "Tesla et SpaceX",
-   "Selon Bloomberg, les discussions de fusion s'accélèrent ; l'annonce pourrait venir dès le mois prochain, pour un groupe valorisé à plus de 3 400 Md$ (Aktionnaire)."
+   "Selon Bloomberg, les discussions de fusion s'accélèrent ; l'annonce pourrait venir dès le mois prochain, pour un groupe valorisé à plus de 3 400 Md$ (Aktionnaire)."
   ],
   [
    "Obésité",
@@ -341,22 +411,42 @@
   ],
   [
    "Défense",
-   "L'armée allemande cloue au sol les drones de Quantum Systems après une cyberattaque ; la start-up, valorisée 7 Md€, opère en Ukraine (FT)."
+   "L'armée allemande cloue au sol les drones de Quantum Systems après une cyberattaque ; la start-up, valorisée 7 Md€, opère en Ukraine (FT)."
   ],
   [
    "Start-up françaises",
-   "22 M€ levés cette semaine en 8 opérations, selon MaddyMoney ; Gallium Defense signe la plus grosse levée, 7 M€."
-  ],
-  [
-   "Football",
-   "Manchester United limoge Michael Carrick ; en 13 ans, le club a déboursé environ 60 M£ pour se séparer de ses entraîneurs (Bloomberg, cité par Aktionnaire)."
+   "22 M€ levés cette semaine en 8 opérations, selon MaddyMoney ; Gallium Defense signe la plus grosse levée, 7 M€."
   ],
   [
    "Société",
-   "Selon une chercheuse citée par The Friday memo, la tristesse face à l'effritement des valeurs communes est un « deuil civique », qui peut mener à un engagement démocratique quotidien."
+   "Selon une chercheuse citée par The Friday memo, la tristesse face à l'effritement des valeurs communes est un « deuil civique », qui peut mener à un engagement démocratique quotidien."
+  ],
+  [
+   "Safran",
+   "La Chine signe près de 13 Md$ de contrats avec GE Aerospace : China Eastern commande 202 moteurs LEAP-1A, conçus avec Safran, pour 101 Airbus A320neo et A321neo (Cosmos Finance)."
+  ],
+  [
+   "Patrimoine",
+   "Les ménages français détenaient 6 895 Md€ de patrimoine financier au deuxième trimestre, +205 Md€ en trois mois, surtout grâce à la hausse des placements (Insee, via Cosmos Finance)."
+  ],
+  [
+   "Déchets",
+   "Sept ans après la loi Agec, une mission de l'Assemblée juge le bilan des filières « pollueur-payeur » décevant : sanctions restées théoriques, prévention et réemploi à la traîne (HyperTextes)."
+  ],
+  [
+   "Agriculture",
+   "Le gouvernement annonce un plan de 725 M€ pour 2027, dont 400 M€ pour les filières prioritaires et 100 M€ contre les fortes chaleurs (Cosmos Finance)."
+  ],
+  [
+   "Ukraine",
+   "Selon une analyse du FT fondée sur des données de décès ayant fuité, les morts russes de la guerre devraient atteindre 650 000 à la fin de l'année."
+  ],
+  [
+   "Pétrole",
+   "Le marché mondial repasse en excédent pour la première fois depuis le début de la guerre avec l'Iran, mais reconstituer les stocks prendra des mois (FT Newswrap)."
   ]
  ],
- "good": "Le cinéma garde la cote auprès des jeunes : 81 % des moins de 25 ans y vont au moins une fois par an, et les entrées en France ont rebondi de près de 25 % en 2026 après une année 2025 difficile (TNBS).",
+ "good": "Le cinéma garde la cote auprès des jeunes : 81 % des moins de 25 ans y vont au moins une fois par an, et les entrées en France ont rebondi de près de 25 % en 2026 après une année 2025 difficile (TNBS).",
  "map": {
   "start": "huang",
   "nodes": [
@@ -369,18 +459,18 @@
      "Jensen Huang"
     ],
     "t": "Le choc de gouvernance",
-    "d": "Le fondateur part après 33 ans, sans successeur désigné ; Colette Kress assure l'intérim."
+    "d": "Le fondateur part après 33 ans, sans successeur désigné ; Colette Kress assure l'intérim."
    },
    {
     "id": "action",
     "x": 100,
     "y": 122,
     "l": [
-     "Nvidia : −14 %",
+     "Nvidia : −14 %",
      "en séance"
     ],
     "t": "La sanction du marché",
-    "d": "Clôture à −4,3 % : les investisseurs rachètent, mais l'incertitude demeure."
+    "d": "Clôture à −4,3 % : les investisseurs rachètent, mais l'incertitude demeure."
    },
    {
     "id": "chine",
@@ -388,7 +478,7 @@
     "y": 122,
     "l": [
      "Pékin dénonce des",
-     "« récits d'espionnage »"
+     "« récits d'espionnage »"
     ],
     "t": "La dimension géopolitique",
     "d": "La Chine met Washington en garde contre de nouvelles restrictions technologiques."
@@ -424,7 +514,7 @@
      "financements croisés"
     ],
     "t": "Le talon d'Achille",
-    "d": "Nvidia investit dans ses propres clients ; moins de financements ralentirait les centres de données."
+    "d": "Nvidia investit dans ses propres clients ; moins de financements ralentirait les centres de données."
    },
    {
     "id": "ipo",
@@ -442,7 +532,7 @@
     "x": 300,
     "y": 414,
     "l": [
-     "Data centers :",
+     "Data centers :",
      "revers électoral"
     ],
     "t": "La contrainte politique",
@@ -487,8 +577,8 @@
  "dossiers": [
   {
    "eyebrow": "Coût du travail",
-   "title": "Les allègements de cotisations : aide à l'emploi ou « trappe à Smic » ?",
-   "q": "La France consacre 75 Md€ par an à alléger les cotisations patronales sur les bas salaires. Le gouvernement veut en économiser 3,7 Md€, le Sénat temporise. Pourquoi ce dispositif, pensé pour l'emploi, est-il accusé de bloquer les salaires ?",
+   "title": "Les allègements de cotisations : aide à l'emploi ou « trappe à Smic » ?",
+   "q": "La France consacre 75 Md€ par an à alléger les cotisations patronales sur les bas salaires. Le gouvernement veut en économiser 3,7 Md€, le Sénat temporise. Pourquoi ce dispositif, pensé pour l'emploi, est-il accusé de bloquer les salaires ?",
    "steps": [
     [
      "Le point de départ",
@@ -503,7 +593,7 @@
     [
      "La trappe",
      "100 € de plus coûtent 450 €.",
-     "Selon le ministre du Travail, augmenter de 100 € par mois un salarié au Smic coûte 450 € à l'entreprise. Les employeurs ont intérêt à maintenir les salaires près du Smic : c'est la « trappe à bas salaires »."
+     "Selon le ministre du Travail, augmenter de 100 € par mois un salarié au Smic coûte 450 € à l'entreprise. Les employeurs ont intérêt à maintenir les salaires près du Smic : c'est la « trappe à bas salaires »."
     ],
     [
      "Le coût public",
@@ -513,17 +603,17 @@
     [
      "La réforme",
      "Une refonte d'ici le 31 mars.",
-     "Le Sénat reporte la baisse au 1er avril (coût : 900 M€). Le gouvernement prépare une réforme « structurelle », en s'appuyant sur le rapport Bozio-Wasmer de 2024, et commence à conditionner les aides."
+     "Le Sénat reporte la baisse au 1er avril (coût : 900 M€). Le gouvernement prépare une réforme « structurelle », en s'appuyant sur le rapport Bozio-Wasmer de 2024, et commence à conditionner les aides."
     ]
    ],
    "split": [
     [
      "Réduire les allègements",
-     "Ils coûtent cher, enferment les salariés au niveau du Smic et subventionnent sans contrepartie des emplois qui existeraient de toute façon ; mieux vaut réorienter l'argent vers la formation ou les salaires."
+     "Ils coûtent cher, enferment les salariés au niveau du Smic et subventionnent sans contrepartie des emplois qui existeraient de toute façon ; mieux vaut réorienter l'argent vers la formation ou les salaires."
     ],
     [
      "Les préserver",
-     "Ils ont contribué à l'emploi peu qualifié ; les supprimer augmenterait brutalement le coût du travail, au risque de détruire des emplois au moment où le chômage remonte."
+     "Ils ont contribué à l'emploi peu qualifié ; les supprimer augmenterait brutalement le coût du travail, au risque de détruire des emplois au moment où le chômage remonte."
     ]
    ],
    "refs": [
@@ -532,25 +622,25 @@
     "<b>Gary Becker, le capital humain.</b> Une trappe à bas salaires décourage l'investissement en formation.",
     "<b>Le dilemme équité-efficacité (Okun).</b> Toute aide ciblée crée des effets de seuil qui changent les comportements."
    ],
-   "accroche": "« Augmenter de 100 euros par mois un salarié qui touche le Smic, ça coûte 450 euros à l'entreprise » : en novembre 2026, le ministre du Travail résume ainsi l'effet pervers des allègements de cotisations.",
+   "accroche": "« Augmenter de 100 euros par mois un salarié qui touche le Smic, ça coûte 450 euros à l'entreprise » : en novembre 2026, le ministre du Travail résume ainsi l'effet pervers des allègements de cotisations.",
    "sujets": [
-    "Faut-il baisser le coût du travail pour lutter contre le chômage ?",
-    "Le salaire minimum est-il un obstacle à l'emploi ?",
-    "Les politiques de l'emploi sont-elles efficaces ?"
+    "Faut-il baisser le coût du travail pour lutter contre le chômage ?",
+    "Le salaire minimum est-il un obstacle à l'emploi ?",
+    "Les politiques de l'emploi sont-elles efficaces ?"
    ]
   },
   {
    "eyebrow": "Gouvernance",
-   "title": "Le risque de l'homme-clé : une entreprise peut-elle survivre à son fondateur ?",
-   "q": "Nvidia vaut plus de 4 000 Md$ et dépendait d'un seul homme. Pourquoi les investisseurs paient-ils une prime pour un fondateur, et que se passe-t-il quand il tombe ?",
+   "title": "Le risque de l'homme-clé : une entreprise peut-elle survivre à son fondateur ?",
+   "q": "Nvidia vaut plus de 4 000 Md$ et dépendait d'un seul homme. Pourquoi les investisseurs paient-ils une prime pour un fondateur, et que se passe-t-il quand il tombe ?",
    "steps": [
     [
      "Le fondateur visionnaire",
      "Des choix faits dix ans plus tôt.",
-     "Pour Bernstein, la position de Nvidia vient de décisions prises par Huang il y a dix ans : « Jensen, c'est Nvidia »."
+     "Pour Bernstein, la position de Nvidia vient de décisions prises par Huang il y a dix ans : « Jensen, c'est Nvidia »."
     ],
     [
-     "Le « founder mode »",
+     "Le « founder mode »",
      "Peu de contre-pouvoirs.",
      "Nvidia n'avait jamais eu de président du conseil distinct du patron. Le FT y voit les risques d'une liberté totale laissée aux dirigeants."
     ],
@@ -562,46 +652,46 @@
     [
      "Le prix",
      "Une décote immédiate.",
-     "Jusqu'à −14 % en séance ; Bernstein divise son objectif de cours par deux. Le marché mesure la valeur attribuée au dirigeant."
+     "Jusqu'à −14 % en séance ; Bernstein divise son objectif de cours par deux. Le marché mesure la valeur attribuée au dirigeant."
     ],
     [
      "La transition",
      "Séparer les pouvoirs.",
-     "Une PDG par intérim, un président du conseil indépendant et une recherche ouverte : le conseil reprend la main."
+     "Une PDG par intérim, un président du conseil indépendant et une recherche ouverte : le conseil reprend la main."
     ]
    ],
    "split": [
     [
      "Le fondateur est irremplaçable",
-     "La vision, les relations avec les clients et la capacité à prendre des paris risqués tiennent à une personne ; sans lui, l'entreprise perd en audace et en pouvoir de fixation des prix."
+     "La vision, les relations avec les clients et la capacité à prendre des paris risqués tiennent à une personne ; sans lui, l'entreprise perd en audace et en pouvoir de fixation des prix."
     ],
     [
      "Les institutions comptent plus",
-     "Une grande entreprise repose sur ses équipes, ses brevets et sa position de marché ; Apple a prospéré après Steve Jobs, et un bon conseil d'administration limite les risques d'un pouvoir personnel."
+     "Une grande entreprise repose sur ses équipes, ses brevets et sa position de marché ; Apple a prospéré après Steve Jobs, et un bon conseil d'administration limite les risques d'un pouvoir personnel."
     ]
    ],
    "refs": [
-    "<b>Max Weber.</b> L'autorité charismatique doit se « routiniser » pour survivre à son porteur.",
+    "<b>Max Weber.</b> L'autorité charismatique doit se « routiniser » pour survivre à son porteur.",
     "<b>Jensen et Meckling (1976).</b> La théorie de l'agence et le rôle du conseil dans le contrôle du dirigeant.",
     "<b>Joseph Schumpeter.</b> L'entrepreneur innovateur face à la bureaucratisation de la grande entreprise.",
     "<b>Alfred Chandler.</b> La grande entreprise moderne remplace le fondateur par une hiérarchie de managers."
    ],
-   "accroche": "« Jensen, c'est Nvidia » : en novembre 2026, un analyste de Bernstein résume ainsi le dilemme d'une entreprise de plus de 4 000 Md$ privée du jour au lendemain de son fondateur.",
+   "accroche": "« Jensen, c'est Nvidia » : en novembre 2026, un analyste de Bernstein résume ainsi le dilemme d'une entreprise de plus de 4 000 Md$ privée du jour au lendemain de son fondateur.",
    "sujets": [
-    "L'entrepreneur est-il encore indispensable à l'innovation ?",
-    "Qui gouverne l'entreprise ?",
-    "La gouvernance des entreprises peut-elle prévenir les crises ?"
+    "L'entrepreneur est-il encore indispensable à l'innovation ?",
+    "Qui gouverne l'entreprise ?",
+    "La gouvernance des entreprises peut-elle prévenir les crises ?"
    ]
   },
   {
    "eyebrow": "Institutions",
-   "title": "Référendum : la souveraineté du peuple a-t-elle des limites ?",
-   "q": "Marine Le Pen veut faire adopter par référendum des mesures sur l'immigration et la nationalité. Le président du Conseil constitutionnel prévient que l'institution s'y opposera. Qui a le dernier mot en démocratie ?",
+   "title": "Référendum : la souveraineté du peuple a-t-elle des limites ?",
+   "q": "Marine Le Pen veut faire adopter par référendum des mesures sur l'immigration et la nationalité. Le président du Conseil constitutionnel prévient que l'institution s'y opposera. Qui a le dernier mot en démocratie ?",
    "steps": [
     [
      "Le projet",
      "Passer par le peuple.",
-     "Préférence nationale, fin du droit du sol, maîtrise des flux migratoires : la candidate veut les soumettre directement aux électeurs."
+     "Préférence nationale, fin du droit du sol, maîtrise des flux migratoires : la candidate veut les soumettre directement aux électeurs."
     ],
     [
      "Le précédent",
@@ -620,16 +710,16 @@
     ]
    ],
    "refs": [
-    "<b>Montesquieu.</b> « Le pouvoir arrête le pouvoir » : la séparation des pouvoirs protège la liberté.",
-    "<b>Alexis de Tocqueville.</b> La « tyrannie de la majorité », risque propre aux démocraties.",
+    "<b>Montesquieu.</b> « Le pouvoir arrête le pouvoir » : la séparation des pouvoirs protège la liberté.",
+    "<b>Alexis de Tocqueville.</b> La « tyrannie de la majorité », risque propre aux démocraties.",
     "<b>Hans Kelsen.</b> La justice constitutionnelle garantit la hiérarchie des normes.",
     "<b>Pierre Rosanvallon.</b> Les institutions de contrôle comme formes de la démocratie, à côté de l'élection."
    ],
    "accroche": "En novembre 2026, le président du Conseil constitutionnel rappelle qu'un président élu ne peut pas disposer du référendum à sa guise, et se voit sommé de démissionner.",
    "sujets": [
-    "La démocratie se réduit-elle au vote ?",
-    "L'État de droit limite-t-il la souveraineté populaire ?",
-    "Les institutions peuvent-elles protéger la démocratie contre elle-même ?"
+    "La démocratie se réduit-elle au vote ?",
+    "L'État de droit limite-t-il la souveraineté populaire ?",
+    "Les institutions peuvent-elles protéger la démocratie contre elle-même ?"
    ]
   }
  ],
@@ -682,7 +772,7 @@
  ],
  "quiz": [
   {
-   "q": "Qui assure l'intérim à la tête de Nvidia ?",
+   "q": "Qui assure l'intérim à la tête de Nvidia ?",
    "o": [
     "Ian Buck",
     "Colette Kress",
@@ -693,7 +783,7 @@
    "e": "Colette Kress, directrice financière depuis 2013, devient PDG par intérim et garde ses fonctions financières."
   },
   {
-   "q": "Quelle nouveauté de gouvernance Nvidia introduit-elle ?",
+   "q": "Quelle nouveauté de gouvernance Nvidia introduit-elle ?",
    "o": [
     "Un PDG à deux têtes",
     "Un premier président du conseil distinct du PDG",
@@ -704,7 +794,7 @@
    "e": "Harvey Jones devient le premier président du conseil d'administration de l'histoire de Nvidia."
   },
   {
-   "q": "À combien l'action Nvidia a-t-elle clôturé jeudi ?",
+   "q": "À combien l'action Nvidia a-t-elle clôturé jeudi ?",
    "o": [
     "−14 %",
     "−9,7 %",
@@ -715,7 +805,7 @@
    "e": "Après un plongeon allant jusqu'à 14 %, elle a fini en baisse de 4,3 %."
   },
   {
-   "q": "Pourquoi le départ de Huang inquiète-t-il tout le secteur de l'IA ?",
+   "q": "Pourquoi le départ de Huang inquiète-t-il tout le secteur de l'IA ?",
    "o": [
     "Nvidia arrête de produire des puces",
     "Nvidia finance aussi ses propres clients",
@@ -723,10 +813,10 @@
     "Nvidia est rachetée"
    ],
    "a": 1,
-   "e": "Nvidia investit dans des entreprises qui deviennent ses clients ; une baisse de ces financements pourrait ralentir les projets de centres de données."
+   "e": "Nvidia investit dans des entreprises qui deviennent ses clients ; une baisse de ces financements pourrait ralentir les projets de centres de données."
   },
   {
-   "q": "Que signifie l'expression « trappe à Smic » ?",
+   "q": "Que signifie l'expression « trappe à Smic » ?",
    "o": [
     "Le Smic augmente trop vite",
     "Les hausses de salaire au-dessus du Smic coûtent très cher à l'employeur",
@@ -734,10 +824,10 @@
     "Les jeunes sont payés sous le Smic"
    ],
    "a": 1,
-   "e": "Les allègements diminuent quand le salaire monte : 100 € de hausse coûtent 450 € à l'entreprise, selon le ministre."
+   "e": "Les allègements diminuent quand le salaire monte : 100 € de hausse coûtent 450 € à l'entreprise, selon le ministre."
   },
   {
-   "q": "Combien coûtent chaque année les allègements de cotisations patronales ?",
+   "q": "Combien coûtent chaque année les allègements de cotisations patronales ?",
    "o": [
     "3,7 Md€",
     "22 Md€",
@@ -745,10 +835,10 @@
     "900 M€"
    ],
    "a": 2,
-   "e": "75 Md€ par an. Le gouvernement voulait en économiser 3,7 Md€ en 2027 ; le report voté par le Sénat coûte 900 M€."
+   "e": "75 Md€ par an. Le gouvernement voulait en économiser 3,7 Md€ en 2027 ; le report voté par le Sénat coûte 900 M€."
   },
   {
-   "q": "Quel précédent Marine Le Pen invoque-t-elle pour son projet de référendum ?",
+   "q": "Quel précédent Marine Le Pen invoque-t-elle pour son projet de référendum ?",
    "o": [
     "1958",
     "1962",
@@ -759,7 +849,7 @@
    "e": "Le référendum de 1962 sur l'élection du président au suffrage universel, organisé par de Gaulle via l'article 11."
   },
   {
-   "q": "Quelle part des produits consommés en France est produite en France ?",
+   "q": "Quelle part des produits consommés en France est produite en France ?",
    "o": [
     "62 %",
     "77,5 %",
@@ -767,23 +857,23 @@
     "89,5 %"
    ],
    "a": 1,
-   "e": "77,5 %, contre plus de 80 % en 2010 ; 88 % en Chine et 89,5 % aux États-Unis."
+   "e": "77,5 %, contre plus de 80 % en 2010 ; 88 % en Chine et 89,5 % aux États-Unis."
   }
  ],
  "colle": {
-  "title": "Faut-il baisser le coût du travail pour lutter contre le chômage ?",
+  "title": "Faut-il baisser le coût du travail pour lutter contre le chômage ?",
   "parts": [
    [
     "Baisser le coût du travail peu qualifié a soutenu l'emploi",
     [
      "Un Smic élevé rapporté au salaire médian pénalise l'emploi des moins qualifiés (Cahuc)",
-     "Les allègements ciblés au niveau du Smic ont limité ce coût : 75 Md€ par an aujourd'hui"
+     "Les allègements ciblés au niveau du Smic ont limité ce coût : 75 Md€ par an aujourd'hui"
     ]
    ],
    [
     "Mais la méthode a des effets pervers",
     [
-     "Trappe à bas salaires : 100 € de hausse coûtent 450 € à l'employeur, ce qui freine les augmentations et la formation",
+     "Trappe à bas salaires : 100 € de hausse coûtent 450 € à l'employeur, ce qui freine les augmentations et la formation",
      "Coût budgétaire élevé et effets d'aubaine pour des emplois qui existeraient de toute façon"
     ]
    ],
@@ -804,6 +894,8 @@
    "FT Opinion",
    "Cosmos",
    "Friday memo",
+   "Newswrap",
+   "HyperTextes",
    "Nvidia",
    "CNBC",
    "ABC News",
@@ -819,6 +911,8 @@
      1,
      1,
      1,
+     1,
+     0,
      1,
      0,
      1,
@@ -838,6 +932,8 @@
      0,
      0,
      0,
+     1,
+     0,
      0,
      1,
      1,
@@ -851,6 +947,8 @@
     [
      1,
      1,
+     1,
+     0,
      1,
      0,
      1,
@@ -872,6 +970,8 @@
      1,
      0,
      0,
+     1,
+     0,
      0,
      1,
      1,
@@ -886,6 +986,8 @@
      1,
      1,
      1,
+     0,
+     0,
      0,
      0,
      0,
@@ -911,6 +1013,8 @@
      0,
      0,
      0,
+     0,
+     0,
      1
     ]
    ],
@@ -919,6 +1023,8 @@
     [
      0,
      1,
+     0,
+     0,
      0,
      0,
      0,
@@ -945,6 +1051,8 @@
      0,
      0,
      0,
+     0,
+     0,
      0
     ]
    ],
@@ -962,6 +1070,8 @@
      0,
      0,
      0,
+     0,
+     0,
      0
     ]
    ],
@@ -969,6 +1079,8 @@
     "Économie des agents IA",
     [
      1,
+     0,
+     0,
      0,
      0,
      0,
@@ -998,17 +1110,17 @@
   [
    "myFT Daily Digest",
    "newsletter, ven. 13",
-   "Titres et résumés du FT : Nvidia, Chine, dépendances financières, midterms, Quantum Systems"
+   "Titres et résumés du FT : Nvidia, Chine, dépendances financières, midterms, Quantum Systems"
   ],
   [
    "FT Opinion",
    "newsletter, ven. 13",
-   "Titre seul (corps du mail non téléchargé) : « Jensen jeopardy will disrupt the AI industry »"
+   "Titre seul (corps du mail non téléchargé) : « Jensen jeopardy will disrupt the AI industry »"
   ],
   [
    "Cosmos Finance (Économix)",
    "newsletter, ven. 13",
-   "Titre seul (corps du mail non téléchargé) : la succession de Jensen Huang"
+   "Titre seul (corps du mail non téléchargé) : la succession de Jensen Huang"
   ],
   [
    "The Friday memo",
@@ -1033,7 +1145,7 @@
   [
    "Le Figaro (AFP)",
    "web, 12 nov.",
-   "Report des allègements par le Sénat, 75 Md€, « trappe à Smic »"
+   "Report des allègements par le Sénat, 75 Md€, « trappe à Smic »"
   ],
   [
    "ITV News",
@@ -1044,99 +1156,167 @@
    "ClickOnDetroit (AP)",
    "web, 6 nov.",
    "Dépenses publicitaires sur les centres de données pendant les midterms"
+  ],
+  [
+   "FT Newswrap",
+   "newsletter, ven. 13 (soir)",
+   "Succession chez Nvidia, panne Microsoft, taux, BCE"
+  ],
+  [
+   "HyperTextes",
+   "newsletter, ven. 13",
+   "Taux français, loi Agec, technoférence"
+  ],
+  [
+   "Business Recorder (Reuters)",
+   "web, 13 nov.",
+   "Nvidia a approché Rene Haas"
+  ],
+  [
+   "Yahoo Finance",
+   "web, 13 nov.",
+   "Chute de l'action Arm"
+  ],
+  [
+   "Advisor Perspectives (Bloomberg)",
+   "web, 13 nov.",
+   "Semaine noire des Treasuries"
+  ],
+  [
+   "Zonebourse (Reuters)",
+   "web, 12 nov.",
+   "Paris et la succession de Lagarde"
+  ],
+  [
+   "Arab News",
+   "web, 12 nov.",
+   "Négociations Paris-Berlin pour la BCE"
+  ],
+  [
+   "CBC",
+   "web, 13 nov.",
+   "Panne Microsoft, deuxième jour"
+  ],
+  [
+   "CNN",
+   "web, 12-13 nov.",
+   "Panne Microsoft en direct"
   ]
  ],
  "ia": {
-  "toc": "Google lance Gemini 4 Hydrogen, Claude Code teste un « Code Mode », et ton premier sous-agent correcteur de copies.",
-  "intro": "Chaque jour, ce qui bouge dans l'IA et ce que tu peux en faire avec ton abonnement Claude. Aujourd'hui : choisir le bon modèle pour la bonne tâche, et déléguer la relecture à un sous-agent.",
-  "signalTitle": "Un modèle pour réfléchir, un autre pour exécuter",
+  "toc": "Gemini 4 Hydrogen dans l'appli gratuite, un agent open source qui fait tes démarches, et tes projets sauvegardés sur GitHub.",
+  "intro": "Modèles, outils et projets : ce qui change dans l'IA, et ce qui sert vraiment.",
+  "signalTitle": "L'IA sort de la fenêtre de chat",
   "signal": [
    {
     "img": "img/2026-11-13/ia_gemini.jpg",
-    "alt": "Grille comparant des dessins de pélicans à vélo générés par les trois modèles Gemini 4",
-    "credit": "Simon Willison",
+    "alt": "Visuel d'annonce de Gemini 4 Hydrogen",
+    "credit": "Google",
     "eyebrow": "Google · 12 novembre",
-    "title": "Gemini 4 Hydrogen, le petit modèle de la famille",
+    "title": "Gemini 4 Hydrogen, le modèle que tout le monde va utiliser",
     "text": [
-     "Google lance Gemini 4 Hydrogen, le modèle le moins cher de sa famille Gemini 4, à côté de Carbon et Argon. Il devient le modèle de l'offre gratuite de Gemini et alimentera les fonctions d'IA de Google Search.",
-     "Selon Simon Willison, il coûte 1,50 $ par million de jetons en entrée et 7,50 $ en sortie : seulement 25 % de moins que ses grands frères pour l'instant, car Carbon et Argon doubleront de prix le 1er décembre. Google le présente comme un modèle « d'exécution » : écrire du code, lancer les tests, vérifier."
+     "Google lance Gemini 4 Hydrogen, le modèle rapide et bon marché de sa famille Gemini 4, à côté de Carbon et Argon. Il arrive dans le sélecteur de l'appli Gemini, dans Google Search pour tous, et les comptes gratuits y ont accès quand la sélection automatique le juge adapté.",
+     "Selon Google, il termine les tâches environ 2,5 fois plus vite que Gemini 3.8 Flash, avec quatre niveaux de réflexion. Via l'API, il coûte 1,50 $ par million de jetons en entrée et 7,50 $ en sortie, sur toute sa fenêtre d'un million de jetons."
     ],
-    "why": "Pour toi : retiens la logique, qui vaut aussi chez Anthropic. Un gros modèle réfléchit et planifie, un petit modèle rapide exécute. Dans Claude Code, la commande /model te laisse changer de modèle selon la tâche.",
+    "why": "Ce que ça change : c'est le modèle qui répondra, sans qu'on le sache, à des millions de recherches Google. Côté développeurs, il coûte plus de cinq fois moins cher en entrée que Claude Fable 5.2.",
     "sources": [
+     "Blog Google (web)",
      "Simon Willison (web)"
     ],
-    "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
    },
    {
-    "eyebrow": "Claude Code · version 2.1.323",
-    "title": "Code Mode : Claude écrit du code pour appeler ses outils",
+    "img": "img/2026-11-13/m_nod.jpg",
+    "alt": "Visuel d'annonce de Nod, l'agent personnel de n8n Labs",
+    "credit": "n8n",
+    "eyebrow": "n8n · open source",
+    "title": "Nod, un agent qui fait tes démarches sur ton propre ordinateur",
     "text": [
-     "La dernière version de Claude Code ajoute un mode expérimental, à activer soi-même : au lieu d'appeler ses outils un par un, Claude écrit un petit programme JavaScript qui les appelle. Cette version corrige aussi une longue série de failles de permissions dans les commandes Bash."
+     "n8n, l'outil d'automatisation, publie Nod en avant-première : une application pour Mac et Windows qui fait tourner un agent dans un ordinateur virtuel isolé sur ta machine, avec son propre navigateur. Exemples donnés : résilier un abonnement et demander le remboursement, surveiller un prix, télécharger chaque mois les factures de portails fournisseurs, réserver un hôtel après ton accord.",
+     "Il se branche sur Gmail, Google Agenda, Drive ou Slack, et sur des sites sans intégration. Il peut lancer des tâches répétées. Le logiciel est gratuit et open source (licence Apache 2.0) : tu paies seulement le modèle choisi, avec une limite de dépense mensuelle."
     ],
-    "why": "Pour toi : pas besoin d'activer Code Mode tout de suite, c'est expérimental. En revanche, mets à jour : plusieurs corrections empêchent des commandes de passer sans te demander ton accord.",
+    "why": "Sa limite est la même que celle de la tâche du matin d'OFFSET : sur un portable, il s'arrête quand l'ordinateur se met en veille. n8n prévoit une version hébergée.",
     "sources": [
-     "Changelog Claude Code (web)"
+     "Blog n8n (web)",
+     "The Neuron (web)"
     ],
-    "url": "https://code.claude.com/docs/en/code-mode"
+    "url": "https://blog.n8n.io/meet-nod"
    },
    {
-    "eyebrow": "Chrome, Edge, Firefox · open source",
-    "title": "Les navigateurs donnent des cours de web moderne aux agents",
+    "img": "img/2026-11-13/m_glasses.jpg",
+    "alt": "Lunettes connectées Gentle Monster équipées de Gemini, de Google et Samsung",
+    "credit": "Gentle Monster, Google et Samsung, via TNW",
+    "eyebrow": "Google · Samsung · Apple",
+    "title": "Lunettes, voiture : l'assistant quitte l'écran",
     "text": [
-     "Modern Web Guidance est un ensemble de skills qui injecte dans un agent de code les bonnes pratiques récentes du web : transitions animées, mises en page modernes, accessibilité. Il est maintenu par les équipes de Chrome, Edge, Firefox et MDN.",
-     "Le constat de départ : les modèles ont appris sur beaucoup de vieux code et produisent souvent du JavaScript lourd là où le navigateur offre aujourd'hui une solution native. Le dépôt source a gagné 1 875 étoiles sur GitHub en une journée."
+     "Google et Samsung ouvrent les précommandes de leurs lunettes connectées équipées de Gemini, dessinées par Warby Parker et Gentle Monster : à partir de 395 $, livraison le 10 décembre. The Verge retient la traduction en direct et des réglages pour protéger les passants filmés.",
+     "Au même moment, Gemini Live arrive dans CarPlay : sur iPhone, on peut parler à l'assistant en voiture, mains libres, pour préparer une réunion ou passer ses e-mails en revue."
     ],
-    "why": "Pour toi : si tu fais construire des pages web par Claude, ce skill lui évite de réinventer en JavaScript ce que le CSS sait déjà faire. Commence par l'essai sans installation (voir plus bas).",
+    "why": "La bataille des assistants se joue désormais là où l'on a les mains prises. Apple, de son côté, intègre la nouvelle Siri dans l'Apple TV 4K vendue 299 $.",
     "sources": [
-     "GitHub (web)"
+     "TNW (web)",
+     "The Verge (web)",
+     "Engadget (web)",
+     "MacRumors (web)"
     ],
-    "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    "url": "https://thenextweb.com/news/google-samsung-smart-glasses-preorders-warby-parker-gentle-monster"
    }
   ],
+  "models": [
+   {
+    "name": "Gemini 4 Hydrogen",
+    "maker": "Google",
+    "date": "12 nov.",
+    "access": "Appli Gemini (au choix, et automatiquement pour les comptes gratuits), Google Search, API et AI Studio.",
+    "price": "1,50 $ / 7,50 $ par million de jetons"
+   },
+   {
+    "name": "Claude Fable 5.2",
+    "maker": "Anthropic",
+    "date": "9 nov.",
+    "access": "Abonnements Claude, Claude Code (modèle Fable par défaut, contexte d'un million de jetons), API.",
+    "price": "8 $ / 40 $"
+   },
+   {
+    "name": "Gemini 4 Carbon",
+    "maker": "Google",
+    "date": "10 nov.",
+    "access": "Abonnés Google AI Ultra, API. Le plus puissant de Google, pour les tâches longues.",
+    "price": "2 $ / 10 $, puis 4 $ / 20 $ dès le 30 nov."
+   },
+   {
+    "name": "Qwen4-Max-Preview",
+    "maker": "Alibaba",
+    "date": "12 nov.",
+    "access": "Aperçu via le Token Plan de QwenCloud jusqu'au 25 nov. ; compatible avec les interfaces d'OpenAI et d'Anthropic.",
+    "price": "Prix non communiqué"
+   },
+   {
+    "name": "Inkling 2 Small",
+    "maker": "Thinking Machines",
+    "date": "novembre",
+    "access": "Poids téléchargeables sur Hugging Face, licence Apache 2.0 : à faire tourner soi-même.",
+    "price": "Gratuit, carte graphique à prévoir"
+   }
+  ],
+  "claudeTitle": "Outils",
   "claude": [
    {
-    "k": "Mise à jour",
-    "t": "Passe à la version 2.1.323",
-    "d": "Elle corrige de nombreux cas où une commande Bash pouvait s'exécuter sans demande d'autorisation, par exemple via sudo ou env, ou un bac à sable qui se désactivait en cours de session.",
-    "cmd": "claude update"
-   },
-   {
-    "k": "Expérimental",
-    "t": "Code Mode",
-    "d": "Claude écrit du JavaScript pour appeler ses outils au lieu de les appeler un par un. C'est à activer volontairement ; la marche à suivre est dans la documentation officielle (code.claude.com/docs/en/code-mode)."
-   },
-   {
-    "k": "Permissions",
-    "t": "Gare aux étoiles dans tes règles",
-    "d": "Claude Code avertit désormais au démarrage si une règle d'autorisation Bash contient un * dans la valeur d'une variable, comme Bash(PORT=* npm run dev) : ce genre de règle laisse passer plus que prévu."
-   },
-   {
-    "k": "Interface",
-    "t": "Le guide des raccourcis",
-    "d": "Tape ? dans Claude Code pour afficher les raccourcis, qui listent maintenant les touches pour ouvrir et fermer les panneaux, comme celui des différences de fichiers.",
-    "cmd": "?"
-   }
-  ],
-  "augmente": [
-   {
-    "gap": "Écrire du web moderne et léger",
-    "tool": "GoogleChrome/modern-web-guidance",
-    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-    "meta": "4,1 k étoiles · skill · Chrome, Edge, Firefox et MDN",
-    "d": "Un outil en ligne de commande qui renvoie à l'agent des guides ciblés sur les fonctions récentes des navigateurs, avec des solutions de repli légères.",
-    "why": "Tu peux l'essayer sans rien installer : la commande search cherche un guide, par exemple « animer une fenêtre modale ». L'installation complète passe par un assistant interactif.",
-    "cmd": "npx modern-web-guidance@latest search \"animate a dialog modal backdrop\"",
+    "k": "Claude Code",
+    "t": "Code Mode et correctifs de sécurité",
+    "d": "La version 2.1.323 ajoute Code Mode, expérimental et à activer soi-même : Claude écrit un petit programme qui enchaîne ses outils au lieu de les appeler un par un. Elle corrige aussi des cas où une commande Bash passait sans autorisation.",
+    "cmd": "claude update",
     "cmdLabel": "Terminal"
    },
    {
-    "gap": "Analyser un marché avec méthode",
-    "tool": "tradermonty/claude-trading-skills",
-    "url": "https://github.com/tradermonty/claude-trading-skills",
-    "meta": "3,9 k étoiles · skills · licence MIT",
-    "d": "Des skills écrits par un investisseur particulier pour structurer une revue de marché, la gestion du risque et un journal de décisions. Le parcours de base fonctionne sans abonnement à une API de données payante.",
-    "why": "À lire comme un exemple de skills bien construits, liés à ton programme de finance. L'auteur le dit lui-même : ce n'est ni un conseil en investissement ni un service de signaux.",
-    "cmd": "git clone https://github.com/tradermonty/claude-trading-skills.git",
-    "cmdLabel": "Terminal"
+    "k": "Gemini",
+    "t": "Gemini Live dans CarPlay",
+    "d": "Sur iPhone, conversations mains libres en voiture : préparer une réunion, passer en revue ses e-mails, répéter une présentation. Les échanges se retrouvent ensuite dans l'appli Gemini."
+   },
+   {
+    "k": "Développeurs",
+    "t": "Un faux AWS gratuit sur ton ordinateur",
+    "d": "Amazon publie AWS Emulator, un outil local et gratuit qui simule plus de 200 services AWS pour tester sans payer le cloud. Selon Amazon, tout son code a été écrit et est maintenu par des agents IA, sans relecture humaine."
    }
   ],
   "repos": [
@@ -1146,7 +1326,7 @@
     "week": "+944 en un jour",
     "lang": "Ruby",
     "what": "Une application de finances personnelles libre et auto-hébergeable, reprise par la communauté après l'abandon du projet Maybe Finance, qui avait coûté près d'un million de dollars à développer.",
-    "why": "Ce qu'il montre : l'alternative gratuite à une appli de budget payante, et la seconde vie d'un projet ouvert. Elle s'installe avec Docker ; regarde surtout comment le code est organisé.",
+    "why": "Ce qu'il montre : l'alternative gratuite à une appli de budget payante, et la seconde vie d'un projet ouvert. Elle s'installe avec Docker ; regarde surtout comment le code est organisé.",
     "cmd": "git clone https://github.com/we-promise/sure.git"
    },
    {
@@ -1155,7 +1335,7 @@
     "week": "+100 en un jour",
     "lang": "TypeScript",
     "what": "Une interface locale dans le navigateur pour annoter les plans, les pages et le code que produit ton agent, puis lui renvoyer tes remarques en un clic.",
-    "why": "Ce qu'il apprend : rester aux commandes quand l'agent travaille. Plutôt que de tout réécrire, tu commentes son plan comme un professeur annote une copie.",
+    "why": "Ce qu'il apprend : rester aux commandes quand l'agent travaille. Plutôt que de tout réécrire, tu commentes son plan comme un professeur annote une copie.",
     "cmd": "/plugin marketplace add backnotprop/plannotator"
    },
    {
@@ -1164,137 +1344,117 @@
     "week": "+206 en un jour",
     "lang": "Go",
     "what": "L'outil de revue de code d'Alibaba, qui combine des vérifications automatiques classiques et un agent IA pour commenter le code ligne par ligne.",
-    "why": "Ce qu'il apprend : on ne confie pas tout à l'IA. Les règles fixes attrapent les erreurs sûres, le modèle s'occupe de ce qui demande du jugement.",
+    "why": "Ce qu'il apprend : on ne confie pas tout à l'IA. Les règles fixes attrapent les erreurs sûres, le modèle s'occupe de ce qui demande du jugement.",
     "cmd": "git clone https://github.com/alibaba/open-code-review.git"
    }
   ],
   "labo": {
-   "meta": "20 minutes · intermédiaire · Claude Code",
-   "title": "Ton premier sous-agent : un correcteur de copies d'ESH",
-   "goal": "Un sous-agent est un assistant spécialisé que Claude peut appeler avec ses propres consignes et ses propres outils. Tu vas créer un correcteur qui lit une dissertation et la note selon une grille, sans pouvoir modifier ton fichier. Après le skill et le hook, c'est la troisième brique pour personnaliser Claude Code.",
+   "meta": "15 minutes · ton compte GitHub est déjà relié à ce Mac",
+   "title": "Tes projets sauvegardés sur GitHub, automatiquement",
+   "goal": "Un historique de chaque version et une copie hors de ton Mac pour tous tes projets : si tu casses quelque chose ou perds ton ordinateur, tout se récupère. Dépôts privés, visibles de toi seul.",
    "steps": [
     {
-     "t": "Prépare un dossier de travail",
-     "d": "Crée un dossier pour tes copies et place-y une dissertation ou un plan au format texte, par exemple copie.md.",
-     "cmd": "mkdir -p ~/prepa-esh && cd ~/prepa-esh && claude"
+     "t": "Ouvre Claude Code dans le projet",
+     "d": "Remplace le chemin par celui du dossier à protéger.",
+     "cmd": "cd ~/Documents/mon-projet && claude"
     },
     {
-     "t": "Fais créer le sous-agent",
-     "d": "Les sous-agents se rangent dans .claude/agents/, un fichier Markdown par agent. Colle ce message dans Claude Code.",
-     "cmd": "Crée le sous-agent .claude/agents/correcteur-esh.md. En-tête : name: correcteur-esh, description: Corrige une dissertation d'ESH de prépa ECG, tools: Read. Consignes : lire le fichier indiqué, vérifier la problématique, le plan, les définitions, les auteurs mobilisés et les exemples chiffrés, puis rendre une note sur 20 avec trois points forts et trois axes de progrès. Ne jamais modifier le fichier. Montre-moi le fichier avant de l'enregistrer."
+     "t": "Demande la mise en place",
+     "d": "Claude crée l'historique, écarte les fichiers sensibles et crée le dépôt privé.",
+     "cmd": "Mets ce dossier sous git avec un .gitignore adapté (exclure .env, clés, node_modules et fichiers de plus de 50 Mo), fais un premier commit, puis crée un dépôt privé sur mon compte GitHub avec gh et pousse-le. Montre-moi ce qui a été exclu."
     },
     {
-     "t": "Vérifie qu'il existe",
-     "d": "Cette commande liste les sous-agents disponibles. Tu dois voir correcteur-esh dans les agents du projet.",
-     "cmd": "/agents"
+     "t": "Automatise la sauvegarde",
+     "d": "Une tâche planifiée enregistre et envoie les changements chaque soir, seulement s'il y en a. Comme toute tâche locale, elle ne tourne que si le Mac est allumé et ouvert.",
+     "cmd": "Crée une tâche planifiée qui, chaque soir à 22 h, fait un commit daté des changements de ce dossier et le pousse sur GitHub, uniquement s'il y a des modifications."
     },
     {
-     "t": "Lance la correction",
-     "d": "Demande explicitement l'agent. Il travaille dans son propre contexte et ne rapporte que son verdict, ce qui garde ta conversation principale légère.",
-     "cmd": "Utilise le sous-agent correcteur-esh pour corriger copie.md"
-    },
-    {
-     "t": "Va plus loin",
-     "d": "Crée un second sous-agent « examinateur de colle » qui pose trois questions difficiles sur ta copie. Tu peux aussi tester le sujet de colle du jour sur les allègements de cotisations."
+     "t": "Reviens en arrière quand tu veux",
+     "d": "Pour retrouver une version précédente, il suffit de demander à Claude : « montre-moi l'historique de ce fichier et restaure la version d'hier »."
     }
    ]
   },
-  "build": {
-   "k": "Inspiré de we-promise/sure",
-   "title": "Ton budget d'étudiant, sans compte ni serveur",
-   "d": "Sure est une application complète de finances personnelles à héberger soi-même. En voici une version d'une page, qui tourne dans ton navigateur et garde tes données sur ton ordinateur.",
-   "prompt": "Crée un fichier budget.html autonome (HTML, CSS et JavaScript, sans dépendance externe ni appel réseau). Il permet de saisir des dépenses et des revenus (date, montant, catégorie parmi Logement, Courses, Transport, Sorties, Livres, Autre, et une note) et les enregistre dans localStorage. Affiche le solde du mois, un tableau des opérations filtrable par mois, et un graphique en barres en SVG dessiné à la main avec les dépenses par catégorie. Ajoute un budget mensuel par catégorie, avec une barre de progression qui passe à l'orange à 80 % et au rouge au-delà de 100 %. Permets d'exporter et d'importer les données en CSV. Style sobre, lisible sur téléphone, mode sombre automatique. Ensuite, ouvre le fichier dans mon navigateur.",
-   "note": "Les données restent dans le navigateur : si tu vides son cache, elles disparaissent. Exporte régulièrement en CSV. Prochaine étape : un graphique de l'évolution du solde sur l'année."
-  },
   "briefs": [
    [
-    "Respect de Claude",
-    "Anthropic interdit désormais d'insulter ou de maltraiter Claude de façon répétée et sans raison ; critiquer ses erreurs reste permis (Le Figaro, cité par Aktionnaire)."
+    "Compagnies aériennes",
+    "United Airlines bloque les agents IA non autorisés : ils peuvent montrer des vols, mais c'est au client d'acheter le billet."
    ],
    [
-    "IPO d'Anthropic",
-    "Selon Bloomberg, cité par Aktionnaire, l'introduction en Bourse attire six fois plus de demandes que d'actions disponibles."
+    "Bulle",
+    "Michelle Bowman, gouverneure de la Fed, avertit que les investissements dans l'IA pourraient provoquer une correction des marchés, en citant la dette liée à l'IA et des valorisations gonflées."
    ],
    [
-    "Émulateur AWS",
-    "Amazon publie un émulateur officiel pour tester ses services en local sans clé d'API payante ; il demande Docker sur Mac (Simon Willison)."
+    "Dépenses",
+    "Selon l'indice IA de Ramp, les dépenses d'IA des entreprises américaines ont atteint un record en octobre, mais ne progressent plus que de 1,65 % sur un mois ; 1 % des entreprises pèsent 80 % des revenus d'OpenAI et d'Anthropic dans ses données."
    ],
    [
-    "Publier un livre",
-    "La start-up Spines lève 64 M$ pour publier un livre en trois à quatre semaines grâce à l'IA (correction, couverture, distribution), pour 5 000 à 7 000 $ (TNBS)."
+    "Calcul",
+    "CoreWeave demande à ses clients des paiements d'avance et des contrats plus courts : environ 9 Md$ attendus en trois mois."
    ],
    [
-    "Sécurité du code",
-    "OpenAI publie Codex Security, un outil en ligne de commande pour trouver, vérifier et corriger des failles ; il a gagné 754 étoiles sur GitHub en un jour."
-   ]
-  ],
-  "glossaire": [
-   [
-    "Sous-agent",
-    "Un assistant spécialisé que Claude lance pour une tâche précise, avec ses propres consignes et ses outils autorisés. Il travaille à part et ne renvoie que son résultat."
+    "Génétique",
+    "Google DeepMind présente AlphaGenome 2, qui prédit l'effet des variations génétiques sur chaque type de cellule ; réservé à la recherche non commerciale."
    ],
    [
-    "Code Mode",
-    "Un mode où le modèle écrit un petit programme qui appelle ses outils, au lieu de les appeler un par un. Cela peut enchaîner plusieurs actions en une seule fois."
-   ],
-   [
-    "Modèle d'exécution",
-    "Un modèle rapide et moins cher, chargé des tâches simples et répétitives (écrire du code, lancer des tests), pendant qu'un modèle plus puissant planifie."
-   ],
-   [
-    "Auto-hébergement",
-    "Faire tourner une application sur ton propre ordinateur ou serveur plutôt que chez un éditeur. Tu gardes tes données, mais tu gères les mises à jour."
-   ],
-   [
-    "Solution de repli",
-    "Une version plus simple d'une fonction, utilisée quand le navigateur ne connaît pas la version moderne. Elle évite que la page casse."
+    "Régulation",
+    "Des élus démocrates envisagent un ministère de l'IA qui délivrerait une autorisation fédérale pour entraîner les modèles les plus avancés."
    ]
   ],
   "sources": [
    [
+    "Blog Google",
+    "web, 12-13 nov.",
+    "Gemini 4 Hydrogen : disponibilité, prix, performances"
+   ],
+   [
     "Simon Willison",
-    "web, 11-12 nov.",
-    "Gemini 4 Hydrogen et ses prix, émulateur AWS"
+    "web, 12 nov.",
+    "Gemini 4 Hydrogen"
+   ],
+   [
+    "Blog n8n",
+    "web, 12 nov.",
+    "Nod : fonctionnement, licence, limites"
+   ],
+   [
+    "The Neuron",
+    "web, 12-13 nov.",
+    "Revue quotidienne de l'IA"
+   ],
+   [
+    "TNW, The Verge",
+    "web, 13 nov.",
+    "Lunettes Gemini de Google et Samsung"
+   ],
+   [
+    "Engadget",
+    "web, 12 nov.",
+    "Gemini Live dans CarPlay"
+   ],
+   [
+    "MacRumors",
+    "web, 12 nov.",
+    "Apple TV 4K et Siri"
    ],
    [
     "Changelog Claude Code",
     "web, 13 nov.",
-    "Version 2.1.323 : Code Mode, corrections de permissions, avertissements"
+    "Version 2.1.323"
+   ],
+   [
+    "GeekWire",
+    "web, 11 nov.",
+    "AWS Emulator"
    ],
    [
     "GitHub Trending",
     "web, 13 nov.",
-    "Dépôts du jour et de la semaine, étoiles gagnées"
+    "Dépôts du jour"
    ],
    [
-    "GoogleChrome/modern-web-guidance-src (README)",
-    "web, 13 nov.",
-    "Description et commandes d'essai"
-   ],
-   [
-    "tradermonty/claude-trading-skills (README)",
-    "web, 13 nov.",
-    "Objectifs, avertissement et installation"
-   ],
-   [
-    "we-promise/sure (README)",
-    "web, 13 nov.",
-    "Historique du projet et hébergement"
-   ],
-   [
-    "backnotprop/plannotator (README)",
-    "web, 13 nov.",
-    "Fonctionnement et installation dans Claude Code"
-   ],
-   [
-    "Aktionnaire",
-    "newsletter, 13 nov.",
-    "IPO d'Anthropic, règles d'usage de Claude"
-   ],
-   [
-    "The Next Big Sh*t",
-    "newsletter, 13 nov.",
-    "Spines"
+    "The Verge, Semafor, The Decoder, TechCrunch",
+    "web, 11-12 nov.",
+    "Brèves"
    ]
   ]
  }
