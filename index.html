@@ -436,7 +436,7 @@ const INDEX = [{"date": "2026-11-13", "title": "Nvidia perd Jensen Huang, son fo
   const tint=html=>html.replace(SIGNED,(m,pre,sign)=>pre+`<span class="${sign==='+'?'up':'down'}">${m.slice(pre.length)}</span>`);
   const T=s=>tint(esc(s));
   /* Coupe un titre en lignes décalées (gauche / droite / retrait) */
-  const stair=(txt,n)=>{const w=String(txt).split(' ');n=Math.min(n||3,w.length);const per=Math.ceil(w.length/n),out=[];for(let i=0;i<w.length;i+=per)out.push(w.slice(i,i+per).join(' '));return out.map(l=>`<span>${esc(l)}</span>`).join('');};
+  const stair=(txt,n)=>{const w=String(txt).replace(/« /g,'«\u00a0').replace(/ ([»:;?!])/g,'\u00a0$1').split(' ');n=Math.min(n||3,w.length);const per=Math.ceil(w.length/n),out=[];for(let i=0;i<w.length;i+=per)out.push(w.slice(i,i+per).join(' '));return out.map(l=>`<span>${esc(l)}</span>`).join('');};
   const cache={}; if(LATEST) cache[LATEST.date]=LATEST;
   let D=LATEST;
 
@@ -484,7 +484,7 @@ const INDEX = [{"date": "2026-11-13", "title": "Nvidia perd Jensen Huang, son fo
         <figure>${ph(h.img,h.alt)}
           <div class="tag">${SPK}<span class="mono">( ${esc(D.period)} )</span><span class="ln"><span class="bd"></span>${esc(h.eyebrow)}</span><span class="ln"><span class="bd"></span>${esc(D.countLabel||D.sourcesCount+' newsletters lues')}</span><span class="vt">OFFSET Nr. ${issueNo(D.date)}</span></div>
         </div><div class="credit">${esc(h.credit)}</div></figure>
-        <h2 class="stair big">${stair(h.title,3)}</h2>
+        <h2 class="stair big">${stair(h.title,h.title.length>52?4:3)}</h2>
         <div class="g meta"><span class="k">${esc(h.eyebrow)}</span><p class="lede">${T(h.lede)}</p></div>
       </div>
       ${blk('Chiffres du jour',`<div class="figs">${D.figures.map(f=>`<div class="fig"><span class="v ${f.dir}">${esc(f.v)}</span><span class="s">${esc(f.l)}</span></div>`).join('')}</div>`)}
@@ -1027,7 +1027,17 @@ void main(){
     return {scan,photo,on:true};
   })();
 
-  function renderAll(){renderCover();renderEssentiel();renderComprendre();renderReviser();renderIA();renderArchives();renderSources();renderColo();ink.scan();}
+  /* Titres en escalier : la taille baisse juste assez pour que la ligne la plus longue tienne dans la colonne */
+  function fitStair(el){
+    const W=el.clientWidth; if(!W||el._w===W) return; el._w=W;
+    el.style.fontSize=''; const base=parseFloat(getComputedStyle(el).fontSize); let k=1;
+    el.querySelectorAll(':scope > span').forEach(s=>{const pad=parseFloat(getComputedStyle(s).paddingLeft)||0,text=s.scrollWidth-pad;if(text>0)k=Math.min(k,(W-pad)/text);});
+    if(k<1) el.style.fontSize=(base*k*.985)+'px';
+  }
+  const stairRO=window.ResizeObserver?new ResizeObserver(es=>es.forEach(e=>fitStair(e.target))):null;
+  function fitStairs(){document.querySelectorAll('.stair').forEach(el=>{el._w=0;fitStair(el);if(stairRO)stairRO.observe(el);});}
+  if(document.fonts&&document.fonts.ready) document.fonts.ready.then(fitStairs);
+  function renderAll(){renderCover();renderEssentiel();renderComprendre();renderReviser();renderIA();renderArchives();renderSources();renderColo();fitStairs();ink.scan();}
 
   async function go(date){
     if(!cache[date]){
