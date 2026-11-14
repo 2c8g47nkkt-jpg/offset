@@ -1,0 +1,405 @@
+{
+  "date": "2026-11-14",
+  "label": "Samedi 14 novembre 2026",
+  "period": "13 au 14 novembre",
+  "sourcesCount": 1,
+  "countLabel": "1 newsletter + 7 sources web",
+  "hero": {
+    "img": "img/2026-11-14/trump_huang.jpg",
+    "alt": "Jensen Huang, le bras tendu, aux côtés de Donald Trump devant des drapeaux américains",
+    "credit": "Via myFT Daily Digest",
+    "eyebrow": "À la une",
+    "title": "L'affaire Nvidia remonte jusqu'à la Maison Blanche",
+    "lede": "Deux jours après la démission de Jensen Huang, le scandale devient politique. Le secrétaire au Trésor, Scott Bessent, accuse le département du Commerce d'avoir bloqué la mise sur liste noire de Megaspeed, la société au cœur de l'affaire. Donald Trump, attendu en Chine pour l'APEC les 18 et 19 novembre, n'évoquera pas le dossier avec Xi Jinping, selon des responsables américains. Le conseil de Nvidia, lui, a sondé le patron d'Arm pour la succession."
+  },
+  "brief": [
+    ["Nvidia", "Scott Bessent affirme que le Trésor, le Pentagone, le représentant au Commerce et le département d'État voulaient blacklister Megaspeed depuis des mois : « Commerce has the pen »."],
+    ["Chine", "Trump se rend à Shenzhen pour l'APEC les 18 et 19 novembre, avec Elon Musk ; un sommet à trois avec Xi Jinping et Vladimir Putin est prévu."],
+    ["Panne", "La panne géante de Microsoft 365, partie le 12 novembre, touche plus de 70 pays ; Microsoft annonce un « large rétablissement »."],
+    ["Anthropic", "L'introduction en Bourse est prévue le 19 novembre au Nasdaq, entre 70 et 78 $ par action ; Dario Amodei se dit « pas super inquiet » des turbulences."],
+    ["Europe", "Eurostat confirme +0,4 % de croissance au troisième trimestre dans la zone euro ; la France recule de −0,1 %."]
+  ],
+  "figures": [
+    {"v": "−0,1 %", "l": "PIB de la France au troisième trimestre, quand la zone euro progresse de 0,4 % (Eurostat)", "dir": "down"},
+    {"v": "1 405 Md$", "l": "valorisation maximale d'Anthropic en haut de la fourchette, sur une base entièrement diluée (CNBC)", "dir": "up"},
+    {"v": "3,7 Md$", "l": "charge passée par SoftBank après avoir trop commandé de turbines à gaz pour ses centres de données", "dir": "down"},
+    {"v": "70 pays", "l": "touchés par la panne de Microsoft 365, utilisé par environ 430 millions de personnes", "dir": "down"}
+  ],
+  "themes": [
+    {
+      "title": "L'affaire Nvidia devient politique",
+      "stories": [
+        {
+          "img": "img/2026-11-14/trump_xi.jpg",
+          "alt": "Xi Jinping et Donald Trump côte à côte en costume sombre",
+          "credit": "AFP / Getty Images, via CNBC",
+          "eyebrow": "Washington",
+          "title": "Bessent contre Lutnick : la querelle sur Megaspeed",
+          "text": [
+            "Megaspeed, société de cloud basée à Singapour, est soupçonnée d'avoir aidé à faire passer en Chine des milliards de dollars de puces Nvidia, en violation des restrictions américaines. Alice Huang, avec qui Jensen Huang a reconnu une liaison, en était dirigeante.",
+            "Sur CNBC, Scott Bessent affirme que le Trésor, le Pentagone, le représentant au Commerce et le département d'État soutenaient depuis des mois l'inscription de Megaspeed sur la liste noire américaine. « Mais c'est le Commerce qui tient le stylo », ajoute-t-il, visant Howard Lutnick. Axios rapporte une confrontation entre les deux ministres, que le Commerce dément."
+          ],
+          "why": "Le scandale ne porte plus seulement sur la gouvernance de Nvidia : il pose la question de l'efficacité des contrôles à l'exportation, pièce centrale de la rivalité technologique avec la Chine. Le FT y voit un risque de tensions au sein de l'administration Trump. Pékin juge les accusations contre Alice Huang sans fondement.",
+          "rep": 1,
+          "sources": ["myFT", "CNBC (web)", "Axios (web)"],
+          "more": [
+            "<b>Le sommet.</b> Trump se rend à Shenzhen pour l'APEC les 18 et 19 novembre, accompagné d'Elon Musk. Selon des responsables cités par CNBC, l'affaire « ne devrait pas avoir d'incidence » sur le voyage, et Washington « ne négocie pas » ses contrôles à l'exportation.",
+            "<b>Le programme.</b> La Maison Blanche prévoit un sommet à trois avec Xi Jinping et Vladimir Putin ; côté économique, l'objectif est d'appliquer l'accord commercial existant."
+          ],
+          "prog": "Mondialisation et protectionnisme, politique commerciale stratégique, puissance et rivalité sino-américaine"
+        },
+        {
+          "img": "img/2026-11-14/huang_chine.jpg",
+          "alt": "Jensen Huang, en veste de cuir, entouré de personnes qui le photographient avec leur téléphone",
+          "credit": "Via myFT Daily Digest",
+          "eyebrow": "Succession",
+          "title": "Après Huang, Nvidia cherche un patron et les marchés doutent",
+          "text": [
+            "Selon le FT, le conseil de Nvidia a approché Rene Haas, patron d'Arm, le concepteur britannique de puces détenu par SoftBank. Le journal revient aussi sur les efforts menés pendant des années par Jensen Huang pour se rapprocher de la Chine.",
+            "Autre inconnue : que fera Jensen Huang de ses actions Nvidia, estimées à 135 Md$ par le FT ? Une vente massive inquiéterait les investisseurs, mais elle serait encadrée par des contraintes juridiques et ferait pression sur le cours."
+          ],
+          "why": "Huang défendait le maintien des ventes de puces vers la Chine. Son départ fait craindre des restrictions plus dures : selon le FT, la chute des valeurs chinoises de l'IA s'est accentuée. Le FT résume la ligne des investisseurs : valoriser Nvidia, pas Huang.",
+          "rep": 1,
+          "sources": ["myFT"],
+          "more": [
+            "<b>Rappel.</b> Colette Kress, directrice financière, assure l'intérim depuis le 12 novembre. Les résultats trimestriels sont attendus le 17 novembre."
+          ],
+          "prog": "Gouvernance d'entreprise, actionnariat et marchés financiers"
+        }
+      ],
+      "items": []
+    },
+    {
+      "title": "La panne qui révèle notre dépendance",
+      "stories": [
+        {
+          "eyebrow": "Numérique",
+          "title": "Microsoft 365 à l'arrêt dans plus de 70 pays",
+          "text": [
+            "La panne a commencé le 12 novembre en fin d'après-midi (heure de Paris) : Outlook, Teams, Copilot et la messagerie Exchange sont devenus inaccessibles. Microsoft écarte une cyberattaque : en cause, des réglages appliqués à ses serveurs après une mise à jour, qui ont saturé le processus chargé d'établir les connexions sécurisées.",
+            "Les effets ont été larges : administrations en Australie, au Japon, aux États-Unis ou à Singapour, opérations annulées par le NHS britannique, écoles anglaises perturbées. Le groupe de luxe Richemont a reporté la publication de ses résultats. Selon le FT, le gouvernement allemand « anticipe un très gros impact » sur l'économie."
+          ],
+          "why": "Pour le FT, la panne révèle la dépendance mondiale à quelques fournisseurs de technologies de base : banques, gouvernements, pharmacies ou bureaux de shérif utilisent les mêmes outils. Microsoft 365 compte environ 430 millions d'utilisateurs. Vendredi, l'entreprise faisait état d'un « large rétablissement ».",
+          "rep": 1,
+          "sources": ["myFT", "Wikipédia (web)"],
+          "more": [
+            "<b>Le correctif.</b> Microsoft a annulé une modification récente de la configuration de son réseau, puis remis progressivement ses serveurs en service.",
+            "<b>Le précédent.</b> En juillet 2024, une mise à jour défectueuse de CrowdStrike avait déjà paralysé des millions d'ordinateurs Windows."
+          ],
+          "prog": "Économie numérique, rendements croissants et concentration, risque systémique"
+        },
+        {
+          "eyebrow": "Agents IA",
+          "title": "Les agents IA ne devraient pas se faire passer pour nous",
+          "text": [
+            "Une tribune du FT plaide pour que banques et plateformes en ligne offrent aux agents IA un canal d'accès standard, à des conditions équitables, plutôt que de les obliger à imiter un humain qui clique sur un site."
+          ],
+          "why": "La question rejoint celle de la panne : à mesure que les tâches passent par quelques infrastructures et quelques agents, les règles d'accès deviennent un enjeu de concurrence.",
+          "rep": 1,
+          "sources": ["myFT"],
+          "prog": "Concurrence, plateformes et régulation"
+        }
+      ],
+      "items": []
+    },
+    {
+      "title": "Le financement de l'IA à l'épreuve",
+      "stories": [
+        {
+          "img": "img/2026-11-14/anthropic.jpg",
+          "alt": "Un intervenant en gilet bleu s'exprime sur scène devant un fond rose et orange",
+          "credit": "Getty Images, via CNBC",
+          "eyebrow": "Bourse",
+          "title": "Anthropic maintient son introduction en Bourse",
+          "text": [
+            "Anthropic veut vendre 825 millions d'actions entre 70 et 78 $, soit jusqu'à 64,35 Md$ levés. En haut de la fourchette, l'entreprise vaudrait jusqu'à 1 405 Md$ sur une base entièrement diluée, contre 965 Md$ lors d'une levée de fonds en mai. Le prix doit être fixé le 18 novembre, pour une cotation au Nasdaq le 19, sous le symbole ANT (CNBC).",
+            "Dario Amodei se dit « pas super inquiet » des turbulences sur les valeurs technologiques (FT). Selon CNBC, le livre d'ordres est déjà couvert, et 20 % des titres sont réservés aux particuliers, contre 5 à 10 % d'habitude."
+          ],
+          "why": "L'opération se fait dans un marché devenu méfiant envers l'IA : la hausse des taux renchérit la dette qui finance les centres de données. Anthropic visait environ 2 000 Md$ ; un investisseur juge même 1 500 Md$ « tendu ». Le chiffre d'affaires a atteint 33,24 Md$ sur neuf mois, en hausse d'environ 1 200 % sur un an.",
+          "rep": 1,
+          "sources": ["myFT", "CNBC (web)"],
+          "more": [
+            "<b>Les partenaires.</b> AMD, Broadcom, Google, Micron, Microsoft, Nvidia et TSMC achèteront 26 Md$ d'actions au prix de l'introduction, hors offre publique.",
+            "<b>Le regret.</b> Selon le FT, Sam Bankman-Fried, fondateur emprisonné de FTX, aurait gagné près de 40 Md$ s'il avait conservé son investissement de départ dans Anthropic."
+          ],
+          "prog": "Marchés financiers, valorisation et anticipations, bulles spéculatives"
+        },
+        {
+          "img": "img/2026-11-14/softbank.jpg",
+          "alt": "Masayoshi Son, souriant, lors d'une cérémonie de premier coup de pioche avec des casques dorés",
+          "credit": "Via myFT Daily Digest",
+          "eyebrow": "Énergie",
+          "title": "SoftBank paie cher son pari sur les turbines à gaz",
+          "text": [
+            "SoftBank passe une charge de 597,2 Md¥ (3,7 Md$) après avoir réservé plus de 13 gigawatts de turbines à gaz pour ses centres de données américains, bien au-delà des 9,2 GW prévus en février. Le secteur s'est tourné vers des modèles plus efficaces en énergie, explique le FT.",
+            "La charge comprend 2,85 Md$ d'avances non remboursables. Elle fait plonger SoftBank dans une perte nette de 1 120 Md¥ (7 Md$) au deuxième trimestre de son exercice."
+          ],
+          "why": "Pour TechCrunch, l'épisode pourrait freiner le recours au gaz pour alimenter l'IA, au profit des raccordements au réseau. Semafor note qu'il renforce la crainte d'un essoufflement de la frénésie d'investissement.",
+          "rep": 1,
+          "sources": ["myFT", "Semafor (web)", "TechCrunch (web)"],
+          "more": [
+            "<b>Amazon et Fermi.</b> Selon le FT, Amazon relance son accord avec Fermi, la société de centres de données soutenue par Rick Perry, et en devient le locataire principal après des négociations ratées."
+          ],
+          "prog": "Investissement, surinvestissement et cycles, contrainte énergétique"
+        }
+      ],
+      "items": []
+    },
+    {
+      "title": "Europe : une croissance à deux vitesses",
+      "stories": [
+        {
+          "eyebrow": "Conjoncture",
+          "title": "La zone euro avance, la France recule",
+          "text": [
+            "Eurostat confirme une croissance de +0,4 % au troisième trimestre dans la zone euro et de +0,5 % dans l'Union. L'emploi est stable sur le trimestre (+0,4 % sur un an).",
+            "Les écarts sont nets : l'Espagne progresse de +0,6 % (+2,7 % sur un an), l'Allemagne de +0,2 %, l'Italie stagne et la France recule de −0,1 %."
+          ],
+          "why": "La France est la seule grande économie de la zone en recul ce trimestre, au moment où ses taux d'emprunt ont dépassé 5 % et où le chômage atteint 8,2 % (Insee). Une seconde baisse au quatrième trimestre ferait parler de récession technique.",
+          "rep": 0,
+          "sources": ["Eurostat (web)", "Insee (web)"],
+          "more": [
+            "<b>Le chômage.</b> Selon l'Insee (10 novembre), le taux de chômage est de 8,2 % au troisième trimestre, en baisse de 0,1 point sur le trimestre mais en hausse de 0,4 point sur un an. Il atteint 21,0 % chez les 15-24 ans."
+          ],
+          "prog": "Croissance et fluctuations, chômage, politique budgétaire en zone euro"
+        },
+        {
+          "img": "img/2026-11-14/sarvam.jpg",
+          "alt": "Vivek Raghavan, cofondateur de Sarvam, bras croisés devant le logo de l'entreprise",
+          "credit": "Via myFT Daily Digest",
+          "eyebrow": "Souveraineté",
+          "title": "Où est le boom de l'IA en Europe ?",
+          "text": [
+            "Pour le FT, il faut plisser les yeux, mais l'IA commence à apparaître dans les données européennes. Philip Lane, chef économiste de la BCE, détaille comment elle transforme déjà l'économie de la zone.",
+            "L'Inde, de son côté, mise sur la start-up Sarvam, soutenue par le gouvernement, pour construire ses propres modèles et éviter de devenir une « colonie numérique »."
+          ],
+          "why": "La question de la souveraineté numérique se pose partout : dépendre des modèles et des infrastructures américains, c'est, comme la panne de Microsoft vient de le montrer, dépendre de choix faits ailleurs.",
+          "rep": 1,
+          "sources": ["myFT"],
+          "prog": "Innovation et croissance, politique industrielle, souveraineté"
+        }
+      ],
+      "items": []
+    }
+  ],
+  "briefs": [
+    ["Montres", "Les horlogers cherchent à adapter leur marketing aux assistants IA, qui influencent désormais les recherches et les achats des clients (FT)."],
+    ["SpaceX", "SpaceX prévoit d'investir plus de 74 Md$ dans des campus de calcul pour l'IA au Texas et en Arizona, selon Reuters."],
+    ["Procès", "Une coalition d'associations attaque OpenAI, Anthropic, Google, Meta et SpaceX pour obtenir l'arrêt du développement de modèles plus puissants que ceux d'aujourd'hui (Reuters)."],
+    ["Chine", "Les valeurs chinoises de l'IA poursuivent leur chute sur la crainte de restrictions plus dures sur les puces Nvidia (FT)."],
+    ["Sécurité", "Notion confirme que des pirates ont lu des conversations de clients via une faille chez son fournisseur d'IA Fireworks ; moins de 1 % des espaces de travail sont concernés (TechCrunch)."],
+    ["Bots de trading", "Le FT s'interroge sur les erreurs de saisie des robots de trading pilotés par l'IA, et sur les risques qu'ils font courir aux marchés."]
+  ],
+  "good": "L'emploi tient en zone euro : il reste stable au troisième trimestre et progresse de 0,4 % sur un an, malgré le ralentissement (Eurostat).",
+  "map": {
+    "start": "huang",
+    "nodes": [
+      {"id": "huang", "x": 200, "y": 34, "l": ["Départ de", "Jensen Huang"], "t": "Le point de départ", "d": "Liaison avec une dirigeante de Megaspeed, soupçonnée de travailler pour la Chine."},
+      {"id": "mega", "x": 100, "y": 122, "l": ["Megaspeed pas", "sur liste noire"], "t": "La faille", "d": "Bessent accuse le Commerce d'avoir bloqué l'inscription de la société."},
+      {"id": "succ", "x": 300, "y": 122, "l": ["Recherche", "d'un successeur"], "t": "La gouvernance", "d": "Le conseil a approché Rene Haas, patron d'Arm (FT)."},
+      {"id": "trump", "x": 100, "y": 222, "l": ["Trump à l'APEC", "sans en parler"], "t": "La diplomatie", "d": "Washington refuse de négocier ses contrôles à l'exportation avec Pékin."},
+      {"id": "chine", "x": 300, "y": 222, "l": ["Valeurs chinoises", "de l'IA en baisse"], "t": "La contagion", "d": "Crainte de restrictions plus dures sur les puces."},
+      {"id": "doute", "x": 200, "y": 322, "l": ["Doute sur", "le cycle de l'IA"], "t": "Le climat", "d": "SoftBank perd 3,7 Md$ sur ses turbines ; les marchés se méfient."},
+      {"id": "ipo", "x": 100, "y": 414, "l": ["Anthropic : IPO", "le 19 novembre"], "t": "Le test", "d": "Jusqu'à 1 405 Md$ de valorisation, sous les 2 000 Md$ visés."},
+      {"id": "dep", "x": 300, "y": 414, "l": ["Panne Microsoft :", "dépendance révélée"], "t": "L'autre fragilité", "d": "Plus de 70 pays touchés par une seule erreur de configuration."}
+    ],
+    "edges": [["huang", "mega"], ["huang", "succ"], ["mega", "trump"], ["succ", "chine"], ["trump", "doute"], ["chine", "doute"], ["doute", "ipo"], ["doute", "dep"]]
+  },
+  "dossiers": [
+    {
+      "eyebrow": "Valorisation",
+      "title": "1 400 milliards pour Anthropic : comment vaut-on une entreprise qui ne fait pas encore de profits ?",
+      "q": "Anthropic se présente en Bourse à une valorisation pouvant atteindre 1 405 Md$, pour 33 Md$ de chiffre d'affaires sur neuf mois. Comment les investisseurs justifient-ils ce prix, et pourquoi la hausse des taux le fragilise-t-elle ?",
+      "steps": [
+        ["Le principe", "La valeur des profits futurs.", "Une action vaut la somme actualisée des flux qu'elle rapportera. Pour une entreprise en très forte croissance, presque toute la valeur vient de profits lointains."],
+        ["La croissance", "Des revenus multipliés par 13.", "Le chiffre d'affaires d'Anthropic a progressé d'environ 1 200 % sur un an ; son rythme annualisé atteignait 81 Md$ fin octobre (CNBC)."],
+        ["Le taux", "L'ennemi des valeurs de croissance.", "Plus le taux d'actualisation monte, plus un profit lointain perd de valeur aujourd'hui. Or les taux longs ont fortement monté cette semaine."],
+        ["Le marché", "De 2 000 à 1 405 Md$.", "Anthropic visait environ 2 000 Md$ ; la fourchette retenue plafonne à 1 405 Md$. Le marché a déjà corrigé le prix."],
+        ["Le verdict", "Le 19 novembre.", "La cotation dira si la demande, déjà supérieure à l'offre selon CNBC, résiste à la méfiance envers l'IA."]
+      ],
+      "calc": true,
+      "refs": [
+        "<b>Irving Fisher et la valeur actualisée.</b> La valeur d'un actif est la somme de ses revenus futurs actualisés.",
+        "<b>Myron Gordon.</b> Son modèle montre que la valeur d'une action est très sensible à l'écart entre taux d'actualisation et taux de croissance.",
+        "<b>Keynes, le concours de beauté.</b> Sur les marchés, on achète ce que les autres vont acheter, pas seulement ce qui vaut.",
+        "<b>Robert Shiller, l'exubérance irrationnelle.</b> Les récits collectifs peuvent pousser les prix loin des fondamentaux."
+      ],
+      "accroche": "En mai 2026, Anthropic valait 965 Md$ ; six mois plus tard, elle se présente en Bourse jusqu'à 1 405 Md$, mais loin des 2 000 Md$ qu'elle espérait : entre-temps, les taux ont monté.",
+      "sujets": ["Les marchés financiers sont-ils efficients ?", "Faut-il craindre une bulle de l'intelligence artificielle ?", "Les taux d'intérêt gouvernent-ils l'investissement ?"]
+    },
+    {
+      "eyebrow": "Numérique",
+      "title": "Une panne, 70 pays : la concentration des infrastructures numériques est-elle un risque systémique ?",
+      "q": "Une erreur de configuration chez Microsoft a suffi à perturber hôpitaux, écoles et administrations dans plus de 70 pays. Pourquoi l'économie numérique se concentre-t-elle autant, et que faire du risque qui en découle ?",
+      "steps": [
+        ["Les rendements croissants", "Plus on est gros, moins on coûte.", "Un logiciel coûte cher à créer mais presque rien à distribuer : le leader peut baisser ses prix et attirer toujours plus d'utilisateurs."],
+        ["Les effets de réseau", "Tout le monde utilise le même outil.", "Courriel, agenda et visioconférence sont plus utiles quand les partenaires utilisent les mêmes. Environ 430 millions de personnes utilisent Microsoft 365."],
+        ["Le point de défaillance unique", "Une erreur, des effets partout.", "Une mise à jour de configuration a saturé les serveurs ; l'interruption a touché le NHS, des gouvernements et des entreprises comme Richemont."],
+        ["Le coût collectif", "Une externalité négative.", "Chaque client choisit Microsoft pour de bonnes raisons, mais personne ne paie le coût de la dépendance commune : c'est un risque systémique."],
+        ["Les réponses", "Diversifier ou réguler.", "Plans de continuité, solutions de secours, exigences de résilience pour les fournisseurs critiques, voire alternatives européennes au nom de la souveraineté."]
+      ],
+      "split": [
+        ["Accepter la concentration", "Les grands fournisseurs investissent davantage dans la sécurité et la fiabilité que des acteurs dispersés ; les pannes restent rares au regard du service rendu."],
+        ["La réduire", "Quand une seule entreprise sert des centaines de millions d'utilisateurs, une erreur devient une crise économique ; la diversité des fournisseurs est une assurance."]
+      ],
+      "refs": [
+        "<b>Carl Shapiro et Hal Varian (1998).</b> Économie de l'information : effets de réseau, verrouillage et domination du leader.",
+        "<b>Jean Tirole.</b> Ses travaux sur la régulation des marchés à quelques acteurs et des plateformes.",
+        "<b>Ulrich Beck, la société du risque.</b> La modernité produit des risques nouveaux, liés à ses propres technologies.",
+        "<b>Le risque systémique.</b> Notion issue de la finance : la défaillance d'un acteur central se propage à tout le système."
+      ],
+      "accroche": "Le 12 novembre 2026, une simple modification de configuration chez Microsoft a privé de messagerie des administrations, des hôpitaux et des écoles dans plus de 70 pays.",
+      "sujets": ["La concentration des marchés est-elle un danger ?", "Faut-il réguler les géants du numérique ?", "La souveraineté numérique de l'Europe est-elle possible ?"]
+    },
+    {
+      "eyebrow": "Commerce",
+      "title": "Les contrôles à l'exportation : arme efficace ou passoire ?",
+      "q": "Washington interdit la vente de ses puces les plus avancées à la Chine. L'affaire Megaspeed suggère que des milliards de dollars de puces ont pu passer quand même. Que valent ces contrôles ?",
+      "steps": [
+        ["L'objectif", "Freiner l'IA chinoise.", "Les États-Unis limitent l'accès de la Chine aux puces d'IA pour préserver leur avance technologique et militaire."],
+        ["Le contournement", "Passer par des pays tiers.", "Megaspeed, basée à Singapour, est soupçonnée d'avoir aidé à faire passer en Chine des puces Nvidia interdites."],
+        ["Les tensions internes", "Qui tient le stylo ?", "Le Trésor accuse le Commerce, seul compétent pour la liste noire, d'avoir tardé ; l'administration se divise."],
+        ["Le dilemme", "Sécurité contre commerce.", "Durcir les contrôles prive Nvidia de ventes et risque de compliquer les négociations commerciales avec Pékin."],
+        ["L'effet", "Une Chine qui accélère.", "Les restrictions poussent aussi la Chine à développer ses propres puces, ce qui peut réduire l'avance qu'elles visaient à protéger."]
+      ],
+      "refs": [
+        "<b>Friedrich List.</b> Le protectionnisme éducateur : une nation protège les industries qu'elle veut développer.",
+        "<b>Paul Krugman et Elhanan Helpman.</b> La politique commerciale stratégique dans les secteurs à rendements croissants.",
+        "<b>Albert Hirschman (1945).</b> Le commerce comme instrument de puissance et de dépendance.",
+        "<b>Henry Farrell et Abraham Newman.</b> L'« interdépendance militarisée » : les États utilisent les réseaux économiques comme armes."
+      ],
+      "accroche": "« Mais c'est le Commerce qui tient le stylo » : le 13 novembre 2026, le secrétaire au Trésor américain rejette sur un autre ministère l'échec à bloquer une société soupçonnée de faire passer des puces Nvidia en Chine.",
+      "sujets": ["Le protectionnisme peut-il être efficace ?", "La mondialisation est-elle devenue une arme ?", "Les États-Unis et la Chine peuvent-ils se découpler ?"]
+    }
+  ],
+  "flash": [
+    ["−0,1 %", "PIB France T3", "Seule grande économie de la zone euro en recul ce trimestre (Eurostat)."],
+    ["+0,4 %", "PIB zone euro T3", "Croissance confirmée par Eurostat ; +1,3 % sur un an."],
+    ["8,2 %", "Chômage en France", "Taux au troisième trimestre selon l'Insee, +0,4 point sur un an."],
+    ["70-78 $", "Prix d'Anthropic", "Fourchette de l'introduction en Bourse, prévue le 19 novembre au Nasdaq."],
+    ["1 405 Md$", "Valorisation maximale", "D'Anthropic en haut de la fourchette, contre 965 Md$ en mai."],
+    ["3,7 Md$", "Charge de SoftBank", "Sur des turbines à gaz commandées en trop pour ses centres de données."],
+    ["135 Md$", "Actions de Huang", "Valeur de sa participation dans Nvidia selon le FT."],
+    ["430 M", "Utilisateurs de Microsoft 365", "Touchés potentiellement par la panne, dans plus de 70 pays."],
+    ["18-19 nov.", "APEC à Shenzhen", "Trump y retrouve Xi Jinping, avec un sommet à trois prévu avec Vladimir Putin."]
+  ],
+  "quiz": [
+    {"q": "Qui accuse le département du Commerce d'avoir bloqué la mise sur liste noire de Megaspeed ?", "o": ["Marco Rubio", "Scott Bessent", "Howard Lutnick", "Elon Musk"], "a": 1, "e": "Le secrétaire au Trésor Scott Bessent affirme que plusieurs administrations y étaient favorables, mais que « le Commerce tient le stylo »."},
+    {"q": "Où se tient le sommet de l'APEC où se rend Donald Trump ?", "o": ["Pékin", "Shanghai", "Shenzhen", "Singapour"], "a": 2, "e": "Le sommet a lieu à Shenzhen les 18 et 19 novembre."},
+    {"q": "Quelle est la cause de la panne de Microsoft 365, selon l'entreprise ?", "o": ["Une cyberattaque", "Un agent IA défaillant", "Des réglages appliqués après une mise à jour", "Une coupure électrique"], "a": 2, "e": "Microsoft écarte la cyberattaque : des réglages appliqués après une mise à jour ont saturé le processus de connexion sécurisée."},
+    {"q": "Quelle est la fourchette de prix de l'action Anthropic ?", "o": ["50 à 58 $", "70 à 78 $", "90 à 98 $", "120 à 128 $"], "a": 1, "e": "Anthropic propose 825 millions d'actions entre 70 et 78 $, pour une cotation le 19 novembre."},
+    {"q": "Pourquoi une hausse des taux pèse-t-elle surtout sur la valeur d'une entreprise en forte croissance ?", "o": ["Elle augmente ses impôts", "Elle réduit la valeur actuelle de profits lointains", "Elle interdit les introductions en Bourse", "Elle augmente son chiffre d'affaires"], "a": 1, "e": "La valeur d'une action est la somme actualisée de ses profits futurs : plus ils sont lointains, plus la hausse du taux les déprécie."},
+    {"q": "Quelle a été la croissance de la France au troisième trimestre 2026 selon Eurostat ?", "o": ["+0,6 %", "+0,2 %", "0,0 %", "−0,1 %"], "a": 3, "e": "La France recule de 0,1 %, quand l'Espagne progresse de 0,6 % et l'Allemagne de 0,2 %."},
+    {"q": "Sur quoi porte la charge de 3,7 Md$ de SoftBank ?", "o": ["Des puces Nvidia", "Des turbines à gaz pour centres de données", "Des actions WeWork", "Des panneaux solaires"], "a": 1, "e": "SoftBank avait réservé plus de 13 GW de turbines à gaz pour ses centres de données américains."},
+    {"q": "Quelle notion décrit le fait qu'une défaillance chez un acteur central se propage à tout le système ?", "o": ["L'aléa moral", "La sélection adverse", "Le risque systémique", "L'effet d'éviction"], "a": 2, "e": "Le risque systémique, venu de la finance, s'applique aux infrastructures numériques dont dépendent des millions d'utilisateurs."}
+  ],
+  "colle": {
+    "title": "La concentration des marchés numériques est-elle un danger pour l'économie ?",
+    "parts": [
+      ["La concentration a des fondements économiques solides", ["Rendements croissants et effets de réseau favorisent naturellement un leader (Shapiro et Varian)", "Les grands fournisseurs investissent massivement et offrent un service fiable à bas coût"]],
+      ["Mais elle crée des fragilités nouvelles", ["Point de défaillance unique : la panne de Microsoft 365 touche plus de 70 pays et 430 millions d'utilisateurs potentiels", "Dépendance stratégique : souveraineté numérique de l'Europe, de l'Inde, contrôles à l'exportation"]],
+      ["Réguler la résilience plutôt que la taille", ["Exigences de continuité et de résilience pour les fournisseurs critiques, comme pour les banques systémiques", "Favoriser l'interopérabilité et des alternatives (politique industrielle européenne, Tirole)"]]
+    ]
+  },
+  "matrix": {
+    "cols": ["myFT", "CNBC", "Axios", "Wikipédia", "Eurostat", "Insee", "TechCrunch", "Semafor"],
+    "rows": [
+      ["Megaspeed et Washington", [1, 1, 1, 0, 0, 0, 0, 0]],
+      ["Trump à l'APEC", [1, 1, 0, 0, 0, 0, 0, 0]],
+      ["Succession chez Nvidia", [1, 0, 0, 0, 0, 0, 0, 0]],
+      ["Panne Microsoft", [1, 0, 0, 1, 0, 0, 0, 0]],
+      ["Introduction d'Anthropic", [1, 1, 0, 0, 0, 0, 0, 0]],
+      ["SoftBank et turbines", [1, 0, 0, 0, 0, 0, 1, 1]],
+      ["Croissance européenne", [1, 0, 0, 0, 1, 1, 0, 0]],
+      ["Sécurité des données IA", [0, 0, 0, 0, 0, 0, 1, 0]]
+    ]
+  },
+  "sources": [
+    ["myFT Daily Digest", "newsletter, sam. 14", "Titres et résumés du FT : Nvidia, Megaspeed, APEC, panne Microsoft, Anthropic, SoftBank, Fermi, Sarvam, IA en Europe"],
+    ["CNBC", "web, 10 et 13 nov.", "Fourchette de prix d'Anthropic ; voyage de Trump en Chine et position sur l'affaire Nvidia"],
+    ["Axios", "web, 11 nov.", "Confrontation entre Scott Bessent et Howard Lutnick sur Megaspeed"],
+    ["Wikipédia", "web, 13 nov.", "Chronologie, cause et effets de la panne de Microsoft 365"],
+    ["Eurostat", "web, 13 nov.", "PIB et emploi du troisième trimestre en zone euro, par pays"],
+    ["Insee", "web, 10 nov.", "Taux de chômage du troisième trimestre"],
+    ["TechCrunch", "web, 12 nov.", "SoftBank et le gaz ; faille de Fireworks chez Notion"],
+    ["Semafor", "web, 12 nov.", "Détail de la charge de SoftBank et ses effets sur le secteur"]
+  ],
+  "ia": {
+    "toc": "Une faille chez un fournisseur d'IA expose des conversations Notion, OpenAI lance ses outils de sécurité, et Hugging Face face à l'après-Huang.",
+    "intro": "Modèles, outils et projets : ce qui change dans l'IA, et ce qui sert vraiment.",
+    "signalTitle": "La sécurité, angle mort de l'IA",
+    "signal": [
+      {
+        "eyebrow": "Fireworks · Notion",
+        "title": "Quand le fournisseur de ton fournisseur se fait pirater",
+        "text": [
+          "Notion confirme que des pirates ont pu lire des transcriptions de conversations de certains clients, en passant par une faille chez Fireworks AI, une entreprise qui fait tourner des modèles d'IA pour d'autres sociétés. Moins de 1 % des espaces de travail sont concernés, et la plupart des conversations exposées ne pouvaient pas être reliées à un utilisateur précis, selon Notion.",
+          "The Neuron rappelle l'existence d'un marché noir des accès volés aux modèles d'IA, où les identifiants d'API dérobés se revendent pour faire tourner des modèles aux frais des victimes."
+        ],
+        "why": "Une conversation avec un assistant IA transite souvent par plusieurs entreprises : l'application, l'hébergeur du modèle, parfois un intermédiaire. Chacune est un point d'entrée. C'est un argument de plus pour ne pas coller de données sensibles dans un outil dont on ne connaît pas la chaîne de sous-traitants.",
+        "sources": ["TechCrunch (web)", "The Neuron (web)"],
+        "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+      },
+      {
+        "eyebrow": "OpenAI · sécurité",
+        "title": "OpenAI vend des agents pour chercher les failles",
+        "text": [
+          "OpenAI lance Daybreak Red Team, qui attaque une application pour en trouver les faiblesses, et Defense Factory, qui propose des correctifs. Red Team est en accès anticipé ; les correctifs de Defense Factory doivent être relus par des ingénieurs avant d'être déployés.",
+          "En parallèle, l'outil en ligne de commande Codex Security d'OpenAI, open source, fait partie des dépôts les plus suivis de GitHub cette semaine."
+        ],
+        "why": "Selon The Register, OpenAI présente ces outils comme indispensables face à des attaquants qui utilisent eux aussi l'IA. Les mêmes modèles qui écrivent du code servent désormais à l'auditer.",
+        "sources": ["The Register (web)", "GitHub (web)"],
+        "url": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500"
+      },
+      {
+        "img": "img/2026-11-14/ia_hf.jpg",
+        "alt": "Clément Delangue, patron de Hugging Face, en visioconférence",
+        "credit": "Via TechCrunch",
+        "eyebrow": "Hugging Face · Nvidia",
+        "title": "L'open source après Jensen Huang",
+        "text": [
+          "Clément Delangue, patron de Hugging Face, la plateforme qui héberge la plupart des modèles ouverts, promet de continuer à défendre l'IA open source après le départ de Jensen Huang. Selon TechCrunch, le rachat de Hugging Face par Nvidia, pour 12,9 Md$, doit toujours être finalisé en 2027.",
+          "Nvidia assure que sa feuille de route et ses engagements envers les clients continuent sans changement."
+        ],
+        "why": "Huang était l'un des grands soutiens financiers de l'écosystème de l'IA. Pour Semafor, certaines entreprises ne peuvent plus supposer que Nvidia soutiendra le marché aux mêmes conditions. Pour les utilisateurs de modèles ouverts, l'enjeu est de savoir si Hugging Face restera neutre.",
+        "sources": ["TechCrunch (web)", "Semafor (web)"],
+        "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+      }
+    ],
+    "models": [
+      {"name": "Granite 4.1 LLMON (aperçu)", "maker": "IBM", "date": "13 nov.", "access": "Poids sur Hugging Face, versions 3B et 8B expérimentales. Entraîné à séparer les instructions des données extérieures, pour mieux résister aux instructions cachées dans des documents.", "price": "Gratuit, à faire tourner soi-même"},
+      {"name": "Gemini 4 Hydrogen", "maker": "Google", "date": "12 nov.", "access": "Appli Gemini (au choix, et automatiquement pour les comptes gratuits), Google Search, API et AI Studio.", "price": "1,50 $ / 7,50 $ par million de jetons"},
+      {"name": "Inkling 2 Small", "maker": "Thinking Machines", "date": "novembre", "access": "Poids téléchargeables sur Hugging Face, licence Apache 2.0.", "price": "Gratuit, carte graphique à prévoir"},
+      {"name": "Gemini 4 Carbon", "maker": "Google", "date": "10 nov.", "access": "Abonnés Google AI Ultra, API. Le plus puissant de Google.", "price": "2 $ / 10 $, puis 4 $ / 20 $ dès le 30 nov."},
+      {"name": "Claude Fable 5.2", "maker": "Anthropic", "date": "9 nov.", "access": "Abonnements Claude, Claude Code, API.", "price": "8 $ / 40 $"}
+    ],
+    "claudeTitle": "Outils",
+    "claude": [
+      {"k": "Claude Code", "t": "Version 2.1.325 : un correctif de sécurité", "d": "Elle corrige une faille dans le décodage des réponses compressées au format zstd, ainsi que de nombreux bugs : sessions reprises auxquelles manquaient les derniers échanges, sous-agents qui changeaient de modèle, connexions MCP bloquées.", "cmd": "claude update", "cmdLabel": "Terminal"},
+      {"k": "Anthropic", "t": "Des agents Claude hébergés chez soi", "d": "En bêta privée, Claude Managed Agents peut tourner sur les serveurs d'une entreprise, qui garde l'historique des sessions et choisit où partent les requêtes vers Claude. Une offre pour les organisations, pas pour les particuliers."},
+      {"k": "World Labs", "t": "Atlas ouvert à tous", "d": "L'outil de World Labs reconstruit une scène en 3D à partir d'images, puis en tire des vidéos ou des objets 3D. Il est désormais ouvert à tous, avec des applications et une interface pour les développeurs."}
+    ],
+    "repos": [
+      {"name": "GoogleChrome/modern-web-guidance-src", "stars": "5,2 k", "week": "+1 925 en un jour", "lang": "TypeScript", "what": "Des guides que ton agent de code consulte pour écrire du web moderne : API récentes du navigateur, performance, accessibilité. Maintenu par les équipes de Chrome, Edge, Firefox et MDN.", "why": "Les modèles reproduisent souvent du vieux code, très présent dans leurs données. Ce module leur donne les bonnes pratiques actuelles et peut scanner un projet pour repérer le code à moderniser.", "cmd": "npx modern-web-guidance@latest install"},
+      {"name": "openai/codex-security", "stars": "13,3 k", "week": "+751 en un jour", "lang": "TypeScript", "what": "L'outil en ligne de commande d'OpenAI pour trouver, vérifier et corriger les failles de sécurité d'un projet.", "why": "Un audit de sécurité en une commande avant de publier un site ou une application. Il faut un accès aux modèles d'OpenAI.", "cmd": "npm install --global @openai/codex-security"},
+      {"name": "louislam/uptime-kuma", "stars": "94,0 k", "week": "+71 en un jour", "lang": "JavaScript", "what": "Un outil de surveillance auto-hébergé : il vérifie régulièrement que tes sites et services répondent et t'alerte s'ils tombent.", "why": "Gratuit et durable : utile pour être prévenu si un site que tu publies, comme une page GitHub Pages, cesse de répondre. Il faut une machine allumée en permanence et Docker.", "cmd": "docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name uptime-kuma louislam/uptime-kuma:2"}
+    ],
+    "briefs": [
+      ["Procès", "Une coalition d'associations attaque OpenAI, Anthropic, Google, Meta et SpaceX pour faire arrêter le développement de modèles plus puissants, en citant les propres avertissements des laboratoires sur les risques extrêmes (Reuters)."],
+      ["Achats", "Dans des tests de la société Podqi, des sites douteux apparaissent dans 15 % des réponses de Perplexity, 8 % de celles de ChatGPT et 4 % de celles de Gemini pour des conseils d'achat. Ce sont les résultats d'une seule entreprise (The Verge)."],
+      ["Jeu vidéo", "40 % des développeurs interrogés par la GDC utilisent l'IA générative au travail, contre 36 % l'an dernier, surtout pour la recherche et le remue-méninges (The Verge)."],
+      ["Immobilier", "La BBC révèle des photos d'annonces retouchées par IA qui montrent des pièces ou des équipements différents de la réalité."],
+      ["Mode", "J.Crew lance aux États-Unis un conseiller de style fondé sur Claude, qui compose des tenues à partir du catalogue selon l'occasion décrite (TNW)."]
+    ],
+    "sources": [
+      ["The Neuron", "web, 13 nov.", "Sélection du jour : Fireworks, OpenAI, Hugging Face, IBM, World Labs, brèves"],
+      ["TechCrunch", "web, 12 nov.", "Faille de Fireworks chez Notion ; Hugging Face après Huang"],
+      ["The Register", "web, 12 nov.", "Daybreak Red Team et Defense Factory d'OpenAI"],
+      ["Semafor", "web, 12 nov.", "La fin du soutien de Nvidia à l'écosystème de l'IA"],
+      ["Changelog Claude Code", "web, 13-14 nov.", "Version 2.1.325"],
+      ["GitHub Trending", "web, 14 nov.", "Dépôts en vogue et commandes d'installation"],
+      ["The Verge", "web, 12-13 nov.", "Tests d'achats Podqi, enquête GDC"],
+      ["Hugging Face (blog IBM)", "web, 13 nov.", "Granite 4.1 LLMON"]
+    ]
+  }
+}
