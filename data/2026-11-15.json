@@ -1,0 +1,1125 @@
+{
+ "date": "2026-11-15",
+ "label": "Dimanche 15 novembre 2026",
+ "period": "14 au 15 novembre",
+ "sourcesCount": 2,
+ "countLabel": "2 newsletters + 10 sources web",
+ "hero": {
+  "img": "img/2026-11-15/gerrymandering.jpg",
+  "alt": "Devant le Capitole, une femme désigne un panneau comparant les cartes électorales de Caroline du Nord en 2022 et 2024",
+  "credit": "Via myFT Daily Digest",
+  "eyebrow": "À la une",
+  "title": "Midterms : le redécoupage républicain n'a pas arrêté la vague démocrate",
+  "lede": "Les républicains avaient redessiné les circonscriptions de plusieurs États pour garder la Chambre des représentants. Résultat : selon les projections de Decision Desk HQ citées par The Hill, ils n'ont gagné que 2 des 15 sièges visés. Les démocrates prennent les deux chambres du Congrès. Mercredi, le Mississippi a même élu son premier sénateur noir depuis la Reconstruction. Le FT y voit l'échec d'un redécoupage « sans précédent » face à un raz-de-marée de voix démocrates."
+ },
+ "brief": [
+  [
+   "Congrès",
+   "Selon l'AP, les démocrates comptaient 254 sièges à la Chambre contre 162 aux républicains le 9 novembre ; au Sénat, leur majorité monte à 55 sièges."
+  ],
+  [
+   "Mississippi",
+   "Le démocrate Scott Colom bat la sénatrice sortante Cindy Hyde-Smith de quelques milliers de voix, dans un État que Trump avait gagné de 23 points en 2024."
+  ],
+  [
+   "Banque d'Angleterre",
+   "Son chef économiste, Huw Pill, juge la hausse à 4 % « significative » mais estime qu'il y a « encore du chemin » : d'autres hausses sont probables en 2027."
+  ],
+  [
+   "France",
+   "L'Insee confirme une inflation de 3,4 % sur un an en octobre, au plus haut depuis janvier 2024, tirée par l'énergie (+24,1 %)."
+  ],
+  [
+   "Nvidia",
+   "Deux grands actionnaires demandent au conseil d'envisager un « possible retour » de Jensen Huang, qui a démissionné le 12 novembre."
+  ]
+ ],
+ "figures": [
+  {
+   "v": "4 %",
+   "l": "taux directeur de la Banque d'Angleterre depuis le 5 novembre, première hausse depuis août 2023",
+   "dir": "up"
+  },
+  {
+   "v": "3,4 %",
+   "l": "inflation en France sur un an en octobre, contre 0,9 % un an plus tôt (Insee)",
+   "dir": "up"
+  },
+  {
+   "v": "2 sur 15",
+   "l": "sièges gagnés par les républicains parmi ceux visés par leurs redécoupages (Decision Desk HQ)",
+   "dir": "down"
+  },
+  {
+   "v": "−20 %",
+   "l": "baisse du Brent depuis le début du mois de novembre, malgré la guerre avec l'Iran (CNBC)",
+   "dir": "down"
+  }
+ ],
+ "themes": [
+  {
+   "title": "Midterms : la vague bleue déjoue les cartes",
+   "stories": [
+    {
+     "eyebrow": "Redécoupage",
+     "title": "Le « dummymander » : quand le découpage se retourne contre son auteur",
+     "text": [
+      "En 2025, les républicains ont redessiné les circonscriptions du Texas, de l'Ohio, de la Caroline du Nord ou de la Floride pour gagner des sièges à la Chambre. Le pari a échoué : au Texas, la délégation passe de 24 républicains et 13 démocrates à 24 contre 14 ; en Ohio, les démocrates en prennent 8 sur 15, contre 5 auparavant ; en Floride, ils remportent les quatre circonscriptions visées (CBS News).",
+      "CBS News parle de « dummymander » : un découpage partisan qui finit par profiter au camp adverse. En Californie, à l'inverse, le redécoupage démocrate voté par la Proposition 50 a fonctionné : 46 circonscriptions démocrates une semaine après le scrutin."
+     ],
+     "why": "Pour les experts interrogés par TIME, le redécoupage peut peser lourd, mais il ne pouvait rien contre l'impopularité de Donald Trump. Découper des circonscriptions « sûres » suppose de répartir finement ses électeurs : quand le vote bascule partout de plusieurs points, des sièges conçus pour être gagnés de justesse tombent tous ensemble.",
+     "rep": 1,
+     "sources": [
+      "myFT",
+      "CBS News (web)",
+      "TIME (web)",
+      "The Hill (web)"
+     ],
+     "more": [
+      "<b>Le bilan national.</b> Selon le décompte de l'AP au 9 novembre, les démocrates détiennent 254 sièges à la Chambre contre 162, avec 19 courses encore non attribuées.",
+      "<b>La limite.</b> Il faut deux tiers des voix dans chaque chambre, soit 290 à la Chambre, pour passer outre un veto présidentiel : les démocrates n'y sont pas."
+     ],
+     "prog": "Institutions et vie politique, modes de scrutin, cycle politico-économique"
+    },
+    {
+     "img": "img/2026-11-15/colom.jpg",
+     "alt": "Scott Colom, souriant, en veste grise et chemise bleue",
+     "credit": "Via WLRN",
+     "eyebrow": "Sénat",
+     "title": "Le Mississippi élit son premier sénateur noir depuis la Reconstruction",
+     "text": [
+      "Il a fallu plus d'une semaine pour compter les votes par correspondance et les bulletins provisoires. Mercredi 11 novembre, l'AP a déclaré Scott Colom vainqueur face à la républicaine sortante Cindy Hyde-Smith, de quelques milliers de voix : la course sénatoriale la plus serrée du pays.",
+      "Procureur de district, Colom a fait du coût de la vie le cœur de sa campagne. Le Cook Political Report classait pourtant ce siège « probablement républicain » le soir de l'élection."
+     ],
+     "why": "Le Mississippi, où les Noirs représentent près de 40 % de la population, n'avait pas élu de démocrate au Sénat depuis plus de 40 ans. Le FT souligne l'histoire de privation du droit de vote dans cet État, cœur de l'ancienne Confédération. Avec ce siège, la majorité démocrate au Sénat atteint 55 sièges ; l'Alaska reste à attribuer.",
+     "rep": 1,
+     "sources": [
+      "FT Opinion",
+      "WLRN (web)"
+     ],
+     "prog": "Démocratie, participation électorale, inégalités"
+    }
+   ],
+   "items": []
+  },
+  {
+   "title": "L'inflation énergétique relance les hausses de taux",
+   "stories": [
+    {
+     "img": "img/2026-11-15/pill.jpg",
+     "alt": "Huw Pill, chef économiste de la Banque d'Angleterre, s'exprime les mains levées",
+     "credit": "Via myFT Daily Digest",
+     "eyebrow": "Royaume-Uni",
+     "title": "Huw Pill : la Banque d'Angleterre n'a pas fini de monter ses taux",
+     "text": [
+      "Le 5 novembre, la Banque d'Angleterre a relevé son taux directeur d'un quart de point, de 3,75 % à 4 %, par 8 voix contre 1. C'était sa première hausse depuis août 2023, après six réunions sans changement (Central Banking).",
+      "Dans un entretien au FT, son chef économiste Huw Pill y voit une « étape significative », mais estime qu'il y a « encore du chemin ». Selon Reuters, il devrait voter une nouvelle hausse en décembre et juge probables d'autres hausses en 2027. Il estime que la Banque a « attendu trop longtemps »."
+     ],
+     "why": "La cause est un choc énergétique lié à la guerre avec l'Iran. La Banque prévoit une inflation d'environ 5 % vers la mi-2027, plus du double de sa cible de 2 %. Pill craint les effets de second tour sur les salaires et les prix. Les marchés anticipent 90 points de base de hausse d'ici fin 2027, ce qui porterait le taux près de 5 % : une anticipation « pas extravagante », selon lui.",
+     "rep": 1,
+     "sources": [
+      "myFT",
+      "Reuters (web)",
+      "Central Banking (web)"
+     ],
+     "more": [
+      "<b>Le scénario.</b> Pill juge « très faible » la probabilité d'une fin du conflit entre les États-Unis, Israël et l'Iran suivie d'une baisse des prix de l'énergie.",
+      "<b>Le calendrier.</b> Prochaine décision le 17 décembre. Pill ne briguera pas de troisième mandat à la fin du sien, en septembre 2027."
+     ],
+     "prog": "Politique monétaire, inflation et anticipations, chocs d'offre"
+    },
+    {
+     "img": "img/2026-11-15/inflation.jpg",
+     "alt": "Des piles de pièces en euros devant un écran d'ordinateur affichant une courbe et des pourcentages",
+     "credit": "Via franceinfo",
+     "eyebrow": "France",
+     "title": "L'inflation française à 3,4 %, au plus haut depuis janvier 2024",
+     "text": [
+      "L'Insee confirme, dans ses résultats définitifs publiés le 13 novembre, une hausse des prix de 3,4 % sur un an en octobre. Un an plus tôt, elle n'était que de 0,9 %.",
+      "L'énergie en est le moteur : +24,1 % sur un an, contre +21,3 % en septembre, quatrième mois de hausse d'affilée, sous l'effet du gaz et des produits pétroliers. L'indice harmonisé, qui permet la comparaison européenne, progresse de 3,7 %."
+     ],
+     "why": "La France cumule désormais un PIB en recul au troisième trimestre et une inflation importée qui rogne le pouvoir d'achat : un mélange qui rappelle la stagflation. Pour la BCE, le dilemme est le même qu'à Londres : réagir à un choc d'offre sans étouffer une croissance déjà faible.",
+     "rep": 0,
+     "sources": [
+      "franceinfo (web)"
+     ],
+     "prog": "Inflation, pouvoir d'achat, chocs pétroliers"
+    },
+    {
+     "eyebrow": "Pétrole",
+     "title": "Le Brent reste volatil autour de 95 $",
+     "text": [
+      "Le 12 novembre, le Brent a clôturé à 95,82 $ le baril, en hausse de 3,3 %, après que Donald Trump a déclaré que Washington n'avait pas besoin d'un accord avec l'Iran. Sur le mois, il recule pourtant d'environ 20 % (CNBC)."
+     ],
+     "why": "Le prix du pétrole est la courroie de transmission entre la guerre et l'inflation européenne. Sa baisse sur le mois, si elle se confirme, est le scénario qui permettrait aux banques centrales de lever le pied ; Huw Pill, lui, n'y croit guère.",
+     "rep": 0,
+     "sources": [
+      "CNBC (web)"
+     ],
+     "prog": "Marchés des matières premières, géopolitique de l'énergie"
+    }
+   ],
+   "items": []
+  },
+  {
+   "title": "Nvidia : l'après-Huang",
+   "stories": [
+    {
+     "img": "img/2026-11-15/gerstner.jpg",
+     "alt": "Un homme barbu en costume parle derrière un pupitre frappé du sceau présidentiel américain",
+     "credit": "Getty Images, via CNBC",
+     "eyebrow": "Actionnaires",
+     "title": "Des investisseurs réclament qu'on envisage le retour de Jensen Huang",
+     "text": [
+      "Brad Gerstner (Altimeter Capital) et Gavin Baker (Atreides Management) demandent au conseil de Nvidia un processus de succession « lent et réfléchi », qui envisage un « possible retour » de Jensen Huang. Leurs fonds détenaient ensemble environ 2,1 Md$ d'actions Nvidia au 30 juin (CNBC).",
+      "Elon Musk dit avoir signé une pétition pour le réintégrer ; ses organisateurs revendiquent plus de 100 000 signatures, dont plus de 5 000 salariés de Nvidia. Colette Kress, directrice financière, assure l'intérim."
+     ],
+     "why": "Le dossier reste aussi politique : une commission de la Chambre demande au secrétaire au Commerce Howard Lutnick de témoigner sur Megaspeed, la société soupçonnée d'avoir fait passer des puces Nvidia en Chine. Lutnick sera entendu par la commission bancaire du Sénat le 10 décembre. Trump part jeudi pour l'APEC à Shenzhen (18 et 19 novembre).",
+     "rep": 1,
+     "sources": [
+      "FT Opinion",
+      "CNBC (web)"
+     ],
+     "more": [
+      "<b>La justice.</b> Selon le New York Times cité par CNBC, l'enquête du Commerce sur Megaspeed a été transférée au département de la Justice en 2025, après un contact entre l'avocat de Nvidia et un haut responsable du ministère."
+     ],
+     "prog": "Gouvernance d'entreprise, actionnariat, relations sino-américaines"
+    },
+    {
+     "eyebrow": "Tribune",
+     "title": "« Jensanity » : le culte du patron, signal d'alarme",
+     "text": [
+      "Dans le FT, Bethany McLean, autrice de l'histoire de référence d'Enron, compare l'affaire Nvidia aux chutes d'Enron, Tyco ou Wirecard. Patrons arrogants, promesses grandioses, ambition de devenir « la plus grande entreprise du monde » : le schéma se répète.",
+      "Pour elle, le succès spectaculaire crée « une forme d'aveuglement » au moment même où il faudrait davantage de contrôle."
+     ],
+     "why": "La tribune pose une question classique de gouvernance : un conseil d'administration peut-il encore contrôler un fondateur devenu indispensable ? La lettre des actionnaires montre l'autre face du problème : le marché valorise parfois l'homme autant que l'entreprise.",
+     "rep": 1,
+     "sources": [
+      "FT Opinion"
+     ],
+     "prog": "Théorie de l'agence, gouvernance, scandales financiers"
+    },
+    {
+     "img": "img/2026-11-15/shanghai.jpg",
+     "alt": "Des passants devant la statue d'un taureau en bronze à la Bourse de Shanghai",
+     "credit": "Via myFT Daily Digest",
+     "eyebrow": "Chine",
+     "title": "Les valeurs technologiques chinoises, une IA « avec moins de drame » ?",
+     "text": [
+      "Après leur chute liée à l'affaire Nvidia, les valeurs technologiques chinoises pourraient offrir une exposition à l'IA plus calme, selon une analyse du FT.",
+      "Les opportunités se trouveraient autant dans les « pioches et les pelles » de la chaîne d'approvisionnement de l'IA que dans les modèles eux-mêmes."
+     ],
+     "why": "La logique des « pioches et pelles » vient de la ruée vers l'or : ceux qui vendaient les outils gagnaient plus sûrement que les chercheurs d'or. Elle s'applique ici aux fournisseurs de composants et d'infrastructures.",
+     "rep": 1,
+     "sources": [
+      "myFT"
+     ],
+     "prog": "Marchés financiers, chaînes de valeur mondiales"
+    }
+   ],
+   "items": []
+  },
+  {
+   "title": "Royaume-Uni : trois débats d'économie publique",
+   "stories": [
+    {
+     "eyebrow": "Budget",
+     "title": "Dépenser pour prévenir plutôt que réparer",
+     "text": [
+      "Le budget britannique du 28 octobre, présenté par le chancelier John Healey, crée une nouvelle catégorie de dépenses protégées, les « PDEL » (plafonds de dépenses préventives), à partir de la revue des dépenses de 2027 (Civil Service World).",
+      "Dans le FT, Camilla Cavendish salue la mesure : on répare les ponts avant qu'ils ne s'effondrent, mais on attend souvent la crise pour traiter le sans-abrisme, l'inactivité ou les maladies chroniques, quand la solution coûte cher."
+     ],
+     "why": "L'idée est de protéger des dépenses dont les bénéfices arrivent tard, comme la prévention du diabète ou l'aide sociale à l'enfance. Le budget ne fixe toutefois ni leur montant ni de financement supplémentaire. L'idée vient du cercle de réflexion Demos et de la Health Foundation, en 2023.",
+     "rep": 1,
+     "sources": [
+      "FT Opinion",
+      "Civil Service World (web)"
+     ],
+     "prog": "Politique budgétaire, investissement social, dépenses publiques"
+    },
+    {
+     "eyebrow": "Paris prédictifs",
+     "title": "Les marchés de prédiction sont-ils des jeux d'argent ?",
+     "text": [
+      "Dans le FT, Luana Lopes Lara, cofondatrice de Kalshi, conteste l'idée que tout contrat sur l'avenir soit un pari. Au XIXe siècle, les contrats à terme agricoles subissaient la même accusation, jusqu'à ce que la Cour suprême américaine distingue spéculation et jeu sur des marchés bien organisés."
+     ],
+     "why": "Le débat recoupe le rôle de la spéculation : pour ses défenseurs, elle révèle de l'information et transfère le risque ; pour ses critiques, elle n'est qu'un pari sans utilité sociale. L'autrice défend son propre modèle d'affaires.",
+     "rep": 1,
+     "sources": [
+      "FT Opinion"
+     ],
+     "prog": "Marchés financiers, spéculation et couverture"
+    },
+    {
+     "eyebrow": "Consommation",
+     "title": "Faut-il interdire Vinted aux moins de 16 ans ?",
+     "text": [
+      "Claer Barrett critique, dans le FT, le projet du gouvernement britannique d'interdire aux moins de 16 ans de vendre vêtements et jouets sur eBay ou Vinted. Avec moins de petits boulots le week-end, ces sites permettent d'apprendre le fonctionnement des marchés et la gestion de l'argent."
+     ],
+     "why": "Elle estime que gagner son propre argent apprend à mieux arbitrer ses dépenses. Le gouvernement, lui, cherche à protéger les mineurs des risques des plateformes.",
+     "rep": 1,
+     "sources": [
+      "FT Opinion"
+     ],
+     "prog": "Éducation financière, plateformes numériques"
+    }
+   ],
+   "items": []
+  }
+ ],
+ "briefs": [
+  [
+   "Anthropic",
+   "Le prix de l'introduction en Bourse doit être fixé le 18 novembre, pour une cotation au Nasdaq le 19 sous le symbole ANT (CNBC)."
+  ],
+  [
+   "BoE",
+   "Prochaine décision de la Banque d'Angleterre le 17 décembre ; Huw Pill y est attendu en faveur d'une nouvelle hausse d'un quart de point (Reuters)."
+  ],
+  [
+   "Lutnick",
+   "Le secrétaire au Commerce témoignera le 10 décembre devant la commission bancaire du Sénat sur l'affaire Megaspeed (CNBC)."
+  ],
+  [
+   "IA et divorce",
+   "Susie Alegre alerte dans le FT sur des assistants IA « flatteurs » qui renforcent les certitudes et rendent les divorces plus conflictuels."
+  ],
+  [
+   "Californie",
+   "La Proposition 50 a atteint son but : 46 circonscriptions démocrates, et deux autres probables (CBS News)."
+  ],
+  [
+   "Travail",
+   "Au Royaume-Uni, Sarah O'Connor conteste dans le FT l'idée que les Britanniques ne voudraient plus travailler."
+  ]
+ ],
+ "good": "Le pétrole recule : malgré la guerre avec l'Iran, le Brent a perdu environ 20 % depuis le début du mois de novembre (CNBC).",
+ "map": {
+  "start": "iran",
+  "nodes": [
+   {
+    "id": "iran",
+    "x": 200,
+    "y": 34,
+    "l": [
+     "Guerre avec",
+     "l'Iran"
+    ],
+    "t": "Le choc",
+    "d": "Conflit entre les États-Unis, Israël et l'Iran ; tensions dans le détroit d'Ormuz."
+   },
+   {
+    "id": "energie",
+    "x": 200,
+    "y": 122,
+    "l": [
+     "Énergie chère",
+     "en Europe"
+    ],
+    "t": "La transmission",
+    "d": "En France, l'énergie augmente de 24,1 % sur un an en octobre (Insee)."
+   },
+   {
+    "id": "uk",
+    "x": 100,
+    "y": 222,
+    "l": [
+     "Inflation britannique",
+     "vers 5 %"
+    ],
+    "t": "Au Royaume-Uni",
+    "d": "Prévision de la Banque d'Angleterre pour la mi-2027."
+   },
+   {
+    "id": "fr",
+    "x": 300,
+    "y": 222,
+    "l": [
+     "Inflation française",
+     "à 3,4 %"
+    ],
+    "t": "En France",
+    "d": "Plus haut niveau depuis janvier 2024."
+   },
+   {
+    "id": "boe",
+    "x": 100,
+    "y": 322,
+    "l": [
+     "BoE : 4 %,",
+     "puis davantage"
+    ],
+    "t": "La réponse monétaire",
+    "d": "Huw Pill anticipe une hausse en décembre et d'autres en 2027."
+   },
+   {
+    "id": "pa",
+    "x": 300,
+    "y": 322,
+    "l": [
+     "Coût de la vie",
+     "sous pression"
+    ],
+    "t": "Les ménages",
+    "d": "Le pouvoir d'achat devient l'enjeu politique central."
+   },
+   {
+    "id": "credit",
+    "x": 100,
+    "y": 414,
+    "l": [
+     "Crédit",
+     "plus cher"
+    ],
+    "t": "L'effet",
+    "d": "Les marchés anticipent un taux proche de 5 % fin 2027."
+   },
+   {
+    "id": "vote",
+    "x": 300,
+    "y": 414,
+    "l": [
+     "Vote sanction",
+     "aux midterms"
+    ],
+    "t": "La politique",
+    "d": "Colom fait campagne sur le coût de la vie ; les démocrates prennent le Congrès."
+   }
+  ],
+  "edges": [
+   [
+    "iran",
+    "energie"
+   ],
+   [
+    "energie",
+    "uk"
+   ],
+   [
+    "energie",
+    "fr"
+   ],
+   [
+    "uk",
+    "boe"
+   ],
+   [
+    "fr",
+    "pa"
+   ],
+   [
+    "boe",
+    "credit"
+   ],
+   [
+    "pa",
+    "vote"
+   ]
+  ]
+ },
+ "dossiers": [
+  {
+   "eyebrow": "Politique monétaire",
+   "title": "Faut-il monter les taux face à un choc énergétique ?",
+   "q": "La Banque d'Angleterre relève son taux à 4 % et prévoit d'aller plus loin, alors que l'inflation vient surtout du prix de l'énergie. Une hausse des taux peut-elle combattre un choc venu de l'extérieur, et à quel prix ?",
+   "steps": [
+    [
+     "Le choc",
+     "L'énergie flambe.",
+     "La guerre avec l'Iran renchérit le pétrole et le gaz : c'est un choc d'offre, qui fait monter les prix et baisser la production en même temps."
+    ],
+    [
+     "La propagation",
+     "Les effets de second tour.",
+     "Si les salariés obtiennent des hausses de salaires pour compenser, et que les entreprises les répercutent, l'inflation s'auto-entretient. C'est la crainte de Huw Pill."
+    ],
+    [
+     "La réponse",
+     "Monter le taux directeur.",
+     "En renchérissant le crédit, la banque centrale freine la demande et signale sa détermination : 3,75 % puis 4 %, et sans doute davantage."
+    ],
+    [
+     "Les anticipations",
+     "Le rôle de la crédibilité.",
+     "Une banque crédible ancre les anticipations : si chacun croit au retour à 2 %, les salaires s'emballent moins. Pill estime que la Banque a « attendu trop longtemps »."
+    ],
+    [
+     "Le coût",
+     "Le risque de récession.",
+     "Monter les taux ne fait pas baisser le prix du pétrole : cela réduit l'activité. Les marchés anticipent un taux proche de 5 % fin 2027."
+    ]
+   ],
+   "split": [
+    [
+     "Monter les taux",
+     "Empêcher les effets de second tour et préserver la crédibilité de la banque centrale ; l'expérience des années 1970 montre le coût d'une inflation qui s'installe."
+    ],
+    [
+     "Attendre",
+     "Un choc d'offre est par nature temporaire ; monter les taux ajoute une récession à la perte de pouvoir d'achat, sans agir sur la cause du choc."
+    ]
+   ],
+   "calc": true,
+   "refs": [
+    "<b>Milton Friedman.</b> L'inflation dépend des anticipations ; la politique monétaire agit avec des délais longs et variables.",
+    "<b>John Taylor (1993).</b> Sa règle relie le taux directeur à l'écart d'inflation et à l'écart de production.",
+    "<b>Paul Volcker.</b> La hausse brutale des taux américains au début des années 1980 a cassé l'inflation au prix d'une récession.",
+    "<b>Kydland et Prescott (1977).</b> La crédibilité et l'incohérence temporelle des politiques économiques."
+   ],
+   "accroche": "« Nous avons encore du chemin » : le 14 novembre 2026, le chef économiste de la Banque d'Angleterre annonce de nouvelles hausses de taux, alors que l'inflation britannique vient surtout du prix de l'énergie.",
+   "sujets": [
+    "La politique monétaire peut-elle tout ?",
+    "Faut-il craindre le retour de l'inflation ?",
+    "Les banques centrales doivent-elles réagir aux chocs d'offre ?"
+   ]
+  },
+  {
+   "eyebrow": "Vie politique",
+   "title": "Gerrymandering et vague bleue : l'économie décide-t-elle des élections ?",
+   "q": "Les républicains ont redécoupé les circonscriptions pour conserver la Chambre ; ils l'ont perdue largement. Pourquoi le découpage n'a-t-il pas suffi, et que dit ce scrutin du lien entre économie et vote ?",
+   "steps": [
+    [
+     "Le découpage",
+     "Dessiner ses circonscriptions.",
+     "Le gerrymandering consiste à regrouper les électeurs adverses dans quelques circonscriptions et à disperser les autres, pour gagner plus de sièges avec autant de voix."
+    ],
+    [
+     "La fragilité",
+     "Des marges étroites.",
+     "Pour maximiser les sièges, on crée beaucoup de circonscriptions gagnées de peu. Si le vote bascule de quelques points partout, elles tombent ensemble."
+    ],
+    [
+     "Le contexte",
+     "Un président impopulaire.",
+     "Selon TIME, le découpage ne pouvait rien face à la faible popularité de Donald Trump ; le coût de la vie a pesé, comme dans la campagne de Scott Colom."
+    ],
+    [
+     "Le résultat",
+     "Le « dummymander ».",
+     "Les républicains ne gagnent que 2 des 15 sièges visés ; au Texas comme en Ohio, les démocrates progressent malgré les nouvelles cartes."
+    ],
+    [
+     "La suite",
+     "Un pouvoir divisé.",
+     "Les démocrates tiennent le Congrès, Trump la Maison Blanche ; sans majorité des deux tiers, ils ne peuvent passer outre un veto."
+    ]
+   ],
+   "split": [
+    [
+     "Le vote est d'abord économique",
+     "Inflation et coût de la vie expliquent le désaveu du parti au pouvoir ; les modèles de prévision fondés sur la conjoncture le montrent depuis longtemps."
+    ],
+    [
+     "Il ne l'est pas seulement",
+     "Identité, mobilisation, personnalité du président et règles du scrutin comptent aussi ; au Mississippi, l'histoire du droit de vote a pesé dans la campagne."
+    ]
+   ],
+   "refs": [
+    "<b>Anthony Downs (1957).</b> Une théorie économique de la démocratie : partis et électeurs comme agents rationnels.",
+    "<b>William Nordhaus (1975).</b> Le cycle politico-économique : les gouvernants ajustent l'économie au calendrier électoral.",
+    "<b>Ray Fair.</b> Ses modèles prédisent le vote présidentiel américain à partir de la croissance et de l'inflation.",
+    "<b>Maurice Duverger.</b> Les effets du mode de scrutin majoritaire sur le système des partis."
+   ],
+   "accroche": "En 2025, les républicains redessinent les cartes électorales de plusieurs États pour garder la Chambre ; en novembre 2026, ils ne gagnent que 2 des 15 sièges visés.",
+   "sujets": [
+    "Le vote est-il un acte économique ?",
+    "Les institutions façonnent-elles les résultats électoraux ?",
+    "L'inflation est-elle une menace pour la démocratie ?"
+   ]
+  },
+  {
+   "eyebrow": "Gouvernance",
+   "title": "Le culte du patron : quand le fondateur devient un risque",
+   "q": "Après Enron, Tyco ou Wirecard, l'affaire Nvidia relance la question : comment contrôler un dirigeant devenu indispensable, au point que des actionnaires réclament déjà son retour ?",
+   "steps": [
+    [
+     "La séparation",
+     "Propriété et contrôle.",
+     "Dans une grande entreprise cotée, les actionnaires possèdent et les dirigeants décident : leurs intérêts peuvent diverger."
+    ],
+    [
+     "Le fondateur star",
+     "Une valeur incarnée.",
+     "Le marché valorise parfois la personne : des actionnaires pesant 2,1 Md$ demandent qu'on envisage le retour de Jensen Huang."
+    ],
+    [
+     "L'aveuglement",
+     "Moins de contrôle quand tout va bien.",
+     "Pour Bethany McLean, le succès spectaculaire crée « une forme d'aveuglement » au moment où il faudrait davantage de vigilance."
+    ],
+    [
+     "La crise",
+     "Le risque se révèle.",
+     "Une affaire privée devient une affaire d'État : soupçons d'espionnage, contrôles à l'exportation, auditions au Congrès."
+    ]
+   ],
+   "refs": [
+    "<b>Berle et Means (1932).</b> La séparation de la propriété et du contrôle dans la grande entreprise.",
+    "<b>Jensen et Meckling (1976).</b> La théorie de l'agence et les coûts liés à la délégation.",
+    "<b>Max Weber.</b> L'autorité charismatique et sa routinisation.",
+    "<b>Bethany McLean et Peter Elkind.</b> L'histoire d'Enron, cas d'école de la défaillance de gouvernance."
+   ],
+   "accroche": "Deux jours après la démission de Jensen Huang, deux actionnaires de Nvidia demandent déjà qu'on envisage son retour : le fondateur reste, pour une partie du marché, la principale valeur de l'entreprise.",
+   "sujets": [
+    "Qui gouverne l'entreprise ?",
+    "Les marchés financiers disciplinent-ils les dirigeants ?",
+    "L'entreprise doit-elle rendre des comptes à la société ?"
+   ]
+  }
+ ],
+ "flash": [
+  [
+   "4 %",
+   "Taux de la BoE",
+   "Relevé de 3,75 % à 4 % le 5 novembre, par 8 voix contre 1."
+  ],
+  [
+   "≈ 5 %",
+   "Inflation britannique mi-2027",
+   "Prévision de la Banque d'Angleterre, plus du double de sa cible."
+  ],
+  [
+   "90 pb",
+   "Hausses anticipées",
+   "Resserrement attendu par les marchés d'ici fin 2027 au Royaume-Uni (Reuters)."
+  ],
+  [
+   "3,4 %",
+   "Inflation France",
+   "Octobre 2026, plus haut depuis janvier 2024 (Insee)."
+  ],
+  [
+   "+24,1 %",
+   "Énergie en France",
+   "Hausse sur un an en octobre, quatrième mois de hausse d'affilée."
+  ],
+  [
+   "254",
+   "Sièges démocrates",
+   "À la Chambre au 9 novembre, contre 162 républicains (AP)."
+  ],
+  [
+   "55",
+   "Sénateurs démocrates",
+   "Majorité au Sénat après la victoire de Scott Colom."
+  ],
+  [
+   "2 sur 15",
+   "Sièges visés gagnés",
+   "Bilan du redécoupage républicain (Decision Desk HQ)."
+  ],
+  [
+   "95,82 $",
+   "Brent",
+   "Clôture du 12 novembre, +3,3 % sur la séance (CNBC)."
+  ]
+ ],
+ "quiz": [
+  {
+   "q": "À quel niveau la Banque d'Angleterre a-t-elle porté son taux directeur le 5 novembre ?",
+   "o": [
+    "3,5 %",
+    "3,75 %",
+    "4 %",
+    "4,5 %"
+   ],
+   "a": 2,
+   "e": "Elle l'a relevé d'un quart de point, de 3,75 % à 4 %, par 8 voix contre 1 : sa première hausse depuis août 2023."
+  },
+  {
+   "q": "Que craint surtout Huw Pill ?",
+   "o": [
+    "Une déflation",
+    "Les effets de second tour sur les salaires et les prix",
+    "Une crise bancaire",
+    "Une appréciation de la livre"
+   ],
+   "a": 1,
+   "e": "Il redoute que la hausse de l'énergie se transmette aux salaires puis aux prix, ce qui entretiendrait l'inflation."
+  },
+  {
+   "q": "Quel est le taux d'inflation en France en octobre 2026 selon l'Insee ?",
+   "o": [
+    "0,9 %",
+    "2,4 %",
+    "3,4 %",
+    "3,7 %"
+   ],
+   "a": 2,
+   "e": "3,4 % sur un an ; 3,7 % est l'indice harmonisé européen, et 0,9 % le taux d'octobre 2025."
+  },
+  {
+   "q": "Que désigne le terme « dummymander » ?",
+   "o": [
+    "Un redécoupage annulé par la justice",
+    "Un redécoupage qui finit par profiter au camp adverse",
+    "Un vote par correspondance",
+    "Une circonscription sans candidat"
+   ],
+   "a": 1,
+   "e": "C'est un gerrymander raté : le parti qui découpe les circonscriptions y perd des sièges."
+  },
+  {
+   "q": "Qui Scott Colom a-t-il battu au Mississippi ?",
+   "o": [
+    "Roger Wicker",
+    "Cindy Hyde-Smith",
+    "Tate Reeves",
+    "Trent Lott"
+   ],
+   "a": 1,
+   "e": "Il a battu la sénatrice républicaine sortante Cindy Hyde-Smith de quelques milliers de voix."
+  },
+  {
+   "q": "Quelle majorité faut-il au Congrès pour passer outre un veto présidentiel ?",
+   "o": [
+    "La majorité simple",
+    "Trois cinquièmes",
+    "Deux tiers dans chaque chambre",
+    "L'unanimité"
+   ],
+   "a": 2,
+   "e": "Il faut deux tiers des voix dans chaque chambre, soit 290 à la Chambre des représentants."
+  },
+  {
+   "q": "À quelles entreprises Bethany McLean compare-t-elle l'affaire Nvidia ?",
+   "o": [
+    "Apple, IBM, Xerox",
+    "Enron, Tyco, Wirecard",
+    "Lehman, AIG, Bear Stearns",
+    "Kodak, Nokia, BlackBerry"
+   ],
+   "a": 1,
+   "e": "Elle y voit le même schéma : dirigeants arrogants et promesses grandioses avant la chute."
+  },
+  {
+   "q": "Que sont les « PDEL » du budget britannique ?",
+   "o": [
+    "Un impôt sur les plateformes",
+    "Une catégorie protégée de dépenses préventives",
+    "Un prêt aux PME",
+    "Un fonds de défense"
+   ],
+   "a": 1,
+   "e": "Ce sont des plafonds de dépenses préventives, protégés à partir de la revue des dépenses de 2027."
+  }
+ ],
+ "colle": {
+  "title": "Faut-il relever les taux d'intérêt face à un choc énergétique ?",
+  "parts": [
+   [
+    "Un choc d'offre que la politique monétaire ne peut pas effacer",
+    [
+     "La hausse du prix de l'énergie vient de l'extérieur (guerre avec l'Iran) : la banque centrale ne peut pas faire baisser le prix du pétrole",
+     "Monter les taux ajoute une baisse de la demande à la perte de pouvoir d'achat : risque de stagflation"
+    ]
+   ],
+   [
+    "Mais le risque d'une inflation qui s'installe justifie d'agir",
+    [
+     "Effets de second tour : salaires et prix peuvent s'entraîner mutuellement (Huw Pill, inflation britannique attendue vers 5 %)",
+     "Crédibilité et anticipations : l'expérience des années 1970 et de Volcker, Kydland et Prescott"
+    ]
+   ],
+   [
+    "Une réponse graduée et coordonnée",
+    [
+     "Hausses mesurées et dépendantes des données (règle de Taylor), comme la BoE à 4 % puis en décembre",
+     "Associer politique budgétaire ciblée pour protéger les ménages modestes sans relancer l'inflation"
+    ]
+   ]
+  ]
+ },
+ "matrix": {
+  "cols": [
+   "myFT",
+   "FT Opinion",
+   "WLRN",
+   "CBS News",
+   "TIME",
+   "The Hill",
+   "Reuters",
+   "Central Banking",
+   "franceinfo",
+   "CNBC",
+   "Civil Service World"
+  ],
+  "rows": [
+   [
+    "Redécoupage et midterms",
+    [
+     1,
+     0,
+     0,
+     1,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Victoire de Scott Colom",
+    [
+     0,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Banque d'Angleterre",
+    [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Affaire Nvidia",
+    [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0
+    ]
+   ],
+   [
+    "Valeurs chinoises",
+    [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Dépenses préventives",
+    [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ]
+   ],
+   [
+    "Inflation en France",
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ]
+   ],
+   [
+    "Pétrole et Iran",
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0
+    ]
+   ]
+  ]
+ },
+ "sources": [
+  [
+   "myFT Daily Digest",
+   "newsletter, dim. 15",
+   "Titres et résumés du FT : redécoupage raté, Huw Pill, valeurs technologiques chinoises"
+  ],
+  [
+   "FT Opinion",
+   "newsletter, sam. 14",
+   "Tribunes : Nvidia et culte du patron, Scott Colom, dépenses préventives, Kalshi, Vinted, IA et divorce"
+  ],
+  [
+   "WLRN (AP)",
+   "web, 11 nov.",
+   "Victoire de Scott Colom, contexte du Mississippi, majorité de 55 sièges au Sénat"
+  ],
+  [
+   "CBS News",
+   "web, 10 nov.",
+   "Bilan du redécoupage État par État, définition du « dummymander »"
+  ],
+  [
+   "TIME",
+   "web, 8 nov.",
+   "Pourquoi le redécoupage n'a pas arrêté la vague démocrate"
+  ],
+  [
+   "The Hill",
+   "web, nov.",
+   "Projections de Decision Desk HQ : 2 sièges gagnés sur 15 visés par le redécoupage"
+  ],
+  [
+   "Reuters",
+   "web, 14 nov.",
+   "Entretien de Huw Pill au FT : hausses en 2027, anticipations de marché, prévision d'inflation"
+  ],
+  [
+   "Central Banking",
+   "web, 5 nov.",
+   "Décision de la Banque d'Angleterre : 4 %, vote à 8 contre 1, première hausse depuis 2023"
+  ],
+  [
+   "franceinfo",
+   "web, 13 nov.",
+   "Inflation définitive d'octobre selon l'Insee : 3,4 %, énergie +24,1 %, IPCH 3,7 %"
+  ],
+  [
+   "CNBC",
+   "web, 12 et 14 nov.",
+   "Lettre des actionnaires de Nvidia, pétition, auditions ; prix du pétrole et Iran"
+  ],
+  [
+   "Civil Service World",
+   "web, nov.",
+   "Création des plafonds de dépenses préventives (PDEL) dans le budget 2026"
+  ]
+ ],
+ "ia": {
+  "toc": "Des actionnaires veulent le retour de Jensen Huang, ElevenLabs fusionne prise de notes et dictée, et Runway ouvre son modèle pour robots.",
+  "intro": "Modèles, outils et projets : ce qui change dans l'IA, et ce qui sert vraiment.",
+  "signalTitle": "Des réunions aux robots, l'IA quitte l'écran",
+  "signal": [
+   {
+    "img": "img/2026-11-15/ia_elevenai.jpg",
+    "alt": "Capture d'écran de l'application ElevenAI affichant la transcription d'une conversation en cours",
+    "credit": "ElevenLabs, via TechCrunch",
+    "eyebrow": "ElevenLabs · réunions",
+    "title": "ElevenAI veut remplacer le preneur de notes et l'outil de dictée",
+    "text": [
+     "ElevenLabs, valorisée 22 Md$, lance en préversion ElevenAI, une application qui prend des notes pendant les réunions, en prévenant les participants qu'ils sont enregistrés, et permet d'interroger l'historique de toutes les conversations. Elle sert aussi d'outil de dictée dans n'importe quelle application, dans plus de 90 langues.",
+     "L'accès se fait sur inscription. Les entreprises peuvent y brancher l'agent ElevenAgent pour enchaîner des actions, comme rédiger un courriel à partir des notes. Le prix n'est pas annoncé."
+    ],
+    "why": "Le marché se resserre : Fireflies a ajouté la dictée en septembre, Granola en octobre, et Wispr Flow prépare un preneur de notes. Les outils de transcription convergent vers un seul produit, qui garde la mémoire de tout ce qui se dit au travail. Avant de l'adopter, mieux vaut savoir où sont stockés ces enregistrements.",
+    "sources": [
+     "TechCrunch (web)"
+    ],
+    "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+   },
+   {
+    "img": "img/2026-11-15/ia_praxis.jpg",
+    "alt": "Deux bras robotisés au-dessus d'une table où sont posés une montre et un chiffon jaune",
+    "credit": "Runway",
+    "eyebrow": "Runway · robotique",
+    "title": "Praxis-1, un modèle pour robots en poids ouverts",
+    "text": [
+     "Runway publie les poids de Praxis-1, un modèle de 27 milliards de paramètres qui prédit à la fois la vidéo et les actions d'un robot. Licence Apache 2.0, usage commercial compris, avec le code d'inférence et d'ajustement, sur GitHub et Hugging Face.",
+     "Selon Runway, il atteint 46,2 % de réussite sur le banc d'essai RoboLab-120, devant FLUX 3 Action (42,9 %) et π0.5 (28,0 %). Il tourne sur des cartes Nvidia, du centre de données jusqu'à la RTX 5090."
+    ],
+    "why": "Après le texte et l'image, les modèles ouverts arrivent dans la robotique. Un laboratoire ou une start-up peut adapter Praxis-1 à son propre robot avec un ajustement léger (LoRA), sans tout réentraîner. Pour un particulier, l'intérêt reste limité tant qu'il faut un robot et une carte graphique puissante.",
+    "sources": [
+     "Runway (web)"
+    ],
+    "url": "https://runway.com/news/company-news/praxis-1-is-now-available"
+   },
+   {
+    "eyebrow": "Nvidia · gouvernance",
+    "title": "Des actionnaires veulent laisser la porte ouverte à Jensen Huang",
+    "text": [
+     "Brad Gerstner (Altimeter) et Gavin Baker (Atreides) demandent au conseil de Nvidia une succession « lente et réfléchie », qui envisage le « possible retour » de Jensen Huang. Elon Musk soutient une pétition qui revendique plus de 100 000 signatures, dont plus de 5 000 salariés.",
+     "Musk estime que sans Huang, des « accords critiques » seront perdus. Colette Kress assure l'intérim."
+    ],
+    "why": "Nvidia fournit l'essentiel des puces sur lesquelles tournent les modèles d'IA, et finance une partie de l'écosystème. L'incertitude sur sa direction pèse sur toute la chaîne, des laboratoires aux plateformes de modèles ouverts.",
+    "sources": [
+     "CNBC (web)"
+    ],
+    "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+   }
+  ],
+  "models": [
+   {
+    "name": "Gemini 4 Hydrogen",
+    "maker": "Google",
+    "date": "12 nov.",
+    "access": "Appli Gemini, Google Search, API et AI Studio. Modèle rapide et peu cher, pensé pour le code et les agents.",
+    "price": "1,50 $ / 7,50 $ par million de jetons"
+   },
+   {
+    "name": "Granite 4.1 LLMON (aperçu)",
+    "maker": "IBM",
+    "date": "13 nov.",
+    "access": "Poids sur Hugging Face, versions 3B et 8B expérimentales, entraînées à séparer instructions et données extérieures.",
+    "price": "Gratuit, à faire tourner soi-même"
+   },
+   {
+    "name": "Praxis-1",
+    "maker": "Runway",
+    "date": "11 nov.",
+    "access": "Poids ouverts sous licence Apache 2.0 sur GitHub et Hugging Face ; modèle pour robots.",
+    "price": "Gratuit, carte graphique puissante à prévoir"
+   },
+   {
+    "name": "H3-Image",
+    "maker": "MiniMax",
+    "date": "10 nov.",
+    "access": "Poids sur Hugging Face, génération et retouche d'images en 4K. La licence exclut l'usage aux États-Unis, dans l'UE, au Royaume-Uni et en Corée du Sud.",
+    "price": "Gratuit hors zones exclues"
+   },
+   {
+    "name": "Claude Fable 5.2",
+    "maker": "Anthropic",
+    "date": "9 nov.",
+    "access": "Abonnements Claude, Claude Code, API.",
+    "price": "8 $ / 40 $"
+   }
+  ],
+  "claudeTitle": "Outils",
+  "claude": [
+   {
+    "k": "Claude Code",
+    "t": "Faire relire ses plans par un « poisson rouge »",
+    "d": "Le module EGM, publié par des équipes de Google sous licence Apache 2.0, sépare deux rôles : un agent « éléphant » qui connaît tout le projet rédige la spécification, puis des agents « poissons rouges », sans mémoire de la conversation, la relisent pour repérer les hypothèses implicites. La commande /egm:egm-review compare aussi un document de conception au code réel. Ce n'est pas un produit officiellement soutenu par Google.",
+    "cmd": "claude plugin marketplace add google/elephant-goldfish-model\nclaude plugin install egm@egm",
+    "cmdLabel": "Terminal"
+   },
+   {
+    "k": "ElevenLabs",
+    "t": "Scribe v3 : transcription en direct",
+    "d": "La nouvelle génération de modèles de reconnaissance vocale d'ElevenLabs transcrit en direct et peut être ajustée sur les données d'une entreprise, pour mieux reconnaître son vocabulaire. Elle accompagne un outil qui automatise des tâches à partir des transcriptions."
+   }
+  ],
+  "repos": [
+   {
+    "name": "sherlock-project/sherlock",
+    "stars": "112 k",
+    "week": "+12 401 en une semaine",
+    "lang": "Python",
+    "what": "Cherche un nom d'utilisateur sur des centaines de réseaux sociaux et sites, et liste les comptes qui le portent.",
+    "why": "Utile pour faire l'inventaire de sa propre présence en ligne : retrouver de vieux comptes oubliés sous son pseudo, les fermer ou les sécuriser. À utiliser sur ses propres identifiants.",
+    "cmd": "pipx install sherlock-project"
+   },
+   {
+    "name": "milind-soni/OpenMausBot",
+    "stars": "22,9 k",
+    "week": "+6 413 en une semaine",
+    "lang": "TypeScript",
+    "what": "Une application de bureau où chaque contact est un agent (Claude ou Codex installés sur ta machine), avec sa personnalité, son modèle et ses applications connectées. On valide les actions importantes.",
+    "why": "Une alternative open source et locale aux assistants d'équipe des grands laboratoires, avec tes propres abonnements. Projet indépendant, sans lien avec xAI, Meta ou OpenAI ; installeurs pour macOS, Windows et Ubuntu sur la page des versions."
+   },
+   {
+    "name": "anthropics/claude-quickstarts",
+    "stars": "21,0 k",
+    "week": "+1 794 en une semaine",
+    "lang": "Python",
+    "what": "Des projets de départ officiels d'Anthropic pour construire avec l'API Claude : agent de support client, analyste de données financières, contrôle d'un navigateur ou d'un ordinateur, agent de code autonome.",
+    "why": "Une base solide pour construire un vrai outil plutôt que de partir de zéro. Il faut une clé d'API Claude, donc un usage payant."
+   }
+  ],
+  "briefs": [
+   [
+    "Anthropic",
+    "Le prix de l'introduction en Bourse doit être fixé le 18 novembre, pour une cotation au Nasdaq le 19 sous le symbole ANT (CNBC)."
+   ],
+   [
+    "Lutnick",
+    "Le secrétaire américain au Commerce témoignera le 10 décembre devant le Sénat sur Megaspeed, la société soupçonnée d'avoir fait passer des puces Nvidia en Chine (CNBC)."
+   ],
+   [
+    "Création",
+    "Une étude citée par CNET montre que les flux de travail où l'humain se contente d'approuver les choix de l'IA donnent des textes de moindre qualité, sans gain de temps."
+   ],
+   [
+    "Investissement",
+    "Le fonds Norwest boucle 4 Md$, son plus gros fonds, avec l'IA comme priorité (TechCrunch)."
+   ],
+   [
+    "Divorce",
+    "Dans le FT, Susie Alegre alerte sur des chatbots « flatteurs » qui confortent l'utilisateur et rendent les séparations plus conflictuelles."
+   ]
+  ],
+  "sources": [
+   [
+    "TechCrunch",
+    "web, 12-13 nov.",
+    "ElevenAI et Scribe v3 ; fonds Norwest"
+   ],
+   [
+    "Runway",
+    "web, 11 nov.",
+    "Praxis-1 : taille, licence, résultats, matériel"
+   ],
+   [
+    "CNBC",
+    "web, 14 nov.",
+    "Lettre des actionnaires de Nvidia, pétition, auditions"
+   ],
+   [
+    "The Neuron",
+    "web, 13 nov.",
+    "Sélection du jour : Gemini 4 Hydrogen, Granite, étude CNET, Norwest"
+   ],
+   [
+    "GitHub",
+    "web, 15 nov.",
+    "Dépôts en vogue de la semaine, README et commandes"
+   ],
+   [
+    "CryptoBriefing",
+    "web, 10 nov.",
+    "MiniMax H3-Image sur Hugging Face et sa licence"
+   ],
+   [
+    "Changelog Claude Code",
+    "web, 15 nov.",
+    "Pas de nouvelle version depuis la 2.1.325"
+   ]
+  ]
+ }
+}
