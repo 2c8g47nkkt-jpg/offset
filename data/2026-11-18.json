@@ -1,0 +1,469 @@
+{
+  "date": "2026-11-18",
+  "label": "Mercredi 18 novembre 2026",
+  "period": "17 au 18 novembre",
+  "sourcesCount": 2,
+  "countLabel": "2 newsletters + 13 sources web",
+  "hero": {
+    "img": "img/2026-11-18/nvidia_siege.jpg",
+    "alt": "Le logo Nvidia sur la façade du siège de l'entreprise, derrière des feuillages",
+    "credit": "Getty Images via CNBC",
+    "eyebrow": "À la une",
+    "title": "Sans Jensen Huang, Nvidia pulvérise les attentes, mais le doute reste",
+    "lede": "Premier trimestre publié sans son fondateur, et nouveau record : Nvidia a réalisé 115,8 Md$ de chiffre d'affaires sur le trimestre clos le 25 octobre, +103 % sur un an, contre environ 109 Md$ attendus (FactSet, cité par CBS News). Le bénéfice net atteint 65,3 Md$. Pour le trimestre en cours, le groupe vise 130 Md$, sans aucune vente de puces de centres de données à la Chine. L'action a gagné près de 4 % après la clôture. Mais le scandale qui a emporté Huang n'est pas refermé : il doit rencontrer des élus le 1er décembre, et le conseil exclut toujours son retour."
+  },
+  "brief": [
+    ["Nvidia", "Chiffre d'affaires record de 115,8 Md$ (+103 %) ; la PDG par intérim Colette Kress assure que les clients restent, le conseil refuse le retour de Huang."],
+    ["Anthropic", "Le prix de l'introduction en Bourse doit être fixé ce mercredi, pour une première cotation jeudi sur le Nasdaq, fourchette de 70 à 78 $ par action."],
+    ["Shenzhen", "Le sommet de l'APEC s'ouvre ; Xi, Trump et Putin tiennent jeudi leur premier sommet à trois, que le FT juge surtout symbolique."],
+    ["Taux", "Après des ventes au détail solides, les marchés voient à près de 96 % une hausse des taux de la Fed en décembre ; l'euro passe sous 1,10 $."],
+    ["Migrations", "L'immigration permanente vers les pays de l'OCDE recule pour la deuxième année (−1,6 % en 2025), mais reste au-dessus de son niveau de 2019."]
+  ],
+  "figures": [
+    {"v": "115,8 Md$", "l": "chiffre d'affaires trimestriel de Nvidia, +103 % sur un an (Nvidia)", "dir": "up"},
+    {"v": "130 Md$", "l": "chiffre d'affaires visé par Nvidia au trimestre suivant, sans la Chine (Nvidia)", "dir": "up"},
+    {"v": "−1,6 %", "l": "baisse de l'immigration permanente vers l'OCDE en 2025, à 6,1 millions de personnes (OCDE)", "dir": "down"},
+    {"v": "−1,6 %", "l": "recul du Dow Jones mardi, sur fond de doutes sur les dépenses d'IA (WSJ)", "dir": "down"}
+  ],
+  "themes": [
+    {
+      "title": "Nvidia : des chiffres records, une confiance à reconstruire",
+      "stories": [
+        {
+          "img": "img/2026-11-18/nvidia_logo.jpg",
+          "alt": "Un smartphone affichant le logo Nvidia devant des courbes boursières rouges",
+          "credit": "Getty Images via CBS News",
+          "eyebrow": "Résultats",
+          "title": "La demande n'est pas partie avec Huang",
+          "text": [
+            "Les centres de données ont rapporté 107,6 Md$ au trimestre, +110 % sur un an. La marge brute atteint 74,8 %, et Nvidia a rendu 28,1 Md$ à ses actionnaires en rachats d'actions et dividendes. Sa nouvelle génération de puces, Vera Rubin, est déjà livrée chez Microsoft, Google, Oracle ou CoreWeave.",
+            "Colette Kress, directrice financière devenue PDG par intérim, a voulu rassurer : selon elle, la nouvelle plateforme a pris « un départ explosif ». Après la clôture, l'action a gagné près de 4 %, à 161,57 $ (CBS News)."
+          ],
+          "why": "Ces résultats montrent que la demande d'infrastructures d'IA reste très forte, même au moment où les marchés doutent de sa rentabilité. Mais ils ne règlent ni la question du dirigeant, ni celle de la Chine : la prévision de 130 Md$ exclut tout revenu chinois de centres de données. Mercredi matin, les Bourses asiatiques ont d'ailleurs reculé malgré ces chiffres, le scandale pesant davantage (AFP).",
+          "rep": 1,
+          "sources": ["The Next Big Sh*t", "Nvidia (web)", "CBS News (web)", "AFP (web)"],
+          "more": [
+            "<b>Le bénéfice.</b> 65,3 Md$ de bénéfice net, +105 % sur un an (CBS News).",
+            "<b>La gouvernance.</b> Le président du conseil, Harvey Jones, exclut de réintégrer Huang ; la recherche d'un PDG porte sur des candidats internes et externes. Le conseil a créé un comité chargé du respect des contrôles américains à l'exportation.",
+            "<b>La suite.</b> Jensen Huang a accepté de rencontrer des élus américains le 1er décembre sur les puces et la sécurité nationale (AFP)."
+          ],
+          "prog": "Gouvernance d'entreprise, théorie de l'agence, marchés financiers"
+        },
+        {
+          "eyebrow": "Sécurité",
+          "title": "L'espionnage humain, nouveau risque n°1 de la tech",
+          "text": [
+            "Pour The Next Big Sh*t, l'affaire Huang rappelle que la menace ne passe pas seulement par les cyberattaques : relations personnelles, faux amis ou sabotage peuvent coûter bien plus cher. La newsletter estime que le scandale a fait perdre environ 800 Md$ de capitalisation à Nvidia.",
+            "Les laboratoires d'IA recrutent donc des spécialistes du contre-espionnage. OpenAI a fait entrer à son conseil un ancien directeur de la NSA ; Anthropic a embauché l'ancien numéro 2 de la CIA et l'ancien responsable cyber de la NSA. Les salaires vont de 230 000 à 500 000 $ par an chez OpenAI, hors actions, selon la newsletter."
+          ],
+          "why": "Les modèles d'IA et les puces sont désormais considérés comme des actifs stratégiques par Washington comme par Pékin. La sécurité d'une entreprise dépend donc aussi de la vie privée de ses dirigeants, ce qui rapproche ces groupes du fonctionnement des industries de défense.",
+          "rep": 1,
+          "sources": ["The Next Big Sh*t"],
+          "prog": "Économie de la connaissance, rivalité sino-américaine"
+        }
+      ]
+    },
+    {
+      "title": "Marchés : la ruée vers l'IA face au retour des taux",
+      "stories": [
+        {
+          "eyebrow": "Introduction en Bourse",
+          "title": "Anthropic fixe son prix aujourd'hui, cote demain",
+          "text": [
+            "Le créateur de Claude doit fixer ce mercredi le prix de son introduction sur le Nasdaq, sous le symbole ANT, pour une première cotation jeudi. La fourchette va de 70 à 78 $ pour 825 millions d'actions. Au haut de la fourchette, la valorisation atteindrait environ 1 400 Md$ sur une base entièrement diluée (FT), environ 1 020 Md$ selon le calcul de Reuters.",
+            "S'y ajoute un placement privé de 26 Md$ au prix d'introduction, dont 10 Md$ de Google et 10 Md$ de Nvidia. Selon Semafor, Anthropic aurait relevé son prix cible malgré la faiblesse des valeurs technologiques."
+          ],
+          "why": "The Next Big Sh*t souligne que seule une petite part du capital, environ 6 %, serait mise sur le marché, contre 10 à 20 % d'habitude : une offre rare face à une forte demande peut faire bondir le cours le premier jour. Amazon et Google, qui ont investi 51 Md$ depuis 2023, pourraient détenir jusqu'à 411 Md$ de participations dans l'hypothèse haute, selon la newsletter.",
+          "rep": 1,
+          "sources": ["The Next Big Sh*t", "INDmoney (web)", "The Neuron (web)"],
+          "more": [
+            "<b>Une valorisation mouvante.</b> On évoquait 2 000 Md$ en septembre, puis environ 1 100 Md$ après le recul des marchés (The Next Big Sh*t).",
+            "<b>Des millionnaires.</b> La newsletter estime que l'opération pourrait créer environ 4 250 millionnaires, après les plus de 4 400 attribués à SpaceX."
+          ],
+          "prog": "Marché primaire, financement des entreprises, valorisation"
+        },
+        {
+          "img": "img/2026-11-18/euro_dollar.jpg",
+          "alt": "Illustration : une pièce d'un euro et une pièce d'un dollar devant des monuments européens et américains",
+          "credit": "Via FXStreet",
+          "eyebrow": "Politique monétaire",
+          "title": "La Fed vers une hausse en décembre, l'euro à son plus bas depuis 19 mois",
+          "text": [
+            "Les ventes au détail américaines ont progressé de 0,2 % en octobre, et de 0,6 % pour le « groupe de contrôle » qui sert au calcul du PIB. Alberto Musalem, président de la Fed de Saint-Louis, estime que plusieurs hausses de taux pourraient être nécessaires contre l'inflation.",
+            "Résultat : les marchés estiment à 95,7 % la probabilité d'une hausse d'un quart de point en décembre (CME FedWatch). L'euro est passé sous 1,10 $, au plus bas depuis 19 mois, alors que les économistes interrogés par Reuters attendent une dernière hausse de la BCE, à 2,75 %, le 17 décembre."
+          ],
+          "why": "Quand la Fed monte ses taux plus vite que la BCE, les placements en dollars rapportent davantage : les capitaux affluent vers les États-Unis et le dollar s'apprécie. L'euro faible renchérit les importations européennes, dont le pétrole, mais aide les exportateurs. L'incertitude budgétaire française pèse aussi sur la monnaie unique.",
+          "rep": 0,
+          "sources": ["FXStreet (web)"],
+          "prog": "Politique monétaire, taux de change, parité des taux d'intérêt"
+        },
+        {
+          "eyebrow": "Wall Street",
+          "title": "Les doutes sur l'IA font reculer New York",
+          "text": [
+            "Mardi, avant les résultats de Nvidia, le Dow Jones a perdu 1,6 % et le S&P 500 1,0 %, sur fond d'inquiétudes autour des dépenses d'IA (WSJ). L'ancien secrétaire au Trésor Hank Paulson a averti que les marchés sous-estimaient le risque d'un retournement des investissements dans l'IA (Semafor).",
+            "Mercredi matin, Tokyo cédait 0,3 % et Hong Kong 0,5 % ; le Brent reculait à 92,72 $ le baril (AFP)."
+          ],
+          "why": "Les investisseurs se demandent si les centaines de milliards dépensés dans les centres de données seront rentables à temps. La hausse attendue des taux aggrave le doute : plus les taux montent, plus la valeur actuelle de profits lointains diminue.",
+          "rep": 0,
+          "sources": ["The Neuron (web)", "AFP (web)"],
+          "prog": "Bulles financières, actualisation, cycles"
+        }
+      ]
+    },
+    {
+      "title": "Géopolitique : Pékin reçoit, Pékin verrouille",
+      "stories": [
+        {
+          "img": "img/2026-11-18/trois.jpg",
+          "alt": "Montage des portraits de Vladimir Putin, Donald Trump et Xi Jinping",
+          "credit": "Via Business Today",
+          "eyebrow": "APEC",
+          "title": "À Shenzhen, un sommet à trois qui n'est pas un nouveau Yalta",
+          "text": [
+            "La Chine accueille mercredi et jeudi le sommet de l'APEC à Shenzhen. Jeudi 19 novembre, Xi Jinping, Donald Trump et Vladimir Putin tiendront leur premier sommet à trois. Au programme annoncé : la dénucléarisation et le Moyen-Orient ; l'Ukraine n'y figure pas (China Global South).",
+            "Pour Gideon Rachman, dans le FT, il ne faut pas en attendre grand-chose : ce sera surtout une photo qui permet à la Russie de se montrer à égalité avec les deux vraies superpuissances. Contrairement à Yalta en 1945, « les “trois grands” d'aujourd'hui semblent bien moins capables d'imposer leur volonté au monde »."
+          ],
+          "why": "Rachman rappelle les limites de chacun : les États-Unis n'ont pas vaincu l'Iran, les forces russes restent bloquées dans l'est de l'Ukraine, et Xi n'a pas trouvé comment soumettre Taïwan. Pour Pékin, l'enjeu est aussi d'afficher sa capacité à organiser le multilatéralisme à sa façon : l'agenda met en avant l'énergie propre, les chaînes d'approvisionnement, l'IA et le libre-échange.",
+          "rep": 1,
+          "sources": ["FT Opinion", "China Global South (web)"],
+          "more": [
+            "<b>Yalta (février 1945).</b> Churchill, Roosevelt et Staline y ont dessiné l'ordre d'après-guerre en Europe : c'est la référence implicite de tout sommet à trois.",
+            "<b>Le Japon présent.</b> La Première ministre japonaise Sanae Takaichi participe au sommet, dans un climat tendu avec Pékin."
+          ],
+          "prog": "Relations internationales, multilatéralisme, puissance"
+        },
+        {
+          "img": "img/2026-11-18/abb.jpg",
+          "alt": "Une gamme de robots industriels ABB disposés en arc de cercle",
+          "credit": "ABB via Robotics & Automation News",
+          "eyebrow": "Robotique",
+          "title": "La Chine bloque le rachat des robots d'ABB par SoftBank",
+          "text": [
+            "Le bureau chinois de contrôle des investissements étrangers a interdit la partie chinoise du rachat de la division robotique d'ABB par SoftBank, une opération d'environ 5,4 Md$. Pékin n'a pas expliqué sa décision ; la Chine pèse environ 30 % de l'activité robotique d'ABB, selon la presse spécialisée.",
+            "Dans une lettre au FT, un investisseur berlinois y voit une leçon : la Chine traite l'IA physique comme une priorité de sécurité nationale, et l'usine ABB de Shanghai lui donne un levier sur toute la transaction."
+          ],
+          "why": "C'est le deuxième grand rachat bloqué par Pékin cette année, après l'acquisition de Manus par Meta (SCMP). Le lieu de production devient un critère stratégique : il décide aussi de qui pourra racheter une entreprise plus tard. L'Europe, elle, dispose de peu d'outils comparables.",
+          "rep": 1,
+          "sources": ["FT Opinion", "SCMP (web)"],
+          "prog": "Mondialisation, investissements directs étrangers, souveraineté"
+        }
+      ]
+    },
+    {
+      "title": "Sociétés : migrations, climat, électeurs",
+      "stories": [
+        {
+          "eyebrow": "Démographie",
+          "title": "Moins de migrants vers les pays riches, plus de pression sur les budgets",
+          "text": [
+            "Selon les Perspectives des migrations de l'OCDE, l'immigration permanente a reculé de 1,6 % en 2025, à 6,1 millions de personnes, deuxième baisse d'affilée. Elle reste toutefois environ 12 % au-dessus de 2019. Les arrivées humanitaires chutent de 26 % et celles d'étudiants de 16 %, mais l'immigration de travail progresse de 13 %.",
+            "Les États-Unis restent la première destination malgré une baisse de 14 %. Le Canada et le Royaume-Uni reculent nettement, l'Europe du Sud progresse. Les immigrés représentent 16 % de l'emploi dans l'OCDE."
+          ],
+          "why": "Le « Big Read » du FT relie ce ralentissement au vieillissement : moins d'arrivées d'actifs, c'est moins de cotisants pour financer retraites et santé dans des pays où la population vieillit vite. Les gouvernements durcissent pourtant leurs règles, notamment en matière de naturalisation.",
+          "rep": 1,
+          "sources": ["FT Opinion", "OCDE (web)"],
+          "prog": "Démographie, marché du travail, finances publiques"
+        },
+        {
+          "eyebrow": "Climat",
+          "title": "La première COP de l'ère du dépassement de 1,5 °C",
+          "text": [
+            "La COP31 se tient à Antalya, avec une présidence partagée entre la Turquie, pays hôte, et l'Australie, qui conduit les négociations. Le PNUE juge désormais l'objectif de 1,5 °C hors de portée et estime qu'avec les politiques actuelles, le monde se dirige vers +2,6 °C d'ici la fin du siècle.",
+            "Le FT s'interroge : que fait le mouvement climatique quand l'objectif symbolique est déjà dépassé ? Les présidences proposent un objectif de 35 % d'électrification de la demande finale d'énergie d'ici 2035."
+          ],
+          "why": "Le « dépassement » (overshoot) suppose de redescendre sous 1,5 °C plus tard grâce à des émissions négatives. Ses critiques craignent qu'il serve à repousser les efforts d'aujourd'hui sur des technologies de captage encore incertaines.",
+          "rep": 1,
+          "sources": ["FT Opinion", "PNUE (web)"],
+          "prog": "Biens communs, externalités, négociations climatiques"
+        },
+        {
+          "eyebrow": "États-Unis",
+          "title": "Les seniors ont aussi porté la vague démocrate",
+          "text": [
+            "Patti Waldmeir écrit dans le FT que les jeunes et les électeurs non blancs ne sont pas les seuls à avoir basculé vers les démocrates aux élections de mi-mandat : ce sont surtout les électeurs âgés qui ont alimenté la vague.",
+            "Selon une enquête NORC citée par l'AARP, les plus de 50 ans ont voté démocrate à 50 % contre 47 % pour la Chambre des représentants."
+          ],
+          "why": "Les plus âgés votent davantage que les jeunes : un léger déplacement de leurs voix pèse lourd. Le coût de la vie et la santé ont compté dans ce vote.",
+          "rep": 1,
+          "sources": ["FT Opinion", "AARP (web)"],
+          "prog": "Vote et comportements politiques"
+        }
+      ]
+    },
+    {
+      "title": "Consommation et numérique",
+      "stories": [
+        {
+          "img": "img/2026-11-18/tiktok.jpg",
+          "alt": "Trois écrans de téléphone montrant le direct d'achat, une vidéo et une boutique sur TikTok Shop",
+          "credit": "TikTok via Retail Dive",
+          "eyebrow": "E-commerce",
+          "title": "TikTok s'attaque à Amazon Prime",
+          "text": [
+            "TikTok teste aux États-Unis TikTok Shop Plus, un abonnement à 9,99 $ par mois après 30 jours gratuits : livraison gratuite sur certains produits, 10 % de réduction supplémentaire sur une sélection et trois coupons par mois. Le test touche environ un million d'utilisateurs (Modern Retail).",
+            "L'offre est moins chère qu'Amazon Prime (14,99 $) et Walmart+ (12,95 $). TikTok Shop a réalisé 64,3 Md$ de ventes mondiales en 2025, et déjà 50,3 Md$ au premier semestre 2026 (+92 %), selon The Next Big Sh*t."
+          ],
+          "why": "Pour la newsletter, TikTok veut passer de l'achat « émotionnel », déclenché par une vidéo, à l'achat « rationnel » et répété, terrain d'Amazon. L'abonnement fidélise le client : c'est la logique des coûts de changement, qui enferme le consommateur dans un écosystème.",
+          "rep": 1,
+          "sources": ["The Next Big Sh*t", "Modern Retail (web)"],
+          "prog": "Concurrence, plateformes, économie numérique"
+        },
+        {
+          "eyebrow": "Réseaux sociaux",
+          "title": "LinkedIn, le réseau où l'IA écrit le plus",
+          "text": [
+            "Selon une étude de Pangram, une entreprise de détection, environ 41 % des longues publications sur LinkedIn sont entièrement écrites par IA. Suivent Medium (31 %), X, Reddit (13 %) et Substack (10 %), pour les textes longs. L'analyse porte sur environ un million de publications, d'avril à juin 2026 (The Decoder).",
+            "The Next Big Sh*t y voit une opportunité pour les réseaux qui limitent l'IA et favorisent les vrais échanges entre humains."
+          ],
+          "why": "La méthode n'est pas entièrement publique et vient d'un vendeur de détecteurs : à prendre avec prudence. Mais le phénomène pose une question économique : si le contenu devient abondant et peu coûteux, la confiance et l'authenticité deviennent la ressource rare.",
+          "rep": 1,
+          "sources": ["The Next Big Sh*t", "The Decoder (web)"],
+          "prog": "Économie de l'information, asymétries d'information"
+        },
+        {
+          "eyebrow": "Luxe",
+          "title": "Les croisières de luxe profitent de la hausse des fortunes",
+          "text": [
+            "Le secteur des croisières a transporté 37 millions de passagers en 2024 (+7,5 %). Le nombre de navires de luxe a bondi de 71 % entre 2020 et 2025, et devrait encore croître de 26 % d'ici 2029. Une suite de 820 m² coûtera 25 000 $ la nuit sur le futur Seven Seas Prestige, selon The Next Big Sh*t.",
+            "Hôtels, croisières, voyages et gastronomie de luxe ont pesé 260 Md€ en 2025 (+3 %), quand les achats de biens personnels de luxe reculaient de 2 %."
+          ],
+          "why": "Le luxe se déplace des objets vers les expériences, porté par la hausse du nombre de millionnaires. Cela illustre aussi la concentration des patrimoines : les introductions en Bourse de la tech créent d'un coup des milliers de nouvelles fortunes.",
+          "rep": 1,
+          "sources": ["The Next Big Sh*t"],
+          "prog": "Inégalités de patrimoine, consommation ostentatoire"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    ["Jeux d'argent", "Les jeux illégaux coûteraient plus de 20 Md€ de recettes fiscales par an aux États européens ; 80 millions d'Européens y seraient exposés, selon Stéphane Pallez, PDG de FDJ United (The Next Big Sh*t)."],
+    ["Meta", "Meta teste Takes, une appli où l'on mise des points, sans argent réel, sur des prédictions pour bâtir un score de « crédibilité » (The Next Big Sh*t)."],
+    ["Pétrole", "Le baril de WTI recule à 85,18 $ et le Brent à 92,72 $ mercredi matin (AFP)."],
+    ["Asie", "Le Kospi perd 0,2 % et Shanghai 0,3 % ; Kioxia et Tokyo Electron reculent de plus de 3 % malgré les résultats de Nvidia (AFP)."],
+    ["Travail", "Sarah O'Connor (FT) s'inquiète de voir des IA comme Claude écouter les réunions et lire les messageries : « plutôt que de les rendre lisibles pour nous », nous nous rendons lisibles pour elles."],
+    ["Chine et IA", "Une tribune du FT estime que l'Occident comprend mal la sécurité de l'IA en Chine : la censure y joue un rôle central, mais la sécurité de l'État n'est pas la seule priorité."]
+  ],
+  "good": "OpenAI met gratuitement à la disposition d'organisations agréées un outil qui détecte les images pédocriminelles, y compris celles générées par IA (TechCrunch, via The Neuron).",
+  "map": {
+    "start": "huang",
+    "nodes": [
+      {"id": "huang", "x": 200, "y": 34, "l": ["Départ de", "Jensen Huang"], "t": "Le choc", "d": "Le fondateur quitte Nvidia, sur fond de soupçons d'espionnage chinois."},
+      {"id": "resultats", "x": 100, "y": 122, "l": ["Résultats", "records"], "t": "Les chiffres", "d": "115,8 Md$ de chiffre d'affaires, +103 % sur un an."},
+      {"id": "gouv", "x": 300, "y": 122, "l": ["Doute sur", "la gouvernance"], "t": "La direction", "d": "Intérim de Colette Kress ; le conseil refuse le retour de Huang."},
+      {"id": "export", "x": 100, "y": 222, "l": ["Contrôles des", "exportations"], "t": "Washington", "d": "Prévisions sans la Chine ; comité de conformité créé par le conseil."},
+      {"id": "bourse", "x": 300, "y": 222, "l": ["Wall Street", "hésite"], "t": "Les marchés", "d": "Dow Jones −1,6 % mardi ; Asie en baisse mercredi."},
+      {"id": "shenzhen", "x": 100, "y": 322, "l": ["Sommet de", "Shenzhen"], "t": "La géopolitique", "d": "Xi, Trump et Putin réunis jeudi ; Pékin verrouille ses actifs stratégiques."},
+      {"id": "fed", "x": 300, "y": 322, "l": ["Fed : hausse", "attendue"], "t": "Les taux", "d": "95,7 % de probabilité d'une hausse en décembre ; euro sous 1,10 $."},
+      {"id": "ipo", "x": 200, "y": 414, "l": ["Cotation", "d'Anthropic"], "t": "Le test", "d": "Prix fixé mercredi, première cotation jeudi sur le Nasdaq."}
+    ],
+    "edges": [["huang", "resultats"], ["huang", "gouv"], ["gouv", "export"], ["resultats", "bourse"], ["gouv", "bourse"], ["export", "shenzhen"], ["fed", "bourse"], ["bourse", "ipo"], ["fed", "ipo"]]
+  },
+  "dossiers": [
+    {
+      "eyebrow": "Marchés financiers",
+      "title": "Comment fixe-t-on le prix d'une introduction en Bourse ?",
+      "q": "Anthropic fixe ce mercredi le prix de ses actions, entre 70 et 78 $. Pourquoi une fourchette, pourquoi si peu d'actions mises en vente, et pourquoi les cours s'envolent-ils souvent le premier jour ?",
+      "steps": [
+        ["Le principe", "Une action vaut ses profits futurs actualisés.", "Pour une entreprise jeune et en forte croissance, presque toute la valeur dépend de profits lointains, donc du taux d'actualisation."],
+        ["La tournée", "Les banques sondent la demande.", "Pendant le « roadshow », elles recueillent les intentions d'achat des investisseurs institutionnels et ajustent la fourchette."],
+        ["Le prix", "Un prix fixé un peu bas.", "Les banques préfèrent une décote : elle garantit le succès de l'opération et récompense les investisseurs qui ont révélé leur demande."],
+        ["Le flottant", "Peu d'actions sur le marché.", "Selon The Next Big Sh*t, Anthropic ne mettrait en vente qu'environ 6 % de son capital, contre 10 à 20 % d'habitude : une offre rare."],
+        ["Le premier jour", "Le marché tranche.", "Si la demande dépasse l'offre, le cours bondit. Mais la hausse attendue des taux de la Fed réduit la valeur actuelle des profits futurs."]
+      ],
+      "split": [
+        ["Une décote rationnelle", "Elle compense le risque pris par les premiers acheteurs, qui en savent moins que l'entreprise, et assure un marché secondaire liquide."],
+        ["Un manque à gagner", "Chaque dollar de hausse le premier jour est un dollar que l'entreprise n'a pas levé : la décote transfère de la valeur vers les investisseurs choisis par les banques."]
+      ],
+      "calc": true,
+      "refs": [
+        "<b>Kevin Rock (1986).</b> La « malédiction du vainqueur » : les investisseurs mal informés obtiennent surtout les mauvaises introductions, d'où une décote nécessaire pour les attirer.",
+        "<b>Jay Ritter.</b> Mesure systématique de la sous-évaluation des introductions en Bourse, en moyenne positive le premier jour.",
+        "<b>Eugene Fama.</b> L'hypothèse d'efficience : les prix intègrent toute l'information disponible, ce que les envolées du premier jour remettent en question.",
+        "<b>John Maynard Keynes (1936).</b> Le « concours de beauté » : on achète ce que les autres vont acheter."
+      ],
+      "accroche": "Le 18 novembre 2026, Anthropic fixe le prix de la plus grosse introduction en Bourse de l'histoire de l'IA, alors même que Wall Street doute de la rentabilité du secteur et que la Fed s'apprête à relever ses taux.",
+      "sujets": ["Les marchés financiers sont-ils efficients ?", "La Bourse finance-t-elle l'innovation ?", "Faut-il craindre les bulles financières ?"]
+    },
+    {
+      "eyebrow": "Démographie et finances publiques",
+      "title": "L'immigration peut-elle compenser le vieillissement ?",
+      "q": "L'OCDE constate un recul des migrations vers les pays riches, alors que leur population vieillit vite. L'immigration est-elle une réponse au financement des retraites et de la santé ?",
+      "steps": [
+        ["Le constat", "Des populations qui vieillissent.", "Moins d'actifs pour plus de retraités : le ratio de dépendance se dégrade et pèse sur les comptes sociaux."],
+        ["L'apport", "Des actifs en plus.", "Les immigrés représentent 16 % de l'emploi dans l'OCDE ; l'immigration de travail a progressé de 13 % en 2025."],
+        ["Le retournement", "Moins d'arrivées.", "Immigration permanente −1,6 % en 2025 ; arrivées humanitaires −26 %, étudiants −16 %."],
+        ["Le choix politique", "Des règles plus strictes.", "Plusieurs pays durcissent leurs conditions, notamment de naturalisation, malgré leurs besoins de main-d'œuvre."]
+      ],
+      "split": [
+        ["Une réponse utile", "Les immigrés arrivent souvent en âge de travailler, cotisent et occupent des métiers en tension : ils améliorent le ratio actifs/retraités."],
+        ["Une réponse partielle", "Les immigrés vieillissent eux aussi ; l'effet dépend de leur taux d'emploi et de leur intégration, et ne remplace pas une hausse de la productivité ou de l'âge de départ."]
+      ],
+      "refs": [
+        "<b>Alfred Sauvy.</b> Le vieillissement démographique comme risque économique et social majeur.",
+        "<b>David Card (1990).</b> L'exode de Mariel vers Miami : un afflux massif d'immigrés n'a pas fait baisser durablement les salaires locaux.",
+        "<b>George Borjas.</b> Défend au contraire un effet négatif sur les salaires des travailleurs peu qualifiés.",
+        "<b>OCDE.</b> Perspectives des migrations internationales, publiées chaque année."
+      ],
+      "accroche": "En novembre 2026, l'OCDE constate une deuxième année de recul des migrations vers les pays riches, au moment même où leurs systèmes de retraite manquent de cotisants.",
+      "sujets": ["L'immigration est-elle une chance pour l'économie ?", "Le vieillissement de la population menace-t-il la croissance ?", "Faut-il réformer les systèmes de retraite ?"]
+    },
+    {
+      "eyebrow": "Géopolitique",
+      "title": "Un monde gouverné par trois puissances ?",
+      "q": "Xi Jinping, Donald Trump et Vladimir Putin se réunissent jeudi à Shenzhen. Assiste-t-on au retour d'un « concert » des grandes puissances, comme à Yalta en 1945 ?",
+      "steps": [
+        ["Le précédent", "Yalta, 1945.", "Trois vainqueurs organisent l'après-guerre et se partagent des zones d'influence en Europe."],
+        ["Le présent", "Trois puissances inégales.", "La Russie, économiquement bien plus faible, cherche surtout à paraître l'égale des États-Unis et de la Chine."],
+        ["Les limites", "Une puissance contrariée.", "Selon Rachman : l'Iran pour Washington, l'Ukraine pour Moscou, Taïwan pour Pékin."],
+        ["L'enjeu chinois", "Façonner le multilatéralisme.", "La Chine utilise l'APEC pour montrer qu'elle peut organiser les règles du jeu, tout en verrouillant ses actifs stratégiques."]
+      ],
+      "refs": [
+        "<b>Raymond Aron, Paix et guerre entre les nations (1962).</b> La puissance comme capacité d'imposer sa volonté aux autres.",
+        "<b>Henry Kissinger, L'Ordre du monde (2014).</b> L'équilibre des puissances comme condition de la stabilité.",
+        "<b>John Mearsheimer.</b> Le réalisme offensif : les grandes puissances cherchent à maximiser leur puissance relative.",
+        "<b>Joseph Nye.</b> Distinction entre puissance dure et puissance douce."
+      ],
+      "accroche": "Le 19 novembre 2026, à Shenzhen, les dirigeants des États-Unis, de la Chine et de la Russie tiennent leur premier sommet à trois, quatre-vingts ans après Yalta.",
+      "sujets": ["Le monde est-il devenu multipolaire ?", "La mondialisation est-elle compatible avec la rivalité des puissances ?", "Qui gouverne l'économie mondiale ?"]
+    }
+  ],
+  "flash": [
+    ["115,8 Md$", "Nvidia", "Chiffre d'affaires trimestriel, +103 % sur un an."],
+    ["65,3 Md$", "Bénéfice", "Bénéfice net trimestriel de Nvidia, +105 % (CBS News)."],
+    ["130 Md$", "Prévision", "Chiffre d'affaires visé par Nvidia au trimestre suivant, sans la Chine."],
+    ["70 à 78 $", "Anthropic", "Fourchette de prix de l'introduction, 825 millions d'actions."],
+    ["26 Md$", "Placement privé", "Souscrit par Google, Nvidia, AMD, Microsoft et d'autres."],
+    ["95,7 %", "Fed", "Probabilité d'une hausse des taux en décembre (CME FedWatch)."],
+    ["6,1 millions", "OCDE", "Immigrés permanents en 2025, −1,6 %."],
+    ["9,99 $", "TikTok Shop Plus", "Prix mensuel de l'abonnement testé aux États-Unis."],
+    ["41 %", "LinkedIn", "Part des longues publications entièrement écrites par IA (Pangram)."]
+  ],
+  "quiz": [
+    {"q": "Quel chiffre d'affaires trimestriel Nvidia a-t-il publié le 17 novembre ?", "o": ["57 Md$", "109 Md$", "115,8 Md$", "130 Md$"], "a": 2, "e": "115,8 Md$, +103 % sur un an ; 109 Md$ était l'attente des analystes et 130 Md$ la prévision suivante."},
+    {"q": "Pourquoi la prévision de Nvidia pour le trimestre suivant est-elle notable ?", "o": ["Elle est en baisse", "Elle exclut toute vente de puces de centres de données à la Chine", "Elle inclut le rachat de Hugging Face", "Elle est publiée par Jensen Huang"], "a": 1, "e": "Les 130 Md$ visés n'intègrent aucun revenu chinois de centres de données."},
+    {"q": "Sur quelle place Anthropic doit-elle être cotée ?", "o": ["NYSE", "Nasdaq", "Euronext", "Bourse de Hong Kong"], "a": 1, "e": "Sur le Nasdaq, sous le symbole ANT, avec une première cotation prévue jeudi 19 novembre."},
+    {"q": "Pourquoi une hausse des taux pèse-t-elle sur la valorisation d'une jeune entreprise d'IA ?", "o": ["Elle réduit son chiffre d'affaires", "Elle augmente le taux d'actualisation de profits lointains", "Elle interdit les introductions en Bourse", "Elle renchérit les puces"], "a": 1, "e": "Plus le taux d'actualisation monte, plus la valeur actuelle des profits futurs baisse, surtout s'ils sont lointains."},
+    {"q": "Quel sujet ne figure pas au programme annoncé du sommet à trois de Shenzhen ?", "o": ["La dénucléarisation", "Le Moyen-Orient", "L'Ukraine", "Aucun, tous y figurent"], "a": 2, "e": "Selon China Global South, l'Ukraine n'est pas à l'ordre du jour."},
+    {"q": "Quel rachat la Chine a-t-elle bloqué ?", "o": ["Celui d'ABB Robotics par SoftBank", "Celui de Hugging Face par Nvidia", "Celui de TikTok par Oracle", "Celui d'Arm par Nvidia"], "a": 0, "e": "Pékin a interdit la partie chinoise du rachat de la robotique d'ABB par SoftBank, environ 5,4 Md$."},
+    {"q": "Quelle catégorie d'immigration a progressé dans l'OCDE en 2025 ?", "o": ["Humanitaire", "Étudiante", "De travail", "Aucune"], "a": 2, "e": "L'immigration de travail a progressé de 13 %, quand l'humanitaire chutait de 26 % et l'étudiante de 16 %."},
+    {"q": "À quel service TikTok Shop Plus s'attaque-t-il directement ?", "o": ["Netflix", "Amazon Prime", "Spotify", "Uber One"], "a": 1, "e": "À 9,99 $ par mois, il est moins cher qu'Amazon Prime (14,99 $) et propose livraison gratuite et réductions."}
+  ],
+  "colle": {
+    "title": "Les grandes puissances peuvent-elles encore organiser l'ordre mondial ?",
+    "parts": [
+      ["Une tentation du « concert des puissances » qui renaît", ["Le précédent de Yalta (1945) et le sommet à trois de Shenzhen (novembre 2026)", "Des puissances qui assument leurs sphères d'influence et contournent les institutions multilatérales"]],
+      ["Mais une capacité d'imposer leur volonté de plus en plus limitée", ["Des échecs propres à chacun : Iran, Ukraine, Taïwan (Rachman, FT)", "Une interdépendance économique qui contraint : puces, robots, chaînes de valeur (rachat d'ABB bloqué, contrôles américains)"]],
+      ["Vers un ordre fragmenté plutôt qu'organisé", ["La rivalité technologique remplace le partage du monde : sécurité économique et contrôle des actifs stratégiques", "Des biens communs mondiaux (climat, COP31) qui exigent une coopération que les puissances ne parviennent plus à garantir"]]
+    ]
+  },
+  "matrix": {
+    "cols": ["FT Opinion", "The Next Big Sh*t", "Nvidia", "CBS News", "AFP", "INDmoney", "The Neuron", "FXStreet", "China Global South", "SCMP", "OCDE", "Modern Retail", "The Decoder"],
+    "rows": [
+      ["Nvidia après Huang", [0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0]],
+      ["Introduction d'Anthropic", [0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0]],
+      ["Doutes sur l'IA en Bourse", [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]],
+      ["Sommet de Shenzhen", [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]],
+      ["Chine et robotique", [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]],
+      ["Migrations", [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]],
+      ["Fed et euro", [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]],
+      ["TikTok Shop", [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]],
+      ["IA sur les réseaux", [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]]
+    ]
+  },
+  "sources": [
+    ["FT Opinion", "newsletter, mar. 17", "Sommet de Shenzhen (Rachman), IA et travail, vote des seniors, COP31, migrations, rachat d'ABB"],
+    ["The Next Big Sh*t", "newsletter, mar. 17", "Espionnage et contre-espionnage, IA sur les réseaux, Anthropic, TikTok Shop Plus, croisières de luxe, jeux illégaux"],
+    ["Nvidia", "web, 17 nov.", "Communiqué des résultats du troisième trimestre de l'exercice 2027"],
+    ["CBS News", "web, 17 nov.", "Bénéfice, réaction de l'action, gouvernance et recherche d'un PDG"],
+    ["AFP", "web, 18 nov.", "Bourses asiatiques, pétrole, audition de Huang le 1er décembre"],
+    ["INDmoney", "web, nov.", "Conditions de l'introduction d'Anthropic : fourchette, actions, placement privé"],
+    ["The Neuron", "web, 17-18 nov.", "Recul de Wall Street (WSJ), avertissement de Paulson, prix cible d'Anthropic (Semafor), outil d'OpenAI contre les images pédocriminelles"],
+    ["FXStreet", "web, 17-18 nov.", "Ventes au détail américaines, probabilité de hausse de la Fed, euro, BCE"],
+    ["China Global South", "web, 16 nov.", "Programme de l'APEC et du sommet à trois"],
+    ["SCMP", "web, nov.", "Blocage du rachat d'ABB Robotics par SoftBank"],
+    ["OCDE", "web, 12 nov.", "Perspectives des migrations internationales 2026"],
+    ["PNUE", "web, nov.", "Objectif de 1,5 °C hors de portée, trajectoire de +2,6 °C"],
+    ["AARP", "web, nov.", "Vote des plus de 50 ans aux élections de mi-mandat"],
+    ["Modern Retail", "web, nov.", "TikTok Shop Plus : prix, avantages, test"],
+    ["The Decoder", "web, nov.", "Étude Pangram sur les contenus générés par IA"]
+  ],
+  "ia": {
+    "toc": "OpenAI lance GPT-6.2 sous les critiques, Google garde vos conversations deux mois, et Microsoft casse les prix du code.",
+    "intro": "Modèles, outils et projets : ce qui change dans l'IA, et ce qui sert vraiment.",
+    "signalTitle": "Nouveaux modèles, vieilles questions",
+    "signal": [
+      {
+        "eyebrow": "OpenAI · modèles",
+        "title": "GPT-6.2 Astra et Sol : des records sur le papier, un accueil glacial",
+        "text": [
+          "OpenAI a lancé mardi deux modèles : Astra, pour les tâches complexes (gros changements de code, applications web, documents sur modèle d'entreprise), et Sol, moins cher, pour le travail courant et les agents. Les deux offrent un contexte de 1,05 million de jetons et sont disponibles dans ChatGPT Work et Codex pour les abonnés Plus, Pro, Enterprise et Edu, ainsi que par l'API.",
+          "Astra coûte 8 $ par million de jetons en entrée et 40 $ en sortie, 20 % de moins que GPT-6 Astra ; Sol reste à 2 $ et 10 $. Selon OpenAI, Astra bat son prédécesseur sur ses neuf tests de référence. Mais plusieurs utilisateurs avancés l'ont jugé décevant : Matt Shumer le dit « essentiellement inutilisable », Ethan Mollick « très inégal »."
+        ],
+        "why": "Les mesures indépendantes nuancent les annonces : sur l'indice de code d'Artificial Analysis, Astra stagne et Sol recule de 3 points. La fiche de sécurité montre aussi que les deux modèles signalent moins souvent un obstacle, comme un fichier manquant. Pour un usage quotidien, rien ne presse : Claude Fable 5.2 reste devant sur l'indice général d'Artificial Analysis.",
+        "sources": ["VentureBeat (web)", "The Neuron (web)"],
+        "url": "https://venturebeat.com/technology/essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users"
+      },
+      {
+        "img": "img/2026-11-18/ia_gemini.jpg",
+        "alt": "Une main tient un téléphone affichant Gemini devant un ordinateur portable au logo Gemini",
+        "credit": "Imen Ben Youssef / Hans Lucas via Gizmodo",
+        "eyebrow": "Google · vie privée",
+        "title": "Gemini : refuser l'entraînement sans perdre l'historique, mais des chats gardés deux mois",
+        "text": [
+          "Google a revu les réglages de confidentialité de Gemini : on peut désormais conserver son historique de conversations tout en refusant qu'il serve à entraîner les modèles. Jusqu'ici, les deux allaient ensemble.",
+          "Contrepartie : même historique désactivé, les conversations seront conservées « environ 2 mois », contre 72 heures auparavant, selon la page de confidentialité de Google citée par Gizmodo. Google invoque la réponse aux utilisateurs, le traitement des retours et la sécurité ; des relecteurs humains peuvent y avoir accès."
+        ],
+        "why": "OpenAI garde les conversations temporaires jusqu'à 30 jours, Anthropic les conversations Claude 30 jours par défaut. Avec deux mois, Google devient le plus long des trois. Le nouveau réglage vaut quand même la peine d'être activé si tu utilises Gemini : garder l'historique utile, sans fournir de données d'entraînement.",
+        "sources": ["Gizmodo (web)", "The Neuron (web)"],
+        "url": "https://gizmodo.com/google-to-keep-ai-chat-logs-for-two-months-even-with-gemini-history-turned-off-2000841271"
+      },
+      {
+        "eyebrow": "Microsoft · code",
+        "title": "MAI Code 2 : Microsoft veut payer moins cher qu'OpenAI et Anthropic",
+        "text": [
+          "Microsoft a présenté mardi, lors de sa conférence Ignite, MAI Code 2 et MAI Code 2 Flash, deux modèles de code maison déjà disponibles dans GitHub Copilot. Le premier vise le code de production, le débogage et les changements sur plusieurs fichiers ; le second les explications et corrections rapides.",
+          "Selon Microsoft, MAI Code 2 atteint 96 % des performances de Claude Opus 5.5 pour 5 % de son prix, et 98 % de celles de GPT-6.1 Sol pour 40 % de son prix, sur quatre tests de code. Ces prix sont affichés avec une remise promotionnelle de 50 %."
+        ],
+        "why": "Microsoft remplace progressivement les modèles d'OpenAI et d'Anthropic dans ses produits Copilot par ses propres modèles, pour réduire ses coûts. Les comparaisons viennent de Microsoft lui-même, avec un effort de raisonnement maximal : à vérifier sur ses propres tâches. Une arrivée sur OpenRouter et OpenCode est annoncée.",
+        "sources": ["Microsoft AI (web)", "The Neuron (web)"],
+        "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+      }
+    ],
+    "models": [
+      {"name": "GPT-6.2 Astra", "maker": "OpenAI", "date": "17 nov.", "access": "ChatGPT Work et Codex (Plus, Pro, Enterprise, Edu), API ; contexte de 1,05 million de jetons.", "price": "8 $ / 40 $ par million de jetons"},
+      {"name": "GPT-6.2 Sol", "maker": "OpenAI", "date": "17 nov.", "access": "ChatGPT Work et Codex (Plus, Pro, Enterprise, Edu), API.", "price": "2 $ / 10 $ par million de jetons"},
+      {"name": "MAI Code 2", "maker": "Microsoft", "date": "17 nov.", "access": "GitHub Copilot ; OpenRouter et OpenCode annoncés.", "price": "40 % du prix de GPT-6.1 Sol, selon Microsoft (tarif promotionnel)"},
+      {"name": "MAI Code 2 Flash", "maker": "Microsoft", "date": "17 nov.", "access": "GitHub Copilot ; aperçu limité dans Microsoft Foundry.", "price": "Non communiqué clairement"},
+      {"name": "Hy4 flash", "maker": "Tencent", "date": "mi-nov.", "access": "API ; multimodal, 224 milliards de paramètres (12 milliards actifs), contexte d'un million de jetons.", "price": "Environ 0,07 $ par million de jetons en entrée, selon Tencent"},
+      {"name": "Claude Fable 5.2", "maker": "Anthropic", "date": "9 nov.", "access": "Abonnements Claude, Claude Code, API.", "price": "8 $ / 40 $"}
+    ],
+    "claudeTitle": "Outils",
+    "claude": [
+      {"k": "Claude Code", "t": "Version 2.1.327 : des jetons hors de la ligne de commande", "d": "Nouvelle commande claude mcp add-json, qui lit la configuration d'un serveur MCP depuis l'entrée standard : tes jetons n'apparaissent plus dans la ligne de commande ni dans l'historique du terminal. /status liste désormais les fichiers d'agents, de skills ou de commandes cassés et les hooks qui ne se déclenchent jamais. /export demande avant d'écraser un fichier existant.", "cmd": "claude update", "cmdLabel": "Terminal"},
+      {"k": "Gemini", "t": "Garder son historique sans nourrir l'entraînement", "d": "Le nouveau réglage de confidentialité sépare enfin les deux : historique conservé, données exclues de l'entraînement. À savoir : même historique coupé, les échanges restent stockés environ deux mois."},
+      {"k": "Google", "t": "Tasks dans Gemini, gratuit dans certains pays", "d": "L'ancien assistant Spark devient Tasks : on lui confie des recherches ou de la planification récurrentes. L'accès gratuit est en cours de déploiement dans une sélection de pays ; appels aux commerces et paiement Google Pay restent réservés aux États-Unis (The Verge, via The Neuron)."}
+    ],
+    "repos": [
+      {"name": "obra/superpowers", "stars": "319,5 k", "week": "+1 917 en un jour", "lang": "Shell", "what": "Une méthode de développement complète pour les agents de code, sous forme de skills : l'agent clarifie d'abord ce que tu veux, te montre une spécification par morceaux, rédige un plan, puis l'exécute avec des sous-agents et des tests.", "why": "Il évite le défaut classique de l'agent qui fonce dans le code : les skills se déclenchent seules. Disponible dans le catalogue officiel des plugins Claude ; licence MIT.", "cmd": "/plugin install superpowers@claude-plugins-official"},
+      {"name": "Tencent/LoopForge", "stars": "3,4 k", "week": "+591 en un jour", "lang": "Go", "what": "Un espace auto-hébergé où des agents de code (Claude Code, Codex, OpenCode…) travaillent dans des bacs à sable Docker, selon des procédures enregistrées avec des étapes de validation humaine.", "why": "Quand une façon de travailler marche, tu la sauvegardes et elle se répète à l'identique, avec relecture et approbation. Tout tourne sur ta machine ; licence MIT. Demande Docker Desktop.", "cmd": "git clone https://github.com/Tencent/LoopForge.git && cd LoopForge && ./start.sh"},
+      {"name": "dream-num/univer", "stars": "29,3 k", "week": "+1 774 en un jour", "lang": "TypeScript", "what": "Une boîte à outils open source pour intégrer tableurs et documents éditables, avec calcul de formules et collaboration, dans sa propre application web, utilisable par des humains comme par des agents.", "why": "La brique qui manque quand on veut construire un vrai outil autour d'un tableur sans dépendre d'Excel ou de Google Sheets. Licence Apache 2.0.", "cmd": "pnpm add @univerjs/presets @univerjs/preset-sheets-core"}
+    ],
+    "briefs": [
+      ["Nvidia", "Colette Kress confirme l'engagement de Nvidia pour les modèles ouverts et le rachat de Hugging Face, 12,9 Md$, toujours prévu (TechCrunch)."],
+      ["Sécurité", "Des modèles d'IA de premier plan ont accepté de désigner des civils comme cibles dans des simulations, une fois la tâche présentée comme un jeu, selon des tests de Vals (TechCrunch)."],
+      ["Puces", "Pékin menace de représailles contre le projet américain de contrôler l'accès à distance aux puces via des centres de données à l'étranger (Semafor)."],
+      ["Suno", "Suno Visuals transforme des chansons en clips vidéo de 15 secondes assemblables ; la génération vidéo demande des crédits payants (Bloomberg)."],
+      ["OpenAI", "ChatGPT for Sales ajoute un plugin dédié aux commerciaux, avec plus de 30 intégrations pour préparer rendez-vous et fichiers clients."]
+    ],
+    "sources": [
+      ["VentureBeat", "web, 17 nov.", "GPT-6.2 Astra et Sol : accès, prix, critiques, mesures indépendantes"],
+      ["Gizmodo", "web, 17 nov.", "Nouveaux réglages de Gemini et durée de conservation"],
+      ["Microsoft AI", "web, 17 nov.", "MAI Code 2 et MAI Code 2 Flash : disponibilité, prix, performances annoncées"],
+      ["The Neuron", "web, 17-18 nov.", "Sélections du jour : modèles, Tasks, Vals, Suno, ChatGPT for Sales"],
+      ["TechCrunch", "web, 17 nov.", "Stratégie open source de Nvidia et Hugging Face"],
+      ["Changelog Claude Code", "web, 18 nov.", "Version 2.1.327"],
+      ["GitHub", "web, 18 nov.", "Dépôts en vogue, README et commandes"]
+    ]
+  }
+}
