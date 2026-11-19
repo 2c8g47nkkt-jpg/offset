@@ -1,0 +1,508 @@
+{
+  "date": "2026-11-19",
+  "label": "Jeudi 19 novembre 2026",
+  "period": "18 au 19 novembre",
+  "sourcesCount": 6,
+  "countLabel": "6 newsletters + 12 sources web",
+  "hero": {
+    "img": "img/2026-11-19/anthropic_nasdaq.jpg",
+    "alt": "Des passants devant des vitrines aux noms d'Anthropic et de Morgan Stanley, à New York",
+    "credit": "Getty Images via CNBC",
+    "eyebrow": "À la une",
+    "title": "Anthropic signe la plus grosse introduction en Bourse de l'histoire",
+    "lede": "Le créateur de Claude a fixé mercredi soir son prix à 83 $ par action, au-dessus de la fourchette prévue (70 à 78 $). Face à une demande plus de six fois supérieure à l'offre, il a porté le nombre d'actions vendues de 825 à 980 millions et lève 81,3 Md$, davantage que SpaceX en juin (CNBC). La valorisation atteint environ 1 500 Md$ sur une base entièrement diluée. Première cotation ce jeudi sur le Nasdaq, sous le symbole ANT. Un test pour toute l'IA, au moment où la BCE compare l'endettement du secteur à la bulle des subprimes."
+  },
+  "brief": [
+    ["Anthropic", "Prix fixé à 83 $, 81,3 Md$ levés, record mondial ; la cotation commence ce jeudi sur le Nasdaq."],
+    ["BCE", "Sa revue de stabilité financière voit des « parallèles historiques » entre la dette de l'IA et les bulles internet et subprimes."],
+    ["Shenzhen", "Xi Jinping accueille Donald Trump d'une accolade ; premier sommet à trois avec Vladimir Putin ce jeudi."],
+    ["France", "Roland Lescure juge l'objectif de 1 % de croissance en 2027 « à risque » ; Bruxelles ne prévoit que 0,6 %."],
+    ["GTA VI", "Le jeu le plus cher de l'histoire sort ce jeudi, avec des recettes de lancement comparables à un très gros film."]
+  ],
+  "figures": [
+    {"v": "81,3 Md$", "l": "levés par Anthropic, plus grosse introduction en Bourse jamais réalisée (CNBC)", "dir": "up"},
+    {"v": "+1 200 %", "l": "hausse du chiffre d'affaires d'Anthropic sur neuf mois, à 33,24 Md$ (CNBC)", "dir": "up"},
+    {"v": "−12 Md$", "l": "recul de la valeur des stablecoins en trente jours (The Next Big Sh*t)", "dir": "down"},
+    {"v": "3,6 %", "l": "inflation britannique en octobre, au plus haut depuis un an (FT)", "dir": "up"}
+  ],
+  "themes": [
+    {
+      "title": "Le jour des records : Anthropic et GTA VI",
+      "stories": [
+        {
+          "img": "img/2026-11-19/anthropic_logo.jpg",
+          "alt": "Le logo d'Anthropic en lettres noires éclairé par un projecteur",
+          "credit": "Carlos Barria / Reuters via Aktionnaire",
+          "eyebrow": "Introduction en Bourse",
+          "title": "Une offre agrandie, un prix relevé",
+          "text": [
+            "Anthropic vend 980 millions d'actions à 83 $, dont environ 956 millions de titres nouveaux ; le reste est cédé par des actionnaires existants, dont les sept cofondateurs. Les banques disposent en plus d'une option de 30 jours sur 147 millions d'actions (Anthropic). S'y ajoute un placement privé de 26 Md$ au prix d'introduction, souscrit notamment par Google, Microsoft, Nvidia et AMD (CNBC).",
+            "SpaceX avait levé 75 Md$ en juin, 85,7 Md$ avec l'option de surallocation. Selon Cosmos Finance, jusqu'à 20 % des actions pourraient revenir aux particuliers, une part inhabituelle pour une opération de cette taille."
+          ],
+          "why": "Ce que les investisseurs achètent, c'est une croissance : 33,24 Md$ de chiffre d'affaires sur neuf mois, +1 200 % sur un an, et un rythme annualisé d'environ 81 Md$ fin octobre. Mais Anthropic affiche une perte nette de 104 Md$ sur la période, surtout liée à la réévaluation de dettes convertibles, et a dépensé 18,8 Md$ en calcul, soit 57 % de ses revenus (Cosmos Finance). Le FT rappelle que les dix plus grosses introductions de l'année ont perdu un cinquième de leur valeur depuis.",
+          "rep": 5,
+          "sources": ["Aktionnaire", "Cosmos Finance", "myFT Daily Digest", "FT Newswrap", "The Next Big Sh*t", "CNBC (web)", "Anthropic (web)"],
+          "more": [
+            "<b>Le contrôle.</b> Les cofondateurs, dont Dario et Daniela Amodei, conservent 50,1 % des droits de vote sans détenir 50,1 % du capital ; Amazon garderait environ 15 % du capital économique, Google 14 % (Cosmos Finance).",
+            "<b>Les gagnants.</b> Une poignée de fonds de capital-risque se partagent plus de 100 Md$ de plus-values ; l'investisseur Anjney Midha a multiplié sa mise par plus de 2 000 depuis 2021 (FT).",
+            "<b>Les regrets.</b> Masayoshi Son parle d'une « erreur » de SoftBank, qui a préféré OpenAI ; Sam Bankman-Fried, contraint de céder sa participation en 2024, aurait détenu 40 Md$ (FT).",
+            "<b>Les engagements.</b> Plus de 900 Md$ de contrats d'infrastructure signés sur vingt ans, dont une large part pour Anthropic Direct, ses propres puces dans des centres de données à ses spécifications (FT)."
+          ],
+          "prog": "Marché primaire, financement des entreprises, gouvernance et droits de vote"
+        },
+        {
+          "img": "img/2026-11-19/gta.jpg",
+          "alt": "Une affiche de GTA VI montrant les deux personnages principaux, devant laquelle passe une silhouette floue",
+          "credit": "AFP via Aktionnaire",
+          "eyebrow": "Industries culturelles",
+          "title": "GTA VI, un jeu au budget de superproduction",
+          "text": [
+            "Après treize ans d'attente, GTA VI sort ce jeudi. Selon Bloomberg, cité par Aktionnaire, son développement aurait coûté plus d'un milliard de dollars ; Cosmos Finance évoque un budget de 1,5 à 2 Md$. Environ 4 700 personnes y ont travaillé.",
+            "Les estimations de précommandes divergent : 12 millions et environ 1,65 Md$ de revenus pour Aktionnaire, plus de 15 millions pour Cosmos Finance. Le cabinet Omdia attend 3,2 Md$ de ventes la première année. Take-Two, la maison mère de Rockstar, n'a donné aucun chiffre, son PDG se disant seulement bien au-dessus de ses attentes (Game Developer)."
+          ],
+          "why": "Le jeu vidéo fonctionne comme le cinéma à gros budget : des coûts fixes énormes, un coût marginal presque nul par copie vendue, donc une rentabilité qui dépend des volumes. La vraie rente viendra ensuite : les achats dans le jeu ont représenté 78 % des ventes de Take-Two l'an dernier (Aktionnaire). Plusieurs studios ont décalé leurs sorties pour éviter la concurrence.",
+          "rep": 2,
+          "sources": ["Aktionnaire", "Cosmos Finance", "Game Developer (web)"],
+          "more": [
+            "<b>Le précédent.</b> GTA V s'est vendu à environ 235 millions d'exemplaires et a rapporté près de 11 Md$ (Aktionnaire).",
+            "<b>Les risques.</b> Les tentatives d'hameçonnage liées au jeu ont bondi de 1 300 % depuis août, selon Aktionnaire."
+          ],
+          "prog": "Économies d'échelle, coûts fixes, concurrence monopolistique"
+        }
+      ]
+    },
+    {
+      "title": "Finance : la dette de l'IA sous surveillance",
+      "stories": [
+        {
+          "img": "img/2026-11-19/lagarde.jpg",
+          "alt": "Christine Lagarde, présidente de la BCE, s'exprime à une tribune",
+          "credit": "Getty Images via Fortune",
+          "eyebrow": "Stabilité financière",
+          "title": "La BCE compare l'emballement de l'IA aux subprimes",
+          "text": [
+            "Dans sa revue de stabilité financière publiée mercredi, la BCE estime que le basculement rapide de l'IA vers le financement par la dette présente des « parallèles historiques » avec les bulles internet et subprimes.",
+            "Le point central : les engagements hors bilan des géants de la tech. Ils louent des centres de données et des puces appartenant à d'autres, qui empruntent à leur tour auprès de banques, d'investisseurs obligataires ou de fonds de dette privée en s'appuyant sur ces loyers. La BCE estime ces engagements à plus de 4 000 Md$ au deuxième trimestre 2026, bien au-delà des dettes inscrites au bilan (BCE)."
+          ],
+          "why": "Ces contrats ressemblent économiquement à de la dette, mais les normes comptables américaines ne les enregistrent pas comme telle. Si les profits déçoivent, la charge reviendrait progressivement au bilan, dégradant endettement et notations. Le parallèle avec 2008 tient à cette opacité, pas à la taille : pour l'instant, les résultats des grands groupes répondent aux attentes, note la BCE.",
+          "rep": 2,
+          "sources": ["myFT Daily Digest", "FT Newswrap", "BCE (web)", "Fortune (web)"],
+          "more": [
+            "<b>Le financement circulaire.</b> Selon le vice-président Boris Vujčić, quand fournisseurs et clients se financent mutuellement, la demande réelle devient difficile à mesurer.",
+            "<b>Un détail.</b> Les équipes de la BCE ont utilisé un agent d'IA pour extraire les chiffres des documents déposés auprès de la SEC."
+          ],
+          "prog": "Crises financières, risque systémique, hors bilan"
+        },
+        {
+          "img": "img/2026-11-19/nsa.jpg",
+          "alt": "Le panneau d'entrée du siège de la NSA et du Cyber Command américain à Fort Meade",
+          "credit": "Via Gizmodo",
+          "eyebrow": "Cybersécurité",
+          "title": "Trop de failles trouvées, trop vite corrigées",
+          "text": [
+            "Des responsables américains et des experts estiment que la course à la correction des failles découvertes par l'IA a probablement déstabilisé les systèmes de Microsoft, JPMorgan, de l'aviation civile et d'autres, à l'origine d'une vague de pannes (FT).",
+            "Le directeur du renseignement national, Jay Clayton, a attribué les perturbations à des « opérations de maintenance et des changements techniques », pas à des pirates. Microsoft et JPMorgan évoquent chacun un bogue logiciel, sans faire de lien avec l'IA (Gizmodo)."
+          ],
+          "why": "L'IA accélère la découverte de vulnérabilités plus vite que les entreprises ne peuvent tester leurs correctifs. Au Royaume-Uni, les régulateurs demandent aux entreprises de la City de renforcer leurs défenses, après une hausse des tentatives de piratage et un vol de 6 Md$ sur la plateforme Binance (FT).",
+          "rep": 2,
+          "sources": ["myFT Daily Digest", "FT Newswrap", "Gizmodo (web)"],
+          "prog": "Risque opérationnel, infrastructures critiques"
+        },
+        {
+          "eyebrow": "Cryptomonnaies",
+          "title": "Les stablecoins ne servent plus de refuge",
+          "text": [
+            "La valeur totale des stablecoins, ces cryptomonnaies conçues pour garder une valeur stable, a reculé d'environ 12 Md$ en trente jours, la contraction la plus rapide depuis l'effondrement de Terra-Luna en 2022. Le bitcoin a perdu plus de 20 % en un mois (The Next Big Sh*t)."
+          ],
+          "why": "La newsletter avance deux explications : des placements obligataires mieux rémunérés quand les taux montent, et l'attrait des grandes introductions en Bourse, SpaceX puis Anthropic. Les investisseurs vendent leurs cryptos pour acheter des actions : moins de liquidités sur les plateformes, donc une pression à la baisse sur les prix.",
+          "rep": 1,
+          "sources": ["The Next Big Sh*t"],
+          "prog": "Monnaie, actifs spéculatifs, arbitrage de portefeuille"
+        },
+        {
+          "eyebrow": "Nvidia",
+          "title": "Après Huang, Nvidia rassure ses salariés et lâche la Chine",
+          "text": [
+            "La PDG par intérim, Colette Kress, a avancé à décembre les hausses de salaire et attributions d'actions prévues au printemps, pour retenir les quelque 49 000 salariés (Aktionnaire). L'action a pourtant reculé de près de 3 % malgré des résultats records.",
+            "Kress a aussi indiqué qu'aucune nouvelle livraison de puces Hopper sous licence n'est prévue vers la Chine, après 2,4 Md$ de ventes chinoises au trimestre (The Verge, via The Neuron)."
+          ],
+          "why": "Le conseil d'administration exclut le retour de Jensen Huang, qui manœuvrerait pour revenir selon le FT. Le départ d'un fondateur pose un problème classique : une partie de la valeur d'une entreprise tient à la confiance dans son dirigeant.",
+          "rep": 3,
+          "sources": ["Aktionnaire", "myFT Daily Digest", "FT Newswrap", "The Neuron (web)"],
+          "prog": "Gouvernance, capital humain, rivalité sino-américaine"
+        }
+      ]
+    },
+    {
+      "title": "Géopolitique : Shenzhen et l'Europe",
+      "stories": [
+        {
+          "img": "img/2026-11-19/trump_xi.jpg",
+          "alt": "Donald Trump souriant aux côtés de Xi Jinping devant les drapeaux chinois et américain",
+          "credit": "Reuters via Al Jazeera",
+          "eyebrow": "APEC",
+          "title": "Une accolade, puis un sommet à trois",
+          "text": [
+            "Xi Jinping a accueilli Donald Trump d'une accolade à Shenzhen, où se tient le forum de l'APEC, un geste qu'il réserve d'habitude à Vladimir Putin (Aktionnaire). Les trois dirigeants tiennent ce jeudi leur premier sommet à trois.",
+            "Au programme selon Al Jazeera : un traité nucléaire et la guerre menée par les États-Unis contre l'Iran ; l'Ukraine ne devrait pas être abordée. Xi devrait aussi demander à Trump de ne pas durcir l'accès de la Chine aux puces américaines."
+          ],
+          "why": "Devant des patrons réunis en Chine, Putin a défendu un « grand partenariat eurasien » et affirmé que les sanctions nuisaient surtout aux Occidentaux. Le comité éditorial du FT dénonce ses « illusions d'un nouveau Yalta ». Pour Pékin, l'enjeu est de se montrer en organisateur de l'ordre international.",
+          "rep": 3,
+          "sources": ["Aktionnaire", "myFT Daily Digest", "FT Newswrap", "Al Jazeera (web)"],
+          "more": [
+            "<b>À suivre.</b> L'issue du sommet n'est pas connue au moment de la publication."
+          ],
+          "prog": "Relations internationales, puissance, multilatéralisme"
+        },
+        {
+          "eyebrow": "Union européenne",
+          "title": "Un nouveau prêt de 45 Md€ à l'Ukraine",
+          "text": [
+            "Bruxelles propose un nouveau prêt de 45 Md€ à l'Ukraine, financé par un emprunt commun (Aktionnaire). Selon le FT, la Commission compte utiliser les profits tirés des avoirs russes gelés pour en payer les intérêts.",
+            "Ce prêt s'ajouterait au programme de 90 Md€ déjà adopté pour 2026 et 2027, dont il serait distinct (Kyiv Independent)."
+          ],
+          "why": "L'Union contourne la question de la confiscation des quelque 200 Md€ d'avoirs russes immobilisés, à laquelle la Belgique s'était opposée en 2025 : elle en mobilise les revenus, pas le capital. L'emprunt commun prolonge la logique ouverte par le plan de relance de 2020.",
+          "rep": 2,
+          "sources": ["Aktionnaire", "myFT Daily Digest", "Kyiv Independent (web)"],
+          "prog": "Construction européenne, budget de l'UE, sanctions"
+        },
+        {
+          "eyebrow": "Commerce",
+          "title": "Londres refuse d'aligner ses droits de douane sur Bruxelles",
+          "text": [
+            "Le Royaume-Uni va résister à la demande de l'UE d'appliquer les mêmes droits de douane que les Vingt-Sept sur les produits chinois. Il réduit ainsi ses chances de bénéficier des règles « Made in Europe » sur les subventions et marchés publics (FT).",
+            "De son côté, l'UE envisage d'exclure les entreprises chinoises qui enfreignent ses règles sur les subventions."
+          ],
+          "why": "Sans alignement, les produits chinois pourraient entrer au Royaume-Uni puis être réexportés vers l'UE : c'est le risque de détournement de trafic. Londres doit choisir entre autonomie commerciale et accès au marché européen.",
+          "rep": 2,
+          "sources": ["myFT Daily Digest", "FT Newswrap"],
+          "prog": "Politique commerciale, protectionnisme, intégration régionale"
+        }
+      ]
+    },
+    {
+      "title": "France : croissance en berne, campagne lancée",
+      "stories": [
+        {
+          "eyebrow": "Finances publiques",
+          "title": "L'objectif de 1 % de croissance vacille",
+          "text": [
+            "Roland Lescure reconnaît que l'objectif de 1 % de croissance en 2027 est « à risque ». La Commission européenne ne prévoit plus que 0,6 %, et 43 Md€ d'efforts budgétaires pourraient ne plus suffire pour ramener le déficit à 5 % du PIB (Cosmos Finance).",
+            "Dans ses prévisions d'automne, Bruxelles anticipe 0,4 % de croissance en 2026 puis 0,6 % en 2027, soit la plus faible de la zone euro l'an prochain ; au printemps, elle attendait 0,8 % puis 1,1 % (Le Petit Journal)."
+          ],
+          "why": "Une croissance plus faible réduit mécaniquement les recettes fiscales : le déficit se creuse sans qu'aucune dépense n'augmente. Le ministre évoque des mesures supplémentaires, au risque de peser encore sur l'activité : c'est le dilemme de la consolidation budgétaire en période de ralentissement.",
+          "rep": 2,
+          "sources": ["Cosmos Finance", "The Next Big Sh*t", "Le Petit Journal (web)"],
+          "more": [
+            "<b>L'impôt sur le revenu.</b> Seuls 47,7 % des foyers fiscaux le paient ; il a rapporté 92,6 Md€ en 2025, et les 10 % les plus aisés en acquittent 73 % (Cosmos Finance, d'après la DGFiP)."
+          ],
+          "prog": "Politique budgétaire, déficit, multiplicateur"
+        },
+        {
+          "eyebrow": "Présidentielle",
+          "title": "Édouard Philippe détaille un programme d'économies",
+          "text": [
+            "Édouard Philippe veut fusionner ou supprimer « une trentaine d'agences de l'État », privatiser France Travail et porter l'âge de départ à la retraite à 65 ans. Il promet 20 % de hausse de salaire aux enseignants, 30 000 places de prison supplémentaires et des sanctions contre les « parents perturbateurs » (Aktionnaire)."
+          ],
+          "why": "Le programme combine une offre de réduction de la dépense publique et un réinvestissement ciblé dans l'école. Le recul de l'âge de départ reste le levier le plus puissant sur les comptes sociaux, mais aussi le plus contesté.",
+          "rep": 1,
+          "sources": ["Aktionnaire"],
+          "prog": "État-providence, retraites, finances publiques"
+        },
+        {
+          "img": "img/2026-11-19/melenchon.jpg",
+          "alt": "Jean-Luc Mélenchon, le poing levé, s'exprime derrière un pupitre",
+          "credit": "Stéphane Lemouton / SIPA via Aktionnaire",
+          "eyebrow": "Patronat",
+          "title": "Mélenchon dîne avec treize grands patrons",
+          "text": [
+            "Le leader insoumis a dîné mardi avec treize dirigeants, dont Bernard Arnault (LVMH), Patrick Pouyanné (TotalEnergies) et Alexandre Bompard (Carrefour), à l'invitation du Club Entreprise et Cité. Les échanges ont été cordiaux, mais « personne n'a changé d'avis », selon un participant cité par Les Échos (Aktionnaire)."
+          ],
+          "why": "À l'approche de la présidentielle, les grandes entreprises cherchent à évaluer tous les candidats susceptibles de gouverner. Le dialogue n'efface pas les divergences de fond sur la fiscalité et la redistribution.",
+          "rep": 1,
+          "sources": ["Aktionnaire"],
+          "prog": "Groupes d'intérêt, vie politique"
+        }
+      ]
+    },
+    {
+      "title": "Prix, énergie, climat",
+      "stories": [
+        {
+          "eyebrow": "Royaume-Uni",
+          "title": "L'inflation britannique remonte à 3,6 %",
+          "text": [
+            "L'inflation a atteint 3,6 % en octobre, au plus haut depuis un an, tirée par l'essence. Le plafond des factures d'énergie devrait augmenter de 26 % en janvier, à plus de 2 000 £ par an (FT).",
+            "Avec moins d'aides publiques, les ménages paieraient leur énergie plus cher, en termes réels, que lors du choc inflationniste lié à la guerre en Ukraine."
+          ],
+          "why": "Ces chiffres accentuent la pression sur la Banque d'Angleterre pour relever encore ses taux. C'est un exemple d'inflation importée par l'énergie : la banque centrale doit éviter qu'elle se diffuse aux salaires et aux autres prix.",
+          "rep": 2,
+          "sources": ["myFT Daily Digest", "FT Newswrap"],
+          "prog": "Inflation, politique monétaire, choc d'offre"
+        },
+        {
+          "eyebrow": "Allemagne",
+          "title": "Berlin allège la facture énergétique",
+          "text": [
+            "L'Allemagne va supprimer presque toutes les taxes sur l'électricité au 1er janvier, pour 5,4 Md€, et plafonner les prix des carburants pendant trois mois (Aktionnaire).",
+            "Un rabais fiscal de 17 centimes par litre de carburant s'applique déjà d'octobre à décembre, et le gouvernement fédéral négocie avec le secteur pétrolier un plafonnement temporaire des prix au plus tard au 1er janvier 2027 (gouvernement fédéral)."
+          ],
+          "why": "Le plafonnement protège le pouvoir d'achat mais affaiblit le signal-prix qui incite à économiser l'énergie. La ministre de l'Économie, Katherina Reiche, avertit des risques pour les raffineries si le plafond est trop bas.",
+          "rep": 1,
+          "sources": ["Aktionnaire", "Gouvernement fédéral allemand (web)"],
+          "prog": "Fiscalité de l'énergie, contrôle des prix"
+        },
+        {
+          "eyebrow": "Climat",
+          "title": "Martin Wolf : « pessimisme de l'intelligence, optimisme de la volonté »",
+          "text": [
+            "Pour Martin Wolf, l'humanité excelle dans l'innovation mais échoue face aux défis politiques mondiaux. Le solaire et l'électrification ont fait des progrès remarquables, mais approcher l'objectif de 1,5 °C exigera des politiques qui feront des perdants (FT Opinion).",
+            "À la COP31, l'Arabie saoudite multiplie les blocages, notamment contre un objectif d'électrification (FT)."
+          ],
+          "why": "L'argument central de Wolf est un calcul coûts-bénéfices : les efforts d'atténuation sont lourds, mais bien moins que les coûts d'adaptation sur la trajectoire actuelle. Le climat reste un bien commun mondial où chaque pays a intérêt à laisser les autres agir.",
+          "rep": 3,
+          "sources": ["FT Opinion", "myFT Daily Digest", "FT Newswrap"],
+          "prog": "Externalités, biens communs, négociations climatiques"
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    ["BCE", "L'Espagnol Pablo Hernández de Cos devient le favori pour succéder à Christine Lagarde, avec le soutien de Paris et Berlin (FT) ; l'Allemagne viserait en échange le poste d'économiste en chef (Euronews)."],
+    ["Audit", "KPMG a fait examiner les comptes d'une société du FTSE 250 par des agents d'IA, qui ont posé de « meilleures questions » que ses auditeurs, avec toutefois une intervention humaine nécessaire (FT)."],
+    ["Cybersécurité", "Palo Alto Networks rachète Applied Compute, jeune pousse d'IA fondée en 2025, pour 4,5 Md$ ; sa valorisation a été multipliée par 45 depuis ses débuts (Aktionnaire)."],
+    ["Patrons", "Francesco Milleri (EssilorLuxottica) a perçu 33,3 M€ en 2025 ; les patrons du CAC 40 gagnent en moyenne 7,5 M€, 91 fois le salaire moyen de leurs salariés (Cosmos Finance)."],
+    ["Universités", "Les nouvelles inscriptions d'étudiants étrangers aux États-Unis chutent de 18 % en 2025-2026 (The Next Big Sh*t)."],
+    ["Médias", "Le groupe Figaro signe un accord avec OpenAI, troisième groupe de presse français après Le Monde et les médias de LVMH (Aktionnaire)."]
+  ],
+  "good": "Aux États-Unis, les salons de coiffure sont de plus en plus reconnus comme relais de santé publique : ils permettent d'atteindre les hommes noirs dans un lieu et des relations qui font déjà partie de leur quotidien (FT Newswrap).",
+  "map": {
+    "start": "ia",
+    "nodes": [
+      {"id": "ia", "x": 200, "y": 34, "l": ["Boom des", "investissements IA"], "t": "Le moteur", "d": "Centres de données, puces et modèles absorbent des centaines de milliards."},
+      {"id": "ipo", "x": 100, "y": 122, "l": ["Introduction", "d'Anthropic"], "t": "Le marché", "d": "81,3 Md$ levés à 83 $ par action, record mondial."},
+      {"id": "dette", "x": 300, "y": 122, "l": ["Engagements", "hors bilan"], "t": "Le financement", "d": "Plus de 4 000 Md$ de contrats de location, financés par la dette."},
+      {"id": "crypto", "x": 100, "y": 222, "l": ["Capitaux retirés", "des cryptos"], "t": "Les arbitrages", "d": "Stablecoins −12 Md$ en un mois ; les épargnants préfèrent les actions."},
+      {"id": "bce", "x": 300, "y": 222, "l": ["Alerte", "de la BCE"], "t": "Le diagnostic", "d": "Parallèles avec les bulles internet et subprimes."},
+      {"id": "failles", "x": 100, "y": 322, "l": ["Failles trouvées", "par l'IA"], "t": "L'effet secondaire", "d": "Les correctifs en série déstabilisent les systèmes."},
+      {"id": "pannes", "x": 300, "y": 322, "l": ["Pannes en", "série"], "t": "Les incidents", "d": "Microsoft, JPMorgan, aviation civile touchés."},
+      {"id": "regul", "x": 200, "y": 414, "l": ["Régulateurs", "en alerte"], "t": "La réponse", "d": "BCE et autorités britanniques exigent plus de prudence."}
+    ],
+    "edges": [["ia", "ipo"], ["ia", "dette"], ["ipo", "crypto"], ["dette", "bce"], ["ia", "failles"], ["failles", "pannes"], ["pannes", "regul"], ["bce", "regul"]]
+  },
+  "dossiers": [
+    {
+      "eyebrow": "Valorisation",
+      "title": "Combien vaut une entreprise qui perd de l'argent ?",
+      "q": "Anthropic affiche une perte nette de 104 Md$ sur neuf mois, mais le marché la valorise environ 1 500 Md$. Comment justifier un tel écart ?",
+      "steps": [
+        ["Le principe", "La valeur des profits futurs.", "Une action vaut la somme actualisée des flux qu'elle rapportera. Les pertes d'aujourd'hui comptent peu si les profits de demain sont énormes."],
+        ["La croissance", "Un chiffre d'affaires multiplié par 13.", "33,24 Md$ sur neuf mois, +1 200 % sur un an, et un rythme annualisé d'environ 81 Md$ fin octobre (CNBC)."],
+        ["Les coûts", "Un calcul très cher.", "18,8 Md$ de dépenses de calcul sur la période, environ 57 % du chiffre d'affaires (Cosmos Finance)."],
+        ["L'actualisation", "Le rôle des taux.", "Plus les profits sont lointains, plus leur valeur actuelle est sensible au taux d'intérêt : une hausse des taux pèse lourd."],
+        ["Le verdict", "Le marché tranche.", "Le prix d'introduction mesure la confiance du jour ; le cours dira si elle tient, alors que les grosses introductions de l'année ont perdu un cinquième de leur valeur."]
+      ],
+      "calc": true,
+      "refs": [
+        "<b>Irving Fisher (1930).</b> La valeur d'un actif est la valeur actualisée de ses revenus futurs.",
+        "<b>Myron Gordon.</b> Modèle de croissance des dividendes : le prix dépend de l'écart entre taux d'actualisation et taux de croissance.",
+        "<b>Joseph Schumpeter.</b> Le profit de l'innovateur est une rente temporaire, que la concurrence finit par éroder.",
+        "<b>Robert Shiller.</b> L'« exubérance irrationnelle » : les récits peuvent pousser les prix au-delà des fondamentaux."
+      ],
+      "accroche": "Le 19 novembre 2026, Anthropic entre en Bourse valorisée environ 1 500 Md$, alors qu'elle a perdu 104 Md$ en neuf mois.",
+      "sujets": ["Les marchés financiers évaluent-ils correctement l'innovation ?", "Faut-il craindre les bulles financières ?", "Le taux d'intérêt est-il le prix du temps ?"]
+    },
+    {
+      "eyebrow": "Crises financières",
+      "title": "La dette de l'IA, nouvelle bulle des subprimes ?",
+      "q": "La BCE voit des « parallèles historiques » entre l'endettement lié à l'IA et la crise de 2008. La comparaison tient-elle ?",
+      "steps": [
+        ["L'investissement", "Des besoins colossaux.", "Les géants de la tech et les laboratoires d'IA financent centres de données et puces sur des décennies."],
+        ["Le montage", "Louer plutôt qu'acheter.", "Ils louent des capacités à des tiers, qui empruntent en s'appuyant sur ces loyers : la dette ne figure pas à leur bilan."],
+        ["L'ampleur", "Plus de 4 000 Md$.", "C'est l'estimation de la BCE des engagements hors bilan au deuxième trimestre 2026."],
+        ["Le risque", "Le retour au bilan.", "Si les profits déçoivent, les engagements reviennent au bilan, l'endettement grimpe et les notations baissent."],
+        ["La contagion", "Qui porte la perte ?", "Banques, investisseurs obligataires et fonds de dette privée, donc aussi assureurs et fonds de pension."]
+      ],
+      "split": [
+        ["Une comparaison justifiée", "Comme en 2008, le risque est dispersé, opaque et sorti des bilans ; le financement circulaire rend la demande réelle difficile à mesurer."],
+        ["Une comparaison exagérée", "Les emprunteurs sont des groupes très rentables, dont les résultats répondent aux attentes, et non des ménages insolvables ; l'effet de levier reste plus faible."]
+      ],
+      "refs": [
+        "<b>Hyman Minsky.</b> L'instabilité financière : la stabilité encourage la prise de risque et le passage à des financements de plus en plus fragiles.",
+        "<b>Charles Kindleberger.</b> Manias, Panics and Crashes : le cycle déplacement, euphorie, détresse, krach.",
+        "<b>Carmen Reinhart et Kenneth Rogoff (2009).</b> « Cette fois, c'est différent » : chaque bulle se croit unique.",
+        "<b>Carlota Perez.</b> Les révolutions technologiques passent par une phase de bulle financière avant leur déploiement."
+      ],
+      "accroche": "Le 18 novembre 2026, la BCE estime que les engagements hors bilan des géants de la tech dépassent 4 000 Md$ et y voit des parallèles avec les subprimes.",
+      "sujets": ["Les crises financières sont-elles inévitables ?", "Faut-il réguler la finance de l'innovation ?", "L'endettement est-il un moteur de la croissance ?"]
+    },
+    {
+      "eyebrow": "Finances publiques",
+      "title": "Peut-on réduire le déficit quand la croissance ralentit ?",
+      "q": "La Commission ne prévoit que 0,6 % de croissance en France en 2027, contre 1 % dans le budget. Faut-il quand même tenir l'objectif de déficit ?",
+      "steps": [
+        ["Le constat", "Une prévision trop optimiste.", "Le gouvernement table sur 1 % en 2027, Bruxelles sur 0,6 %, la plus faible de la zone euro."],
+        ["La mécanique", "Moins de croissance, moins de recettes.", "Les impôts suivent l'activité : le déficit se creuse sans hausse des dépenses."],
+        ["Le dilemme", "Ajuster ou attendre ?", "Des économies supplémentaires réduisent le déficit mais pèsent sur une activité déjà faible."],
+        ["L'enjeu", "La dette et les taux.", "Si le taux d'intérêt sur la dette dépasse la croissance, la dette augmente d'elle-même : c'est l'effet « boule de neige »."]
+      ],
+      "split": [
+        ["Tenir l'objectif", "La crédibilité budgétaire protège des hausses de taux et respecte les engagements européens."],
+        ["Lisser l'effort", "Une austérité trop rapide en période de ralentissement peut réduire la croissance au point d'aggraver le ratio dette/PIB."]
+      ],
+      "refs": [
+        "<b>John Maynard Keynes.</b> Le multiplicateur : la dépense publique soutient l'activité en période de sous-emploi.",
+        "<b>Olivier Blanchard et Daniel Leigh (2013).</b> Les multiplicateurs ont été sous-estimés pendant l'austérité européenne.",
+        "<b>Alberto Alesina.</b> L'austérité « expansionniste » : une consolidation par la dépense peut restaurer la confiance.",
+        "<b>Olivier Blanchard (2019).</b> Quand r est inférieur à g, la dette publique coûte moins cher qu'on ne le croit."
+      ],
+      "accroche": "En novembre 2026, le ministre de l'Économie reconnaît que l'objectif de 1 % de croissance pour 2027 est « à risque », alors que la Commission européenne ne prévoit que 0,6 %.",
+      "sujets": ["Faut-il réduire la dette publique ?", "La politique budgétaire est-elle encore efficace ?", "Les règles budgétaires européennes sont-elles adaptées ?"]
+    }
+  ],
+  "flash": [
+    ["83 $", "Anthropic", "Prix d'introduction, au-dessus de la fourchette de 70 à 78 $."],
+    ["81,3 Md$", "Record", "Montant levé par Anthropic, devant SpaceX (75 Md$)."],
+    ["~1 500 Md$", "Valorisation", "Valeur d'Anthropic sur une base entièrement diluée (CNBC)."],
+    ["104 Md$", "Perte", "Perte nette d'Anthropic sur neuf mois, surtout comptable (CNBC)."],
+    ["4 000 Md$", "BCE", "Engagements hors bilan estimés des géants de la tech."],
+    ["0,6 %", "France", "Croissance prévue par la Commission en 2027, contre 1 % dans le budget."],
+    ["3,6 %", "Royaume-Uni", "Inflation d'octobre, plus haut depuis un an."],
+    ["45 Md€", "Ukraine", "Nouveau prêt proposé par l'UE, financé par un emprunt commun."],
+    ["78 %", "Take-Two", "Part des achats dans le jeu dans ses ventes l'an dernier."]
+  ],
+  "quiz": [
+    {"q": "À quel prix Anthropic a-t-elle fixé son introduction en Bourse ?", "o": ["70 $", "78 $", "83 $", "96 $"], "a": 2, "e": "83 $, au-dessus de la fourchette de 70 à 78 $, face à une demande plus de six fois supérieure à l'offre."},
+    {"q": "Quelle opération détenait jusqu'ici le record de la plus grosse introduction en Bourse ?", "o": ["Saudi Aramco", "SpaceX", "Alibaba", "Facebook"], "a": 1, "e": "SpaceX avait levé 75 Md$ en juin, 85,7 Md$ avec l'option de surallocation (CNBC)."},
+    {"q": "Pourquoi les cofondateurs d'Anthropic gardent-ils le contrôle ?", "o": ["Ils détiennent la majorité du capital", "Un dispositif leur assure 50,1 % des droits de vote", "L'État américain leur a confié une action spécifique", "Amazon leur a cédé ses droits"], "a": 1, "e": "Ils conservent 50,1 % des droits de vote sans détenir 50,1 % du capital (Cosmos Finance)."},
+    {"q": "Que reproche surtout la BCE au financement de l'IA ?", "o": ["Des taux trop bas", "Des engagements hors bilan financés par la dette", "Des émissions d'actions trop nombreuses", "L'absence de bénéfices"], "a": 1, "e": "Plus de 4 000 Md$ d'engagements de location, financés par la dette des propriétaires, n'apparaissent pas au bilan."},
+    {"q": "Selon des experts cités par le FT, quelle est la cause probable de la vague de pannes aux États-Unis ?", "o": ["Une cyberattaque russe", "Une superintelligence", "La course à la correction de failles trouvées par l'IA", "Une tempête solaire"], "a": 2, "e": "Les correctifs déployés en urgence auraient déstabilisé les systèmes ; les entreprises évoquent des bogues sans lien affirmé avec l'IA."},
+    {"q": "Quelle croissance la Commission européenne prévoit-elle pour la France en 2027 ?", "o": ["0,4 %", "0,6 %", "1 %", "1,1 %"], "a": 1, "e": "0,6 %, contre 1 % retenu par le gouvernement ; 0,4 % est la prévision pour 2026."},
+    {"q": "Comment l'UE compte-t-elle payer les intérêts du nouveau prêt à l'Ukraine ?", "o": ["Par une taxe carbone", "Par les profits des avoirs russes gelés", "Par une contribution de la BCE", "Par la confiscation des avoirs russes"], "a": 1, "e": "Selon le FT, Bruxelles mobilise les profits tirés des avoirs gelés, pas leur capital."},
+    {"q": "Quelle part des ventes de Take-Two provenait des achats dans le jeu l'an dernier ?", "o": ["23 %", "48 %", "65 %", "78 %"], "a": 3, "e": "78 %, selon Aktionnaire : les revenus récurrents dépassent largement la vente du jeu lui-même."}
+  ],
+  "colle": {
+    "title": "Les marchés financiers favorisent-ils l'innovation ?",
+    "parts": [
+      ["Les marchés financent des paris que personne d'autre ne prendrait", ["L'introduction record d'Anthropic : 81,3 Md$ levés pour une entreprise encore en perte", "Le capital-risque comme sélection des innovations (Schumpeter, Perez)"]],
+      ["Mais ils amplifient les excès et déplacent les risques", ["Engagements hors bilan et parallèles avec les subprimes selon la BCE (Minsky, Kindleberger)", "Des arbitrages spéculatifs : capitaux retirés des cryptos pour les introductions en Bourse"]],
+      ["Une efficacité qui dépend des règles et des institutions", ["Transparence comptable, gouvernance et droits de vote des fondateurs", "Régulation prudentielle et stabilité financière : rôle de la BCE et des superviseurs"]]
+    ]
+  },
+  "matrix": {
+    "cols": ["Aktionnaire", "Cosmos Finance", "myFT Daily Digest", "FT Newswrap", "The Next Big Sh*t", "FT Opinion", "CNBC", "Anthropic", "BCE", "Fortune", "Gizmodo", "Al Jazeera", "The Neuron", "Kyiv Independent", "Le Petit Journal", "Game Developer", "Euronews", "Gouv. allemand"],
+    "rows": [
+      ["Introduction d'Anthropic", [1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]],
+      ["Sommet de Shenzhen", [1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]],
+      ["Nvidia après Huang", [1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]],
+      ["Politique climatique", [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
+      ["Dette de l'IA et BCE", [0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]],
+      ["Pannes et correctifs", [0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]],
+      ["GTA VI", [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]],
+      ["Croissance française", [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]],
+      ["Prêt à l'Ukraine", [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]],
+      ["Inflation britannique", [0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+    ]
+  },
+  "sources": [
+    ["Aktionnaire", "newsletter, jeu. 19", "GTA VI, Anthropic, sommet de Shenzhen, programme d'Édouard Philippe, Nvidia, Applied Compute, dîner Mélenchon, brèves"],
+    ["Cosmos Finance", "newsletter, jeu. 19", "Dossier Anthropic (contrôle, actionnaires, résultats), impôt sur le revenu, rémunérations du CAC 40, GTA VI, croissance française"],
+    ["myFT Daily Digest", "newsletter, jeu. 19", "Sommet de Shenzhen, pannes liées à l'IA, cybersécurité de la City, BCE, SoftBank, Royaume-Uni"],
+    ["FT Newswrap", "newsletter, mer. 18", "Anthropic et capital-risque, BCE, Nvidia, inflation britannique, BCE et Hernández de Cos, commerce, bonne nouvelle"],
+    ["The Next Big Sh*t", "newsletter, mer. 18", "Stablecoins, pouvoir des patrons, universités américaines, prévisions de croissance"],
+    ["FT Opinion", "newsletter, mer. 18", "Martin Wolf sur le climat, Peter Thiel, Brexit, yen"],
+    ["CNBC", "web, 18 nov.", "Prix, taille, valorisation et résultats de l'introduction d'Anthropic, comparaison avec SpaceX"],
+    ["Anthropic", "web, 18 nov.", "Communiqué officiel : répartition des actions, option de surallocation, calendrier"],
+    ["BCE", "web, 18 nov.", "Revue de stabilité financière : encadré sur le financement de l'IA par la dette"],
+    ["Fortune", "web, 18 nov.", "Parallèles avec les bulles internet et subprimes, engagements hors bilan"],
+    ["Gizmodo", "web, 18-19 nov.", "Pannes, déclarations du renseignement américain, explications de Microsoft et JPMorgan"],
+    ["Al Jazeera", "web, 14 nov.", "Programme du sommet à trois de Shenzhen"],
+    ["The Neuron", "web, 19 nov.", "Nvidia et la Chine (The Verge), synthèse de l'introduction d'Anthropic"],
+    ["Kyiv Independent", "web, nov.", "Nouveau prêt européen à l'Ukraine et programme de 90 Md€"],
+    ["Le Petit Journal", "web, 17-18 nov.", "Prévisions d'automne de la Commission pour la France"],
+    ["Game Developer", "web, nov.", "Précommandes de GTA VI selon le PDG de Take-Two"],
+    ["Euronews", "web, 13 nov.", "Succession de Christine Lagarde à la BCE"],
+    ["Gouvernement fédéral allemand", "web, sept.-nov.", "Rabais fiscal sur les carburants et projet de plafonnement des prix"]
+  ],
+  "ia": {
+    "toc": "Anthropic entre en Bourse, Google lance Gemini 4 Neon, et les banques se dégagent des agents d'IA.",
+    "intro": "Modèles, outils et projets : ce qui change dans l'IA, et ce qui sert vraiment.",
+    "signalTitle": "Un labo d'IA en Bourse, un nouveau Gemini, et les banques qui se protègent",
+    "signal": [
+      {
+        "img": "img/2026-11-19/anthropic_logo.jpg",
+        "alt": "Le logo d'Anthropic en lettres noires éclairé par un projecteur",
+        "credit": "Carlos Barria / Reuters via Aktionnaire",
+        "eyebrow": "Anthropic · industrie",
+        "title": "Le premier laboratoire de modèles de pointe coté en Bourse",
+        "text": [
+          "Anthropic a vendu 980 millions d'actions à 83 $ et commence à coter ce jeudi sur le Nasdaq, sous le symbole ANT. La société émet environ 956 millions de titres nouveaux ; le reste est cédé par des actionnaires existants. L'opération doit être finalisée le 20 novembre (Anthropic).",
+          "Selon CNBC, Claude Code a été le principal moteur de la croissance de 2026. Le prospectus compte plus de 90 pages de facteurs de risque."
+        ],
+        "why": "C'est la première fois qu'un laboratoire de modèles de pointe publie ses comptes et se soumet aux exigences des marchés : publication trimestrielle des résultats, pression sur la rentabilité, transparence sur les coûts de calcul. OpenAI a déposé un dossier confidentiel et vise une cotation en 2027, selon CNBC.",
+        "sources": ["Anthropic (web)", "CNBC (web)"],
+        "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+      },
+      {
+        "img": "img/2026-11-19/ia_gemini.jpg",
+        "alt": "Le nom Gemini 4 Neon écrit en néon orange sur fond noir",
+        "credit": "Google",
+        "eyebrow": "Google · modèles",
+        "title": "Gemini 4 Neon, le milieu de gamme qui vise le code",
+        "text": [
+          "Google a présenté mercredi Gemini 4 Neon, positionné entre Gemini 4 Carbon, pour les projets les plus longs, et Gemini 4 Hydrogen, pour l'exécution rapide. Il dispose d'un contexte d'un million de jetons et coûte 3 $ par million de jetons en entrée et 15 $ en sortie.",
+          "Il est accessible dans l'appli Gemini pour les abonnés Google AI Pro et Ultra, dans l'outil de code Antigravity pour ces mêmes abonnés, et par l'API payante. Aucune offre gratuite n'est mentionnée."
+        ],
+        "why": "Selon Google, Neon arrive en tête de l'indice de code agentique d'Artificial Analysis (58,6) et troisième de son indice général. Ces classements sont fournis par Google : à vérifier sur ses propres tâches. Le prix est inférieur à celui de GPT-6.2 Astra (8 $ et 40 $).",
+        "sources": ["Google (web)", "The Neuron (web)"],
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+      },
+      {
+        "eyebrow": "Banques · agents",
+        "title": "Brancher un agent d'IA sur son compte bancaire, à ses risques et périls",
+        "text": [
+          "Citibank a modifié cette semaine ses conditions : les clients qui donnent à un agent d'IA tiers l'accès à leur compte sont responsables de ce qu'il fait. Si l'outil laisse fuiter des identifiants ou est piraté, le client répond de ce que font les pirates. PNC et Citizens ont pris des positions similaires, après JPMorgan Chase et Bank of America le mois dernier (TechCrunch).",
+          "Citi précise que ses propres agents peuvent être utilisés sans responsabilité supplémentaire."
+        ],
+        "why": "Les assistants capables de lancer des virements arrivent plus vite que le cadre juridique. Partager ses identifiants bancaires avec un service tiers transfère le risque sur l'utilisateur. Un outil en lecture seule, qui consulte les comptes sans pouvoir déplacer d'argent, limite ce risque ; c'est ainsi qu'Anthropic présente son outil de finances personnelles.",
+        "sources": ["TechCrunch (web)"],
+        "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+      }
+    ],
+    "models": [
+      {"name": "Gemini 4 Neon", "maker": "Google", "date": "18 nov.", "access": "Appli Gemini et Antigravity (AI Pro et Ultra), API payante ; contexte d'un million de jetons.", "price": "3 $ / 15 $ par million de jetons"},
+      {"name": "GPT-6.2 Astra", "maker": "OpenAI", "date": "17 nov.", "access": "ChatGPT Work et Codex (Plus, Pro, Enterprise, Edu), API.", "price": "8 $ / 40 $ par million de jetons"},
+      {"name": "GPT-6.2 Sol", "maker": "OpenAI", "date": "17 nov.", "access": "ChatGPT Work et Codex, API.", "price": "2 $ / 10 $ par million de jetons"},
+      {"name": "MAI Code 2", "maker": "Microsoft", "date": "17 nov.", "access": "GitHub Copilot ; OpenRouter et OpenCode annoncés.", "price": "Tarif promotionnel, selon Microsoft"},
+      {"name": "SenseNova Loop-9B", "maker": "SenseTime", "date": "18 nov.", "access": "Poids ouverts ; texte et images, contexte jusqu'à 512 000 jetons.", "price": "Gratuit (poids ouverts)"},
+      {"name": "Sage S2.1 Flash", "maker": "Shanghai AI Laboratory", "date": "18 nov.", "access": "Poids téléchargeables sur Hugging Face ; modèle scientifique de 321 milliards de paramètres.", "price": "Gratuit (poids ouverts)"}
+    ],
+    "claudeTitle": "Outils",
+    "claude": [
+      {"k": "Claude Code", "t": "Version 2.1.328 : des hooks MCP qui peuvent bloquer", "d": "Un hook de type mcp_tool peut désormais bloquer l'action si son appel échoue (\"onFailure\": \"block\"), comme les hooks de commande et HTTP. La version corrige aussi les commandes zsh qui échouaient sur un mot commençant par « = » (echo ====), la perte de la touche Échap aux invites de permission et des gels d'affichage. /status et claude doctor signalent un export OpenTelemetry sans destination.", "cmd": "claude update", "cmdLabel": "Terminal"},
+      {"k": "Gemini", "t": "Gemini 4 Neon dans le menu des modèles", "d": "Les abonnés Google AI Pro et Ultra peuvent le choisir dans l'appli Gemini et l'essayer dans AI Studio ; dans Antigravity, il sert d'agent de code. Les utilisateurs gratuits n'y ont pas accès pour l'instant."}
+    ],
+    "repos": [
+      {"name": "astral-sh/uv", "stars": "92,3 k", "week": "+258 en un jour", "lang": "Rust", "what": "Un gestionnaire de paquets et de projets Python extrêmement rapide, qui remplace pip, virtualenv et pipx : installation de Python, environnements, dépendances verrouillées, scripts autonomes.", "why": "La base d'un environnement Python propre et reproductible : chaque projet garde ses propres versions, sans conflit. Licence Apache 2.0.", "cmd": "curl -LsSf https://astral.sh/uv/install.sh | sh"},
+      {"name": "HKUDS/CLI-Anything", "stars": "60,0 k", "week": "+389 en un jour", "lang": "Python", "what": "Un registre de lignes de commande prêtes à l'emploi qui rendent des logiciels existants (édition vidéo, dessin, prise de notes…) pilotables par un agent de code.", "why": "Au lieu de cliquer dans une interface, l'agent appelle une commande documentée : plus fiable, plus facile à automatiser. Le gestionnaire cli-hub installe, met à jour et désinstalle chaque outil. Licence Apache 2.0.", "cmd": "pip install cli-anything-hub"},
+      {"name": "google-labs-code/stitch-skills", "stars": "10,5 k", "week": "+365 en un jour", "lang": "TypeScript", "what": "Des skills et plugins pour Google Stitch, l'outil de maquettes d'interfaces de Google, utilisables dans Claude Code, Cursor, Codex ou Gemini CLI.", "why": "Ils relient la conception d'écrans au code : l'agent génère une maquette dans Stitch puis construit les composants correspondants. Demande la configuration du serveur MCP de Stitch. Licence Apache 2.0.", "cmd": "npx plugins add google-labs-code/stitch-skills --scope project --target claude-code"}
+    ],
+    "briefs": [
+      ["Nvidia", "Plus aucune livraison de puces Hopper sous licence n'est prévue vers la Chine, après 2,4 Md$ de ventes chinoises au trimestre (The Verge)."],
+      ["OpenAI", "Ses modèles ont participé à la conception de puces : une refonte d'un multiplicateur réduit la surface estimée d'environ 15 % (OpenAI)."],
+      ["Recherche", "Selon OpenAI, le taux de réussite autonome de ses agents sur des tâches de recherche de deux à quatre heures est passé de 23 % en mars à 46 % en octobre, avec de grandes variations selon les tâches."],
+      ["Sécurité", "Le programme de cybersécurité Daybreak d'OpenAI s'ouvre à l'OTAN et aux gouvernements européens ; l'agence européenne ENISA l'a déjà utilisé (The Decoder)."],
+      ["Presse", "ChatGPT affichera des résumés et extraits du Figaro avec des liens vers les articles ; le groupe déploie aussi ChatGPT Enterprise en interne (OpenAI)."],
+      ["Deepfakes", "Paris Hilton et Alexandria Ocasio-Cortez pressent la Chambre de voter le DEFIANCE Act, adopté au Sénat, qui permettrait de poursuivre les auteurs de deepfakes sexuels (CNBC)."]
+    ],
+    "sources": [
+      ["Anthropic", "web, 18 nov.", "Communiqué sur le prix de l'introduction en Bourse"],
+      ["CNBC", "web, 18 nov.", "Introduction d'Anthropic, rôle de Claude Code, projets d'OpenAI"],
+      ["Google", "web, 18 nov.", "Gemini 4 Neon : accès, prix, résultats annoncés"],
+      ["TechCrunch", "web, 18 nov.", "Banques et agents d'IA : nouvelles conditions de Citi, PNC, Citizens"],
+      ["The Neuron", "web, 18-19 nov.", "Sélections du jour : modèles, Nvidia, OpenAI, Daybreak, Figaro, DEFIANCE Act"],
+      ["Changelog Claude Code", "web, 19 nov.", "Version 2.1.328"],
+      ["GitHub", "web, 19 nov.", "Dépôts en vogue, README et commandes"]
+    ]
+  }
+}
