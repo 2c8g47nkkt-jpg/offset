@@ -1,0 +1,1367 @@
+{
+ "date": "2026-11-20",
+ "label": "Vendredi 20 novembre 2026",
+ "period": "19 au 20 novembre",
+ "sourcesCount": 7,
+ "countLabel": "7 newsletters + 9 sources web",
+ "hero": {
+  "img": "img/2026-11-20/anthropic_nasdaq.jpg",
+  "alt": "Une vingtaine de personnes applaudissent derrière le pupitre du Nasdaq, sous un grand logo Anthropic",
+  "credit": "Charly Triballeau / AFP via Aktionnaire",
+  "eyebrow": "À la une",
+  "title": "Anthropic bondit de 17 % pour son premier jour en Bourse",
+  "lede": "Introduite à 83 $, l'action du créateur de Claude a ouvert jeudi à 111,50 $ (+34 %), avant de refluer pour clôturer à 97,17 $, en hausse de 17,1 % (Investing.com). Avec le placement privé de 26 Md$, l'opération atteint 107,3 Md$, un record. La société vaut environ 1 270 Md$ en capitalisation boursière, près de 1 760 Md$ en comptant toutes les actions et options. Mais le Nasdaq a reculé de plus de 2 %, à son plus bas depuis sept mois : l'euphorie d'Anthropic n'a pas suffi à rassurer un marché qui doute de l'IA."
+ },
+ "brief": [
+  [
+   "Anthropic",
+   "Clôture à 97,17 $, +17 % sur le prix d'introduction mais −12,9 % par rapport à l'ouverture."
+  ],
+  [
+   "Shenzhen",
+   "Trump, Xi et Putin promettent plus de produits pétroliers et des discussions sur le risque nucléaire."
+  ],
+  [
+   "Emploi",
+   "Selon Coface, l'IA freine déjà les embauches de cols blancs : 100 000 offres manquantes en France en 2026."
+  ],
+  [
+   "Cybersécurité",
+   "Lecornu juge la menace « particulièrement grave et inédite » ; les ministères devront y consacrer 5 % de leur budget numérique dès 2027."
+  ],
+  [
+   "Présidentielle",
+   "Édouard Philippe veut ne remplacer qu'un fonctionnaire sur trois partant à la retraite, soit 250 000 postes en cinq ans."
+  ]
+ ],
+ "figures": [
+  {
+   "v": "+17,1 %",
+   "l": "hausse de l'action Anthropic à la clôture de son premier jour (Investing.com)",
+   "dir": "up"
+  },
+  {
+   "v": "−2 %",
+   "l": "recul du Nasdaq jeudi, à son plus bas depuis sept mois (Investing.com)",
+   "dir": "down"
+  },
+  {
+   "v": "100 000",
+   "l": "offres d'emploi qualifiées manquantes en France en 2026 à cause de l'IA, selon Coface (Cosmos Finance)",
+   "dir": "down"
+  },
+  {
+   "v": "207 M€",
+   "l": "dégâts assurés des émeutes des 17 et 18 octobre, selon France Assureurs (Cosmos Finance)",
+   "dir": "up"
+  }
+ ],
+ "themes": [
+  {
+   "title": "Anthropic en Bourse : l'euphorie, puis les questions",
+   "stories": [
+    {
+     "eyebrow": "Marchés",
+     "title": "Une ouverture à 111,50 $, une clôture à 97,17 $",
+     "text": [
+      "Dès l'ouverture, l'action a gagné 34 % et a brièvement valorisé Anthropic à plus de 2 000 Md$. Elle a ensuite reculé de 12,9 % depuis ce sommet pour finir à 97,17 $ ; après la clôture, elle perdait encore 6,3 %, à 91,05 $ (Investing.com). Plus de 857 millions d'actions ont changé de mains.",
+      "La valorisation dépend du calcul : environ 1 270 Md$ en capitalisation boursière classique (Forbes, Aktionnaire), près de 1 760 Md$ en incluant actions restreintes et options. Selon Aktionnaire, la fortune cumulée des sept cofondateurs atteint 140 Md$ et 400 salariés deviennent « centimillionnaires »."
+     ],
+     "why": "Le premier jour d'une introduction mesure surtout l'écart entre l'offre de titres et la demande. Le prix fixé à 83 $ laissait une marge aux acheteurs : les banques préfèrent un léger « rabais » qui garantit une hausse initiale. La retombée en séance montre que l'enthousiasme a des limites dans un marché nerveux.",
+     "rep": 4,
+     "sources": [
+      "Aktionnaire",
+      "Cosmos Finance",
+      "Money Stack",
+      "myFT Daily Digest",
+      "Investing.com (web)",
+      "Forbes (web)"
+     ],
+     "more": [
+      "<b>Les analystes.</b> Melius Research vise 155 $ et Needham 150 $, ce dernier anticipant plus de 150 % de croissance du chiffre d'affaires en 2027 (Investing.com).",
+      "<b>Le montant.</b> 81,3 Md$ levés en Bourse, plus 26 Md$ de placement privé au même prix : 107,3 Md$ au total, loin devant SpaceX en juin (Cosmos Finance).",
+      "<b>Washington.</b> Quatre sénateurs des deux partis ont déposé un texte imposant aux sociétés cotées de mieux informer sur leur usage de l'IA (Semafor, via The Neuron)."
+     ],
+     "prog": "Marché primaire, formation des prix, asymétries d'information"
+    },
+    {
+     "eyebrow": "Valorisation",
+     "title": "602 Md$ de chiffre d'affaires pour justifier le prix",
+     "text": [
+      "Anthropic s'est engagée à dépenser environ 1 000 Md$ dans les prochaines années, dont 700 Md$ d'ici cinq ans, surtout en puissance de calcul (Aktionnaire). Selon un calcul du FT cité par Aktionnaire, il lui faudrait 602 Md$ de chiffre d'affaires annuel, trois fois celui de Meta, pour obtenir un rendement du capital investi de 20 %, la norme des géants de la tech.",
+      "Pour l'instant : 17 Md$ de chiffre d'affaires au troisième trimestre, +1 127 % sur un an. Mais les dépenses d'infrastructure ont bondi de 77 % en un trimestre, contre 47 % pour les revenus (Money Stack)."
+     ],
+     "why": "Money Stack pointe une circularité : Google et Nvidia injectent chacun 10 Md$ en parallèle de l'introduction, alors qu'ils vendent puces et cloud à Anthropic. Une partie de l'argent levé revient donc chez les actionnaires sous forme de commandes. Pour gagner des parts de marché, Anthropic casse aussi ses prix, jusqu'à −40 % pour le gouvernement américain (Aktionnaire).",
+     "rep": 3,
+     "sources": [
+      "Aktionnaire",
+      "Money Stack",
+      "myFT Daily Digest"
+     ],
+     "more": [
+      "<b>Le contrôle.</b> Les sept cofondateurs gardent 50,1 % des droits de vote : les nouveaux actionnaires « paient cher pour avoir peu à dire », résume Money Stack.",
+      "<b>La suite.</b> La prochaine grande introduction pourrait être celle d'OpenAI, qui vise une cotation en 2027."
+     ],
+     "prog": "Rentabilité du capital, actualisation, gouvernance d'entreprise"
+    },
+    {
+     "eyebrow": "Bourses",
+     "title": "Wall Street recule, Paris tient bon",
+     "text": [
+      "Jeudi, le Nasdaq a perdu plus de 2 % et Nvidia 3,3 % (Investing.com, Aktionnaire). Selon le Wall Street Journal cité par Money Stack, Nvidia a perdu plus de 1 000 Md$ de capitalisation depuis six mois. Un rapport accuse par ailleurs AMD d'entretenir des liens avec des sociétés chinoises sur liste noire (Aktionnaire).",
+      "À l'inverse, le CAC 40 a enchaîné cinq hausses, +2,82 % sur la semaine. Money Stack y voit un paradoxe : Paris doit sa solidité à son manque de valeurs technologiques."
+     ],
+     "why": "Goldman Sachs prévoit pourtant pour 2027 +16 % pour le S&P 500 et +13 % pour le Stoxx Europe 600, dividendes compris, malgré un net ralentissement des bénéfices : de 36 % à 11 % de croissance aux États-Unis, de 18 % à 7 % en Europe (Cosmos Finance). La composition sectorielle d'un indice pèse autant que la santé de l'économie nationale.",
+     "rep": 3,
+     "sources": [
+      "Aktionnaire",
+      "Money Stack",
+      "Cosmos Finance",
+      "Investing.com (web)"
+     ],
+     "prog": "Marchés financiers, diversification, cycles boursiers"
+    }
+   ]
+  },
+  {
+   "title": "Puissances : Shenzhen et la bataille des puces",
+   "stories": [
+    {
+     "img": "img/2026-11-20/trio_shenzhen.jpg",
+     "alt": "Vladimir Putin, Xi Jinping et Donald Trump debout côte à côte devant les drapeaux chinois et américain",
+     "credit": "V. Prokofyev / AFP via Aktionnaire",
+     "eyebrow": "Sommet à trois",
+     "title": "Plus de pétrole et des pourparlers nucléaires",
+     "text": [
+      "À l'issue de leur premier sommet à trois, Donald Trump, Xi Jinping et Vladimir Putin ont publié une « déclaration vers la paix ». Ils prévoient d'« augmenter la production et l'offre de produits pétroliers raffinés » et réaffirment qu'une guerre nucléaire ne peut être gagnée (Fox News).",
+      "Ils s'engagent aussi à discuter de la réduction des risques nucléaires et de la prolifération, sans évoquer de traité de désarmement. Le cours du pétrole n'a pas bougé (Aktionnaire)."
+     ],
+     "why": "La promesse pétrolière laisse les marchés sceptiques : les États-Unis produisent déjà au maximum, la Chine est importatrice et les raffineries russes sont endommagées par les drones ukrainiens (Aktionnaire). Plusieurs commentateurs y voient surtout un succès diplomatique pour Putin, réintégré dans un club des grandes puissances.",
+     "rep": 2,
+     "sources": [
+      "Aktionnaire",
+      "myFT Daily Digest",
+      "Fox News (web)"
+     ],
+     "more": [
+      "<b>Le contexte.</b> Les circuits pétroliers sont perturbés depuis le début de la guerre en Iran."
+     ],
+     "prog": "Relations internationales, énergie, puissance"
+    },
+    {
+     "img": "img/2026-11-20/nvidia_chine.jpg",
+     "alt": "Des visiteurs examinent une carte électronique sur un stand Nvidia lors d'un salon",
+     "credit": "via myFT Daily Digest",
+     "eyebrow": "Semi-conducteurs",
+     "title": "Washington autorise, Pékin et les fabricants freinent",
+     "text": [
+      "Les États-Unis ont approuvé des ventes de puces Nvidia et AMD à des entreprises chinoises (FT). Ces licences, accordées depuis l'été pour les puces H200, n'ont guère débouché sur des livraisons : Pékin a lui-même restreint les achats (Reuters).",
+      "Les nouvelles règles américaines limitent aussi l'accès à distance des entreprises chinoises aux puces avancées : Moonshot AI a renoncé à un contrat de 150 M$ en Indonésie (The Information, via The Neuron). La britannique Nscale, soutenue par Nvidia, prévient de son exposition à des fournisseurs menacés de liste noire, ce qui fragilise son projet d'introduction à 35 Md$ (FT)."
+     ],
+     "why": "Les puces sont devenues un instrument de puissance : en autorisant ou bloquant les ventes, Washington arbitre entre recettes de ses champions industriels et avance technologique de la Chine. Pékin, lui, pousse ses entreprises vers les puces nationales pour réduire sa dépendance.",
+     "rep": 3,
+     "sources": [
+      "myFT Daily Digest",
+      "Aktionnaire",
+      "Money Stack",
+      "Reuters (web)"
+     ],
+     "prog": "Rivalité sino-américaine, politique industrielle, contrôle des exportations"
+    },
+    {
+     "img": "img/2026-11-20/starship.jpg",
+     "alt": "Le lanceur Starship décolle au coucher du soleil dans un nuage de fumée",
+     "credit": "via myFT Daily Digest",
+     "eyebrow": "SpaceX",
+     "title": "Des puces en orbite, des prêteurs inquiets",
+     "text": [
+      "Les prêteurs du financement de 40 Md$ de puces de SpaceX veulent l'empêcher d'envoyer ce matériel en orbite (FT). Ces puces servent de garantie : une fois dans l'espace, elles deviendraient presque impossibles à saisir en cas de défaut.",
+      "En octobre, Elon Musk avait annoncé la conclusion de ce financement, monté autour d'Apollo, pour acheter des puces Nvidia."
+     ],
+     "why": "Un prêt garanti n'a de valeur que si le créancier peut récupérer l'actif. Le projet de calcul en orbite, porté aussi par Google qui a choisi Blue Origin pour lancer ses satellites en 2029 (The Verge), pose un problème juridique inédit.",
+     "rep": 1,
+     "sources": [
+      "myFT Daily Digest"
+     ],
+     "prog": "Financement par la dette, garanties, asymétrie d'information"
+    }
+   ]
+  },
+  {
+   "title": "L'IA au travail, et contre les systèmes",
+   "stories": [
+    {
+     "img": "img/2026-11-20/emploi_ia.jpg",
+     "alt": "Un homme âgé en costume attend sur une chaise à côté d'un robot humanoïde tenant une mallette",
+     "credit": "via Cosmos Finance",
+     "eyebrow": "Emploi",
+     "title": "L'IA freine les embauches de cols blancs",
+     "text": [
+      "Dans une étude publiée le 17 novembre, Coface estime qu'aux États-Unis la productivité des cols blancs (informatique, comptabilité, banque, conseil) progresse de plus de 5 % par an depuis l'arrivée de ChatGPT, contre 1,5 % entre 2010 et 2019. Il manquerait environ trois millions d'emplois de ce type par rapport à la tendance (Cosmos Finance).",
+      "En France, les offres dans les métiers exposés à l'IA sont 12 % inférieures à celles de métiers comparables depuis novembre 2022 ; en ressources humaines, comptabilité, informatique ou banque-assurance, près de 30 % sous leur tendance. Coface chiffre à plus de 100 000 les postes manquants en 2026. Les offres de la production industrielle sont, elles, 12 % au-dessus."
+     ],
+     "why": "L'ajustement ne passe pas par des licenciements massifs mais par des départs non remplacés et des embauches différées : « on embauche comme si on était en récession et on licencie comme en période d'expansion », résume Aurélien Duthoit. Ce sont donc les jeunes diplômés qui cherchent un premier poste qui en paient le prix. Il s'agit d'un écart à un scénario théorique, pas de suppressions constatées.",
+     "rep": 2,
+     "sources": [
+      "Cosmos Finance",
+      "myFT Daily Digest",
+      "L'Avenir (web)"
+     ],
+     "more": [
+      "<b>L'exemple.</b> Dans l'automobile, les offres pour les agents de maintenance ont augmenté de 20 %, contre 5 % pour les comptables (Cosmos Finance).",
+      "<b>L'expérience ne protège pas.</b> Pour les postes demandant au moins quatre ans d'expérience, les offres exposées à l'IA accusent un retard de 16 %.",
+      "<b>La comptabilité.</b> Le FT se demande si l'IA surpasse déjà les comptables débutants : utiles en un an, les modèles ne remplacent pas la relation client."
+     ],
+     "prog": "Progrès technique et emploi, destruction créatrice, marché du travail"
+    },
+    {
+     "img": "img/2026-11-20/commission_cyber.jpg",
+     "alt": "La silhouette d'un homme portant une oreillette devant le drapeau européen",
+     "credit": "via The Register",
+     "eyebrow": "Cybersécurité",
+     "title": "La menace « particulièrement grave et inédite »",
+     "text": [
+      "Après une réunion interministérielle au SGDSN, Sébastien Lecornu a décrit une menace qui ne laisse rien espérer d'une amélioration (AFP). Les ministères devront consacrer au moins 5 % de leur budget numérique à la cybersécurité dès 2027, puis 10 % en 2030 ; près de 20 000 organisations seront soumises à des exigences renforcées et le service d'assistance 17Cyber sera développé (Cosmos Finance).",
+      "Une filiale de La Poste a été visée le week-end dernier ; en octobre, une attaque attribuée à l'Iran a touché des centaines de réfrigérateurs connectés (AFP)."
+     ],
+     "why": "L'IA abaisse le coût des attaques : elle accélère la recherche de failles et permet de les multiplier. En Allemagne, le niveau de menace est jugé « critique » (FT). À Bruxelles, une attaque menée avec ARTEX, un outil de test d'intrusion assisté par IA, perturbe depuis plus de dix jours la paie et les remboursements médicaux des agents de la Commission (The Register).",
+     "rep": 2,
+     "sources": [
+      "Cosmos Finance",
+      "myFT Daily Digest",
+      "AFP (web)",
+      "The Register (web)"
+     ],
+     "prog": "Biens publics, sécurité, souveraineté numérique"
+    }
+   ]
+  },
+  {
+   "title": "France : l'État en campagne",
+   "stories": [
+    {
+     "eyebrow": "Fonction publique",
+     "title": "Philippe veut 250 000 postes en moins",
+     "text": [
+      "Édouard Philippe propose de ne remplacer qu'un fonctionnaire sur trois partant à la retraite, soit 250 000 postes supprimés en cinq ans, pour ramener le déficit de plus de 5 % à 2 % du PIB (The Friday memo). Il veut aussi supprimer progressivement le statut pour certaines missions administratives, en le réservant à l'enseignement, la police ou la justice (Cosmos Finance).",
+      "Sur près de 6 millions d'agents publics, 3,7 millions sont fonctionnaires. Selon François Lenglet, les économies seraient lentes : seuls 10 % des fonctionnaires ont plus de 60 ans."
+     ],
+     "why": "Laurent Joffrin rappelle que la France n'emploie pas beaucoup plus d'agents publics que la moyenne de l'OCDE, et que ces postes sont souvent des enseignants, soignants, policiers ou magistrats. Réduire la masse salariale publique est un levier budgétaire, mais il dépend de la nature des postes supprimés.",
+     "rep": 2,
+     "sources": [
+      "The Friday memo",
+      "Cosmos Finance"
+     ],
+     "prog": "Dépense publique, État, finances publiques"
+    },
+    {
+     "eyebrow": "Emploi",
+     "title": "« Territoires zéro chômeur » devient permanent",
+     "text": [
+      "L'Assemblée a définitivement adopté, par 258 voix contre 3, la pérennisation du dispositif lancé il y a dix ans. Il emploie 4 300 salariés au Smic dans 85 territoires, au sein d'entreprises à but d'emploi (Cosmos Finance).",
+      "Le financement inquiète : 63 M€ sont prévus pour 2027, contre 99 M€ jugés nécessaires."
+     ],
+     "why": "L'idée est de financer des emplois utiles localement avec l'argent que coûte le chômage de longue durée (allocations, coûts sociaux). Le débat porte sur le coût net par emploi créé, comparé à d'autres politiques actives.",
+     "rep": 1,
+     "sources": [
+      "Cosmos Finance"
+     ],
+     "prog": "Chômage, politiques de l'emploi, exclusion"
+    },
+    {
+     "eyebrow": "Émeutes",
+     "title": "207 M€ de dégâts en deux jours",
+     "text": [
+      "Les émeutes des 17 et 18 octobre ont provoqué 207 M€ de dégâts assurés, selon France Assureurs : 5 280 sinistres, dont 95 % du coût porte sur des biens professionnels (Cosmos Finance, Aktionnaire).",
+      "La facture est comparable à celle des émeutes de 2005 ou des Gilets jaunes, malgré des violences concentrées sur deux jours."
+     ],
+     "why": "Les assureurs mutualisent ce risque, mais sa répétition pèse sur les primes des commerçants dans les quartiers touchés : un coût social qui dépasse les seuls dégâts.",
+     "rep": 2,
+     "sources": [
+      "Cosmos Finance",
+      "Aktionnaire"
+     ],
+     "prog": "Assurance, cohésion sociale"
+    }
+   ]
+  },
+  {
+   "title": "Attention, médias et démocratie",
+   "stories": [
+    {
+     "img": "img/2026-11-20/gta_times_square.jpg",
+     "alt": "Des écrans publicitaires géants pour GTA VI au-dessus d'un carrefour new-yorkais, la nuit",
+     "credit": "Jeenah Moon / Reuters via Aktionnaire",
+     "eyebrow": "Économie de l'attention",
+     "title": "La « grippe GTA »",
+     "text": [
+      "GTA VI, sorti jeudi, a suscité 2,6 millions de messages en 24 heures sur les réseaux, 7 % de plus que le coup d'envoi de la Coupe du monde (Aktionnaire). 12,13 millions d'exemplaires avaient été précommandés sur Xbox et PlayStation, pour 1,18 Md$ (The Next Big Sh*t).",
+      "30 % des salariés interrogés envisagent de prendre du temps pour jouer, et plus d'un tiers d'entre eux pourraient se déclarer malades. Logitech offre une journée à ses 7 000 salariés. Le jeu est interdit en Chine."
+     ],
+     "why": "L'attention est une ressource rare : Sensor Tower prévoit 10 % de joueurs quotidiens en moins sur les autres jeux le mois suivant. Ubisoft anticipe une chute de 26 % de ses revenus au trimestre des fêtes et doit rembourser 675 M€ en novembre 2027 (Aktionnaire). Côté production, des salariés de Rockstar dénoncent des semaines de 80 heures (Money Stack).",
+     "rep": 3,
+     "sources": [
+      "Aktionnaire",
+      "The Next Big Sh*t",
+      "Money Stack"
+     ],
+     "prog": "Concurrence, industries culturelles, conditions de travail"
+    },
+    {
+     "eyebrow": "Presse",
+     "title": "La « sécession informationnelle »",
+     "text": [
+      "Le groupe de médias de LVMH (Les Échos, Le Parisien) signe avec OpenAI : outils d'IA pour les journalistes et contenus intégrés à ChatGPT avec des liens vers les articles (The Friday memo). Le Monde, premier à franchir le pas en 2024, affirme que ChatGPT convertit vingt fois mieux en abonnements que Facebook.",
+      "Selon la Fondation Jean-Jaurès, trois Français sur quatre ont limité ou coupé leur consommation d'actualité cette année ; les désintéressés sont passés de 20 % à 26 % en quatre ans."
+     ],
+     "why": "Le risque démocratique n'est pas que chacun s'informe autrement, mais que les publics ne partagent plus de faits communs. Un assistant qui résume l'actualité sur mesure pour chacun pourrait renforcer ces bulles, au moment où la presse y voit une source de revenus.",
+     "rep": 1,
+     "sources": [
+      "The Friday memo"
+     ],
+     "prog": "Médias, opinion publique, démocratie"
+    },
+    {
+     "eyebrow": "Opinion",
+     "title": "Sortir du populisme en le traversant",
+     "text": [
+      "Pour Janan Ganesh, le Royaume-Uni et les États-Unis, premiers touchés par la fièvre populiste, pourraient être les premiers à s'en remettre : il faudrait qu'un mouvement soit essayé et échoue pour être vaincu (FT Opinion).",
+      "Robert Armstrong rappelle que les États-Unis ne construisent toujours pas assez de logements pour permettre aux gens de s'installer là où sont les bons emplois."
+     ],
+     "why": "Les causes économiques du vote populiste (logement, mobilité, déclassement) restent entières : la défaite électorale d'un mouvement ne règle pas ses ressorts. Les élections de mi-mandat américaines, largement favorables aux démocrates, ont déçu Elon Musk, qui dit ne pas être « MAGA » après près de 500 M$ de dons (Aktionnaire).",
+     "rep": 2,
+     "sources": [
+      "FT Opinion",
+      "Aktionnaire"
+     ],
+     "prog": "Populisme, logement, géographie économique"
+    }
+   ]
+  }
+ ],
+ "briefs": [
+  [
+   "Banques",
+   "Berlin, qui détient 13 % de Commerzbank, donne un accord de principe au rachat par UniCredit, qui maintiendra le siège à Francfort (Aktionnaire) ; Bruxelles avait validé l'opération sans condition le 16 novembre (Commission européenne)."
+  ],
+  [
+   "Immobilier américain",
+   "Les promesses de vente chutent de 17 % sur un an, au plus bas depuis 2001, avec des taux de crédit à 30 ans au-dessus de 7 % (Cosmos Finance)."
+  ],
+  [
+   "Art",
+   "Le dernier tableau de Van Gogh, Châtaigniers en fleurs, s'est vendu 190,4 M$, record pour le peintre (Aktionnaire), après un accord avec les héritiers de son ancien propriétaire juif (The Art Newspaper)."
+  ],
+  [
+   "BCE",
+   "Paris et Berlin s'entendent sur l'Espagnol Pablo Hernández de Cos pour succéder à Christine Lagarde ; la France cède le poste d'économiste en chef à l'Allemagne (Money Stack)."
+  ],
+  [
+   "Énergie",
+   "L'Agence internationale de l'énergie prévient que la consommation d'électricité des centres de données pourrait doubler d'ici 2030 (Aktionnaire)."
+  ],
+  [
+   "Streaming",
+   "Les plateformes de niche décollent aux États-Unis : 42 millions d'abonnés, +20 % par an contre 7 % pour les grandes (The Next Big Sh*t)."
+  ],
+  [
+   "Présidentielle",
+   "L'Arcom imposera aux grands créateurs de vidéos les mêmes règles de pluralisme qu'aux télévisions et radios pour 2027 (Aktionnaire)."
+  ]
+ ],
+ "good": "La Bretagne affiche le chômage le plus faible de France depuis plus de vingt ans : 6,8 % au deuxième trimestre 2026, contre 8,3 % au niveau national, grâce à une économie diversifiée entre agroalimentaire, industrie navale, tourisme et cybersécurité (Cosmos Finance).",
+ "map": {
+  "start": "ia",
+  "nodes": [
+   {
+    "id": "ia",
+    "x": 200,
+    "y": 34,
+    "l": [
+     "Boom de",
+     "l'IA"
+    ],
+    "t": "Le moteur",
+    "d": "Modèles plus performants, investissements colossaux."
+   },
+   {
+    "id": "ipo",
+    "x": 100,
+    "y": 122,
+    "l": [
+     "Anthropic",
+     "en Bourse"
+    ],
+    "t": "Le marché",
+    "d": "+17 % le premier jour, environ 1 270 Md$ de capitalisation."
+   },
+   {
+    "id": "puces",
+    "x": 300,
+    "y": 122,
+    "l": [
+     "Course",
+     "aux puces"
+    ],
+    "t": "Le calcul",
+    "d": "Près de 1 000 Md$ d'engagements pour Anthropic seule."
+   },
+   {
+    "id": "prod",
+    "x": 100,
+    "y": 222,
+    "l": [
+     "Productivité",
+     "des cols blancs"
+    ],
+    "t": "L'effet",
+    "d": "Plus de 5 % par an aux États-Unis depuis ChatGPT (Coface)."
+   },
+   {
+    "id": "chine",
+    "x": 300,
+    "y": 222,
+    "l": [
+     "Licences",
+     "vers la Chine"
+    ],
+    "t": "La géopolitique",
+    "d": "Washington autorise, Pékin freine, les règles se durcissent."
+   },
+   {
+    "id": "emploi",
+    "x": 100,
+    "y": 322,
+    "l": [
+     "Embauches",
+     "freinées"
+    ],
+    "t": "Le coût social",
+    "d": "100 000 offres qualifiées manquantes en France en 2026."
+   },
+   {
+    "id": "cyber",
+    "x": 300,
+    "y": 322,
+    "l": [
+     "Attaques",
+     "assistées par IA"
+    ],
+    "t": "Le risque",
+    "d": "Commission européenne, ministères français, Allemagne."
+   },
+   {
+    "id": "etat",
+    "x": 200,
+    "y": 414,
+    "l": [
+     "États",
+     "en réaction"
+    ],
+    "t": "La réponse",
+    "d": "Budgets de cybersécurité, débats sur l'emploi et la régulation."
+   }
+  ],
+  "edges": [
+   [
+    "ia",
+    "ipo"
+   ],
+   [
+    "ia",
+    "puces"
+   ],
+   [
+    "ipo",
+    "prod"
+   ],
+   [
+    "puces",
+    "chine"
+   ],
+   [
+    "prod",
+    "emploi"
+   ],
+   [
+    "chine",
+    "cyber"
+   ],
+   [
+    "emploi",
+    "etat"
+   ],
+   [
+    "cyber",
+    "etat"
+   ]
+  ]
+ },
+ "dossiers": [
+  {
+   "eyebrow": "Valorisation",
+   "title": "Que paie-t-on en achetant Anthropic à 97 $ ?",
+   "q": "Selon un calcul du FT, Anthropic devrait réaliser 602 Md$ de chiffre d'affaires annuel pour offrir un rendement du capital de 20 %. Comment le marché peut-il la valoriser 1 270 Md$ ?",
+   "steps": [
+    [
+     "Le principe",
+     "Des profits futurs actualisés.",
+     "Le prix d'une action reflète la valeur présente des flux attendus, pas les résultats actuels."
+    ],
+    [
+     "La croissance",
+     "+1 127 % sur un an.",
+     "17 Md$ de chiffre d'affaires au troisième trimestre (Money Stack)."
+    ],
+    [
+     "Les coûts",
+     "Le calcul pèse lourd.",
+     "Dépenses d'infrastructure +77 % en un trimestre, contre +47 % pour les revenus."
+    ],
+    [
+     "L'exigence",
+     "Le rendement du capital.",
+     "Pour 20 % de rendement comme Alphabet ou Microsoft, il faudrait 602 Md$ de revenus, trois fois Meta (FT, via Aktionnaire)."
+    ],
+    [
+     "Le verdict",
+     "Le marché hésite.",
+     "Ouverture à 111,50 $, clôture à 97,17 $ : l'enthousiasme initial s'est érodé dès la première séance."
+    ]
+   ],
+   "calc": true,
+   "refs": [
+    "<b>Irving Fisher.</b> La valeur d'un actif est la somme actualisée de ses revenus futurs.",
+    "<b>Myron Gordon.</b> Le prix dépend de l'écart entre taux d'actualisation et taux de croissance : une petite variation change tout quand la croissance est forte.",
+    "<b>Joseph Schumpeter.</b> La rente de l'innovateur est temporaire : la concurrence finit par l'éroder.",
+    "<b>Robert Shiller.</b> Les récits et l'exubérance peuvent éloigner durablement les prix des fondamentaux."
+   ],
+   "accroche": "Le 19 novembre 2026, Anthropic termine sa première séance à 97,17 $, après avoir ouvert à 111,50 $ : en quelques heures, le marché a révisé de plusieurs centaines de milliards la valeur qu'il lui prête.",
+   "sujets": [
+    "Les marchés financiers sont-ils efficients ?",
+    "Comment évaluer une entreprise innovante ?",
+    "La finance est-elle au service de l'innovation ?"
+   ]
+  },
+  {
+   "eyebrow": "Marché du travail",
+   "title": "L'IA détruit-elle l'emploi qualifié ?",
+   "q": "Coface estime qu'il manque trois millions d'emplois de cols blancs aux États-Unis et 100 000 offres en France en 2026. Est-ce le chômage technologique annoncé ?",
+   "steps": [
+    [
+     "Le choc",
+     "Une productivité qui accélère.",
+     "Plus de 5 % par an pour les cols blancs américains, contre 1,5 % avant 2020."
+    ],
+    [
+     "L'ajustement",
+     "Des postes qui ne s'ouvrent pas.",
+     "Départs non remplacés et embauches différées, sans plan social."
+    ],
+    [
+     "La sélection",
+     "Les métiers exposés décrochent.",
+     "Offres françaises 12 % sous celles de métiers comparables ; près de 30 % sous la tendance en RH, comptabilité, informatique."
+    ],
+    [
+     "Le déversement",
+     "D'autres métiers recrutent.",
+     "Production industrielle +12 % au-dessus de sa tendance ; maintenance automobile +20 %."
+    ],
+    [
+     "L'inconnue",
+     "De nouvelles activités ?",
+     "Tout dépend de la capacité des gains de productivité à créer de nouveaux besoins."
+    ]
+   ],
+   "split": [
+    [
+     "Une destruction créatrice classique",
+     "Les gains de productivité baissent les prix, augmentent le revenu réel et finissent par créer des emplois ailleurs, comme lors des révolutions industrielles."
+    ],
+    [
+     "Un choc d'une nature nouvelle",
+     "L'IA touche des tâches cognitives, donc les emplois qualifiés et les débutants : le déversement pourrait être lent et inégalitaire."
+    ]
+   ],
+   "refs": [
+    "<b>Joseph Schumpeter.</b> La destruction créatrice : l'innovation détruit des activités et en crée d'autres.",
+    "<b>Alfred Sauvy.</b> La théorie du déversement : les emplois perdus dans un secteur se reportent vers de nouveaux secteurs.",
+    "<b>John Maynard Keynes (1930).</b> Le « chômage technologique », lié à un progrès plus rapide que notre capacité à trouver de nouveaux usages du travail.",
+    "<b>Daron Acemoglu et Pascual Restrepo.</b> L'automatisation crée un effet de déplacement ; seule la création de nouvelles tâches le compense."
+   ],
+   "accroche": "« On embauche comme si on était en récession et on licencie comme en période d'expansion » : c'est ainsi que l'économiste Aurélien Duthoit résume l'effet de l'IA sur les cols blancs américains en novembre 2026.",
+   "sujets": [
+    "Le progrès technique est-il destructeur d'emplois ?",
+    "Faut-il craindre la fin du travail ?",
+    "Les gains de productivité profitent-ils à tous ?"
+   ]
+  },
+  {
+   "eyebrow": "Finances publiques",
+   "title": "Réduire le nombre de fonctionnaires, une bonne méthode ?",
+   "q": "Édouard Philippe propose 250 000 postes en moins en cinq ans pour ramener le déficit à 2 % du PIB. La mesure est-elle efficace ?",
+   "steps": [
+    [
+     "Le constat",
+     "Un déficit au-delà de 5 %.",
+     "Le candidat veut le ramener à 2 % du PIB."
+    ],
+    [
+     "La mesure",
+     "Un départ sur trois remplacé.",
+     "Soit 250 000 postes en cinq ans, sans licenciement."
+    ],
+    [
+     "La limite démographique",
+     "Des économies lentes.",
+     "Seuls 10 % des fonctionnaires ont plus de 60 ans : les départs à la retraite sont étalés (François Lenglet)."
+    ],
+    [
+     "La composition",
+     "Quels postes ?",
+     "Enseignants, soignants, policiers et magistrats forment une large part des effectifs."
+    ],
+    [
+     "L'alternative",
+     "Le statut.",
+     "Réserver le statut aux missions régaliennes et à l'enseignement change la gestion, pas immédiatement la dépense."
+    ]
+   ],
+   "split": [
+    [
+     "Un levier nécessaire",
+     "La masse salariale publique est l'un des premiers postes de dépense ; sans maîtrise des effectifs, le redressement repose sur les impôts."
+    ],
+    [
+     "Un levier trompeur",
+     "La France n'a pas beaucoup plus d'agents que la moyenne de l'OCDE ; supprimer des postes sans revoir les missions dégrade les services publics."
+    ]
+   ],
+   "refs": [
+    "<b>Adolph Wagner.</b> La dépense publique tend à croître plus vite que le revenu national.",
+    "<b>William Niskanen.</b> Les bureaucraties cherchent à maximiser leur budget.",
+    "<b>Richard Musgrave.</b> Les trois fonctions de l'État : allocation, redistribution, stabilisation.",
+    "<b>Alberto Alesina.</b> Les ajustements budgétaires fondés sur la baisse des dépenses seraient moins récessifs que ceux fondés sur les impôts."
+   ],
+   "accroche": "En novembre 2026, Édouard Philippe promet de supprimer 250 000 postes de fonctionnaires en cinq ans : une promesse classique des campagnes présidentielles, rarement tenue.",
+   "sujets": [
+    "Faut-il réduire la dépense publique ?",
+    "Quel rôle pour l'État dans l'économie ?",
+    "Peut-on réformer l'État en période de déficit ?"
+   ]
+  }
+ ],
+ "flash": [
+  [
+   "97,17 $",
+   "Anthropic",
+   "Cours de clôture du premier jour, pour un prix d'introduction de 83 $."
+  ],
+  [
+   "107,3 Md$",
+   "Record",
+   "Montant total levé par Anthropic, placement privé compris."
+  ],
+  [
+   "602 Md$",
+   "FT",
+   "Chiffre d'affaires annuel nécessaire à Anthropic pour 20 % de rendement du capital."
+  ],
+  [
+   "3 millions",
+   "États-Unis",
+   "Emplois de cols blancs manquants par rapport à la tendance, selon Coface."
+  ],
+  [
+   "100 000",
+   "France",
+   "Offres d'emploi qualifiées manquantes en 2026, selon Coface."
+  ],
+  [
+   "5 %",
+   "Cybersécurité",
+   "Part minimale du budget numérique des ministères en 2027, puis 10 % en 2030."
+  ],
+  [
+   "250 000",
+   "Fonction publique",
+   "Postes supprimés en cinq ans dans le programme d'Édouard Philippe."
+  ],
+  [
+   "2,6 millions",
+   "GTA VI",
+   "Messages publiés en 24 heures sur les réseaux sociaux."
+  ],
+  [
+   "−17 %",
+   "Immobilier américain",
+   "Promesses de vente sur un an, au plus bas depuis 2001."
+  ]
+ ],
+ "quiz": [
+  {
+   "q": "À quel prix l'action Anthropic a-t-elle clôturé son premier jour ?",
+   "o": [
+    "83 $",
+    "91,05 $",
+    "97,17 $",
+    "111,50 $"
+   ],
+   "a": 2,
+   "e": "97,17 $, soit +17,1 % sur le prix d'introduction de 83 $ ; 111,50 $ était le cours d'ouverture."
+  },
+  {
+   "q": "Pourquoi Money Stack parle-t-il de « circularité » autour de l'introduction d'Anthropic ?",
+   "o": [
+    "Anthropic rachète ses propres actions",
+    "Google et Nvidia investissent chez un client qui leur achète puces et cloud",
+    "Les banques prêtent aux acheteurs d'actions",
+    "Les cofondateurs revendent aussitôt leurs titres"
+   ],
+   "a": 1,
+   "e": "Google et Nvidia injectent chacun 10 Md$ alors qu'ils sont aussi fournisseurs d'Anthropic."
+  },
+  {
+   "q": "Que prévoit la déclaration de Shenzhen en matière d'énergie ?",
+   "o": [
+    "Une sortie des énergies fossiles",
+    "Une hausse de la production de produits pétroliers raffinés",
+    "Un embargo sur le pétrole iranien",
+    "Un prix plafond du baril"
+   ],
+   "a": 1,
+   "e": "Les trois pays prévoient d'augmenter la production et l'offre de produits pétroliers raffinés ; le cours du pétrole n'a pas réagi."
+  },
+  {
+   "q": "Selon Coface, comment l'IA pèse-t-elle d'abord sur l'emploi des cols blancs ?",
+   "o": [
+    "Par des licenciements massifs",
+    "Par des baisses de salaires",
+    "Par des embauches différées et des départs non remplacés",
+    "Par la fermeture d'entreprises"
+   ],
+   "a": 2,
+   "e": "C'est une automatisation « silencieuse » : les postes ne s'ouvrent pas, sans plan social."
+  },
+  {
+   "q": "Quelle part de leur budget numérique les ministères devront-ils consacrer à la cybersécurité en 2030 ?",
+   "o": [
+    "2 %",
+    "5 %",
+    "10 %",
+    "20 %"
+   ],
+   "a": 2,
+   "e": "Au moins 5 % dès 2027, puis 10 % en 2030."
+  },
+  {
+   "q": "Combien de postes Édouard Philippe propose-t-il de supprimer dans la fonction publique ?",
+   "o": [
+    "50 000",
+    "120 000",
+    "250 000",
+    "500 000"
+   ],
+   "a": 2,
+   "e": "250 000 en cinq ans, en ne remplaçant qu'un fonctionnaire sur trois partant à la retraite."
+  },
+  {
+   "q": "Quel indice boursier a enchaîné cinq hausses cette semaine, porté par son manque de valeurs technologiques ?",
+   "o": [
+    "Le Nasdaq",
+    "Le CAC 40",
+    "Le Nikkei",
+    "Le S&P 500"
+   ],
+   "a": 1,
+   "e": "Le CAC 40 a gagné 2,82 % en une semaine pendant que Wall Street reculait (Money Stack)."
+  },
+  {
+   "q": "Selon la Fondation Jean-Jaurès, quelle part des Français a limité ou coupé sa consommation d'actualité cette année ?",
+   "o": [
+    "Un sur quatre",
+    "La moitié",
+    "Trois sur quatre",
+    "Neuf sur dix"
+   ],
+   "a": 2,
+   "e": "Trois sur quatre ; les désintéressés sont passés de 20 % à 26 % en quatre ans."
+  }
+ ],
+ "colle": {
+  "title": "Le progrès technique menace-t-il l'emploi ?",
+  "parts": [
+   [
+    "Un progrès qui détruit d'abord des emplois",
+    [
+     "Productivité des cols blancs à plus de 5 % par an et trois millions d'emplois manquants aux États-Unis (Coface)",
+     "Effet de déplacement et chômage technologique (Keynes, Acemoglu)"
+    ]
+   ],
+   [
+    "Mais un progrès qui crée aussi des activités et des emplois",
+    [
+     "Déversement vers d'autres secteurs : production industrielle et maintenance recrutent (Sauvy)",
+     "Destruction créatrice et nouvelles tâches (Schumpeter, Acemoglu et Restrepo)"
+    ]
+   ],
+   [
+    "Une issue qui dépend des institutions et des politiques",
+    [
+     "Formation, accès des jeunes diplômés au premier emploi, politiques actives comme Territoires zéro chômeur",
+     "Partage des gains de productivité et régulation : fiscalité, information des investisseurs"
+    ]
+   ]
+  ]
+ },
+ "matrix": {
+  "cols": [
+   "Aktionnaire",
+   "Cosmos Finance",
+   "Money Stack",
+   "myFT Daily Digest",
+   "The Friday memo",
+   "The Next Big Sh*t",
+   "FT Opinion",
+   "Investing.com",
+   "Forbes",
+   "Fox News",
+   "AFP",
+   "The Register",
+   "Reuters",
+   "L'Avenir",
+   "Commission européenne",
+   "The Art Newspaper"
+  ],
+  "rows": [
+   [
+    "Introduction d'Anthropic",
+    [
+     1,
+     1,
+     1,
+     1,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "GTA VI et l'attention",
+    [
+     1,
+     0,
+     1,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Puces et Chine",
+    [
+     1,
+     0,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Bourses et Nvidia",
+    [
+     1,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Sommet de Shenzhen",
+    [
+     1,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "IA et emploi",
+    [
+     0,
+     1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ]
+   ],
+   [
+    "Cybersécurité",
+    [
+     0,
+     1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Fonction publique",
+    [
+     0,
+     1,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Émeutes d'octobre",
+    [
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Populisme et Musk",
+    [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ]
+  ]
+ },
+ "sources": [
+  [
+   "Aktionnaire",
+   "newsletter, ven. 20",
+   "Premier jour d'Anthropic, engagements et calcul du FT, sommet de Shenzhen, Ubisoft, UniCredit-Commerzbank, GTA VI, Van Gogh, Musk, brèves"
+  ],
+  [
+   "Cosmos Finance",
+   "newsletter, ven. 20",
+   "Étude Coface sur l'IA et l'emploi, Territoires zéro chômeur, émeutes, immobilier américain, cybersécurité, Bretagne, fonction publique, Goldman Sachs, Anthropic"
+  ],
+  [
+   "Money Stack",
+   "newsletter, ven. 20",
+   "Comptes et circularité d'Anthropic, CAC 40, GTA VI, BCE, Nvidia, centre de données, post sur GPT-6.2 Astra"
+  ],
+  [
+   "myFT Daily Digest",
+   "newsletter, ven. 20",
+   "Anthropic, puces vers la Chine, Shenzhen, SpaceX, Nscale, cyberattaques en Allemagne, comptables et IA"
+  ],
+  [
+   "The Friday memo",
+   "newsletter, jeu. 19",
+   "Programme d'Édouard Philippe sur les fonctionnaires, LVMH et OpenAI, sécession informationnelle, édition"
+  ],
+  [
+   "The Next Big Sh*t",
+   "newsletter, jeu. 19",
+   "GTA VI et absentéisme, streaming de niche, podcasts IA, prêt à l'Ukraine"
+  ],
+  [
+   "FT Opinion",
+   "newsletter, jeu. 19",
+   "Janan Ganesh sur le populisme, logement américain, vote à 16 ans, COP31"
+  ],
+  [
+   "Investing.com",
+   "web, 19-20 nov.",
+   "Cours d'ouverture et de clôture d'Anthropic, valorisations, analystes, Nasdaq"
+  ],
+  [
+   "Forbes",
+   "web, 19 nov.",
+   "Clôture à 97,17 $ et capitalisation d'environ 1 270 Md$"
+  ],
+  [
+   "Fox News",
+   "web, 19 nov.",
+   "Contenu de la déclaration de Shenzhen : pétrole, nucléaire, institutions"
+  ],
+  [
+   "AFP",
+   "web, 19 nov.",
+   "Déclarations de Sébastien Lecornu sur la menace cyber, attaques récentes (via Boursorama)"
+  ],
+  [
+   "The Register",
+   "web, 19 nov.",
+   "Cyberattaque assistée par IA contre la Commission européenne"
+  ],
+  [
+   "Reuters",
+   "web, juil. 2026",
+   "Licences américaines pour les puces H200 et AMD vers la Chine (via eWeek)"
+  ],
+  [
+   "L'Avenir",
+   "web, 17 nov.",
+   "Date et chiffre clé de l'étude Coface/OEM sur les offres d'emploi"
+  ],
+  [
+   "Commission européenne",
+   "web, 16 nov.",
+   "Autorisation sans condition du rachat de Commerzbank par UniCredit"
+  ],
+  [
+   "The Art Newspaper",
+   "web, 17 nov.",
+   "Accord avec les héritiers avant la vente du Van Gogh, précédent record"
+  ]
+ ],
+ "ia": {
+  "toc": "Anthropic cotée, Gemini prend la main sur le Mac, et une attaque assistée par IA paralyse la Commission européenne.",
+  "intro": "Modèles, outils et projets : ce qui change dans l'IA, et ce qui sert vraiment.",
+  "signalTitle": "Un labo coté, des agents qui pilotent l'ordinateur, et des attaquants qui s'en servent aussi",
+  "signal": [
+   {
+    "img": "img/2026-11-20/anthropic_nasdaq.jpg",
+    "alt": "Une vingtaine de personnes applaudissent derrière le pupitre du Nasdaq, sous un grand logo Anthropic",
+    "credit": "Charly Triballeau / AFP via Aktionnaire",
+    "eyebrow": "Anthropic · industrie",
+    "title": "Le créateur de Claude termine sa première séance à +17 %",
+    "text": [
+     "Ouverte à 111,50 $, l'action Anthropic a clôturé jeudi à 97,17 $, pour un prix d'introduction de 83 $ (Investing.com). Avec le placement privé, l'opération lève 107,3 Md$. Les analystes de Melius et Needham visent 150 à 155 $.",
+     "Pour justifier sa valorisation, Anthropic mise sur de nouveaux produits et des prix agressifs, jusqu'à −40 % pour l'administration américaine (Aktionnaire)."
+    ],
+    "why": "Quatre sénateurs américains des deux partis ont déposé dans la foulée un texte imposant aux sociétés cotées de détailler leur usage de l'IA (Semafor). Coté, un laboratoire publie ses comptes chaque trimestre : coûts de calcul, marges et contrats deviennent publics, ce qui éclaire aussi les prix que paient les utilisateurs.",
+    "sources": [
+     "Investing.com (web)",
+     "Aktionnaire",
+     "Semafor (web)"
+    ],
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-opens-34-above-ipo-price-reaches-2-trillion-valuation-in-nasdaq-debut-5039595"
+   },
+   {
+    "eyebrow": "Google · agents",
+    "title": "Gemini peut désormais utiliser votre Mac",
+    "text": [
+     "L'appli Gemini pour macOS sait exécuter des tâches à la place de l'utilisateur : naviguer dans les applications du Mac, remplir des formulaires, trier des fichiers dans des dossiers, répéter une opération sur une série de documents ou créer un diaporama. L'agent travaille dans un aperçu en direct, pendant qu'on garde la main sur l'écran ; on peut le mettre en pause, l'arrêter et approuver ses actions (TechCrunch).",
+     "Réservé pour l'instant aux États-Unis, en anglais, aux abonnés Google AI Plus, Pro et Ultra."
+    ],
+    "why": "OpenAI, Anthropic et Meta proposent déjà des fonctions comparables. Selon Bloomberg, Apple développe son propre agent capable de piloter applications, navigateur et code, et prépare des avertissements de permission pour les agents concurrents. Le contrôle de l'ordinateur devient le prochain terrain de concurrence, avec un enjeu évident d'accès aux données personnelles.",
+    "sources": [
+     "TechCrunch (web)",
+     "Bloomberg (web)"
+    ],
+    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+   },
+   {
+    "img": "img/2026-11-20/commission_cyber.jpg",
+    "alt": "La silhouette d'un homme portant une oreillette devant le drapeau européen",
+    "credit": "via The Register",
+    "eyebrow": "Sécurité",
+    "title": "Une attaque assistée par IA paralyse la Commission européenne",
+    "text": [
+     "Depuis plus de dix jours, des systèmes internes de la Commission sont perturbés : Sysper, le portail du personnel pour les fiches de paie et les congés, MyPMO pour les remboursements médicaux, et les services de traduction. Les défenseurs ont repéré ARTEX, un outil public de test d'intrusion assisté par IA (The Register, d'après Politico).",
+     "La Commission ne dit pas si des données ont été volées ; aucun attaquant n'a été identifié."
+    ],
+    "why": "Le développeur d'ARTEX a retiré son dépôt GitHub en octobre, mais des copies circulaient déjà. Selon le FBI, plus de 1 600 consoles ARTEX sont exposées sur internet, et des intrus sont passés de la cible à un accès privilégié en moins de trois heures. Les outils de test conçus pour les défenseurs servent aussi aux attaquants : mises à jour rapides et authentification à deux facteurs restent la première protection.",
+    "sources": [
+     "The Register (web)"
+    ],
+    "url": "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103"
+   }
+  ],
+  "models": [
+   {
+    "name": "Hy4 flash",
+    "maker": "Tencent",
+    "date": "19 nov.",
+    "access": "Poids ouverts sur Hugging Face (licence Tencent Hy) ; 224 milliards de paramètres dont 12 actifs, texte et images, contexte d'un million de jetons.",
+    "price": "Gratuit (poids ouverts)"
+   },
+   {
+    "name": "Genie 4",
+    "maker": "Google DeepMind",
+    "date": "19 nov.",
+    "access": "API Gemini et AI Studio pour les développeurs ; mondes interactifs en 720p à 24 images par seconde avec son.",
+    "price": "Tarif dans la documentation de l'API"
+   },
+   {
+    "name": "MAI Image 2.7 Flash",
+    "maker": "Microsoft",
+    "date": "17 nov.",
+    "access": "Microsoft Foundry ; génération d'images en grand volume.",
+    "price": "Environ 10 $ les 1 000 images, selon Microsoft"
+   },
+   {
+    "name": "MAI Realtime 1",
+    "maker": "Microsoft",
+    "date": "17 nov.",
+    "access": "Conversation vocale en temps réel ; essai dans MAI Labs, accès sur formulaire.",
+    "price": "À partir de 0,01 $ la minute audio"
+   },
+   {
+    "name": "DaisyRose-27B",
+    "maker": "RadixArk",
+    "date": "19 nov.",
+    "access": "Poids ouverts sur Hugging Face ; raisonnement et code, entraîné sur 1 200 tâches d'agent.",
+    "price": "Gratuit (poids ouverts)"
+   },
+   {
+    "name": "Gemini 4 Neon",
+    "maker": "Google",
+    "date": "18 nov.",
+    "access": "Appli Gemini et Antigravity (AI Pro et Ultra), API payante.",
+    "price": "3 $ / 15 $ par million de jetons"
+   }
+  ],
+  "claudeTitle": "Outils",
+  "claude": [
+   {
+    "k": "Claude Code",
+    "t": "Version 2.1.329 : les tâches planifiées visibles dans /tasks",
+    "d": "/tasks liste désormais les tâches planifiées de la session, les réveils de /loop et les conversations dérivées ; x en arrête une après confirmation. La boîte de dialogue de confiance indique où sont déclarés les hooks d'un dossier. La version corrige la remise à zéro de ~/.claude.json après un blocage réseau, les déconnexions répétées sur macOS quand le trousseau refuse l'écriture, et /code-review qui relisait parfois la branche locale au lieu de la pull request.",
+    "cmd": "claude update",
+    "cmdLabel": "Terminal"
+   },
+   {
+    "k": "Gemini",
+    "t": "L'agent qui pilote le Mac",
+    "d": "Dans l'appli Gemini pour macOS, on décrit une tâche (classer des fichiers, remplir un formulaire, appliquer la même opération à un lot de documents) et l'agent l'exécute en arrière-plan, avec validation des actions. États-Unis, anglais, abonnements AI Plus, Pro et Ultra uniquement pour l'instant."
+   },
+   {
+    "k": "Canva",
+    "t": "Un interrupteur pour couper l'IA",
+    "d": "Canva permet de désactiver des outils comme Magic Write et Magic Expand et de réduire les contenus générés par IA dans la recherche ; certains outils d'édition restent actifs (The Verge, via The Neuron)."
+   }
+  ],
+  "repos": [
+   {
+    "name": "firecrawl/firecrawl",
+    "stars": "204,5 k",
+    "week": "+825 en un jour",
+    "lang": "TypeScript",
+    "what": "Une API qui transforme des pages web en texte propre pour les agents : recherche, extraction d'une page, exploration d'un site entier, avec des connecteurs pour Claude Code et d'autres agents.",
+    "why": "Utile pour constituer automatiquement une veille ou une base documentaire à partir de sites. Fonctionne avec le service hébergé (clé d'API) ou en auto-hébergement. Licence AGPL-3.0.",
+    "cmd": "npx -y firecrawl-cli@latest scrape https://firecrawl.dev"
+   },
+   {
+    "name": "toeverything/AFFiNE",
+    "stars": "75,3 k",
+    "week": "+182 en un jour",
+    "lang": "TypeScript",
+    "what": "Une alternative open source à Notion et Miro : documents, tableaux blancs et bases de notes dans un même espace, avec synchronisation et collaboration.",
+    "why": "Conçu « local d'abord » : les données restent sur le disque, sans dépendre d'un service en ligne. Applications pour ordinateur sur affine.pro/download ; l'édition communautaire est gratuite en auto-hébergement sous licence MIT."
+   },
+   {
+    "name": "cathrynlavery/diagram-design",
+    "stars": "68,8 k",
+    "week": "+271 en un jour",
+    "lang": "HTML",
+    "what": "Une skill pour Claude Code, Codex, Cursor et d'autres agents qui produit 45 types de schémas (flux, architectures, chronologies) en HTML et SVG autonomes.",
+    "why": "Des schémas nets et réutilisables sans logiciel de dessin, exportables en PNG. Installable aussi comme plugin Claude Code avec mise à jour automatique. Licence MIT.",
+    "cmd": "npx skills add cathrynlavery/diagram-design"
+   }
+  ],
+  "briefs": [
+   [
+    "Meta",
+    "Des employés testant l'agent Muse auraient vu des messages, rappels et soldes bancaires sans rapport avec eux ; Meta dit tester des versions non publiques (TechCrunch)."
+   ],
+   [
+    "Google",
+    "Plus de 500 salariés demandent à l'entreprise de laisser les écoles utiliser la recherche classique sans les fonctions d'IA (Bloomberg)."
+   ],
+   [
+    "Espace",
+    "Google a choisi Blue Origin pour lancer en 2029 les satellites de Project Suncatcher, chacun conçu pour offrir la puissance d'une baie de centre de données (The Verge)."
+   ],
+   [
+    "Chine",
+    "Moonshot AI renonce à un contrat de 150 M$ de puces Nvidia en Indonésie après de nouvelles règles américaines sur l'accès à distance (The Information)."
+   ],
+   [
+    "OpenAI",
+    "Ses agents Codex ont mené plus de 1 700 enquêtes automatiques sur des ralentissements de ChatGPT en trois mois, et trouvé plus de 600 causes (OpenAI)."
+   ],
+   [
+    "Énergie",
+    "403 centres de données américains consomment près de 2 % de l'électricité du pays, en grande partie d'origine fossile (Semafor)."
+   ]
+  ],
+  "sources": [
+   [
+    "Investing.com",
+    "web, 19-20 nov.",
+    "Premier jour de cotation d'Anthropic, analystes"
+   ],
+   [
+    "Semafor",
+    "web, 19 nov.",
+    "Proposition de loi sur la transparence de l'IA, émissions des centres de données"
+   ],
+   [
+    "TechCrunch",
+    "web, 19 nov.",
+    "Gemini pour Mac, agent d'Apple, Meta Muse"
+   ],
+   [
+    "Bloomberg",
+    "web, 19 nov.",
+    "Agent d'Apple en développement, salariés de Google et écoles"
+   ],
+   [
+    "The Register",
+    "web, 19 nov.",
+    "Attaque ARTEX contre la Commission européenne"
+   ],
+   [
+    "Anthropic",
+    "web, 20 nov.",
+    "Changelog de Claude Code 2.1.329"
+   ],
+   [
+    "TechNode",
+    "web, 19 nov.",
+    "Poids de Hy4 flash"
+   ],
+   [
+    "Google",
+    "web, 19 nov.",
+    "Genie 4 dans l'API Gemini"
+   ],
+   [
+    "Microsoft AI",
+    "web, 17 nov.",
+    "Modèles MAI annoncés à Ignite"
+   ],
+   [
+    "Hugging Face",
+    "web, 19 nov.",
+    "DaisyRose-27B"
+   ],
+   [
+    "The Neuron",
+    "web, 19-20 nov.",
+    "Synthèses quotidiennes, Canva, Moonshot AI, OpenAI Performance Factory, Project Suncatcher"
+   ],
+   [
+    "GitHub",
+    "web, 20 nov.",
+    "Dépôts en tendance et README"
+   ]
+  ]
+ }
+}
