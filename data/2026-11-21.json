@@ -1,0 +1,1427 @@
+{
+ "date": "2026-11-21",
+ "label": "Samedi 21 novembre 2026",
+ "period": "20 au 21 novembre",
+ "sourcesCount": 5,
+ "countLabel": "5 newsletters + 12 sources web",
+ "hero": {
+  "img": "img/2026-11-21/krach_wall_street.jpg",
+  "alt": "Un opérateur, la tête dans les mains, devant des écrans de cotation à la Bourse de New York",
+  "credit": "Spencer Platt / Getty Images via CBC",
+  "eyebrow": "À la une",
+  "title": "Wall Street dévisse : la tech efface ses gains de l'année",
+  "lede": "Vendredi, le Nasdaq a chuté de 5,28 % et effacé toute sa hausse de 2026, pour sa pire semaine depuis avril 2025 (CBC). Le S&P 500 (−3,7 %) et le Dow Jones (−1,93 %) sont entrés en correction, soit plus de 10 % sous leur sommet. Au lendemain d'une entrée en Bourse record, Anthropic a perdu 8,5 % ; Nvidia a reculé d'environ 6 % après des informations de Reuters sur une enquête des régulateurs américains visant sa comptabilité. La vague a touché Tokyo, Séoul et Paris : le CAC 40 repasse sous les 8 000 points."
+ },
+ "brief": [
+  [
+   "Wall Street",
+   "Nasdaq −5,28 %, S&P 500 et Dow Jones en correction : les doutes sur la rentabilité de l'IA emportent la tech."
+  ],
+  [
+   "Anthropic",
+   "−8,5 % pour son deuxième jour de cotation, après +17 % jeudi ; Nvidia visée par une enquête sur sa comptabilité."
+  ],
+  [
+   "Royaume-Uni",
+   "Accord avec l'UE : 100 000 visas par an pour les 18-31 ans, fin de la plupart des contrôles alimentaires en 2028."
+  ],
+  [
+   "Ukraine",
+   "Washington veut un accord de paix d'ici début janvier, avant que les démocrates ne prennent le contrôle du Congrès."
+  ],
+  [
+   "COP31",
+   "Les négociations d'Antalya jouent les prolongations : le projet d'accord ne mentionne plus la sortie des énergies fossiles."
+  ]
+ ],
+ "figures": [
+  {
+   "v": "−5,28 %",
+   "l": "chute du Nasdaq vendredi, qui efface ses gains de 2026 (CBC)",
+   "dir": "down"
+  },
+  {
+   "v": "−8,5 %",
+   "l": "recul de l'action Anthropic pour son deuxième jour en Bourse (CBC, myFT)",
+   "dir": "down"
+  },
+  {
+   "v": "+100 000",
+   "l": "visas par an pour les jeunes Européens et Britanniques dans l'accord UE-Royaume-Uni (RTÉ, FT Newswrap)",
+   "dir": "up"
+  },
+  {
+   "v": "3,79 Md$",
+   "l": "ventes de GTA VI le premier jour, un record pour le divertissement (Rockstar, via GMA News)",
+   "dir": "up"
+  }
+ ],
+ "themes": [
+  {
+   "title": "Krach de la tech : le doute sur l'IA s'installe",
+   "stories": [
+    {
+     "eyebrow": "Marchés",
+     "title": "La pire semaine pour la tech depuis avril 2025",
+     "text": [
+      "Vendredi, le Nasdaq a perdu 5,28 % et effacé toute sa progression de l'année. Le S&P 500 (−3,7 %) et le Dow Jones (−1,93 %) sont désormais en correction (CBC). Le Nasdaq 100 a reculé de 5,6 % : le FT parle d'entrée en marché baissier, StockAnalysis d'une clôture juste au-dessus du seuil de −20 %.",
+      "La vague est mondiale. Le Nikkei et le Kospi ont chuté de plus de 5 % ; à Paris, le CAC 40 a cédé 1,89 % à 7 927,75 points, soit −5,27 % sur la semaine, avec STMicroelectronics en tête des baisses (−10,81 %, selon Moneyvox)."
+     ],
+     "why": "L'analyste Dan Ives évoque une « tempête parfaite » : crise de direction chez Nvidia, contrôles plus stricts sur les puces vendues à la Chine, et crainte d'un ralentissement des centres de données après la victoire des démocrates aux élections de mi-mandat. Pour le FT, la « fièvre de l'IA » retombe : les actions américaines se dirigent vers l'une de leurs pires années depuis vingt ans.",
+     "rep": 5,
+     "sources": [
+      "myFT Daily Digest",
+      "FT Opinion",
+      "FT Newswrap",
+      "CBC (web)",
+      "StockAnalysis (web)",
+      "Moneyvox (web)"
+     ],
+     "more": [
+      "<b>Le vocabulaire.</b> Une correction désigne une baisse d'au moins 10 % depuis un sommet ; un marché baissier, une baisse d'au moins 20 %.",
+      "<b>L'analogie.</b> Une tribune du FT compare Nvidia à une « quasi-banque centrale » de l'IA, comme l'assureur AIG avant la crise des subprimes : un acteur dont tout le système dépend.",
+      "<b>La dette.</b> Les prêteurs de SpaceX s'inquiètent que les puces d'IA données en garantie d'un financement de 43 Md$ finissent... dans l'espace (FT Newswrap)."
+     ],
+     "prog": "Bulles spéculatives, instabilité financière, contagion internationale"
+    },
+    {
+     "eyebrow": "Anthropic",
+     "title": "Après l'euphorie, un deuxième jour à −8,5 %",
+     "text": [
+      "Jeudi, l'action du créateur de Claude avait terminé sa première séance en hausse de 17 % sur son prix d'introduction de 83 $. Vendredi, elle a perdu 8,5 % (CBC, myFT).",
+      "L'opération reste historique : 81,3 Md$ levés en Bourse et 26 Md$ de placement privé, soit 107,3 Md$ au total, pour une valorisation d'environ 1 500 Md$ (The Next Big Sh*t)."
+     ],
+     "why": "Anthropic a été présentée aux investisseurs comme un pari « pur » sur l'IA : contrairement à Google ou Meta, elle ne vit que de ses modèles. C'est précisément ce qui la rend sensible au moindre doute sur les dépenses du secteur.",
+     "rep": 4,
+     "sources": [
+      "myFT Daily Digest",
+      "FT Newswrap",
+      "The Next Big Sh*t",
+      "HyperTextes",
+      "CBC (web)"
+     ],
+     "prog": "Marché primaire, valorisation, financement de l'innovation"
+    },
+    {
+     "img": "img/2026-11-21/nvidia_siege.jpg",
+     "alt": "La façade sombre du siège de Nvidia, avec son logo vert illuminé",
+     "credit": "via myFT Daily Digest",
+     "eyebrow": "Semi-conducteurs",
+     "title": "Nvidia sous enquête, les puces fuient vers la Chine",
+     "text": [
+      "Selon Reuters, les régulateurs financiers américains enquêtent sur les pratiques comptables de Nvidia. L'action a reculé d'environ 6 % vendredi (CBC). L'entreprise est dirigée par intérim depuis le départ de Jensen Huang, le 12 novembre.",
+      "HyperTextes relaie une enquête sur les puces interdites qui parviennent en Chine par des intermédiaires installés à Singapour, ou via la location de serveurs à l'étranger. Dans le même temps, Washington a autorisé Nvidia et AMD à vendre des puces avancées à des groupes chinois dont certains sont liés, selon le Pentagone, à l'Armée populaire de libération (FT Newswrap)."
+     ],
+     "why": "Les contrôles à l'exportation montrent leurs limites : interdire une technologie ne suffit pas à empêcher un rival d'y accéder dans une économie mondialisée.",
+     "rep": 4,
+     "sources": [
+      "myFT Daily Digest",
+      "HyperTextes",
+      "FT Newswrap",
+      "FT Opinion",
+      "CBC (web)"
+     ],
+     "more": [
+      "<b>Le précédent.</b> En 2022, Nvidia avait payé 5,5 M$ pour clore des accusations de défaut d'information sur le poids du minage de cryptomonnaies dans ses ventes."
+     ],
+     "prog": "Rivalité sino-américaine, contrôle des exportations, gouvernance d'entreprise"
+    },
+    {
+     "img": "img/2026-11-21/trump_datacenters.jpg",
+     "alt": "Donald Trump s'exprime à un pupitre de la Maison Blanche, Marco Rubio derrière lui",
+     "credit": "AFP via CNBC",
+     "eyebrow": "Politique industrielle",
+     "title": "Trump menace de taxer les centres de données construits à l'étranger",
+     "text": [
+      "Vendredi, Donald Trump a affirmé que les entreprises américaines qui construisent des centres de données hors des États-Unis subiraient une taxe « énorme ». Sans cela, « la Chine les prendra tous », a-t-il déclaré (CNBC).",
+      "Aucun texte ni taux n'a été précisé. L'opposition aux centres de données a pesé dans les élections de mi-mandat, perdues par les républicains dans les deux chambres (NBC News)."
+     ],
+     "why": "Le président veut rapatrier l'infrastructure de l'IA au nom de la rivalité avec Pékin, alors même que les marchés doutent de la rentabilité de ces investissements.",
+     "rep": 1,
+     "sources": [
+      "myFT Daily Digest",
+      "CNBC (web)",
+      "NBC News (web)"
+     ],
+     "prog": "Protectionnisme, souveraineté technologique"
+    }
+   ]
+  },
+  {
+   "title": "Europe et monde : rapprochements et ultimatums",
+   "stories": [
+    {
+     "img": "img/2026-11-21/burnham_bruxelles.jpg",
+     "alt": "Andy Burnham sourit devant un panneau « EU-UK Summit 2026, Bruxelles, 20 novembre 2026 »",
+     "credit": "via RTÉ",
+     "eyebrow": "Royaume-Uni",
+     "title": "Londres et Bruxelles signent le plus grand rapprochement depuis le Brexit",
+     "text": [
+      "À Bruxelles, Andy Burnham a conclu trois accords. Un programme permettra aux 18-31 ans de vivre et travailler de l'autre côté de la Manche jusqu'à trois ans, avec 100 000 visas par an. Les contrôles sur les produits agricoles et alimentaires disparaîtront pour l'essentiel au 1er mars 2028 (RTÉ).",
+      "Un lien entre marchés du carbone, à partir de 2028, exemptera 6,5 Md£ d'exportations britanniques, notamment d'acier et d'aluminium, de la taxe carbone aux frontières de l'UE. Le Premier ministre chiffre le gain à 0,4 % de PIB à long terme (FT Newswrap)."
+     ],
+     "why": "Burnham juge l'accord « probablement la limite » de ce qui est faisable avant les prochaines élections, mais ouvre douze mois de réflexion sur la suite. L'adhésion à l'UE devrait devenir un enjeu central de la prochaine campagne.",
+     "rep": 2,
+     "sources": [
+      "FT Newswrap",
+      "FT Opinion",
+      "RTÉ (web)"
+     ],
+     "more": [
+      "<b>Le point de blocage.</b> L'UE exige que ses étudiants paient les mêmes frais que les Britanniques ; Londres propose 12 000 £ par an. Un délai de six mois a été fixé.",
+      "<b>Les scénarios.</b> Selon le Productivity Institute, revenir dans l'union douanière rapporterait 1,26 % de PIB, réintégrer l'UE 3,7 % à long terme.",
+      "<b>L'opposition.</b> Nigel Farage accuse Burnham de rouvrir le débat sur le Brexit ; Kemi Badenoch craint une concurrence accrue pour les emplois."
+     ],
+     "prog": "Intégration européenne, commerce international, union douanière"
+    },
+    {
+     "img": "img/2026-11-21/trump_putin.jpg",
+     "alt": "Donald Trump et Vladimir Putin se serrent la main devant une peinture chinoise",
+     "credit": "via Kyiv Post",
+     "eyebrow": "Ukraine",
+     "title": "Washington veut la paix avant janvier",
+     "text": [
+      "L'administration Trump a indiqué aux Européens qu'elle souhaite un accord entre Kyiv et Moscou d'ici début janvier, avant que les démocrates ne prennent le contrôle du Congrès (FT Newswrap).",
+      "Les démocrates veulent utiliser leurs pouvoirs pour renforcer l'aide à l'Ukraine et durcir les sanctions contre la Russie. Un responsable européen craint qu'un accord rapide n'exige d'importantes concessions ukrainiennes (Kyiv Post)."
+     ],
+     "why": "Pour l'expert Alexander Gabuev, Vladimir Putin est le vrai gagnant du sommet à trois de Shenzhen ; le FT appelle l'Europe à préparer sa propre diplomatie, sans récompenser l'agression par un « nouveau Yalta ».",
+     "rep": 2,
+     "sources": [
+      "FT Newswrap",
+      "FT Opinion",
+      "Kyiv Post (web)"
+     ],
+     "prog": "Relations internationales, puissance, sécurité européenne"
+    },
+    {
+     "img": "img/2026-11-21/cop31_antalya.jpg",
+     "alt": "Des militants déguisés manifestent sous une banderole « End fossil fuels » à la COP31",
+     "credit": "via RTÉ",
+     "eyebrow": "Climat",
+     "title": "COP31 : les fossiles disparaissent du texte",
+     "text": [
+      "Les négociations d'Antalya ont débordé vendredi. Le projet d'accord révisé ne fait plus référence à la fin des énergies fossiles et abandonne l'objectif de 120 Md$ de financement de l'adaptation, après des objections de l'Arabie saoudite et d'autres producteurs (Reuters).",
+      "Le Panama menace de bloquer tout accord sans plafond de production de pétrole. Le texte reconnaît pour la première fois que le réchauffement devrait dépasser le seuil de 1,5 °C, et vise 35 % d'électricité dans la consommation mondiale d'énergie en 2035."
+     ],
+     "why": "Les décisions de la COP se prennent par consensus : un seul pays peut bloquer, ce qui pousse les textes vers le plus petit dénominateur commun.",
+     "rep": 1,
+     "sources": [
+      "FT Newswrap",
+      "Reuters (web)"
+     ],
+     "prog": "Biens communs, négociations climatiques, passager clandestin"
+    },
+    {
+     "eyebrow": "Europe-Chine",
+     "title": "Préférence européenne contre usines chinoises délocalisées",
+     "text": [
+      "Bruxelles va favoriser les entreprises européennes dans les marchés publics de technologies quantiques, selon un plan présenté la semaine prochaine (myFT, FT Newswrap). Le FT relève aussi un « virage hérétique » : l'UE accepte des quotas d'exportation de facto avec la Chine.",
+      "En face, les industriels chinois implantent leurs usines à l'étranger : au moins 145 parcs industriels liés à la Chine, dont Tanger Tech au Maroc, qui doit accueillir environ 200 entreprises, surtout chinoises (The Next Big Sh*t)."
+     ],
+     "why": "L'Europe veut acheter moins de « made in China » et risque d'acheter davantage de « made by China » : la production change de pays, pas de propriétaire.",
+     "rep": 3,
+     "sources": [
+      "myFT Daily Digest",
+      "FT Newswrap",
+      "FT Opinion",
+      "The Next Big Sh*t"
+     ],
+     "prog": "Politique commerciale, investissements directs à l'étranger, souveraineté"
+    }
+   ]
+  },
+  {
+   "title": "France : ordre public, médias et budget",
+   "stories": [
+    {
+     "eyebrow": "Police",
+     "title": "La présomption d'usage légal des armes définitivement adoptée",
+     "text": [
+      "Le Parlement a adopté définitivement le texte vendredi : le Sénat l'a voté par 205 voix contre 110. Un policier ou un gendarme qui tire sera présumé avoir agi dans le cadre de la loi, jusqu'à preuve du contraire (AFP).",
+      "Les conditions d'absolue nécessité et de stricte proportionnalité restent inchangées, mais la charge de la preuve est inversée, ce qui pourrait compliquer le travail des victimes et des enquêteurs (HyperTextes). Une saisine du Conseil constitutionnel est annoncée."
+     ],
+     "why": "Les défenseurs y voient une protection face à des violences croissantes, les opposants un risque pour la confiance : dans les affaires Nahel ou Cédric Chouviat, des images avaient contredit les premières versions policières.",
+     "rep": 1,
+     "sources": [
+      "HyperTextes",
+      "AFP (web)"
+     ],
+     "prog": "État de droit, légitimité de l'État, libertés publiques"
+    },
+    {
+     "img": "img/2026-11-21/arcom_hugodecrypte.jpg",
+     "alt": "Un entretien filmé sur le plateau de HugoDécrypte, deux personnes assises face à face",
+     "credit": "via franceinfo",
+     "eyebrow": "Présidentielle 2027",
+     "title": "L'Arcom impose le pluralisme aux grands vidéastes",
+     "text": [
+      "Les grands créateurs de vidéos politiques, comme HugoDécrypte ou Guillaume Pley, devront respecter le pluralisme pendant la présidentielle : accès équitable aux candidats, puis temps de parole égaux pendant la campagne officielle (The Next Big Sh*t, franceinfo).",
+      "Les podcasts uniquement audio ne sont pas concernés, ni les chaînes sans débat public régulier."
+     ],
+     "why": "Le régulateur traite désormais ces créateurs comme des éditeurs : leur audience dépasse celle de certaines chaînes de télévision.",
+     "rep": 1,
+     "sources": [
+      "The Next Big Sh*t",
+      "franceinfo (web)"
+     ],
+     "prog": "Médias, démocratie, régulation"
+    },
+    {
+     "eyebrow": "Presse",
+     "title": "Le Figaro signe à son tour avec OpenAI",
+     "text": [
+      "Après Le Monde en 2024 et les médias de LVMH (Le Parisien, Les Échos), le groupe Figaro a conclu un accord avec OpenAI : ChatGPT affichera des résumés et des extraits de ses articles, avec des liens. Le montant n'est pas communiqué (AFP via France 24).",
+      "Le trafic des grands sites d'information aurait reculé de 20 % sur un an en octobre (TML Briefing, via HyperTextes). Le New York Times, lui, préfère la voie judiciaire."
+     ],
+     "why": "Mariage de raison : les éditeurs cèdent leurs contenus à la technologie qui détourne leurs lecteurs, en échange d'une rémunération et d'une visibilité dans les réponses.",
+     "rep": 1,
+     "sources": [
+      "HyperTextes",
+      "AFP (web)"
+     ],
+     "prog": "Économie des médias, plateformes, partage de la valeur"
+    },
+    {
+     "eyebrow": "Finances publiques",
+     "title": "Le budget 2027 arrive au Sénat",
+     "text": [
+      "Rejeté à l'Assemblée nationale le 4 novembre, faute d'adoption de sa première partie, le projet de loi de finances pour 2027 est examiné par le Sénat depuis vendredi (Sénat, Assemblée nationale).",
+      "Le gouvernement vise un déficit public de 5,0 % du PIB, au prix d'un effort de 54 Md€, avec une croissance attendue de 1,8 % (ministère de l'Économie)."
+     ],
+     "why": "Sans majorité, le budget avance par navette entre les deux chambres : le texte final dépendra des compromis trouvés en commission mixte paritaire.",
+     "rep": 0,
+     "sources": [
+      "Sénat (web)",
+      "Assemblée nationale (web)",
+      "economie.gouv.fr (web)"
+     ],
+     "prog": "Politique budgétaire, dette publique, institutions"
+    }
+   ]
+  },
+  {
+   "title": "Attention, machines et nouvelles règles",
+   "stories": [
+    {
+     "img": "img/2026-11-21/gta6.jpg",
+     "alt": "Visuel officiel de GTA VI : deux personnages devant des palmiers au coucher du soleil",
+     "credit": "Rockstar Games via GMA News",
+     "eyebrow": "Industries culturelles",
+     "title": "GTA VI : 3,79 Md$ en un jour",
+     "text": [
+      "Rockstar annonce 3,79 Md$ de ventes au détail le premier jour, un record tous divertissements confondus, près de cinq fois les quelque 800 M$ de GTA V en 2013 (GMA News). Le jeu a déjà rapporté plus que le film le plus rentable de l'histoire (myFT).",
+      "La première bande-annonce avait cumulé 93 millions de vues en 24 heures (HyperTextes)."
+     ],
+     "why": "Dans une industrie obsédée par la nouveauté, l'événement culturel qui fédère le plus repose sur une franchise née en 1997 : triomphe de la pop culture ou aveu qu'elle ne sait plus inventer ?",
+     "rep": 3,
+     "sources": [
+      "myFT Daily Digest",
+      "FT Opinion",
+      "HyperTextes",
+      "GMA News (web)"
+     ],
+     "prog": "Économie de l'attention, industries culturelles, effets de réseau"
+    },
+    {
+     "img": "img/2026-11-21/riemann_manuscrit.jpg",
+     "alt": "Page manuscrite à l'encre de formules mathématiques en allemand",
+     "credit": "via myFT Daily Digest",
+     "eyebrow": "Sciences",
+     "title": "Un mathématicien d'Anthropic revendique une preuve de l'hypothèse de Riemann",
+     "text": [
+      "Levent Alpöge affirme que Claude a démontré l'hypothèse de Riemann, formulée en 1859, ainsi que sa version généralisée. La preuve est écrite en Lean, un langage qui permet de vérifier automatiquement chaque étape (Scientific American).",
+      "Un chercheur du MIT, Andrew Sutherland, dit avoir vérifié le code sur son ordinateur. Anthropic n'a pas commenté, et la communauté mathématique n'a pas encore validé le résultat."
+     ],
+     "why": "Si elle tient, ce serait l'avancée la plus spectaculaire de l'IA en mathématiques (myFT). Elle poserait aussi une question nouvelle : que vaut une preuve vérifiée par machine mais trop longue pour être lue par un humain ?",
+     "rep": 1,
+     "sources": [
+      "myFT Daily Digest",
+      "Scientific American (web)"
+     ],
+     "prog": "Progrès technique, recherche fondamentale"
+    },
+    {
+     "eyebrow": "Droit des sociétés",
+     "title": "Des entreprises dirigées par une IA ?",
+     "text": [
+      "Le Delaware étudie un statut de « société d'intelligence artificielle » dont la gestion quotidienne serait confiée à une IA : elle pourrait commander, payer des fournisseurs et vendre au nom de la société (The Next Big Sh*t).",
+      "Le texte reste un projet, avec une phase de test de 30 mois. Celui qui finance la société bénéficierait d'une responsabilité limitée, qui tomberait en cas de fraude ou de sous-capitalisation (Winthrop & Weinstine)."
+     ],
+     "why": "La question de la responsabilité devient centrale : qui répond des dommages causés par un agent autonome ? Un marché du contrôle de ces entreprises pourrait émerger.",
+     "rep": 1,
+     "sources": [
+      "The Next Big Sh*t",
+      "Winthrop & Weinstine (web)"
+     ],
+     "prog": "Entreprise, gouvernance, responsabilité"
+    }
+   ]
+  }
+ ],
+ "briefs": [
+  [
+   "Royaume-Uni",
+   "Les ventes au détail ont augmenté de 0,7 % en octobre, après des appels du gouvernement à constituer des réserves d'urgence (FT Newswrap)."
+  ],
+  [
+   "Retraites",
+   "Le nombre de Britanniques travaillant au-delà de l'âge légal de la retraite a progressé de 18 % en quatre ans, sous l'effet du coût de la vie (FT Newswrap)."
+  ],
+  [
+   "Émeutes",
+   "Les violences des 17 et 18 octobre ont causé 207 M€ de dégâts assurés, dont 95 % pour les professionnels, contre 800 M€ en 2023 (France Assureurs, via The Next Big Sh*t)."
+  ],
+  [
+   "Fintech",
+   "Worldline aurait retardé des paiements à ses fournisseurs et demandé des avances à ses clients avant ses résultats, dans les années précédant le krach de son action en 2023 (FT Newswrap)."
+  ],
+  [
+   "Jeux d'argent",
+   "Betfred ferme 73 boutiques au Royaume-Uni et supprime 360 emplois, en invoquant les hausses d'impôts du dernier budget (FT Newswrap)."
+  ],
+  [
+   "Triche",
+   "59 % des étudiants français utiliseraient l'IA pour frauder ; en Corée du Sud, le président offre 75 000 $ pour toute dénonciation confirmée de triche au concours d'entrée à l'université (The Next Big Sh*t)."
+  ],
+  [
+   "Course à pied",
+   "La participation aux clubs de running sur Strava a augmenté de 59 % en deux ans ; en France, leur nombre a été multiplié par 5,2 en 2025 (The Next Big Sh*t)."
+  ]
+ ],
+ "good": "Dans les Dolomites, le guide de montagne Kurt Walde a découvert des centaines de squelettes d'ours des cavernes de l'ère glaciaire, un animal de trois mètres qui se nourrissait, pense-t-on, uniquement d'herbes alpines (FT Newswrap).",
+ "map": {
+  "start": "ia",
+  "nodes": [
+   {
+    "id": "ia",
+    "x": 200,
+    "y": 34,
+    "l": [
+     "Doutes sur",
+     "l'IA"
+    ],
+    "t": "Le moteur",
+    "d": "Dépenses colossales, rentabilité incertaine."
+   },
+   {
+    "id": "nasdaq",
+    "x": 100,
+    "y": 122,
+    "l": [
+     "Krach",
+     "de la tech"
+    ],
+    "t": "Le marché",
+    "d": "Nasdaq −5,28 %, S&P 500 et Dow en correction."
+   },
+   {
+    "id": "nvidia",
+    "x": 300,
+    "y": 122,
+    "l": [
+     "Nvidia",
+     "sous enquête"
+    ],
+    "t": "Le maillon",
+    "d": "Comptabilité examinée, patron parti, action en baisse."
+   },
+   {
+    "id": "anth",
+    "x": 100,
+    "y": 222,
+    "l": [
+     "Anthropic",
+     "−8,5 %"
+    ],
+    "t": "Le symbole",
+    "d": "Le pari pur sur l'IA corrige dès son deuxième jour."
+   },
+   {
+    "id": "chine",
+    "x": 300,
+    "y": 222,
+    "l": [
+     "Puces",
+     "et Chine"
+    ],
+    "t": "La géopolitique",
+    "d": "Contrebande par Singapour, licences contestées."
+   },
+   {
+    "id": "europe",
+    "x": 100,
+    "y": 322,
+    "l": [
+     "Contagion",
+     "mondiale"
+    ],
+    "t": "L'effet",
+    "d": "Nikkei et Kospi à plus de 5 % de baisse, CAC 40 sous 8 000."
+   },
+   {
+    "id": "dc",
+    "x": 300,
+    "y": 322,
+    "l": [
+     "Data centers",
+     "rapatriés"
+    ],
+    "t": "La riposte",
+    "d": "Trump menace d'une taxe « énorme » ceux construits à l'étranger."
+   },
+   {
+    "id": "etat",
+    "x": 200,
+    "y": 414,
+    "l": [
+     "Politiques",
+     "industrielles"
+    ],
+    "t": "La réponse",
+    "d": "Préférence nationale, quantique européen, contrôle des exportations."
+   }
+  ],
+  "edges": [
+   [
+    "ia",
+    "nasdaq"
+   ],
+   [
+    "ia",
+    "nvidia"
+   ],
+   [
+    "nasdaq",
+    "anth"
+   ],
+   [
+    "nvidia",
+    "chine"
+   ],
+   [
+    "anth",
+    "europe"
+   ],
+   [
+    "chine",
+    "dc"
+   ],
+   [
+    "europe",
+    "etat"
+   ],
+   [
+    "dc",
+    "etat"
+   ]
+  ]
+ },
+ "dossiers": [
+  {
+   "eyebrow": "Finance",
+   "title": "Bulle de l'IA : le marché corrige-t-il un excès ?",
+   "q": "En une semaine, la tech américaine a effacé ses gains de l'année, au lendemain de l'introduction en Bourse la plus importante de l'histoire. Simple correction ou éclatement d'une bulle ?",
+   "steps": [
+    [
+     "L'euphorie",
+     "Des levées record.",
+     "Anthropic lève 107,3 Md$ au total et vise une valorisation d'environ 1 500 Md$ : le marché paie des profits très lointains."
+    ],
+    [
+     "Le doute",
+     "Des dépenses sans fin.",
+     "Les investisseurs s'inquiètent de la rentabilité de l'IA, des dépenses en centres de données et de la dette qui les finance."
+    ],
+    [
+     "Le déclencheur",
+     "Une accumulation de chocs.",
+     "Crise de direction et enquête chez Nvidia, contrôles sur la Chine, victoire démocrate aux élections de mi-mandat."
+    ],
+    [
+     "La contagion",
+     "Un choc mondial.",
+     "Nasdaq −5,28 %, Nikkei et Kospi à plus de 5 % de baisse, CAC 40 −5,27 % sur la semaine."
+    ],
+    [
+     "L'enjeu",
+     "Correction ou krach ?",
+     "Si les taux d'actualisation montent ou si la croissance attendue baisse, la valeur des entreprises dont les profits sont lointains chute le plus."
+    ]
+   ],
+   "calc": true,
+   "refs": [
+    "<b>Hyman Minsky.</b> L'hypothèse d'instabilité financière : la stabilité engendre la prise de risque, puis la crise.",
+    "<b>Charles Kindleberger.</b> Les bulles suivent un cycle : déplacement, euphorie, détresse, panique.",
+    "<b>Robert Shiller.</b> L'« exubérance irrationnelle » : les récits collectifs alimentent les prix.",
+    "<b>Eugene Fama.</b> L'efficience des marchés : les prix reflètent toute l'information disponible.",
+    "<b>John Maynard Keynes.</b> Le concours de beauté : on achète ce que les autres vont acheter, pas la valeur fondamentale."
+   ],
+   "accroche": "Le 20 novembre 2026, au lendemain de l'introduction record d'Anthropic, le Nasdaq perd 5,28 % et efface toute sa hausse de l'année. Pour le FT, « la fièvre de l'IA » retombe.",
+   "sujets": [
+    "Les marchés financiers sont-ils efficients ?",
+    "Les bulles spéculatives sont-elles inévitables ?",
+    "La finance favorise-t-elle l'innovation ?",
+    "Faut-il réguler les marchés financiers ?"
+   ]
+  },
+  {
+   "eyebrow": "Europe",
+   "title": "Le Royaume-Uni peut-il revenir vers l'Union européenne ?",
+   "q": "Dix ans après le référendum, Londres signe avec Bruxelles le rapprochement le plus important depuis le Brexit. Jusqu'où peut-il aller ?",
+   "steps": [
+    [
+     "Le choix",
+     "Sortir du marché unique.",
+     "Voté en 2016, effectif en 2020, le Brexit a réintroduit contrôles et formalités dans les échanges."
+    ],
+    [
+     "Le coût",
+     "Une croissance amputée.",
+     "Le Productivity Institute estime à 1,26 % de PIB le gain d'un retour dans l'union douanière, 3,7 % pour une réadhésion."
+    ],
+    [
+     "Le reset",
+     "Trois accords ciblés.",
+     "Visas pour les jeunes, fin de la plupart des contrôles alimentaires en 2028, lien des marchés du carbone."
+    ],
+    [
+     "Les limites",
+     "Des contreparties exigées.",
+     "Frais universitaires, libre circulation : l'UE refuse un accès « à la carte » au marché unique."
+    ],
+    [
+     "La suite",
+     "Un enjeu électoral.",
+     "L'adhésion devrait structurer la prochaine élection générale britannique."
+    ]
+   ],
+   "split": [
+    [
+     "Pour un rapprochement profond",
+     "Le commerce de proximité est le plus intense ; réduire les barrières non tarifaires relève la productivité et l'investissement."
+    ],
+    [
+     "Pour une souveraineté préservée",
+     "Revenir impliquerait d'accepter des règles sans les avoir votées, et rouvrirait une fracture politique profonde."
+    ]
+   ],
+   "refs": [
+    "<b>Jan Tinbergen.</b> Le modèle de gravité : les échanges croissent avec la taille des économies et diminuent avec la distance.",
+    "<b>Bela Balassa.</b> Les étapes de l'intégration : zone de libre-échange, union douanière, marché commun, union économique.",
+    "<b>Albert Hirschman.</b> Exit, voice, loyalty : quitter une organisation ou la changer de l'intérieur.",
+    "<b>Dani Rodrik.</b> Le trilemme de la mondialisation : intégration profonde, souveraineté nationale et démocratie ne vont pas ensemble."
+   ],
+   "accroche": "« Probablement la limite de ce que nous pouvons accomplir pendant cette législature » : c'est ainsi qu'Andy Burnham présente, le 20 novembre 2026, l'accord qui rapproche le plus le Royaume-Uni de l'UE depuis le Brexit.",
+   "sujets": [
+    "L'intégration européenne est-elle irréversible ?",
+    "Le libre-échange est-il toujours bénéfique ?",
+    "Faut-il approfondir ou élargir l'Union européenne ?",
+    "La souveraineté économique est-elle compatible avec l'ouverture ?"
+   ]
+  }
+ ],
+ "flash": [
+  [
+   "−5,28 %",
+   "Nasdaq",
+   "Chute du 20 novembre, qui efface les gains de 2026 (CBC)."
+  ],
+  [
+   "−8,5 %",
+   "Anthropic",
+   "Deuxième jour de cotation, après +17 % le premier."
+  ],
+  [
+   "107,3 Md$",
+   "Record",
+   "Montant total de l'opération Anthropic, placement privé compris."
+  ],
+  [
+   "7 927,75",
+   "CAC 40",
+   "Clôture du 20 novembre (−1,89 %), −5,27 % sur la semaine."
+  ],
+  [
+   "100 000",
+   "Visas",
+   "Par an, pour les 18-31 ans, dans l'accord UE-Royaume-Uni."
+  ],
+  [
+   "1,26 %",
+   "Union douanière",
+   "Gain de PIB estimé d'un retour britannique (Productivity Institute)."
+  ],
+  [
+   "3,79 Md$",
+   "GTA VI",
+   "Ventes du premier jour, record du divertissement."
+  ],
+  [
+   "205 contre 110",
+   "Sénat",
+   "Vote définitif sur la présomption d'usage légal des armes."
+  ],
+  [
+   "5,0 %",
+   "Déficit",
+   "Objectif de déficit public du budget 2027, en % du PIB."
+  ]
+ ],
+ "quiz": [
+  {
+   "q": "De combien le Nasdaq a-t-il chuté le vendredi 20 novembre ?",
+   "o": [
+    "−1,89 %",
+    "−3,7 %",
+    "−5,28 %",
+    "−8,5 %"
+   ],
+   "a": 2,
+   "e": "−5,28 %, effaçant ses gains de l'année ; −3,7 % correspond au S&P 500, −1,89 % au CAC 40, −8,5 % à Anthropic."
+  },
+  {
+   "q": "Qu'est-ce qu'une correction boursière ?",
+   "o": [
+    "Une baisse d'au moins 5 %",
+    "Une baisse d'au moins 10 % depuis un sommet",
+    "Une baisse d'au moins 20 % depuis un sommet",
+    "Une suspension de cotation"
+   ],
+   "a": 1,
+   "e": "Une correction désigne un recul d'au moins 10 % ; au-delà de 20 %, on parle de marché baissier."
+  },
+  {
+   "q": "Combien de visas annuels prévoit le programme pour les jeunes de l'accord UE-Royaume-Uni ?",
+   "o": [
+    "50 000",
+    "80 000",
+    "100 000",
+    "150 000"
+   ],
+   "a": 2,
+   "e": "100 000 visas par an pour les 18-31 ans, pour un séjour jusqu'à trois ans."
+  },
+  {
+   "q": "Quel gain de PIB Andy Burnham attribue-t-il à l'accord à long terme ?",
+   "o": [
+    "0,4 %",
+    "1,26 %",
+    "3,7 %",
+    "5 %"
+   ],
+   "a": 0,
+   "e": "0,4 % ; 1,26 % et 3,7 % sont les estimations du Productivity Institute pour l'union douanière et la réadhésion."
+  },
+  {
+   "q": "Avant quelle échéance Washington veut-il un accord de paix en Ukraine ?",
+   "o": [
+    "Noël",
+    "Début janvier, avant que les démocrates ne contrôlent le Congrès",
+    "Le sommet de l'Otan",
+    "La fin du premier trimestre 2027"
+   ],
+   "a": 1,
+   "e": "Les démocrates, majoritaires dans les deux chambres en janvier, veulent renforcer l'aide à Kyiv et les sanctions."
+  },
+  {
+   "q": "Qu'a retiré le projet d'accord de la COP31 ?",
+   "o": [
+    "La référence à la fin des énergies fossiles",
+    "L'objectif de 1,5 °C",
+    "L'électrification",
+    "Le principe du consensus"
+   ],
+   "a": 0,
+   "e": "Le texte ne mentionne plus la sortie des fossiles et abandonne l'objectif de 120 Md$ pour l'adaptation."
+  },
+  {
+   "q": "Que change la loi adoptée le 20 novembre pour les forces de l'ordre ?",
+   "o": [
+    "Elle supprime la condition de proportionnalité",
+    "Elle crée une présomption d'usage légal des armes",
+    "Elle interdit les gaz lacrymogènes",
+    "Elle crée une légitime défense automatique"
+   ],
+   "a": 1,
+   "e": "Une présomption simple, renversable par la preuve contraire ; nécessité et proportionnalité restent exigées."
+  },
+  {
+   "q": "Dans quel langage est écrite la preuve de l'hypothèse de Riemann revendiquée avec Claude ?",
+   "o": [
+    "Python",
+    "LaTeX",
+    "Lean",
+    "Coq"
+   ],
+   "a": 2,
+   "e": "Lean, un assistant de preuve qui vérifie automatiquement chaque étape du raisonnement."
+  }
+ ],
+ "colle": {
+  "title": "Les bulles spéculatives sont-elles le prix de l'innovation ?",
+  "parts": [
+   [
+    "L'innovation alimente des bulles",
+    [
+     "Anticipations de profits lointains et récits collectifs : Anthropic valorisée environ 1 500 Md$ (Shiller, Keynes)",
+     "Euphorie puis panique : le Nasdaq efface ses gains de 2026 en une semaine (Minsky, Kindleberger)"
+    ]
+   ],
+   [
+    "Mais ces bulles financent aussi le progrès",
+    [
+     "Des capitaux massifs pour des projets risqués : 107,3 Md$ levés pour l'IA (Schumpeter, rôle du crédit)",
+     "Les infrastructures restent après le krach, comme les réseaux après la bulle internet"
+    ]
+   ],
+   [
+    "Un coût qui dépend de la régulation",
+    [
+     "Contagion internationale et risque systémique : Nikkei, Kospi, CAC 40 (Aglietta, analogie AIG)",
+     "Information des investisseurs, supervision, politique industrielle : enquête sur Nvidia, contrôles à l'exportation"
+    ]
+   ]
+  ]
+ },
+ "matrix": {
+  "cols": [
+   "FT Opinion",
+   "myFT Daily Digest",
+   "FT Newswrap",
+   "HyperTextes",
+   "The Next Big Sh*t",
+   "CBC",
+   "StockAnalysis",
+   "Moneyvox",
+   "RTÉ",
+   "Kyiv Post",
+   "CNBC",
+   "Reuters",
+   "AFP",
+   "franceinfo",
+   "Scientific American",
+   "GMA News",
+   "Sénat"
+  ],
+  "rows": [
+   [
+    "Krach de la tech",
+    [
+     1,
+     1,
+     1,
+     0,
+     0,
+     1,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Anthropic en Bourse",
+    [
+     0,
+     1,
+     1,
+     1,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Nvidia et puces chinoises",
+    [
+     1,
+     1,
+     1,
+     1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "GTA VI",
+    [
+     1,
+     1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0
+    ]
+   ],
+   [
+    "Europe et Chine",
+    [
+     1,
+     1,
+     1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Accord UE-Royaume-Uni",
+    [
+     1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Ukraine et Shenzhen",
+    [
+     1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Retraites et vieillissement",
+    [
+     1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Taxe sur les data centers",
+    [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Hypothèse de Riemann",
+    [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ]
+   ],
+   [
+    "COP31",
+    [
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Usage des armes par la police",
+    [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Pluralisme et vidéastes",
+    [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Budget 2027",
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ]
+   ]
+  ]
+ },
+ "sources": [
+  [
+   "FT Opinion",
+   "newsletter, ven. 20 et sam. 21",
+   "Brexit et Burnham, IA et marchés, Nvidia comme AIG, Shenzhen, retraites, Deutsche Bank, GTA"
+  ],
+  [
+   "myFT Daily Digest",
+   "newsletter, sam. 21",
+   "Krach de la tech, Anthropic, enquête sur Nvidia, GTA VI, taxe sur les data centers, Riemann, quantique européen"
+  ],
+  [
+   "FT Newswrap",
+   "newsletter, ven. 20",
+   "Accord UE-Royaume-Uni, Ukraine, COP31, puces vers la Chine, Worldline, Revolut, brèves britanniques, bonne nouvelle"
+  ],
+  [
+   "HyperTextes",
+   "newsletter, ven. 20",
+   "Présomption d'usage des armes, puces Nvidia en Chine, gaz lacrymogènes, presse et OpenAI, GTA VI, artmaxxing"
+  ],
+  [
+   "The Next Big Sh*t",
+   "newsletter, ven. 20",
+   "Sociétés gérées par IA, run clubs, triche à l'IA, usines chinoises à l'étranger, émeutes, Anthropic, Arcom"
+  ],
+  [
+   "CBC (via Yahoo)",
+   "web, 20 nov.",
+   "Séance du 20 novembre : Nasdaq, S&P 500, Dow, Anthropic, Nvidia, marchés asiatiques"
+  ],
+  [
+   "StockAnalysis",
+   "web, 20 nov.",
+   "Nasdaq 100 juste au-dessus du seuil de marché baissier"
+  ],
+  [
+   "Moneyvox",
+   "web, 20 nov.",
+   "Clôture du CAC 40 et bilan hebdomadaire"
+  ],
+  [
+   "RTÉ",
+   "web, 21 nov.",
+   "Détail des trois accords UE-Royaume-Uni, frais universitaires, réactions"
+  ],
+  [
+   "Kyiv Post",
+   "web, 20 nov.",
+   "Calendrier américain pour un accord en Ukraine, position des démocrates"
+  ],
+  [
+   "CNBC",
+   "web, 20 nov.",
+   "Déclarations de Donald Trump sur les data centers à l'étranger"
+  ],
+  [
+   "NBC News",
+   "web, 20 nov.",
+   "Opposition aux data centers et élections de mi-mandat"
+  ],
+  [
+   "Reuters (via The Globe and Mail)",
+   "web, 19-20 nov.",
+   "Projet d'accord révisé de la COP31"
+  ],
+  [
+   "AFP (via Qz et France 24)",
+   "web, 18-20 nov.",
+   "Vote définitif au Sénat, accord Figaro-OpenAI"
+  ],
+  [
+   "franceinfo",
+   "web, 20 nov.",
+   "Règles de pluralisme de l'Arcom pour les vidéastes"
+  ],
+  [
+   "Scientific American",
+   "web, 20 nov.",
+   "Preuve revendiquée de l'hypothèse de Riemann, vérifications"
+  ],
+  [
+   "GMA News",
+   "web, 20 nov.",
+   "Ventes de GTA VI le premier jour, comparaison avec GTA V"
+  ],
+  [
+   "Sénat, Assemblée nationale, economie.gouv.fr",
+   "web, 19-20 nov.",
+   "Calendrier et objectifs du projet de loi de finances pour 2027"
+  ],
+  [
+   "Winthrop & Weinstine",
+   "web",
+   "Projet de statut de société d'IA au Delaware"
+  ]
+ ],
+ "ia": {
+  "toc": "Une preuve de Riemann revendiquée avec Claude, la tech dévisse, et OVHcloud publie son premier modèle ouvert.",
+  "intro": "Modèles, outils et projets : ce qui change dans l'IA, et ce qui sert vraiment.",
+  "signalTitle": "Une preuve à vérifier, des marchés qui doutent, un modèle français ouvert",
+  "signal": [
+   {
+    "img": "img/2026-11-21/riemann_manuscrit.jpg",
+    "alt": "Page manuscrite à l'encre de formules mathématiques en allemand",
+    "credit": "via myFT Daily Digest",
+    "eyebrow": "Anthropic · mathématiques",
+    "title": "Claude aurait démontré l'hypothèse de Riemann",
+    "text": [
+     "Le mathématicien d'Anthropic Levent Alpöge a publié vendredi sur son site une courte note : selon lui, Claude a prouvé l'hypothèse de Riemann et sa version généralisée. Pas d'article classique ni de soumission à une revue : la preuve est un ensemble de fichiers en Lean, un assistant de preuve qui vérifie mécaniquement chaque étape.",
+     "Andrew Sutherland, chercheur au MIT, dit avoir vérifié le code sur son ordinateur et avoir vu d'autres vérifications. Anthropic n'a fait aucune déclaration."
+    ],
+    "why": "La vérification par Lean garantit que la preuve découle de ses énoncés ; reste à s'assurer que ces énoncés formalisent bien le problème posé en 1859. L'histoire compte de nombreuses preuves annoncées puis retirées : la validation par les spécialistes prendra du temps.",
+    "sources": [
+     "Scientific American (web)",
+     "SiliconANGLE (web)",
+     "myFT Daily Digest"
+    ],
+    "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/"
+   },
+   {
+    "img": "img/2026-11-21/krach_wall_street.jpg",
+    "alt": "Un opérateur, la tête dans les mains, devant des écrans de cotation à la Bourse de New York",
+    "credit": "Spencer Platt / Getty Images via CBC",
+    "eyebrow": "Industrie · marchés",
+    "title": "La Bourse tourne le dos à l'IA",
+    "text": [
+     "Vendredi, Anthropic a perdu 8,5 % pour sa deuxième séance, Nvidia environ 6 %, et le Nasdaq 5,28 %, effaçant ses gains de l'année (CBC). Selon Reuters, les régulateurs américains enquêtent sur la comptabilité de Nvidia.",
+     "Le même jour, Donald Trump a menacé d'une taxe « énorme » les entreprises américaines qui construisent des centres de données à l'étranger (CNBC)."
+    ],
+    "why": "Le marché remet en cause l'équation de l'IA : des dépenses d'infrastructure colossales, financées en partie par la dette, pour des revenus encore loin de les couvrir. Une correction durable pourrait ralentir la course au calcul et rendre les laboratoires plus regardants sur leurs prix.",
+    "sources": [
+     "CBC (web)",
+     "CNBC (web)",
+     "myFT Daily Digest"
+    ],
+    "url": "https://ca.news.yahoo.com/tech-stocks-pull-u-markets-133759396.html"
+   },
+   {
+    "eyebrow": "OVHcloud · open source",
+    "title": "Olala, le premier modèle d'IA d'OVHcloud",
+    "text": [
+     "Le spécialiste français du cloud a présenté Olala, son premier modèle maison, publié sur Hugging Face sous licence Apache 2.0. La première version, Olala mini 7A1B, est un petit modèle de 7 milliards de paramètres.",
+     "OVHcloud a préparé ce lancement avec trois rachats en 2026 (Seald, Dragon LLM et Gladia), mais moins de 100 personnes travaillent sur ses projets d'IA."
+    ],
+    "why": "La licence Apache 2.0 autorise l'usage commercial et l'exécution locale. Aucune mesure de performance indépendante n'a encore été publiée.",
+    "sources": [
+     "Siècle Digital (web)",
+     "Ouest-France (web)",
+     "HyperTextes"
+    ],
+    "url": "https://siecledigital.fr/2026/11/17/ovhcloud-devoile-olala-sa-premiere-ia-francaise-pour-concurrencer-les-geants-americains/"
+   }
+  ],
+  "models": [
+   {
+    "name": "Olala mini 7A1B",
+    "maker": "OVHcloud",
+    "date": "17-19 nov.",
+    "access": "Poids ouverts sur Hugging Face (licence Apache 2.0) ; 7 milliards de paramètres.",
+    "price": "Gratuit (poids ouverts)"
+   },
+   {
+    "name": "Hy4 flash",
+    "maker": "Tencent",
+    "date": "19 nov.",
+    "access": "Poids ouverts sur Hugging Face (licence Tencent Hy) ; 224 milliards de paramètres dont 12 actifs, texte et images, contexte d'un million de jetons.",
+    "price": "Gratuit (poids ouverts)"
+   },
+   {
+    "name": "Genie 4",
+    "maker": "Google DeepMind",
+    "date": "19 nov.",
+    "access": "API Gemini et AI Studio pour les développeurs ; mondes interactifs en 720p à 24 images par seconde avec son.",
+    "price": "Tarif dans la documentation de l'API"
+   },
+   {
+    "name": "Gemini 4 Neon",
+    "maker": "Google",
+    "date": "18 nov.",
+    "access": "Appli Gemini et Antigravity (AI Pro et Ultra), API payante.",
+    "price": "3 $ / 15 $ par million de jetons"
+   },
+   {
+    "name": "GPT-6.2 Astra et Sol",
+    "maker": "OpenAI",
+    "date": "17 nov.",
+    "access": "ChatGPT Work, Codex et API.",
+    "price": "Abonnement ou tarif de l'API"
+   }
+  ],
+  "claudeTitle": "Outils",
+  "claude": [
+   {
+    "k": "Claude Code",
+    "t": "Version 2.1.330 : des graphiques dans le terminal",
+    "d": "Nouveau module intégré, easel, qui dessine un graphique quand on le demande ou sous les résultats chiffrés d'un outil MCP (Pro, Max, macOS et Linux ; désactivable dans /config). La version corrige aussi un gel de plusieurs minutes après la compaction d'une longue conversation, WebFetch qui bloquait sur certaines pages, et la perte de réglages quand plusieurs sessions les enregistraient en même temps.",
+    "cmd": "claude update",
+    "cmdLabel": "Terminal"
+   },
+   {
+    "k": "ChatGPT",
+    "t": "Dictée en direct, sans limite de durée",
+    "d": "La parole s'affiche en texte au fur et à mesure, et la limite de dix minutes d'enregistrement disparaît. Déploiement mondial sur tous les forfaits, iOS, Android, web et appli de bureau (OpenAI, 18 novembre). Pratique pour dicter des notes longues ou un brouillon sans attendre la transcription."
+   }
+  ],
+  "repos": [
+   {
+    "name": "zhouxiaoka/autoclip",
+    "stars": "12,4 k",
+    "week": "+979 en un jour",
+    "lang": "Python",
+    "what": "Un outil de montage automatique : à partir d'une vidéo longue (podcast, entretien, cours), il découpe des extraits courts, ajoute sous-titres et vignettes et rédige un texte de publication.",
+    "why": "Application de bureau pour Mac Apple Silicon et Windows, version Docker et serveur MCP pour le brancher à un agent. Licence MIT ; documentation surtout en chinois.",
+    "cmd": "git clone https://github.com/zhouxiaoka/autoclip.git && cd autoclip && docker compose up -d --build"
+   },
+   {
+    "name": "jingyaogong/minimind",
+    "stars": "67,8 k",
+    "week": "+847 en un jour",
+    "lang": "Python",
+    "what": "Le code complet pour entraîner de zéro un petit modèle de langage de 64 millions de paramètres : tokenizer, pré-entraînement, ajustement, apprentissage par renforcement, appels d'outils.",
+    "why": "Selon le dépôt, deux heures d'entraînement suffisent sur une carte graphique. Fournit un serveur compatible avec l'API d'OpenAI et fonctionne avec llama.cpp et Ollama. Licence Apache 2.0.",
+    "cmd": "git clone --depth 1 https://github.com/jingyaogong/minimind"
+   },
+   {
+    "name": "mjmirza/app-store-compliance",
+    "stars": "2,9 k",
+    "week": "+869 en un jour",
+    "lang": "Shell",
+    "what": "Un guide et un script qui analysent un projet iOS ou Android avant soumission : 117 motifs de rejet documentés par l'App Store et Google Play, chacun avec sa correction.",
+    "why": "Pour qui publie une appli construite avec Claude Code : le script signale les risques critiques avant l'envoi et peut s'installer comme garde-fou dans l'agent (commande /app-store-audit).",
+    "cmd": "git clone https://github.com/mjmirza/app-store-compliance ~/repositories/app-store-compliance"
+   }
+  ],
+  "briefs": [
+   [
+    "Presse",
+    "Le Figaro devient le troisième groupe français à signer avec OpenAI, après Le Monde et les médias de LVMH ; montant non communiqué (AFP)."
+   ],
+   [
+    "Nvidia",
+    "Selon Reuters, les régulateurs américains enquêtent sur ses pratiques comptables ; l'action a perdu environ 6 % vendredi (CBC)."
+   ],
+   [
+    "Droit",
+    "Le Delaware prépare un statut de société gérée au quotidien par une IA, avec une phase de test de 30 mois ; le projet n'est pas encore déposé (Winthrop & Weinstine)."
+   ],
+   [
+    "SpaceX",
+    "Les prêteurs s'inquiètent que les puces d'IA données en garantie d'un financement de 43 Md$ soient envoyées en orbite (FT Newswrap)."
+   ],
+   [
+    "Examens",
+    "En Corée du Sud, le major d'un concours national de fiscalité a avoué avoir triché avec une microcaméra et ChatGPT (The Next Big Sh*t)."
+   ]
+  ],
+  "sources": [
+   [
+    "Scientific American",
+    "web, 20 nov.",
+    "Preuve revendiquée de l'hypothèse de Riemann"
+   ],
+   [
+    "SiliconANGLE",
+    "web, 20 nov.",
+    "Annonce de Levent Alpöge, format Lean"
+   ],
+   [
+    "CBC (via Yahoo)",
+    "web, 20 nov.",
+    "Séance boursière, Anthropic, Nvidia"
+   ],
+   [
+    "CNBC",
+    "web, 20 nov.",
+    "Taxe sur les data centers à l'étranger"
+   ],
+   [
+    "Siècle Digital",
+    "web, 17 nov.",
+    "Lancement d'Olala par OVHcloud"
+   ],
+   [
+    "Ouest-France",
+    "web, 17 nov.",
+    "Olala, licence et publication"
+   ],
+   [
+    "CHANGELOG Claude Code",
+    "web, 2.1.330",
+    "Nouveautés et corrections"
+   ],
+   [
+    "OpenAI (notes de version)",
+    "web, 18 nov.",
+    "Dictée en direct dans ChatGPT"
+   ],
+   [
+    "GitHub Trending",
+    "web, 21 nov.",
+    "Dépôts du jour et README"
+   ],
+   [
+    "AFP (via France 24)",
+    "web, 18 nov.",
+    "Accord Figaro-OpenAI"
+   ]
+  ]
+ }
+}
