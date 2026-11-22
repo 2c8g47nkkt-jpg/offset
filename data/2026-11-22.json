@@ -1,0 +1,1112 @@
+{
+ "date": "2026-11-22",
+ "label": "Dimanche 22 novembre 2026",
+ "period": "21 au 22 novembre",
+ "sourcesCount": 2,
+ "countLabel": "2 newsletters + 12 sources web",
+ "hero": {
+  "img": "img/2026-11-22/supermarche.jpg",
+  "alt": "Un chariot de supermarché vide devant des vitrines réfrigérées",
+  "credit": "via Digital Trends",
+  "eyebrow": "À la une",
+  "title": "Congélateurs, crypto, réseaux : la menace cyber change d'échelle",
+  "lede": "Des congélateurs de supermarché poussés à 50 °C, 6,3 Md$ volés chez Binance, des pannes Microsoft dans 70 pays et une défaillance du contrôle aérien américain : le FT relie ces incidents récents à une même tendance, des attaques que l'IA rend plus rapides et plus nombreuses. Les deux newsletters du jour en font un sujet majeur, au moment où une fuite de 15 millions de fichiers met Deutsche Bank en difficulté et où Amazon s'apprête à racheter la start-up d'IA Decart."
+ },
+ "brief": [
+  [
+   "Cyber",
+   "Congélateurs à 50 °C, 6,3 Md$ volés chez Binance : le FT décrit une menace déjà concrète, amplifiée par l'IA."
+  ],
+  [
+   "Deutsche Bank",
+   "15 millions de documents internes fuitent : paiements suspects liés à Epstein, déclaration fiscale de Trump divulguée par erreur."
+  ],
+  [
+   "Amazon",
+   "Sur le point de racheter Decart pour 7,5 Md$, afin de mieux exploiter ses propres puces d'IA."
+  ],
+  [
+   "Shenzhen",
+   "Xi, Trump et Poutine signent une « déclaration de paix » en quatre points, sans un mot sur l'Ukraine ni l'Iran."
+  ],
+  [
+   "COP31",
+   "Le texte final proposé à Antalya ne nomme pas les énergies fossiles ; l'UE parle d'un pas en arrière."
+  ]
+ ],
+ "figures": [
+  {
+   "v": "6,3 Md$",
+   "l": "volés chez Binance le 30 octobre, le plus gros vol de l'histoire (Reuters, via The Jakarta Post)",
+   "dir": "down"
+  },
+  {
+   "v": "15 millions",
+   "l": "de documents internes de Deutsche Bank transmis à la presse par deux lanceurs d'alerte (FT, Al Jazeera)",
+   "dir": "down"
+  },
+  {
+   "v": "7,5 Md$",
+   "l": "prix évoqué pour le rachat de Decart par Amazon (myFT), contre près de 4 Md$ de valorisation en mai",
+   "dir": "up"
+  },
+  {
+   "v": "220 $/t",
+   "l": "prime record à l'importation de cuivre en Chine début novembre (S&P Global)",
+   "dir": "up"
+  }
+ ],
+ "themes": [
+  {
+   "title": "IA : rachats, contrebande et cyberattaques",
+   "stories": [
+    {
+     "eyebrow": "Cybersécurité",
+     "title": "La menace cyber de l'IA est déjà là",
+     "text": [
+      "Le correspondant cybersécurité du FT, Tom Wilson, relie plusieurs incidents récents : des congélateurs de supermarché poussés à 50 °C, un vol de 6,3 Md$ en cryptomonnaies, des pannes Microsoft dans 70 pays et une défaillance du contrôle aérien à l'échelle des États-Unis. Pour lui, « la guerre des congélateurs » n'est qu'un début.",
+      "Le 2 novembre, des systèmes de réfrigération de supermarchés ont été piratés dans plusieurs pays européens, dont la Suède, la Belgique, l'Irlande et les Pays-Bas (Digital Trends). Le 30 octobre, Binance, première plateforme de cryptomonnaies au monde, s'est fait dérober 6,3 Md$, le plus gros vol jamais enregistré (Reuters, via The Jakarta Post)."
+     ],
+     "why": "Le rôle exact de l'IA reste débattu : il est établi pour certains incidents, supposé pour d'autres. Mais le constat des économistes est clair : plus les systèmes sont connectés, plus une attaque peut se propager à l'économie réelle, des rayons alimentaires aux marchés financiers.",
+     "rep": 2,
+     "sources": [
+      "FT Editor's Digest",
+      "myFT Daily Digest",
+      "Digital Trends (web)",
+      "The Jakarta Post (web)"
+     ],
+     "more": [
+      "<b>Le risque systémique.</b> Une attaque contre un fournisseur unique de logiciels de froid touche d'un coup des centaines de magasins : c'est la logique de la concentration des risques.",
+      "<b>L'enquête.</b> En France, le parquet a ouvert une enquête pénale après des incidents similaires dans des supermarchés."
+     ],
+     "prog": "Mondialisation et vulnérabilités, risques systémiques, économie numérique"
+    },
+    {
+     "img": "img/2026-11-22/datacenter.jpg",
+     "alt": "Une allée de serveurs aux câbles bleus et jaunes dans un centre de données",
+     "credit": "via myFT Daily Digest",
+     "eyebrow": "Industrie",
+     "title": "Amazon s'apprête à racheter Decart pour 7,5 Md$",
+     "text": [
+      "Selon le FT, Amazon est proche d'un accord pour acquérir la start-up israélienne d'IA Decart pour 7,5 Md$. D'après la presse israélienne, une partie du prix dépendrait d'objectifs à atteindre, et l'opération serait menée par Annapurna Labs, la division qui conçoit les puces Trainium (FourWeekMBA).",
+      "Le logiciel de Decart permettrait de faire tourner plus efficacement les modèles d'IA sur ces puces et de les déplacer d'un matériel à l'autre. En mai, Decart avait levé 300 M$, avec Nvidia parmi les investisseurs, pour une valorisation de près de 4 Md$ (TechRepublic)."
+     ],
+     "why": "Amazon cherche à réduire sa dépendance aux puces de Nvidia. Selon les mêmes sources, Anthropic avait étudié un rachat de Decart pour 6 Md$ en août avant d'y renoncer : la bataille de l'IA se joue désormais aussi sur l'optimisation du matériel.",
+     "rep": 1,
+     "sources": [
+      "myFT Daily Digest",
+      "TechRepublic (web)",
+      "FourWeekMBA (web)"
+     ],
+     "more": [
+      "<b>Intégration verticale.</b> En maîtrisant à la fois ses puces et le logiciel qui les exploite, Amazon reproduit la stratégie d'Apple : contrôler toute la chaîne pour capter la valeur."
+     ],
+     "prog": "Stratégies des firmes, concentration, intégration verticale"
+    },
+    {
+     "img": "img/2026-11-22/alice_huang.jpg",
+     "alt": "Alice Huang pose la main sur l'épaule de Jensen Huang lors d'un événement",
+     "credit": "via myFT Daily Digest",
+     "eyebrow": "Semi-conducteurs",
+     "title": "Alice Huang, au cœur des puces envoyées en Chine",
+     "text": [
+      "Le FT décrit les liens entre Alice Huang, une dirigeante chinoise en relation amoureuse avec Jensen Huang, l'ancien patron de Nvidia, et le commerce lucratif qui achemine des puces vers la Chine.",
+      "Selon The Information, ses liens avec Jensen Huang auraient aidé à expédier au moins 7,5 Md$ de puces Nvidia vers la Chine, via un réseau de sociétés en Chine et à Singapour. Le New York Times rapporte que la surveillance américaine la considère comme une source du renseignement chinois ; les responsables ne pensent pas que Jensen Huang en était informé."
+     ],
+     "why": "L'affaire illustre la difficulté des contrôles à l'exportation : quand une technologie vaut des milliards, les circuits de contournement se multiplient. Nvidia conteste une partie de ces informations.",
+     "rep": 1,
+     "sources": [
+      "myFT Daily Digest",
+      "The Information / NYT (web)"
+     ],
+     "prog": "Rivalité sino-américaine, contrôle des exportations"
+    }
+   ]
+  },
+  {
+   "title": "Finance : scandales, records et héritages",
+   "stories": [
+    {
+     "eyebrow": "Banques",
+     "title": "Deutsche Bank : 15 millions de fichiers sur la table",
+     "text": [
+      "Deux lanceurs d'alerte ont transmis à des journalistes 15 millions de documents internes de la première banque allemande. Selon le FT, la banque a divulgué par erreur la déclaration fiscale de Donald Trump sans prévenir la Maison Blanche, traité 582 M$ de paiements suspects liés à Jeffrey Epstein et versé 80 000 $ par mois à un membre de la famille royale qatarie pour du conseil.",
+      "Les fichiers couvrent environ 3 000 transactions, d'octobre 2013 à mai 2019, pour 581,9 M$ (FinanceMagnates). Ils détaillent aussi des activités en Russie jusqu'à l'invasion de l'Ukraine en février 2022 (Al Jazeera). Les lanceurs d'alerte ont également saisi les autorités américaines, ce qui pourrait leur ouvrir droit à une récompense."
+     ],
+     "why": "Le directeur général Christian Sewing a reconnu des manquements, y compris les siens. Pour Reuters, la fuite met à l'épreuve sa promesse de réformer la culture d'une banque déjà sanctionnée à de nombreuses reprises.",
+     "rep": 1,
+     "sources": [
+      "FT Editor's Digest",
+      "Al Jazeera (web)",
+      "FinanceMagnates (web)",
+      "Reuters (web)"
+     ],
+     "more": [
+      "<b>La conformité.</b> Les banques doivent signaler les opérations suspectes (lutte contre le blanchiment) : la fuite suggère que ces procédures ont été contournées quand les clients étaient rentables.",
+      "<b>L'enquête.</b> Elle est coordonnée par Barracuda Media, en Afrique du Sud, avec le soutien technique du centre DARC en Allemagne ; d'autres révélations sont annoncées."
+     ],
+     "prog": "Régulation bancaire, asymétries d'information, éthique des affaires"
+    },
+    {
+     "eyebrow": "Anthropic",
+     "title": "La plus grosse introduction en Bourse de l'histoire est bouclée",
+     "text": [
+      "Anthropic a annoncé vendredi la clôture de son introduction en Bourse : 1,127 milliard d'actions vendues à 83 $, y compris l'option de surallocation de 147 millions d'actions exercée en totalité par les banques, plus un placement privé simultané (Anthropic).",
+      "Le FT rappelle que l'opération, à 81 Md$ hors surallocation, est la plus importante jamais réalisée, et que deux questions domineront désormais le débat sur la valeur du laboratoire."
+     ],
+     "why": "L'option de surallocation, ou « greenshoe », permet aux banques de vendre jusqu'à 15 % d'actions en plus si la demande est forte. Son exercice complet montre que la demande a suivi, malgré la chute de 8,5 % de l'action vendredi.",
+     "rep": 1,
+     "sources": [
+      "FT Editor's Digest",
+      "Anthropic (web)"
+     ],
+     "prog": "Marché primaire, financement de l'innovation"
+    },
+    {
+     "img": "img/2026-11-22/neets.jpg",
+     "alt": "Illustration : une jeune femme soucieuse au premier plan, ses parents devant un ordinateur derrière elle",
+     "credit": "via myFT Daily Digest",
+     "eyebrow": "Société",
+     "title": "La « Banque de papa et maman » face aux Neets",
+     "text": [
+      "Le FT s'intéresse à la dépendance des jeunes adultes à la richesse de leurs parents, en particulier les « Neets » (ni en emploi, ni en études, ni en formation). Selon le journal, ce soutien déforme les finances familiales.",
+      "Dans la même édition, le FT invite les investisseurs à « désapprendre » les leçons des vingt dernières années : inflation, obligations et actions évoluent dans un monde différent de celui qui a suivi la crise financière."
+     ],
+     "why": "Quand l'accès au logement et à l'emploi dépend des transferts familiaux, l'héritage pèse davantage dans les trajectoires : c'est un enjeu d'inégalités et de mobilité sociale.",
+     "rep": 1,
+     "sources": [
+      "myFT Daily Digest"
+     ],
+     "prog": "Inégalités de patrimoine, mobilité sociale, transmission"
+    }
+   ]
+  },
+  {
+   "title": "Monde : diplomatie, climat et matières premières",
+   "stories": [
+    {
+     "img": "img/2026-11-22/shenzhen.jpg",
+     "alt": "Vladimir Poutine, Xi Jinping et Donald Trump marchent côte à côte devant des drapeaux chinois, russes et américains",
+     "credit": "Getty Images via Al Jazeera",
+     "eyebrow": "Géopolitique",
+     "title": "À Shenzhen, une déclaration de paix sans engagements",
+     "text": [
+      "Xi Jinping, Donald Trump et Vladimir Poutine ont conclu jeudi à Shenzhen le premier sommet à trois de ce type. Leur « déclaration de paix » en quatre points, non contraignante, porte sur la réforme de l'ONU, l'approvisionnement en énergie et le risque nucléaire (Reuters, Al Jazeera).",
+      "Le texte ne mentionne ni la guerre en Ukraine ni le conflit entre les États-Unis et l'Iran. Vladimir Poutine a reconnu des objectifs modestes, qu'aucun pays ne sera contraint de respecter ; Donald Trump a noté la rencontre « 12 sur 10 »."
+     ],
+     "why": "Le FT se demande ce que chacun a vraiment obtenu. Pour Reuters, le sommet a produit peu de victoires concrètes : il vaut surtout comme symbole d'un monde géré par les grandes puissances, au détriment des institutions multilatérales.",
+     "rep": 1,
+     "sources": [
+      "FT Editor's Digest",
+      "Al Jazeera (web)",
+      "Reuters (web)"
+     ],
+     "prog": "Relations internationales, multilatéralisme, puissance"
+    },
+    {
+     "eyebrow": "Climat",
+     "title": "COP31 : un texte final muet sur les énergies fossiles",
+     "text": [
+      "Le projet d'accord publié dimanche à Antalya appelle à électrifier l'économie mondiale, mais ne nomme pas les énergies fossiles. Il renvoie seulement à l'accord de 2023 sur la transition hors des fossiles (ABC News, The Japan Times).",
+      "Un responsable européen y voit un pas « en arrière » et évoque le risque d'une COP sans accord ; l'Arabie saoudite a résisté à une formulation plus forte. Le président de la COP, Murat Kurum, estime que toutes les parties peuvent l'accepter. Les délégations avaient jusqu'à 3 h GMT pour s'y opposer ; l'adoption n'était pas confirmée au moment de publier."
+     ],
+     "why": "La règle du consensus donne un droit de veto de fait aux pays producteurs : chaque COP bute sur le même point, la sortie des fossiles.",
+     "rep": 0,
+     "sources": [
+      "ABC News (web)",
+      "The Japan Times (web)"
+     ],
+     "prog": "Économie du climat, biens publics mondiaux, passager clandestin"
+    },
+    {
+     "img": "img/2026-11-22/cuivre.jpg",
+     "alt": "Une benne déchargeant du concentré de cuivre noir dans la cale d'un navire",
+     "credit": "via myFT Daily Digest",
+     "eyebrow": "Matières premières",
+     "title": "Le cuivre américain repart vers la Chine",
+     "text": [
+      "Selon le FT, des négociants commencent à expédier du cuivre stocké aux États-Unis vers la Chine : la pénurie y est aiguë et la prime locale élevée, tandis que la crainte de droits de douane américains s'apaise.",
+      "Début novembre, la prime à l'importation en Chine a atteint un record de 220 $ la tonne, et l'écart entre les prix de New York et de Londres est devenu négatif, à −85 $ la tonne. Plus de 70 % des stocks du LME se trouvaient dans des entrepôts américains au 5 novembre (S&P Global)."
+     ],
+     "why": "C'est un arbitrage classique : la marchandise va là où elle se vend le plus cher. Les stocks avaient afflué aux États-Unis par crainte des tarifs ; la victoire démocrate au Congrès rend ces droits moins probables, et le flux s'inverse.",
+     "rep": 1,
+     "sources": [
+      "myFT Daily Digest",
+      "S&P Global (web)"
+     ],
+     "prog": "Protectionnisme, arbitrage, marchés de matières premières"
+    }
+   ]
+  }
+ ],
+ "briefs": [
+  [
+   "IA et conscience",
+   "Le FT interroge Henry Shevlin, philosophe de Google DeepMind, sur la conscience et sur ce que pourrait ressentir un agent d'IA (myFT)."
+  ],
+  [
+   "Royaume-Uni",
+   "Le Halifax, ancienne société mutualiste et autrefois premier prêteur immobilier du monde, n'a pas su s'adapter à la banque moderne, raconte le FT (myFT)."
+  ],
+  [
+   "Marchés",
+   "Pour le FT, les investisseurs doivent oublier les réflexes des vingt dernières années : inflation, taux et actions obéissent à d'autres règles (myFT)."
+  ],
+  [
+   "Anthropic",
+   "Selon la presse israélienne, le laboratoire avait étudié un rachat de Decart pour 6 Md$ en août avant d'y renoncer (FourWeekMBA)."
+  ],
+  [
+   "COP31",
+   "Vendredi, la conférence a déjà adopté plusieurs décisions, notamment sur l'article 6 de l'accord de Paris, qui encadre les marchés du carbone (ABC News)."
+  ],
+  [
+   "Deutsche Bank",
+   "Christian Sewing a reconnu des manquements, y compris personnels, et assure que les clients n'ont rien à craindre (Reuters)."
+  ]
+ ],
+ "map": {
+  "start": "ia",
+  "nodes": [
+   {
+    "id": "ia",
+    "x": 200,
+    "y": 34,
+    "l": [
+     "Course",
+     "à l'IA"
+    ],
+    "t": "Le moteur",
+    "d": "Investissements massifs dans les modèles et le calcul."
+   },
+   {
+    "id": "puces",
+    "x": 100,
+    "y": 122,
+    "l": [
+     "Demande",
+     "de puces"
+    ],
+    "t": "La ressource",
+    "d": "Amazon veut Decart pour mieux exploiter ses puces Trainium."
+   },
+   {
+    "id": "cyber",
+    "x": 300,
+    "y": 122,
+    "l": [
+     "Attaques",
+     "assistées"
+    ],
+    "t": "Le revers",
+    "d": "Selon le FT, l'IA accélère les cyberattaques."
+   },
+   {
+    "id": "contreb",
+    "x": 100,
+    "y": 222,
+    "l": [
+     "Contrebande",
+     "vers la Chine"
+    ],
+    "t": "Le contournement",
+    "d": "Au moins 7,5 Md$ de puces Nvidia, selon The Information."
+   },
+   {
+    "id": "cibles",
+    "x": 300,
+    "y": 222,
+    "l": [
+     "Froid, crypto,",
+     "transports"
+    ],
+    "t": "Les cibles",
+    "d": "Congélateurs à 50 °C, 6,3 Md$ volés chez Binance."
+   },
+   {
+    "id": "geo",
+    "x": 100,
+    "y": 322,
+    "l": [
+     "Rivalité",
+     "sino-américaine"
+    ],
+    "t": "La géopolitique",
+    "d": "Les chaînes d'approvisionnement deviennent un champ de bataille."
+   },
+   {
+    "id": "conf",
+    "x": 300,
+    "y": 322,
+    "l": [
+     "Confiance",
+     "ébranlée"
+    ],
+    "t": "L'effet",
+    "d": "Banques, plateformes et réseaux exposés ; fuite géante chez Deutsche Bank."
+   },
+   {
+    "id": "regul",
+    "x": 200,
+    "y": 414,
+    "l": [
+     "Régulation",
+     "et sécurité"
+    ],
+    "t": "La réponse",
+    "d": "Contrôles à l'export, conformité bancaire, cybersécurité."
+   }
+  ],
+  "edges": [
+   [
+    "ia",
+    "puces"
+   ],
+   [
+    "ia",
+    "cyber"
+   ],
+   [
+    "puces",
+    "contreb"
+   ],
+   [
+    "cyber",
+    "cibles"
+   ],
+   [
+    "contreb",
+    "geo"
+   ],
+   [
+    "cibles",
+    "conf"
+   ],
+   [
+    "geo",
+    "regul"
+   ],
+   [
+    "conf",
+    "regul"
+   ]
+  ]
+ },
+ "dossiers": [
+  {
+   "eyebrow": "Finance",
+   "title": "Pourquoi les grandes banques peinent-elles à se réformer ?",
+   "q": "Malgré des amendes répétées et des promesses de changement, une fuite de 15 millions de documents montre que Deutsche Bank a continué de servir des clients douteux. Pourquoi la régulation peine-t-elle à changer les comportements ?",
+   "steps": [
+    [
+     "L'incitation",
+     "Des clients rentables.",
+     "Les clients fortunés ou politiquement exposés rapportent beaucoup ; la conformité coûte et ralentit les affaires."
+    ],
+    [
+     "L'asymétrie",
+     "Un régulateur mal informé.",
+     "Le superviseur ne voit que ce que la banque lui montre : les opérations suspectes peuvent rester invisibles des années."
+    ],
+    [
+     "La sanction",
+     "Des amendes absorbables.",
+     "Si l'amende probable est inférieure au gain, enfreindre la règle reste rationnel pour l'entreprise."
+    ],
+    [
+     "L'alerte",
+     "Les lanceurs d'alerte.",
+     "Deux salariés transmettent 15 millions de fichiers à la presse et aux autorités américaines, qui peuvent les récompenser."
+    ],
+    [
+     "La réforme",
+     "Changer la culture.",
+     "Responsabilité personnelle des dirigeants, protection des lanceurs d'alerte, contrôles internes indépendants."
+    ]
+   ],
+   "refs": [
+    "<b>Gary Becker.</b> L'économie du crime : un agent rationnel compare le gain d'une infraction à la sanction espérée.",
+    "<b>Jean-Jacques Laffont et Jean Tirole.</b> La régulation sous asymétrie d'information : concevoir des incitations quand le régulateur sait moins que le régulé.",
+    "<b>Albert Hirschman.</b> Exit, voice, loyalty : le lanceur d'alerte choisit la prise de parole.",
+    "<b>George Akerlof et Robert Shiller.</b> Phishing for Phools : le marché récompense aussi ceux qui exploitent les failles."
+   ],
+   "accroche": "« Absoluter Cluster-f*k » : c'est ainsi qu'un proche du patron de Deutsche Bank qualifie, selon le FT, la situation révélée en novembre 2026 par la fuite de 15 millions de documents internes.",
+   "sujets": [
+    "La régulation financière peut-elle prévenir les dérives des banques ?",
+    "L'éthique est-elle compatible avec la recherche du profit ?",
+    "Faut-il davantage sanctionner les dirigeants d'entreprise ?",
+    "Les marchés financiers sont-ils autorégulateurs ?"
+   ]
+  },
+  {
+   "eyebrow": "Géopolitique",
+   "title": "Guerre des puces : peut-on contrôler la diffusion d'une technologie ?",
+   "q": "Washington restreint l'accès de la Chine aux puces d'IA les plus avancées. Pourtant, selon la presse américaine, au moins 7,5 Md$ de puces Nvidia auraient atteint la Chine par des réseaux d'intermédiaires.",
+   "steps": [
+    [
+     "L'enjeu",
+     "Une technologie stratégique.",
+     "Les puces d'IA conditionnent la puissance économique et militaire : le FT parle du prochain champ de bataille."
+    ],
+    [
+     "L'outil",
+     "Les contrôles à l'export.",
+     "Les États-Unis interdisent la vente des puces les plus avancées à certains acteurs chinois."
+    ],
+    [
+     "Le contournement",
+     "Des circuits parallèles.",
+     "Sociétés écrans à Singapour, intermédiaires, relations personnelles : l'affaire Alice Huang en est l'illustration."
+    ],
+    [
+     "La riposte",
+     "L'autonomie.",
+     "Chaque camp cherche à maîtriser sa propre chaîne : Amazon avec ses puces Trainium, la Chine avec ses champions nationaux."
+    ],
+    [
+     "Le bilan",
+     "Un frein, pas un mur.",
+     "Les contrôles ralentissent la diffusion sans l'empêcher, et poussent le rival à innover par lui-même."
+    ]
+   ],
+   "split": [
+    [
+     "Pour les contrôles",
+     "Ils retardent l'accès du rival aux capacités les plus avancées et préservent une avance technologique et militaire."
+    ],
+    [
+     "Contre les contrôles",
+     "Ils sont contournés, privent les entreprises nationales de débouchés et accélèrent l'effort d'autonomie du pays visé."
+    ]
+   ],
+   "refs": [
+    "<b>Joseph Schumpeter.</b> L'innovation comme moteur de la puissance économique et de la destruction créatrice.",
+    "<b>Paul Krugman.</b> La politique commerciale stratégique : l'État peut soutenir ses champions dans les secteurs à rendements croissants.",
+    "<b>Henry Farrell et Abraham Newman.</b> L'interdépendance militarisée : contrôler les nœuds d'un réseau mondial devient une arme.",
+    "<b>Chris Miller.</b> Chip War : les semi-conducteurs, ressource la plus stratégique de l'économie mondiale."
+   ],
+   "accroche": "Selon The Information, au moins 7,5 Md$ de puces Nvidia ont atteint la Chine grâce aux réseaux d'une dirigeante proche de l'ancien patron du groupe : en novembre 2026, les contrôles à l'exportation montrent leurs limites.",
+   "sujets": [
+    "Le protectionnisme peut-il servir la puissance ?",
+    "La technologie est-elle devenue le cœur de la rivalité sino-américaine ?",
+    "La mondialisation est-elle compatible avec la sécurité nationale ?"
+   ]
+  }
+ ],
+ "flash": [
+  [
+   "15 millions",
+   "Deutsche Bank",
+   "Documents internes transmis par deux lanceurs d'alerte."
+  ],
+  [
+   "582 M$",
+   "Epstein",
+   "Paiements suspects liés à Jeffrey Epstein traités par la banque, selon le FT."
+  ],
+  [
+   "80 000 $",
+   "Par mois",
+   "Versés à un membre de la famille royale qatarie pour du conseil (FT)."
+  ],
+  [
+   "7,5 Md$",
+   "Decart",
+   "Prix évoqué pour le rachat par Amazon (myFT)."
+  ],
+  [
+   "6,3 Md$",
+   "Binance",
+   "Volés le 30 octobre, le plus gros vol jamais enregistré."
+  ],
+  [
+   "50 °C",
+   "Congélateurs",
+   "Température atteinte dans des supermarchés européens piratés."
+  ],
+  [
+   "220 $/t",
+   "Cuivre",
+   "Prime record à l'importation en Chine (S&P Global)."
+  ],
+  [
+   "83 $",
+   "Anthropic",
+   "Prix de l'action à l'introduction ; 1,127 milliard d'actions vendues."
+  ],
+  [
+   "4 points",
+   "Shenzhen",
+   "La déclaration de paix Xi-Trump-Poutine, sans l'Ukraine ni l'Iran."
+  ]
+ ],
+ "quiz": [
+  {
+   "q": "Combien de documents internes de Deutsche Bank ont fuité ?",
+   "o": [
+    "150 000",
+    "1,5 million",
+    "15 millions",
+    "150 millions"
+   ],
+   "a": 2,
+   "e": "15 millions de fichiers, transmis par deux lanceurs d'alerte : la plus grande fuite interne jamais venue d'une banque."
+  },
+  {
+   "q": "Quelle start-up Amazon s'apprête-t-elle à racheter pour 7,5 Md$ ?",
+   "o": [
+    "Mistral",
+    "Decart",
+    "Cohere",
+    "Perplexity"
+   ],
+   "a": 1,
+   "e": "Decart, start-up israélienne dont le logiciel optimise les modèles sur les puces Trainium d'Amazon."
+  },
+  {
+   "q": "Quelle plateforme a subi un vol de 6,3 Md$ le 30 octobre ?",
+   "o": [
+    "Coinbase",
+    "Kraken",
+    "Binance",
+    "Revolut"
+   ],
+   "a": 2,
+   "e": "Binance, première plateforme de cryptomonnaies au monde : le plus gros vol jamais enregistré."
+  },
+  {
+   "q": "Qu'est-ce que l'option de surallocation (« greenshoe ») lors d'une introduction en Bourse ?",
+   "o": [
+    "Une décote réservée aux salariés",
+    "La possibilité pour les banques de vendre des actions supplémentaires si la demande est forte",
+    "Une garantie de cours plancher",
+    "Un droit de vote double"
+   ],
+   "a": 1,
+   "e": "Elle permet de vendre jusqu'à 15 % d'actions en plus ; Anthropic l'a vue exercée en totalité (147 millions d'actions)."
+  },
+  {
+   "q": "Que ne mentionne pas la déclaration de Shenzhen ?",
+   "o": [
+    "La réforme de l'ONU",
+    "Le risque nucléaire",
+    "L'approvisionnement en énergie",
+    "La guerre en Ukraine"
+   ],
+   "a": 3,
+   "e": "Le texte ignore l'Ukraine et le conflit avec l'Iran ; il porte sur l'ONU, l'énergie et le nucléaire."
+  },
+  {
+   "q": "Pourquoi le cuivre stocké aux États-Unis repart-il vers la Chine ?",
+   "o": [
+    "Un embargo américain",
+    "Une prime élevée en Chine et des craintes de tarifs qui s'apaisent",
+    "Une baisse de la demande chinoise",
+    "Une hausse du dollar"
+   ],
+   "a": 1,
+   "e": "La pénurie chinoise fait grimper la prime locale (220 $/t), tandis que les droits de douane américains deviennent moins probables."
+  },
+  {
+   "q": "Quel économiste a modélisé le crime comme un calcul coût-bénéfice ?",
+   "o": [
+    "Gary Becker",
+    "John Maynard Keynes",
+    "Joseph Stiglitz",
+    "Milton Friedman"
+   ],
+   "a": 0,
+   "e": "Gary Becker (1968) : un agent rationnel compare le gain d'une infraction à la sanction espérée."
+  },
+  {
+   "q": "Que désigne l'acronyme Neet ?",
+   "o": [
+    "Un jeune ni en emploi, ni en études, ni en formation",
+    "Un fonds indiciel",
+    "Un titre de dette publique",
+    "Un dispositif d'épargne retraite"
+   ],
+   "a": 0,
+   "e": "Not in Education, Employment or Training : ces jeunes adultes dépendent souvent des transferts de leurs parents."
+  }
+ ],
+ "colle": {
+  "title": "La régulation peut-elle discipliner la finance ?",
+  "parts": [
+   [
+    "Les dérives persistent malgré la régulation",
+    [
+     "Des incitations au profit plus fortes que la sanction espérée : la fuite Deutsche Bank (Becker)",
+     "Une asymétrie d'information entre banque et superviseur : 3 000 transactions suspectes sur six ans (Laffont et Tirole)"
+    ]
+   ],
+   [
+    "La régulation a pourtant des leviers efficaces",
+    [
+     "Lanceurs d'alerte et récompenses : la prise de parole contre l'opacité (Hirschman)",
+     "Responsabilité personnelle des dirigeants : Christian Sewing reconnaît ses manquements"
+    ]
+   ],
+   [
+    "Une discipline qui dépend aussi de la coopération internationale",
+    [
+     "Flux transfrontaliers et activités en Russie : les limites d'un contrôle national",
+     "Harmonisation des règles (Bâle, lutte contre le blanchiment) face à la concurrence entre places financières"
+    ]
+   ]
+  ]
+ },
+ "matrix": {
+  "cols": [
+   "myFT Daily Digest",
+   "FT Editor's Digest",
+   "TechRepublic",
+   "FourWeekMBA",
+   "Al Jazeera",
+   "FinanceMagnates",
+   "Reuters",
+   "ABC News",
+   "The Japan Times",
+   "S&P Global",
+   "The Information / NYT",
+   "Digital Trends",
+   "The Jakarta Post",
+   "Anthropic"
+  ],
+  "rows": [
+   [
+    "Menace cyber et IA",
+    [
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0
+    ]
+   ],
+   [
+    "Fuite Deutsche Bank",
+    [
+     0,
+     1,
+     0,
+     0,
+     1,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Amazon et Decart",
+    [
+     1,
+     0,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Sommet de Shenzhen",
+    [
+     0,
+     1,
+     0,
+     0,
+     1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Alice Huang et puces",
+    [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Cuivre vers la Chine",
+    [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    "Anthropic en Bourse",
+    [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ]
+   ],
+   [
+    "COP31",
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ]
+  ]
+ },
+ "sources": [
+  [
+   "myFT Daily Digest",
+   "newsletter, dim. 22",
+   "Amazon et Decart, guerre des puces, Alice Huang, cuivre, menace cyber, Neets, Halifax, investisseurs, DeepMind"
+  ],
+  [
+   "FT Editor's Digest",
+   "newsletter (via LinkedIn), sam. 21",
+   "Fuite Deutsche Bank, Anthropic en Bourse, sommet de Shenzhen, menace cyber"
+  ],
+  [
+   "TechRepublic",
+   "web, nov.",
+   "Négociations Amazon-Decart (WSJ), levée de mai et valorisation"
+  ],
+  [
+   "FourWeekMBA",
+   "web, 19 nov.",
+   "Prix et conditions selon Calcalist et Globes, rôle d'Annapurna Labs, retrait d'Anthropic"
+  ],
+  [
+   "Al Jazeera",
+   "web, 18 et 19 nov.",
+   "Contenu de la fuite Deutsche Bank ; bilan du sommet de Shenzhen ; photo"
+  ],
+  [
+   "FinanceMagnates",
+   "web, nov.",
+   "Transactions concernées, récompense possible des lanceurs d'alerte"
+  ],
+  [
+   "Reuters",
+   "web, 17 et 19 nov.",
+   "Réforme de Deutsche Bank à l'épreuve ; engagements de Shenzhen"
+  ],
+  [
+   "ABC News",
+   "web, 22 nov.",
+   "Projet d'accord final de la COP31, calendrier d'adoption"
+  ],
+  [
+   "The Japan Times",
+   "web, 22 nov.",
+   "Réactions de l'UE et de l'Arabie saoudite à la COP31"
+  ],
+  [
+   "S&P Global",
+   "web, 6 nov.",
+   "Prime record du cuivre en Chine, écart New York-Londres, stocks du LME"
+  ],
+  [
+   "The Information / NYT",
+   "web, nov. (via IBTimes, Taiwan News)",
+   "Volume de puces envoyées en Chine, soupçons de renseignement"
+  ],
+  [
+   "Digital Trends",
+   "web, nov.",
+   "Piratage des congélateurs de supermarchés européens ; photo"
+  ],
+  [
+   "The Jakarta Post",
+   "web, 6 nov.",
+   "Chronique Reuters sur le vol chez Binance et l'insécurité liée à l'IA"
+  ],
+  [
+   "Anthropic",
+   "web, 20 nov.",
+   "Clôture de l'introduction en Bourse"
+  ]
+ ],
+ "ia": {
+  "toc": "Amazon s'offre Decart, la menace cyber change d'échelle, et Anthropic boucle son introduction en Bourse.",
+  "intro": "Modèles, outils et projets : ce qui change dans l'IA, et ce qui sert vraiment.",
+  "signalTitle": "Des puces, des pirates et une Bourse",
+  "signal": [
+   {
+    "img": "img/2026-11-22/datacenter.jpg",
+    "alt": "Une allée de serveurs aux câbles bleus et jaunes dans un centre de données",
+    "credit": "via myFT Daily Digest",
+    "eyebrow": "Amazon · puces",
+    "title": "Amazon proche d'un rachat de Decart pour 7,5 Md$",
+    "text": [
+     "Selon le FT, Amazon est sur le point d'acquérir Decart, une start-up israélienne d'IA, pour 7,5 Md$. Selon la presse israélienne, l'opération serait pilotée par Annapurna Labs, la division qui conçoit les puces Trainium, et une partie du prix dépendrait d'objectifs.",
+     "Decart développe un logiciel qui fait tourner les modèles plus efficacement sur ces puces et facilite leur passage d'un matériel à l'autre. Elle était valorisée près de 4 Md$ en mai, après une levée de 300 M$ à laquelle Nvidia avait participé."
+    ],
+    "why": "Les géants du cloud veulent réduire leur dépendance à Nvidia. Le logiciel qui rend une puce maison aussi pratique qu'un GPU standard devient un actif stratégique ; Anthropic, gros client des puces Trainium, avait lui-même étudié ce rachat avant d'y renoncer.",
+    "sources": [
+     "myFT Daily Digest",
+     "TechRepublic (web)",
+     "FourWeekMBA (web)"
+    ],
+    "url": "https://www.techrepublic.com/article/news-amazon-decart-ai-acquisition-talks/"
+   },
+   {
+    "img": "img/2026-11-22/supermarche.jpg",
+    "alt": "Un chariot de supermarché vide devant des vitrines réfrigérées",
+    "credit": "via Digital Trends",
+    "eyebrow": "Sécurité · industrie",
+    "title": "Des congélateurs aux cryptos, des attaques à grande échelle",
+    "text": [
+     "Le FT dresse la liste : congélateurs de supermarché poussés à 50 °C, 6,3 Md$ volés chez Binance, pannes Microsoft dans 70 pays, défaillance du réseau de contrôle aérien américain. Selon un rapport cité par la presse, l'attaque contre Binance serait passée par un logiciel malveillant donnant accès à un outil d'IA interne.",
+     "Le 20 novembre, The Neuron relayait aussi une cyberattaque assistée par l'IA qui a perturbé les systèmes de la Commission européenne, dont la paie et les remboursements médicaux (The Register)."
+    ],
+    "why": "L'IA abaisse le coût d'une attaque : écrire un logiciel malveillant, trouver une faille ou rédiger un faux courriel demande moins de compétences. Pour un particulier, les parades restent les mêmes et deviennent indispensables : mises à jour, mots de passe uniques, double authentification.",
+    "sources": [
+     "FT Editor's Digest",
+     "myFT Daily Digest",
+     "Digital Trends (web)",
+     "The Neuron (web)"
+    ],
+    "url": "https://www.digitaltrends.com/computing/hackers-remotely-turned-supermarket-freezers-into-ovens-across-europe-ruining-millions-of-euros-worth-of-food/"
+   },
+   {
+    "eyebrow": "Anthropic · Bourse",
+    "title": "L'introduction en Bourse d'Anthropic est close",
+    "text": [
+     "Anthropic a annoncé le 20 novembre la clôture de son introduction en Bourse : 1,127 milliard d'actions de classe A au prix de 83 $, dont 147 millions au titre de l'option de surallocation, exercée en totalité, ainsi qu'un placement privé simultané.",
+     "Le FT la qualifie de plus grande introduction en Bourse de l'histoire, à 81 Md$ hors surallocation."
+    ],
+    "why": "Coté, le créateur de Claude devra publier ses comptes chaque trimestre : coûts de calcul, revenus par produit, dépendance à quelques gros clients. Ces chiffres diront si les prix des abonnements et de l'API peuvent rester au niveau actuel.",
+    "sources": [
+     "Anthropic (web)",
+     "FT Editor's Digest"
+    ],
+    "url": "https://www.anthropic.com/news/ipo-close"
+   }
+  ],
+  "models": [
+   {
+    "name": "Genie 4",
+    "maker": "Google DeepMind",
+    "date": "19 nov.",
+    "access": "API Gemini et AI Studio pour les développeurs ; mondes interactifs en 720p à 24 images par seconde avec son.",
+    "price": "Tarif dans la documentation de l'API"
+   },
+   {
+    "name": "Hy4 flash",
+    "maker": "Tencent",
+    "date": "19 nov.",
+    "access": "Poids ouverts sur Hugging Face ; contexte d'un million de jetons.",
+    "price": "Gratuit (poids ouverts)"
+   },
+   {
+    "name": "Olala mini 7A1B",
+    "maker": "OVHcloud",
+    "date": "17-19 nov.",
+    "access": "Poids ouverts sur Hugging Face (licence Apache 2.0) ; 7 milliards de paramètres.",
+    "price": "Gratuit (poids ouverts)"
+   },
+   {
+    "name": "Gemini 4 Neon",
+    "maker": "Google",
+    "date": "18 nov.",
+    "access": "Appli Gemini (AI Pro et Ultra), API payante ; niveau de raisonnement « xhigh » disponible.",
+    "price": "3 $ / 15 $ par million de jetons"
+   },
+   {
+    "name": "GPT-6.2 Astra et Sol",
+    "maker": "OpenAI",
+    "date": "17 nov.",
+    "access": "ChatGPT, Codex et API.",
+    "price": "Astra 8 $ / 40 $, Sol 2 $ / 10 $ par million de jetons (selon Simon Willison)"
+   }
+  ],
+  "claudeTitle": "Outils",
+  "claude": [
+   {
+    "k": "Terminal",
+    "t": "llm-gemini 0.38.1 : régler l'effort de raisonnement de Gemini 4",
+    "d": "Le greffon de Simon Willison pour son outil en ligne de commande llm prend en charge les niveaux de raisonnement de Gemini 4 : low, medium et high pour Carbon, plus xhigh pour Hydrogen et Neon. Son test donne la mesure : en xhigh, Hydrogen a produit 31 477 jetons pour 23,61 cents, contre 5 311 jetons pour 3,99 cents en high. Utile pour réserver l'effort maximal aux questions qui le méritent.",
+    "cmd": "llm install -U llm-gemini",
+    "cmdLabel": "Terminal"
+   },
+   {
+    "k": "Claude Code",
+    "t": "Chrome DevTools dans l'agent",
+    "d": "Le serveur MCP officiel de l'équipe Chrome (58 700 étoiles, dans les tendances de la semaine) donne à Claude Code l'accès aux outils de développement du navigateur : console, requêtes réseau, mesures de performance, captures. L'agent peut ainsi vérifier lui-même qu'une page qu'il a codée s'affiche et fonctionne. Licence Apache 2.0.",
+    "cmd": "/plugin marketplace add ChromeDevTools/chrome-devtools-mcp",
+    "cmdLabel": "Dans Claude Code"
+   }
+  ],
+  "repos": [
+   {
+    "name": "we-promise/sure",
+    "stars": "17,2 k",
+    "week": "+2 041 cette semaine",
+    "lang": "Ruby",
+    "what": "Une application complète de gestion des finances personnelles : comptes, budget, patrimoine, transactions, à héberger soi-même.",
+    "why": "Les données restent sur sa propre machine ou son serveur, sans abonnement. Installation par Docker documentée ; licence AGPL-3.0.",
+    "cmd": "curl --fail --location --silent --show-error --output compose.yml https://raw.githubusercontent.com/we-promise/sure/main/compose.example.yml"
+   },
+   {
+    "name": "backnotprop/plannotator",
+    "stars": "14,2 k",
+    "week": "+3 396 cette semaine",
+    "lang": "TypeScript",
+    "what": "Un espace de relecture pour les plans et le code produits par les agents : on annote, on corrige, et les remarques repartent vers l'agent en un clic.",
+    "why": "Fonctionne comme greffon de Claude Code : utile pour garder la main sur ce que l'agent s'apprête à faire avant qu'il ne le fasse. Licence Apache 2.0.",
+    "cmd": "/plugin marketplace add backnotprop/plannotator"
+   },
+   {
+    "name": "GoogleChrome/modern-web-guidance-src",
+    "stars": "10 k",
+    "week": "+4 400 cette semaine",
+    "lang": "TypeScript",
+    "what": "Des guides à jour des bonnes pratiques du web moderne, que l'agent de code consulte avant d'écrire du HTML, du CSS ou du JavaScript.",
+    "why": "Publié par l'équipe Chrome : évite qu'un agent produise du code daté. L'outil fonctionne hors ligne une fois en cache et peut repérer les usages obsolètes dans un projet. Licence Apache 2.0.",
+    "cmd": "npx modern-web-guidance@latest install"
+   }
+  ],
+  "briefs": [
+   [
+    "Anthropic",
+    "Selon la presse israélienne, le laboratoire avait étudié un rachat de Decart pour 6 Md$ en août, avant de renoncer après audit (FourWeekMBA)."
+   ],
+   [
+    "Riemann",
+    "Le mathématicien Ravi Vakil signale un projet de preuve humain d'Alessandro Masullo, le même jour que celle revendiquée avec Claude ; aucune n'est encore validée (Simon Willison)."
+   ],
+   [
+    "Fraude",
+    "ChatPRD met fin à ses essais gratuits après des abus massifs consistant à consommer des jetons d'IA aux frais du service (Simon Willison, 20 nov.)."
+   ],
+   [
+    "Espace",
+    "Google a choisi Blue Origin pour lancer au premier trimestre 2029 les satellites de son projet Suncatcher, des serveurs d'IA en orbite (The Verge, via The Neuron)."
+   ],
+   [
+    "Santé",
+    "OpenAI publie MedChemBench, un banc d'essai qui mesure les capacités des modèles en chimie médicinale (OpenAI, 20 nov.)."
+   ],
+   [
+    "Philosophie",
+    "Le FT interroge Henry Shevlin, philosophe maison de Google DeepMind, sur la conscience des agents d'IA (myFT)."
+   ]
+  ],
+  "sources": [
+   [
+    "Anthropic",
+    "web, 20 nov.",
+    "Clôture de l'introduction en Bourse"
+   ],
+   [
+    "TechRepublic",
+    "web, nov.",
+    "Négociations Amazon-Decart"
+   ],
+   [
+    "FourWeekMBA",
+    "web, 19 nov.",
+    "Conditions du rachat de Decart, retrait d'Anthropic"
+   ],
+   [
+    "Digital Trends",
+    "web, nov.",
+    "Piratage des congélateurs de supermarchés"
+   ],
+   [
+    "The Neuron",
+    "web, 20 nov.",
+    "Cyberattaque contre la Commission européenne, projet Suncatcher"
+   ],
+   [
+    "Simon Willison",
+    "web, 20-21 nov.",
+    "llm-gemini 0.38.1, fraude aux jetons, Riemann, prix de GPT-6.2"
+   ],
+   [
+    "OpenAI",
+    "web, 20 nov.",
+    "MedChemBench"
+   ],
+   [
+    "GitHub",
+    "web, 22 nov.",
+    "Tendances de la semaine, README des dépôts"
+   ]
+  ]
+ }
+}
