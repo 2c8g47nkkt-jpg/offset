@@ -1,0 +1,481 @@
+{
+ "date": "2026-11-24",
+ "label": "Mardi 24 novembre 2026",
+ "period": "23 au 24 novembre",
+ "sourcesCount": 5,
+ "countLabel": "5 newsletters + 9 sources web",
+ "hero": {
+  "img": "img/2026-11-24/huang.jpg",
+  "alt": "Jensen Huang, en veste de cuir noire, s'exprime sur scène devant un fond sombre",
+  "credit": "via CBC",
+  "eyebrow": "À la une",
+  "title": "Jensen Huang revient chez Nvidia, Wall Street s'envole",
+  "lede": "Onze jours après son départ, le conseil d'administration de Nvidia a réintégré son cofondateur à l'unanimité, après des échanges avec « les plus hauts niveaux » du gouvernement américain. L'action a bondi d'environ +30 %, ajoutant près de 1 000 Md$ de valeur, et le Nasdaq a gagné +7 %. Quatre des cinq newsletters du jour en parlent ; elles s'interrogent aussi sur la fragilité d'un écosystème de l'IA suspendu à un seul homme et à une seule entreprise."
+ },
+ "brief": [
+  ["Nvidia", "Jensen Huang réintégré ; l'action gagne environ +30 % et le Nasdaq +7 % en une séance (FT)."],
+  ["Règle d'or", "Emmanuel Macron envisage d'inscrire dans la Constitution une trajectoire de retour à l'équilibre ; la dette atteint 119 % du PIB."],
+  ["Cybersécurité", "CrowdStrike rachète Zscaler pour environ 43,9 Md$, entièrement payés en actions."],
+  ["Anthropic", "Après une introduction à 83 $, la croissance trimestrielle de ses revenus ralentit de 144 % à environ 47 %."],
+  ["Défense", "Le chef d'état-major de l'armée de l'Air admet un retard français sur les drones bon marché, face à des Shahed à 20 000 $."]
+ ],
+ "figures": [
+  {"v": "+30 %", "l": "hausse de l'action Nvidia lundi après le retour de Jensen Huang, près de 1 000 Md$ de valeur ajoutée (FT, CNN)", "dir": "up"},
+  {"v": "+7 %", "l": "hausse du Nasdaq dans la même séance ; le S&P 500 gagne +4,7 % (myFT)", "dir": "up"},
+  {"v": "119 %", "l": "dette publique française rapportée au PIB, au moment où Macron relance la règle d'or (Money Stack, Euronews)", "dir": "up"},
+  {"v": "43,9 Md$", "l": "prix du rachat de Zscaler par CrowdStrike, payé en actions (CrowdStrike)", "dir": "up"}
+ ],
+ "themes": [
+  {
+   "title": "Nvidia, Anthropic : l'IA suspendue à quelques acteurs",
+   "stories": [
+    {
+     "img": "img/2026-11-24/asie.jpg",
+     "alt": "Deux opérateurs d'une salle de marché asiatique devant des écrans de cotation",
+     "credit": "via myFT Daily Digest",
+     "eyebrow": "Nvidia",
+     "title": "Le retour de Jensen Huang rallume la flamme de l'IA",
+     "text": [
+      "Le conseil d'administration de Nvidia a voté à l'unanimité la réintégration de Jensen Huang comme président-directeur général, onze jours après sa démission (Nvidia, The Neuron). Le communiqué évoque des discussions incluant « les plus hauts niveaux » du gouvernement américain ; Donald Trump revendique un rôle décisif (CNN).",
+      "L'action a clôturé en hausse d'environ +30 %, sa meilleure séance depuis 2003 selon Bloomberg, et le groupe a repris près de 1 000 Md$ de capitalisation. Le Nasdaq a gagné +7 % et le S&P 500 +4,7 % ; mardi, les valeurs technologiques asiatiques suivent (myFT). TSMC a pris 14 % et ASML 9 % (CNN)."
+     ],
+     "why": "Huang avait été poussé au départ par des révélations sur ses liaisons, dont une avec une espionne chinoise présumée (FT Newswrap). Son retour, obtenu avec l'appui de la Maison Blanche, rassure les investisseurs mais crée un précédent : des élus des deux partis veulent l'entendre en public, et le FT relève que Trump aurait gagné jusqu'à 15 M$ sur ses actions Nvidia.",
+     "rep": 4,
+     "sources": ["myFT Daily Digest", "FT Newswrap", "Money Stack", "The Next Big Sh*t", "CNN (web)", "Nvidia (web)", "The Neuron (web)"],
+     "url": "https://www.cnn.com/2026/11/23/markets/us-stocks-rebound-intl",
+     "more": [
+      "<b>Risque de l'homme clé.</b> Quand la valeur d'une entreprise dépend d'un dirigeant, son départ fait chuter le cours : Nvidia avait perdu près de 28 % après l'éviction de Huang (Yahoo Finance).",
+      "<b>Le contrepoint.</b> The Next Big Sh*t rappelle que les « hommes indispensables » le sont rarement : Apple a prospéré après Steve Jobs, Uber a dégagé son premier bénéfice d'exploitation annuel après Travis Kalanick."
+     ],
+     "prog": "Gouvernance d'entreprise, théorie de l'agence, État et marché"
+    },
+    {
+     "eyebrow": "Anthropic",
+     "title": "Après l'introduction en Bourse, la course contre la montre",
+     "text": [
+      "Introduite à 83 $ (Anthropic), l'action a gagné 17 % le premier jour puis perdu −8,5 % vendredi, autour de 89 $ (The Next Big Sh*t). Le retour de Huang l'aide à regagner une partie de ses pertes (FT Newswrap).",
+      "La croissance trimestrielle de ses revenus est passée de 144 % au deuxième trimestre à environ 47 % au troisième, tandis que ses dépenses de calcul ont augmenté de 77 % ; l'entreprise a pris 900,9 Md$ d'engagements futurs jusqu'en 2045 (The Next Big Sh*t, Money Stack)."
+     ],
+     "why": "Une valorisation de l'ordre de 1 500 Md$ (FT) à 1 800 Md$ (Money Stack) suppose une croissance forte pendant longtemps. Le ralentissement de la croissance, conjugué à des coûts de calcul qui montent, est exactement ce que surveillent les investisseurs.",
+     "rep": 3,
+     "sources": ["The Next Big Sh*t", "Money Stack", "FT Newswrap", "Anthropic (web)"],
+     "prog": "Valorisation, actualisation, financement de l'innovation"
+    },
+    {
+     "eyebrow": "Finance",
+     "title": "Le « cirque » du financement circulaire de l'IA",
+     "text": [
+      "Pour Rana Foroohar (FT), Nvidia soutient une grande partie de l'écosystème de l'IA par des prêts et des prises de participation chez des clients qui achètent ensuite ses puces. Cela crée un marché, mais aussi des couches de fragilité interconnectées.",
+      "Elle craint qu'une baisse des commandes de puces dans les prochains mois ne réduise ce financement fournisseur et ne fasse vaciller l'ensemble, d'autant que son ampleur est sans précédent. Le même jour, le FT publie une analyse sur ce qui se passe quand les bulles éclatent."
+     ],
+     "why": "Quand un fournisseur finance ses propres clients, la demande observée peut mêler besoins réels et achats rendus possibles par ce crédit : il devient difficile de distinguer la demande solide de la demande spéculative.",
+     "rep": 2,
+     "sources": ["FT Opinion", "myFT Daily Digest"],
+     "more": [
+      "<b>Image du FT.</b> Une « tour de Jenga » : retirer une pièce, la baisse des commandes, peut faire tomber l'édifice."
+     ],
+     "prog": "Instabilité financière, crédit, bulles spéculatives"
+    }
+   ]
+  },
+  {
+   "title": "France et Europe : budget, industrie, défense",
+   "stories": [
+    {
+     "eyebrow": "Finances publiques",
+     "title": "Macron confirme qu'il envisage une règle d'or constitutionnelle",
+     "text": [
+      "Dans un entretien au Figaro, Emmanuel Macron confirme réfléchir à inscrire dans la Constitution une trajectoire de retour à l'équilibre budgétaire, avec un Congrès à Versailles évoqué pour janvier (Euronews). La dette atteint 119 % du PIB (Money Stack).",
+      "Il reprendrait une révision votée par les deux chambres en 2011, jamais finalisée. Sans référendum, il faut les trois cinquièmes des suffrages exprimés au Congrès, donc les voix du RN, qui réclamait cette réforme (Money Stack, Euronews)."
+     ],
+     "why": "L'objectif affiché est de rassurer les marchés et les partenaires européens avant la présidentielle. La règle ne fixerait pas les choix budgétaires eux-mêmes, mais imposerait une trajectoire contraignante.",
+     "rep": 3,
+     "sources": ["Money Stack", "FT Newswrap", "The Next Big Sh*t", "Euronews (web)", "France 24 (web)"],
+     "url": "https://fr.euronews.com/2026/11/23/emmanuel-macron-confirme-envisager-ladoption-dune-regle-dor-budgetaire",
+     "prog": "Politique budgétaire, dette publique, règles contre discrétion"
+    },
+    {
+     "eyebrow": "Défense",
+     "title": "Drones à 20 000 $ : la guerre change de modèle économique",
+     "text": [
+      "Dans un entretien au Grand Continent, le général Jérôme Bellanger, chef d'état-major de l'armée de l'Air et de l'Espace, estime que la victoire dépend désormais aussi du coût et du volume des armes. L'Iran l'a montré avec des drones Shahed à 20 000 $ (Money Stack).",
+      "La France mise sur un « high-low mix », mêlant masse bon marché et équipements de pointe, mais admet un retard : les drones qui accompagneront les chasseurs sont américains, Dassault s'appuie sur l'émirati EDGE, et MBDA et Safran ont avancé leurs propres fonds faute de budgets votés à temps."
+     ],
+     "why": "Le retard industriel crée une dépendance. Le général compare l'achat de F-35 à celui d'un iPhone : une fois l'écosystème adopté, on bâtit sa défense sur des systèmes qu'on ne contrôle pas.",
+     "rep": 1,
+     "sources": ["Money Stack"],
+     "prog": "Souveraineté, politique industrielle, économie de la défense"
+    },
+    {
+     "eyebrow": "Allemagne",
+     "title": "L'automobile allemande se serre la ceinture, Tesla investit",
+     "text": [
+      "Volkswagen veut geler les salaires et Mercedes évoque des fermetures d'usines ; dans le même temps, Tesla injecte 3 Md€ près de Berlin, ce qu'applaudit même le syndicat IG Metall (Money Stack).",
+      "Mercedes-Benz a toutefois devancé Tesla en devenant le premier constructeur à obtenir la certification allemande pour son logiciel avancé d'aide à la conduite (FT Newswrap)."
+     ],
+     "why": "Le modèle industriel allemand, fondé sur le moteur thermique et l'export, est concurrencé par l'électrique et par les constructeurs chinois : la compétitivité se joue désormais sur le logiciel et les batteries.",
+     "rep": 2,
+     "sources": ["Money Stack", "FT Newswrap"],
+     "prog": "Compétitivité, désindustrialisation, mutations sectorielles"
+    }
+   ]
+  },
+  {
+   "title": "Entreprises : cybersécurité, créateurs et IA française",
+   "stories": [
+    {
+     "eyebrow": "Fusions",
+     "title": "CrowdStrike avale Zscaler",
+     "text": [
+      "CrowdStrike a annoncé le rachat de Zscaler pour environ 43,9 Md$, payé entièrement en actions : chaque action Zscaler sera échangée contre 1,135 action CrowdStrike (CrowdStrike, SEC). Le nouvel ensemble revendique plus de 10 Md$ de revenus annuels récurrents.",
+      "L'opération, annoncée avec les résultats trimestriels de CrowdStrike, doit se conclure au second semestre de son exercice qui s'achève fin janvier 2028, sous réserve de l'accord des actionnaires de Zscaler. Le FT la relie à la multiplication des cybermenaces et des pannes informatiques."
+     ],
+     "why": "CrowdStrike entre ainsi dans la sécurité des réseaux, le plus gros segment du marché. Un paiement en actions évite l'endettement mais dilue les actionnaires existants.",
+     "rep": 2,
+     "sources": ["myFT Daily Digest", "FT Newswrap", "CrowdStrike (web)"],
+     "prog": "Concentration, stratégies de croissance externe"
+    },
+    {
+     "eyebrow": "Creator economy",
+     "title": "L'IA redistribue les cartes de l'influence",
+     "text": [
+      "L'économie des créateurs pèserait 217,3 Md$ en 2026, dont 10,1 Md$ en France (+23 % en un an), mais 56 % des créateurs français gagnent moins de 5 000 $ par an (The Next Big Sh*t). Or 84 % des vidéos citées par l'AI Overview de Google viennent de chaînes de moins de 100 000 abonnés : les marques se tournent vers les petits comptes spécialisés, dont le prix des collaborations a pris +30 % depuis 2025.",
+      "BNP Paribas propose désormais un banquier privé aux créateurs dès 100 000 abonnés ; le secteur a enchaîné 70 fusions-acquisitions en six mois (Money Stack)."
+     ],
+     "why": "Un marché très inégalitaire, où le premier 1 % capte un quart des revenus, pourrait se rééquilibrer si les moteurs de réponse d'IA valorisent l'expertise plutôt que l'audience.",
+     "rep": 2,
+     "sources": ["The Next Big Sh*t", "Money Stack"],
+     "prog": "Économie numérique, inégalités de revenus, effets de superstar"
+    },
+    {
+     "eyebrow": "IA souveraine",
+     "title": "OVHcloud lance Olala, Qwant quitte Mistral",
+     "text": [
+      "OVHcloud a dévoilé Olala mini 7A1B, son premier modèle de langage : petit, frugal, annoncé en open source sous licence Apache 2.0 (Blog du Modérateur, Next). Qwant, qui a quitté Mistral quand celle-ci a triplé ses prix, dit avoir divisé ses coûts par trois (Money Stack).",
+      "Selon OVHcloud, les réponses d'IA de Qwant sont 20 % plus rapides ; aucun résultat de banc d'essai n'a été publié."
+     ],
+     "why": "Loin des modèles de pointe, Olala illustre une autre stratégie : des modèles petits et bon marché, hébergés en Europe, pour des usages précis.",
+     "rep": 1,
+     "sources": ["Money Stack", "Blog du Modérateur (web)"],
+     "prog": "Souveraineté numérique, concurrence, coûts"
+    }
+   ]
+  },
+  {
+   "title": "Monde : climat et élections",
+   "stories": [
+    {
+     "eyebrow": "Climat",
+     "title": "COP31 : trois erreurs de méthode selon François Gemenne",
+     "text": [
+      "Au lendemain de l'échec d'Antalya, sans accord pour la première fois depuis Copenhague en 2009, le chercheur François Gemenne pointe trois erreurs : l'obstination à obtenir une déclaration finale globale, la règle du consensus qui donne un droit de veto aux pays qui sabotent l'accord, et le flou sur le rôle des entreprises (Money Stack).",
+      "Il aurait préféré centrer la conférence sur l'électrification, avec un objectif de 35 % d'électricité dans la consommation finale d'énergie en 2035, et laisser avancer des coalitions de pays ambitieux."
+     ],
+     "why": "La lecture est utile en dissertation : le blocage ne vient pas seulement des intérêts divergents, mais aussi des règles de décision. Des « clubs » de pays volontaires peuvent contourner l'unanimité.",
+     "rep": 1,
+     "sources": ["Money Stack"],
+     "prog": "Biens publics mondiaux, gouvernance mondiale, économie du climat"
+    },
+    {
+     "eyebrow": "Voiture électrique",
+     "title": "Une voiture neuve sur quatre est électrique",
+     "text": [
+      "Selon le centre de réflexion Ember, plus d'un quart des voitures neuves vendues dans le monde sont électriques ou hybrides rechargeables ; les constructeurs chinois assurent l'essentiel des ventes (FT Newswrap, Ember).",
+      "L'Agence internationale de l'énergie compte plus de 20 millions de ventes en 2025, dont plus de 13 millions en Chine, soit environ six sur dix (AIE)."
+     ],
+     "why": "La transition avance plus vite par le marché et la politique industrielle chinoise que par les négociations climatiques : un contraste frappant avec l'échec de la COP31.",
+     "rep": 1,
+     "sources": ["FT Newswrap", "Ember (web)", "AIE (web)"],
+     "prog": "Transition énergétique, concurrence internationale, Chine"
+    },
+    {
+     "eyebrow": "Espagne",
+     "title": "Dernière ligne droite avant les législatives",
+     "text": [
+      "Les Espagnols votent dimanche 29 novembre, après huit ans de gouvernement de Pedro Sánchez. Selon une analyse du FT, les immigrés ont vu leurs revenus progresser davantage que les Espagnols de naissance sur la période, alors que l'immigration devient un sujet clivant (FT Newswrap).",
+      "Trois sondages publiés le 16 novembre donnaient la majorité au Parti populaire allié à Vox (Reuters, via The Star) ; la loi interdit d'en publier dans les cinq jours précédant le scrutin."
+     ],
+     "why": "L'Espagne a été l'une des économies les plus dynamiques de la zone euro, en partie grâce à l'immigration ; le scrutin dira si cette croissance suffit face à la crise du logement.",
+     "rep": 1,
+     "sources": ["FT Newswrap", "The Star / Reuters (web)"],
+     "prog": "Migrations, croissance, crise du logement"
+    }
+   ]
+  }
+ ],
+ "briefs": [
+  ["Royaume-Uni", "L'action du sous-traitant Capita s'effondre de plus de −70 % après un changement brutal de directeur général et un deuxième avertissement sur résultats en six mois (FT Newswrap)."],
+  ["Immobilier", "Le promoteur britannique Crest Nicholson chute jusqu'à −30 % après une perte plus lourde que prévu (FT Newswrap)."],
+  ["Concurrence", "Bruxelles ouvre une enquête sur l'embouteilleur londonien de Coca-Cola, soupçonné de restreindre les ventes transfrontalières (FT Newswrap)."],
+  ["BYD", "Un tribunal néerlandais interdit en Europe la vente d'un SUV jugé copié sur le Defender de Jaguar Land Rover ; l'action BYD perd jusqu'à −4 % (FT Newswrap)."],
+  ["Mailchimp", "Revendu à Bending Spoons pour 3,68 Md$, contre 12 Md$ payés par Intuit en 2021 (The Next Big Sh*t)."],
+  ["États-Unis", "Elon Musk regrette d'avoir donné 500 M$ à des candidats républicains battus aux élections de mi-mandat et assure ne pas être « MAGA » (Money Stack)."]
+ ],
+ "good": "Une voiture neuve sur quatre vendue dans le monde est désormais électrique ou hybride rechargeable, selon le centre de réflexion Ember (FT Newswrap).",
+ "map": {
+  "start": "depart",
+  "nodes": [
+   {"id": "depart", "x": 200, "y": 34, "l": ["Départ de", "Jensen Huang"], "t": "Le choc", "d": "Le 12 novembre, Huang quitte Nvidia après des révélations sur sa vie privée."},
+   {"id": "chute", "x": 100, "y": 122, "l": ["Nvidia et la", "tech chutent"], "t": "La sanction", "d": "Le marché valorise l'homme clé : l'action recule fortement."},
+   {"id": "lobby", "x": 300, "y": 122, "l": ["Pression de", "la Maison Blanche"], "t": "L'intervention", "d": "Trump, JD Vance et des patrons de la tech plaident pour son retour."},
+   {"id": "retour", "x": 200, "y": 222, "l": ["Huang", "réintégré"], "t": "Le revirement", "d": "Le conseil vote son retour à l'unanimité le 23 novembre."},
+   {"id": "rebond", "x": 100, "y": 322, "l": ["Nvidia +30 %", "Nasdaq +7 %"], "t": "Le rebond", "d": "Près de 1 000 Md$ de valeur retrouvée en une séance."},
+   {"id": "enquetes", "x": 300, "y": 322, "l": ["Enquêtes et", "précédent"], "t": "Le revers", "d": "Les élus veulent l'entendre en public ; la gouvernance est en question."},
+   {"id": "fragilite", "x": 200, "y": 414, "l": ["Écosystème IA", "fragile"], "t": "La question", "d": "Financement circulaire et dépendance à un acteur : jusqu'où ?"}
+  ],
+  "edges": [["depart", "chute"], ["depart", "lobby"], ["chute", "retour"], ["lobby", "retour"], ["retour", "rebond"], ["retour", "enquetes"], ["rebond", "fragilite"], ["enquetes", "fragilite"]]
+ },
+ "dossiers": [
+  {
+   "eyebrow": "Gouvernance",
+   "title": "Un dirigeant peut-il être indispensable ?",
+   "q": "Nvidia a perdu une large part de sa valeur au départ de Jensen Huang, puis l'a retrouvée à son retour, obtenu avec l'appui de la Maison Blanche. Que dit cet épisode du pouvoir des dirigeants et de la gouvernance des grandes entreprises ?",
+   "steps": [
+    ["Le fondateur", "Une stratégie incarnée.", "Huang a transformé Nvidia en entreprise phare de l'IA ; marché et salariés l'identifient à la stratégie."],
+    ["Le scandale", "Le conseil tranche.", "Des révélations sur sa vie privée et un risque de sécurité nationale poussent à son départ."],
+    ["La sanction", "Le marché vote.", "L'action recule : les investisseurs valorisent le dirigeant lui-même."],
+    ["L'intervention", "L'État s'invite.", "La Maison Blanche et des patrons de la tech font pression pour son retour."],
+    ["Le précédent", "Qui contrôle qui ?", "Le conseil cède ; le Congrès veut des auditions publiques et les enquêtes se poursuivent."]
+   ],
+   "split": [
+    ["Oui, certains le sont", "Le marché l'a dit en ajoutant près de 1 000 Md$ de valeur en une séance ; la vision et les réseaux d'un fondateur sont des actifs difficiles à remplacer."],
+    ["Non, personne ne l'est", "Apple après Jobs, Uber après Kalanick : les organisations survivent à leurs fondateurs ; croire l'inverse justifie une concentration du pouvoir sans contre-pouvoir."]
+   ],
+   "refs": [
+    "<b>Michael Jensen et William Meckling.</b> La théorie de l'agence : les intérêts des dirigeants et des actionnaires divergent, d'où le besoin de contrôle.",
+    "<b>Adolf Berle et Gardiner Means.</b> La séparation de la propriété et du contrôle dans la grande entreprise moderne.",
+    "<b>Max Weber.</b> L'autorité charismatique, fondée sur les qualités exceptionnelles prêtées à un chef.",
+    "<b>Joseph Schumpeter.</b> L'entrepreneur innovateur, moteur de la destruction créatrice."
+   ],
+   "accroche": "« Les cimetières sont pleins d'hommes indispensables. » Le 23 novembre 2026, le retour de Jensen Huang à la tête de Nvidia fait pourtant gagner près de 1 000 Md$ à l'entreprise en une séance.",
+   "sujets": [
+    "Qui gouverne l'entreprise ?",
+    "L'entreprise est-elle seulement au service de ses actionnaires ?",
+    "L'État doit-il intervenir dans la gouvernance des entreprises stratégiques ?"
+   ]
+  },
+  {
+   "eyebrow": "Finance",
+   "title": "Combien vaut une entreprise d'IA ?",
+   "q": "Anthropic est valorisée entre 1 500 et 1 800 Md$ alors que la croissance de ses revenus ralentit et que ses coûts de calcul augmentent. Comment justifier une telle valeur ?",
+   "steps": [
+    ["Le principe", "Actualiser les flux futurs.", "La valeur d'une entreprise est la somme de ses profits futurs ramenés au présent par un taux d'actualisation."],
+    ["La croissance", "Le pari sur la durée.", "Une valorisation élevée suppose une croissance forte pendant de nombreuses années."],
+    ["Le ralentissement", "De 144 % à 47 %.", "La croissance trimestrielle des revenus ralentit tandis que les dépenses de calcul augmentent de 77 %."],
+    ["Les engagements", "Des coûts fixes énormes.", "900,9 Md$ d'engagements futurs jusqu'en 2045 pèsent sur la rentabilité attendue."],
+    ["La sensibilité", "Le rôle du taux.", "Plus les profits sont lointains, plus une hausse du taux ou de la prime de risque fait chuter la valeur actuelle."]
+   ],
+   "calc": true,
+   "refs": [
+    "<b>Irving Fisher.</b> La valeur d'un actif comme valeur actualisée de ses revenus futurs.",
+    "<b>Myron Gordon.</b> Le modèle de croissance des dividendes : la valeur dépend de l'écart entre taux d'actualisation et croissance.",
+    "<b>John Maynard Keynes.</b> Le concours de beauté : on achète ce que les autres vont acheter.",
+    "<b>Hyman Minsky.</b> Le financement spéculatif, qui fragilise le système quand les flux attendus déçoivent."
+   ],
+   "accroche": "En novembre 2026, Anthropic entre en Bourse à 83 $ par action ; quelques jours plus tard, la croissance de ses revenus a été divisée par trois.",
+   "sujets": [
+    "Les marchés financiers financent-ils efficacement l'innovation ?",
+    "Les bulles spéculatives sont-elles inévitables ?",
+    "Le taux d'intérêt est-il le prix du temps ?"
+   ]
+  },
+  {
+   "eyebrow": "Défense",
+   "title": "La masse contre la technologie : l'économie de la guerre change",
+   "q": "Des drones à 20 000 $ peuvent semer le chaos face à des armées technologiquement supérieures. L'Europe peut-elle rattraper son retard industriel sans dépendre des États-Unis ?",
+   "steps": [
+    ["Le constat", "Coût et volume comptent.", "La victoire dépend désormais du coût et du volume des armes, pas seulement de leur qualité."],
+    ["L'exemple", "Les Shahed iraniens.", "Des drones bon marché saturent des défenses coûteuses."],
+    ["La réponse", "Le high-low mix.", "Associer masse bon marché et équipements de pointe."],
+    ["Le retard", "Une industrie lente.", "Solutions américaines, budgets votés en retard, industriels qui avancent leurs fonds."],
+    ["L'enjeu", "Dépendance ou autonomie.", "Acheter américain, c'est bâtir sa défense sur des systèmes qu'on ne contrôle pas."]
+   ],
+   "refs": [
+    "<b>Paul Kennedy.</b> Naissance et déclin des grandes puissances : la puissance militaire repose sur la base économique.",
+    "<b>Friedrich List.</b> Le protectionnisme éducateur pour bâtir une industrie nationale.",
+    "<b>Albert Hirschman.</b> La dépendance commerciale comme instrument de pouvoir.",
+    "<b>Alan Milward.</b> L'économie de guerre et la mobilisation industrielle."
+   ],
+   "accroche": "« Acheter du F-35, c'est comme acheter un iPhone », ironise en novembre 2026 le chef d'état-major de l'armée de l'Air et de l'Espace.",
+   "sujets": [
+    "L'Union européenne peut-elle être une puissance ?",
+    "La souveraineté économique est-elle encore possible ?",
+    "Faut-il une politique industrielle européenne ?"
+   ]
+  }
+ ],
+ "flash": [
+  ["+30 %", "Nvidia", "Hausse de l'action le 23 novembre après le retour de Huang."],
+  ["~1 000 Md$", "Capitalisation", "Valeur regagnée par Nvidia en une séance."],
+  ["+7 %", "Nasdaq", "Hausse dans la même séance ; S&P 500 +4,7 %."],
+  ["119 %", "Dette française", "Rapportée au PIB, selon Money Stack."],
+  ["3/5", "Congrès", "Majorité requise pour réviser la Constitution sans référendum."],
+  ["43,9 Md$", "CrowdStrike", "Prix du rachat de Zscaler, payé en actions."],
+  ["47 %", "Anthropic", "Croissance trimestrielle des revenus au T3, contre 144 % au T2."],
+  ["20 000 $", "Drone Shahed", "Le coût d'une arme qui change l'économie de la guerre."],
+  ["1 sur 4", "Voitures neuves", "Part des électriques et hybrides rechargeables dans le monde (Ember)."]
+ ],
+ "quiz": [
+  {"q": "De combien l'action Nvidia a-t-elle progressé après le retour de Jensen Huang ?", "o": ["+7 %", "+15 %", "+30 %", "+50 %"], "a": 2, "e": "Environ +30 %, près de 1 000 Md$ de capitalisation regagnée en une séance."},
+  {"q": "Quelle majorité faut-il au Congrès pour réviser la Constitution ?", "o": ["Majorité simple", "Majorité absolue", "Trois cinquièmes des suffrages exprimés", "Deux tiers des inscrits"], "a": 2, "e": "Sans référendum, la révision doit réunir les trois cinquièmes des suffrages exprimés."},
+  {"q": "Comment CrowdStrike paie-t-il le rachat de Zscaler ?", "o": ["En numéraire", "Par emprunt", "En actions", "Moitié numéraire, moitié actions"], "a": 2, "e": "Chaque action Zscaler sera échangée contre 1,135 action CrowdStrike."},
+  {"q": "Qu'est-ce que le financement circulaire reproché à Nvidia ?", "o": ["Racheter ses propres actions", "Financer des clients qui achètent ensuite ses puces", "Emprunter auprès de l'État", "Vendre à perte"], "a": 1, "e": "Prêts et participations chez des clients qui achètent ses produits : la demande peut être en partie artificielle."},
+  {"q": "Quelle est la croissance trimestrielle des revenus d'Anthropic au troisième trimestre ?", "o": ["Environ 17 %", "Environ 47 %", "Environ 77 %", "Environ 144 %"], "a": 1, "e": "Environ 47 %, contre 144 % au deuxième trimestre ; ses dépenses de calcul ont crû de 77 %."},
+  {"q": "Quel auteur a théorisé la séparation de la propriété et du contrôle dans la grande entreprise ?", "o": ["Berle et Means", "Walras", "Ricardo", "Friedman"], "a": 0, "e": "Adolf Berle et Gardiner Means, en 1932."},
+  {"q": "Quel objectif François Gemenne aurait-il voulu placer au centre de la COP31 ?", "o": ["Une taxe carbone mondiale", "35 % d'électricité dans la consommation finale d'énergie en 2035", "La fin du charbon en 2030", "Un fonds pour les pertes et dommages"], "a": 1, "e": "Un objectif d'électrification jugé réaliste et consensuel, finalement noyé dans le texte."},
+  {"q": "Quand les Espagnols votent-ils pour les législatives anticipées ?", "o": ["Le 24 novembre", "Le 29 novembre", "Le 6 décembre", "En janvier 2027"], "a": 1, "e": "Le dimanche 29 novembre, après huit ans de gouvernement Sánchez."}
+ ],
+ "colle": {
+  "title": "Qui gouverne l'entreprise ?",
+  "parts": [
+   ["Les actionnaires, en principe, par le conseil d'administration", ["La théorie de l'agence : le conseil contrôle les dirigeants pour le compte des actionnaires (Jensen et Meckling)", "Le conseil de Nvidia écarte Huang le 12 novembre, puis le réintègre le 23"]],
+   ["Mais le pouvoir réel se concentre chez les dirigeants charismatiques", ["Séparation propriété-contrôle (Berle et Means) ; droits de vote multiples : Zuckerberg contrôle environ 61 % des votes avec moins de 15 % du capital", "Autorité charismatique (Weber) et « god-ification » des patrons de la tech"]],
+   ["Et l'État et les parties prenantes s'invitent dans la gouvernance", ["La Maison Blanche pèse sur le retour de Huang ; le Congrès veut des auditions publiques", "Vers une gouvernance partenariale : salariés, régulateurs, intérêt national"]]
+  ]
+ },
+ "matrix": {
+  "cols": ["Money Stack", "myFT Daily Digest", "FT Newswrap", "FT Opinion", "The Next Big Sh*t", "CNN", "Nvidia", "Anthropic", "CrowdStrike", "Euronews", "France 24", "Blog du Modérateur", "Ember", "The Star / Reuters"],
+  "rows": [
+   ["Retour de Jensen Huang", [1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]],
+   ["Anthropic après l'IPO", [1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]],
+   ["Règle d'or budgétaire", [1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0]],
+   ["Financement circulaire de l'IA", [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
+   ["CrowdStrike et Zscaler", [0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]],
+   ["Automobile allemande", [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
+   ["Creator economy", [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
+   ["Olala d'OVHcloud", [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]],
+   ["Voiture électrique", [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]],
+   ["Élections espagnoles", [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]]
+  ]
+ },
+ "sources": [
+  ["Money Stack", "newsletter, mar. 24", "Drones low-cost, Nvidia, creator economy, auto allemande, Anthropic, Musk, Olala, règle d'or, COP31"],
+  ["myFT Daily Digest", "newsletter, mar. 24", "Retour de Huang, Nasdaq +7 %, gains de Trump, enquêtes, CrowdStrike, bulles, Asie"],
+  ["FT Newswrap", "newsletter, lun. 23", "Rebond de l'IA, CrowdStrike, règle d'or, Espagne, voitures électriques, Mercedes, Capita, BYD, Coca-Cola"],
+  ["FT Opinion", "newsletter, lun. 23", "Financement circulaire de l'IA, Acemoglu, unité irlandaise, Xi et Trump"],
+  ["The Next Big Sh*t", "newsletter, lun. 23", "Anthropic, creator economy, patrons « indispensables », Mailchimp, stand-up en Chine"],
+  ["CNN", "web, 23 nov.", "Hausse de Nvidia, rôle de Trump, TSMC et ASML"],
+  ["Nvidia", "web, 23 nov.", "Communiqué de réintégration de Jensen Huang (formulaire 8-K)"],
+  ["Anthropic", "web, 20 nov.", "Clôture de l'introduction en Bourse à 83 $"],
+  ["CrowdStrike", "web, 23 nov.", "Termes du rachat de Zscaler (SEC)"],
+  ["Euronews", "web, 23 nov.", "Calendrier et procédure de la règle d'or"],
+  ["France 24", "web, 22 nov.", "Confirmation de Macron sur la règle d'or"],
+  ["Blog du Modérateur", "web, nov.", "Caractéristiques d'Olala mini 7A1B"],
+  ["Ember", "web", "Part des voitures électriques dans les ventes mondiales"],
+  ["The Star / Reuters", "web, 16 nov.", "Sondages espagnols"]
+ ],
+ "ia": {
+  "toc": "OpenAI et Cisco ouvrent un bouclier pour Linux, OVHcloud publie un petit modèle français, Z.ai teste une nouvelle architecture.",
+  "intro": "Modèles, outils et projets : ce qui change dans l'IA, et ce qui sert vraiment.",
+  "signalTitle": "Des modèles plus petits, des outils plus sûrs",
+  "signal": [
+   {
+    "eyebrow": "Sécurité · open source",
+    "title": "Shirudo, un bouclier open source pour serveurs Linux",
+    "text": [
+     "OpenAI et Cisco publient Shirudo, un environnement open source qui protège des systèmes Linux le temps d'appliquer les correctifs (OpenAI, 23 nov.). Il charge, via eBPF, des « boucliers » qui bloquent les chemins de code vulnérables sans redémarrer la machine ; ces boucliers sont signés et vérifiés avant chargement.",
+     "Dans l'exemple d'OpenAI, un bouclier généré par Codex a bloqué une faille Java sur un serveur Elasticsearch en fonctionnement, lors d'un test contrôlé. Licence BSD 2-Clause."
+    ],
+    "why": "Entre la découverte d'une faille et son correctif, les serveurs restent exposés. Shirudo vise ce délai ; il demande toutefois une machine Linux avec virtualisation, et s'adresse d'abord à ceux qui administrent des serveurs. Il s'agit d'un partenariat entre les deux entreprises.",
+    "sources": ["OpenAI (web)", "Shirudo docs (web)"],
+    "url": "https://openai.com/index/introducing-shirudo/"
+   },
+   {
+    "eyebrow": "Modèle · France",
+    "title": "OVHcloud entre dans la course avec Olala mini",
+    "text": [
+     "Le premier modèle d'OVHcloud, Olala mini 7A1B, est un petit modèle à experts de 7 milliards de paramètres, annoncé en open source sous licence Apache 2.0 sur Hugging Face et capable, selon l'entreprise, de tourner sur une carte graphique grand public (Blog du Modérateur, Next).",
+     "Qwant l'utilise pour ses réponses rapides au-dessus des résultats de recherche : 20 % plus rapides et environ trois fois moins chères qu'avec le modèle précédent, selon OVHcloud. Aucun banc d'essai n'a été publié. Une version 2.0 de plus de 100 milliards de paramètres est en préparation."
+    ],
+    "why": "Un modèle petit et ouvert, hébergeable en Europe, répond à un besoin concret : coûts maîtrisés et données qui ne quittent pas le continent. Reste à mesurer sa qualité de façon indépendante.",
+    "sources": ["Money Stack", "Blog du Modérateur (web)", "Next (web)"],
+    "url": "https://www.blogdumoderateur.com/ovhcloud-llm-olala-petit-modele-ouvert/"
+   },
+   {
+    "eyebrow": "Modèle · architecture",
+    "title": "GLM-5.4, premier « transformeur en boucle » de Z.ai",
+    "text": [
+     "Le chinois Z.ai présente GLM-5.4, son premier modèle à transformeur en boucle, qui réutilise ses couches plusieurs fois au lieu d'en empiler davantage (Simon Willison). Il n'est pas, pour l'instant, publié en poids ouverts.",
+     "Il n'est pas accessible par l'API classique : Simon Willison l'a testé via l'abonnement Coding Plan, qui expose une API compatible avec celle d'OpenAI. Selon TechNode, il gère les images et un contexte d'un million de jetons."
+    ],
+    "why": "Après Thinking Machines et son Inkling 2 Mini, c'est un deuxième laboratoire qui mise sur la réutilisation des couches : une piste pour obtenir plus de raisonnement sans multiplier la taille des modèles.",
+    "sources": ["Simon Willison (web)", "The Neuron (web)"],
+    "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
+   }
+  ],
+  "models": [
+   {"name": "GLM-5.4", "maker": "Z.ai", "date": "23 nov.", "access": "Abonnement Coding Plan de Z.ai, API compatible OpenAI ; pas encore de poids ouverts.", "price": "Abonnement (prix non vérifié)"},
+   {"name": "GPT-6.2 Sol", "maker": "OpenAI", "date": "23 nov.", "access": "En cours de déploiement dans ChatGPT Plus, Pro, Business et Enterprise (MacRumors, via The Neuron).", "price": "2 $ / 10 $ par million de jetons (API, selon Simon Willison)"},
+   {"name": "Olala mini 7A1B", "maker": "OVHcloud", "date": "17 nov.", "access": "Annoncé en poids ouverts sur Hugging Face (Apache 2.0) ; tourne sur une carte graphique grand public selon OVHcloud.", "price": "Gratuit (poids ouverts)"},
+   {"name": "Inkling 2 Mini", "maker": "Thinking Machines", "date": "20 nov.", "access": "Poids ouverts sur Hugging Face (Apache 2.0), environ 20 Go ; modèle de code utilisable hors ligne.", "price": "Gratuit (poids ouverts)"},
+   {"name": "Gemini 4 Neon", "maker": "Google", "date": "18 nov.", "access": "Appli Gemini (AI Pro et Ultra) et API payante.", "price": "3 $ / 15 $ par million de jetons"},
+   {"name": "Claude Fable 5.2", "maker": "Anthropic", "date": "9 nov.", "access": "Claude (offres payantes), Claude Code et API ; contexte d'un million de jetons.", "price": "8 $ / 40 $ par million de jetons"}
+  ],
+  "claudeTitle": "Outils",
+  "claude": [
+   {
+    "k": "Claude Code",
+    "t": "Version 2.1.331 : un diagnostic de connexion et des blocages corrigés",
+    "d": "claude doctor vérifie désormais la connexion à l'API. La version corrige des appels d'outils MCP qui pouvaient bloquer jusqu'à 30 minutes et une compaction qui perdait une partie du résumé. À partir du 30 novembre, les catalogues de plugins déclarés par une organisation se mettent à jour automatiquement.",
+    "cmd": "claude doctor",
+    "cmdLabel": "Terminal"
+   },
+   {
+    "k": "Google",
+    "t": "Le mode IA de la recherche se branche sur Drive et Wallet",
+    "d": "Le mode IA de Google Search peut, sur option, puiser dans vos fichiers Drive et, en lecture seule, dans Google Wallet (TechCrunch, via The Neuron). Utile pour retrouver une information dans ses propres documents sans quitter la recherche ; la connexion se désactive à tout moment."
+   },
+   {
+    "k": "Canva",
+    "t": "Le serveur MCP de Canva disponible pour tous",
+    "d": "Canva rend généralement disponible son serveur MCP, avec de nouvelles API et des outils en ligne de commande (Canva, via The Neuron) : un assistant comme Claude peut créer ou modifier des designs dans votre compte. Annonce non vérifiée sur la source primaire."
+   }
+  ],
+  "repos": [
+   {
+    "name": "LadybirdBrowser/ladybird",
+    "stars": "68,1 k",
+    "week": "première alpha le 23 nov.",
+    "lang": "C++",
+    "what": "Un navigateur web entièrement indépendant, écrit de zéro, sans reprendre le moteur de Chrome, Safari ou Firefox.",
+    "why": "La première version alpha est sortie pour macOS et Linux (Simon Willison). Licence BSD-2-Clause. Encore réservé aux curieux et aux développeurs, mais c'est le seul projet sérieux qui crée un quatrième moteur de rendu. La compilation sur Mac demande Xcode 26 et Homebrew.",
+    "cmd": "./Meta/ladybird.py run"
+   },
+   {
+    "name": "XiaoYouChR/Ghost-Downloader-3",
+    "stars": "16,7 k",
+    "week": "+1 011 aujourd'hui",
+    "lang": "Python",
+    "what": "Un gestionnaire de téléchargements multiplateforme : HTTP, FTP, BitTorrent, flux vidéo M3U8 et DASH, accélération pour GitHub et Hugging Face, extension de navigateur.",
+    "why": "Disponible pour macOS 13+, Windows, Linux et Android ; licence GPL-3.0. Pratique pour reprendre de gros téléchargements, comme des poids de modèles. Le README contient une publicité pour un service de proxys : à ignorer. L'outil en ligne de commande s'installe depuis les réglages de l'application."
+   },
+   {
+    "name": "shirudo-dev/shirudo",
+    "stars": "nouveau",
+    "week": "publié le 23 nov.",
+    "lang": "C",
+    "what": "Le dépôt de Shirudo, le bouclier eBPF d'OpenAI et Cisco qui bloque des failles Linux en attendant les correctifs.",
+    "why": "Le guide de démarrage propose une machine virtuelle de test ; il faut un hôte Linux avec KVM, ou une machine virtuelle Lima sur Mac, ainsi que clang/LLVM et OpenSSL 3.5. Commande issue du guide de démarrage officiel.",
+    "cmd": "make shirudo-build"
+   }
+  ],
+  "briefs": [
+   ["Fusion", "Des agents de Google DeepMind ont amélioré des algorithmes quantiques pour la recherche sur la fusion, divisant par 11,8 le coût de calcul estimé (DeepMind, via The Neuron)."],
+   ["Santé", "Le NHS britannique recrute près de 700 000 femmes pour un essai de dépistage du cancer du sein assisté par IA sur trois ans (Semafor, via The Neuron)."],
+   ["Rachat", "Amazon reprend la technologie d'optimisation et l'équipe de la start-up Decart, pour 7,5 Md$ selon TechCrunch (via The Neuron)."],
+   ["Justice", "L'Oregon et la Virginie poursuivent SpaceX et des sociétés liées pour des images sexualisées non consenties générées par Grok (CNBC, via The Neuron)."],
+   ["Médecine", "Le patron de Novartis, membre du conseil d'Anthropic, rejette l'idée que l'IA guérira le cancer d'ici cinq à dix ans (myFT)."],
+   ["Espionnage", "Un ingénieur d'OpenAI détenait des dizaines d'enregistrements de réunions, selon les procureurs américains (myFT)."]
+  ],
+  "sources": [
+   ["OpenAI", "web, 23 nov.", "Annonce de Shirudo"],
+   ["Shirudo docs", "web, 23 nov.", "Guide de démarrage et prérequis"],
+   ["Blog du Modérateur", "web, nov.", "Olala mini 7A1B"],
+   ["Next", "web, nov.", "Olala et partenariat avec Qwant"],
+   ["Simon Willison", "web, 23 nov.", "GLM-5.4, alpha de Ladybird"],
+   ["The Neuron", "web, 23-24 nov.", "Huang, DeepMind, NHS, Decart, Grok, AI Mode, Canva MCP, GPT-6.2 Sol"],
+   ["Claude Code", "web, changelog 2.1.331", "claude doctor, corrections MCP et compaction"],
+   ["GitHub", "web, 24 nov.", "Tendances du jour et README des dépôts"]
+  ]
+ }
+}
